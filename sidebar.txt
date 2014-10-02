@@ -14,6 +14,10 @@
   * [[ru:license|Лицензия]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ru|d43-ru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ru/archive/master.zip|d43-ru.zip]]
+
 **Recent Changes**
 {{changes>ns = ru}}
 
