@@ -24,3 +24,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Latest Status**
 {{page>en:uwadmin:ru:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ru|Ethnologue data]]
