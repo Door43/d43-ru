@@ -38,7 +38,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?direct&}}
 
-Когда фараон узнал об этом, он попытался убить Моисея из-за того, что он сделал. Моисей убежал из Египта в пустыню, где он мог быть в безопасности от солдат фараона.
+Услышав о том, что сделал Моисей, <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>фараон</font> попытался убить его. Моисей<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> убежал<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> из<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> Египта<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>в</font> пустыню<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>, где</font> он<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> был<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>в</font> безопасности<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> от<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>воинов</font> фараона<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>.</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?direct&}}
 
