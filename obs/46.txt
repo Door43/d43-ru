@@ -30,7 +30,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?direct&}}
 
-Савл пошёл в Иерусалим, чтобы встретиться с учениками, н они его боялись. Потом верующий по имени Варнава отвёл Савла к апостолам и рассказал им, как Савл смело проповедовал в Дамаске. После этого ученики приняли Савла.
+Савл пошёл в Иерусалим, чтобы встретиться с учениками, но они его боялись. Потом верующий по имени Варнава отвёл Савла к апостолам и рассказал им, как Савл смело проповедовал в Дамаске. После этого ученики приняли Савла.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?direct&}}
 
@@ -38,6 +38,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-10.jpg?direct&}}
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>Однажды, когда христиане в Антиохии постились и молились, Святой Дух сказал им:</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>«</font> Отделите<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>для</font> Меня<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> Варнаву и Савла<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>,</font> чтобы<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>они выполняли дело, на</font> которое<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>Я их</font> призвал<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>». Тогда</font> церковь в Антиохии молилась за Варнаву и Савла и возложила на них руки. Потом они отправили их проповедовать Добрую Весть об Иисусе во многих других местах. Варнава и Савл учили людей из разных народов, и многие поверили в Иисуса.
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>Однажды, когда христиане в Антиохии постились и молились, Святой Дух сказал им:</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>«</font>    Отделите <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>для</font>    Меня Варнаву и Савла<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>,</font>    чтобы <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>они выполняли дело, для</font>    которого <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>Я их</font>    призвал<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>». Тогда</font>    церковь в Антиохии молилась за Варнаву и Савла и возложила на них руки. Потом они отправили их проповедовать Добрую Весть об Иисусе во многих других местах. Варнава и Савл учили людей из разных народов, и многие поверили в Иисуса.
 
 //Библейская история из: Деян. 6:8-8:3; 9:1-25; 11:25-26//
