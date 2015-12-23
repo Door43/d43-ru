@@ -1,11 +1,10 @@
-====== Complete List of Important Terms ======
+====== Complete List of Important Terms - Russian ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ru:obe:kt:home|Key Terms]]
-  * [[:ru:obe:other:home|Other Terms]]
+  * [[:ru:obe:kt:home]]
+  * [[:ru:obe:other:home]]
 
+==== All Important Terms: ====
 
-==== All Terms in the OBE: ====
-
-{{pagequery>ns:ru:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages ru:obe -r -title -exclude:home -textPages="">
