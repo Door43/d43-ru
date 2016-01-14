@@ -1,31 +1,22 @@
-//Translation for the unfoldingWord mobile app interface// 
+//Translation for the unfoldingWord mobile app interface //
 
-
-Select a language: Выбрать язык
-
-
-Chapters: Главы
-
-
-Languages: Языки
-
-
-Next chapter: Следующая глава
-
+Remove this string: Удалить этот язык из автономного запоминающего устройства. Для дальнейшего просмотра вам понадобится соединение с интернетом.
 
 OK: ОК
 
+Save locally: Локальное сохранение
+
+Remove locally: Локальное удаление
+
+Chapters: Главы
+
+Languages: Языки
+
+Save this string: Сохранить язык локально для использования в автономном режиме.
+
+Select a language: Выбрать язык
 
 Cancel: Отмена
 
+Next chapter: Следующая глава
 
-Save locally: Сохранить локально
-
-
-Save this string: Сохранить этот язык локально для использования без интернета.
-
-
-Remove locally: Удалить локально
-
-
-Remove this string: Удалить этот язык из памяти прибора. Вам понадобится соединение с интернетом для дальнейшего просмотра.

@@ -1,0 +1,47 @@
+===== Table of Contents - Technology Manual Volume 1 =====
+
+This module answers the question: What is in volume 1 of the technology manual?\\
+==== Technology Manual Volume 1 ====
+  - [[ru:ta:vol1:tech:tech_manual]]
+
+=== translationStudio Mobile App ===
+  - [[ru:ta:vol1:tech:tS_intro]]
+     - [[ru:ta:vol1:tech:tS_install]]
+     - [[ru:ta:vol1:tech:tS_first]]
+     - [[ru:ta:vol1:tech:tS_select]]
+     - [[ru:ta:vol1:tech:tS_open]]
+     - [[ru:ta:vol1:tech:tS_navigate]]
+     - [[ru:ta:vol1:tech:tS_request]]
+     - [[ru:ta:vol1:tech:tS_translate]]
+     - [[ru:ta:vol1:tech:tS_create]]
+     - [[ru:ta:vol1:tech:tS_resources]]
+     - [[ru:ta:vol1:tech:tS_useresources]]
+     - [[ru:ta:vol1:tech:tS_share]]
+     - [[ru:ta:vol1:tech:tS_upload]]
+     - [[ru:ta:vol1:tech:tS_update]]
+     - [[ru:ta:vol1:tech:tS_publish]]
+     - [[ru:ta:vol1:tech:translate_helptS]]
+     - [[ru:ta:vol1:tech:tS_problem]]
+
+=== translationKeyboard Mobile App ===
+  - [[ru:ta:vol1:tech:tK_intro]] 
+     - [[ru:ta:vol1:tech:tK_install]]
+     - [[ru:ta:vol1:tech:tK_start]]
+     - [[ru:ta:vol1:tech:tK_use]]
+     - [[ru:ta:vol1:tech:tK_enable]]
+     - [[ru:ta:vol1:tech:tK_find]]
+     - [[ru:ta:vol1:tech:tK_create]]
+     - [[ru:ta:vol1:tech:tK_update]]
+
+=== unfoldingWord Mobile App ===
+  - [[ru:ta:vol1:tech:uW_app]]
+     - [[ru:ta:vol1:tech:uW_install]]
+     - [[ru:ta:vol1:tech:uW_first]]
+     - [[ru:ta:vol1:tech:uW_checking]]
+     - [[ru:ta:vol1:tech:uW_language]]
+     - [[ru:ta:vol1:tech:uW_select]]
+     - [[ru:ta:vol1:tech:uW_update_content]]
+     - [[ru:ta:vol1:tech:uW_audio]]
+
+
+
