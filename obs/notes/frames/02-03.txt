@@ -8,12 +8,11 @@ The woman answered, “**God** told us we could eat the **fruit** of any tree ex
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:good|good]]**
-  * **[[:ru:obs:notes:key-terms:evil|evil]]**
-  * **[[:ru:obs:notes:key-terms:death|die]]**
-
-
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:good]]**
+  * **[[:ru:obe:kt:evil]]**
+  * **[[:ru:obe:other:die]]**
+  
 ==== Translation Notes: ====
 
 
