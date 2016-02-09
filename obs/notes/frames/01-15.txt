@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:bless|blessed]]**
-  * **[[:ru:obs:notes:key-terms:good|good]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:bless]]**
+  * **[[:ru:obe:kt:good]]**
 
 
 ==== Translation Notes: ====
