@@ -8,8 +8,8 @@ So **God** made **Adam** fall into **a deep sleep**. Then God **took one of Adam
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:adam|Adam]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
