@@ -9,7 +9,7 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 
 
   * **[[:ru:obe:kt:true]]**
-  * **[[:ru:obe:other:die]]**
+  * **[[:ru:obe:kt:death]]**
   * **[[:ru:obe:kt:God]]**
   * **[[:ru:obe:kt:good]]**
   * **[[:ru:obe:kt:evil]]**
