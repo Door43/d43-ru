@@ -7,14 +7,13 @@ Then **God** said, “Now that the human beings have become **like us by knowing
 
 ===== Important Terms: =====
 
-
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:good|good]]**
-  * **[[:ru:obs:notes:key-terms:evil|evil]]**
-  * **[[:ru:obs:notes:key-terms:life|life]]**
-  * **[[:ru:obs:notes:key-terms:adam|Adam]]**
-  * **[[:ru:obs:notes:key-terms:eve|Eve]]**
-  * **[[:ru:obs:notes:key-terms:angel|angels]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:good]]**
+  * **[[:ru:obe:kt:evil]]**
+  * **[[:ru:obe:kt:life]]**
+  * **[[:ru:obe:other:adam]]**
+  * **[[:ru:obe:other:eve]]**
+  * **[[:ru:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
