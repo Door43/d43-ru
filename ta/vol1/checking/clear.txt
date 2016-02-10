@@ -1,26 +1,26 @@
-===== Clear Translation =====
+===== Понятный перевод =====
 
-This module answers the question: How can I tell if the translation is clear?\\
+This module answers the question: Как определить, является ли перевод понятным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
 
-==== A Clear Translation ====
+==== Понятный перевод ====
 
-Ask yourself questions like the following as you read the translation to see if the translated message is clear. For this section of testing, do not compare the new translation with the source language translation. If there is a problem at any place, make a note of it so that you can discuss the problem with the translation team at a later time. 
+В ходе прочтения перевода задавайте себе нижеприведенные вопросы, чтобы выяснить, является ли переведенное содержание понятным. На данном этапе не сравнивайте перевод с исходным текстом. Если где-то вы обнаружите проблему, отметьте это место, чтобы впоследствии вы могли обсудить его с командой переводчиков.
 
-  - Do the words and phrases of the translation make the message understandable? (Are the words confusing, or do they tell you plainly what the translator means?)
-  - Do your community members use the words and expressions found in the translation, or has the translator borrowed many words from the national language? (Is this the way your people talk when they want to say important things in your language?)
-  - Can you read the text easily and understand what the writer might say next? (Is the translator using a good style of telling the story? Is he telling things in a way that makes sense, so that each section fits with what came before and what comes after?)
+  * Насколько выбор слов и выражений делают послание понятным? (Приводят ли слова в недоумение или прямо передают мысль переводчика?)
+  * Употребляют ли члены общины ту лексику, которая содержится в переводе, или переводчик заимствовал слова из национального языка? (Так ли выражаются люди в вашем языке, когда хотят сказать о чем-то важном?)
+  * Легко ли текст читается, понимаете ли вы мысль автора? (Использует ли переводчик хорошую повествовательную манеру изложения? Имеет ли его перевод смысл, сохраняется ли последовательность в развитии мысли?)
 
-Additional help: 
-  * One way to determine if the text is clear is to read a few verses at a time out loud and ask someone listening to retell the story after each section. If the person can easily restate your message, then the writing is clear. 
-  * If there is a place where the translation is not clear, make a note of that so that you can discuss it with the translation team. 
+Дополнительная помощь:
 
+  * Одним из способов определения степени понятности текста является его зачитывание перед слушателями с последующим заданием пересказать историю. Если слушающий может легко сформулировать мысль, тогда перевод понятен.
+  * Если в некоторых места текст не ясен, отметьте его и обсудите проблемные места с командой переводчиков.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:acceptable|Acceptable Style]]
-  * [[ru:ta:vol1:checking:natural|Natural Translation]]
-  * [[ru:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
+  * [[ru:ta:vol1:checking:acceptable|Подходящий стиль]]
+  * [[ru:ta:vol1:checking:natural|Благозвучный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
 

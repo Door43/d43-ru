@@ -1,21 +1,17 @@
-===== Self Check =====
+===== Самопроверка =====
 
-This module answers the question: How do I check my first draft?\\
+This module answers the question: Как проверить первый черновик?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[ru:ta:vol1:translate:first_draft|Make a First Draft]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
 
-==== How to do a Self-Check ====
+==== Как осуществлять самопроверку ====
 
-  * After you have translated a passage without looking at the source text, compare it again to the source text. Make sure that it says all the parts of the message of the source text and does not leave out anything. If some part of the message was missing, put it in your translation at the point where it fits best in your language.
-  * If you are translating the Bible, compare your translation with other translations of the same Bible passage. If one of those makes you think of a better way to say something, then revise your translation in that way. If one of those helps you to understand something better than you did before, then change your translation so that it communicates the meaning better.
-  * After these steps, read your translation out loud to yourself. Fix anything that does not sound like it is the way that someone from your community would say it. Sometimes parts of sentences need to be put in a different order.
-
-
-
-
+  * После того, как вы перевели абзац, не подглядывая в исходный текст, сравните перевод с исходным текстом. Удостоверьтесь, что в него включены все части послания из исходного языка, и вы ничего не пропустили. Если какие-то части послания были пропущены, включите их в свой перевод так, чтобы они наилучшим образом звучали в вашем языке.
+  * Если вы переводите Библию, сравните свой перевод с другими вариантами перевода того же отрывка. Если один из них позволяет вам увидеть лучший способ передачи чего-либо, тогда исправьте ваш перевод должным образом. Если одна из версий перевода помогает вам лучше понять отрывок, измените свой перевод, чтобы значение передавалось более качественно.
+  * После осуществления всего вышеперечисленного прочитайте вслух свой перевод. Исправьте все неблагозвучные фразы. Иногда для этого нужно всего лишь изменить порядок слов в предложении.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:peer_check|Peer Check]]
+  * [[ru:ta:vol1:checking:peer_check|Взаимопроверка]]
 

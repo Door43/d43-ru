@@ -1,43 +1,33 @@
-===== Literal Translations =====
+===== Буквальный перевод =====
 
-This module answers the question: What are literal translations?\\
+This module answers the question: Что такое буквальный перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_whatis|What is Translation]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
+  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
 
 ==== Definition ====
 
-Literal translations focus on the form of the text.
+Буквальный перевод фокусируется на форме текста.
 
-=== Other Names ===
+=== Прочие названия ===
 
-Literal translations are also called:
-  * form-based
-  * modified literal
-  * word-for-word
+Буквальный перевод еще называют
 
-=== Form Over Meaning ===
+  * основанным на форме
+  * трансформированным буквальным
+  * пословным
 
-A literal translation is one that focuses on reproducing the form of the source text in the target text, even if the meaning changes, or is hard to understand, as a result. An extreme version of a literal translation would not be a translation at all—it would have the same characters and words as the source language. The next closest step would be to replace each word in the source language with an equivalent word from the target language. Because of differences in grammar between languages, the target language audience would probably not understand this kind of translation. Some translators of the Bible wrongly believe that they should keep the word order of the source text in the target text and only substitute target language words for source language words. They wrongly believe that this shows respect for the source text as God's word. But in fact this kind of translation keeps people from understanding God's word. God wants people to understand his word, so it shows the greatest respect for the Bible and for God to translate the Bible so people can understand it.
+=== Форма над значением ===
 
-=== Weaknesses of Literal Translation ===
+Буквальный перевод - это перевод, в котором внимание направлено на воспроизведение формы исходного текста в целевом, даже если это приводит к искажению значения или трудности восприятия. Самая плохая версия буквального перевода вообще не будет считаться переводом (в ней будут попадаться те же символы и слова, что и в исходном языке). Следующим способом перевода, близким к предыдущему, будет замещение каждого слова в исходном тексте похожим словом из целевого языка. Из-за различий в грамматике обоих языков, целевая аудитория, по всей вероятности, не поймет такой перевод. Некоторые переводчики Библии ошибочно полагают, что им следует сохранять в целевом языке порядок слов, данный в исходном тексте, и всего лишь заменять слова из исходного языка словами целевого языка. Они ошибочно полагают, что тем самым проявляют уважительное отношение к оригиналу как к Слову Божьему. Но, на самом деле, такой вид перевода препятствует людям понимать Божье Слово. Но Воля Божья состоит в том, чтобы люди понимали Его Слово, так что мы проявим огромное уважение и к Библии, и к Богу, если переведем Писание так, чтобы люди могли его понимать.
 
-Literal translations usually contain the following problems:
-  * foreign words that are not understood by the target audience
-  * word order that is strange or awkward in the target language
-  * idioms that are not used or understood in the target language
-  * names of objects that do not exist in the target culture
-  * descriptions of customs that are not understood in the target culture
-  * paragraphs that have no logical connections in the target language
-  * stories and explanations that do not make sense in the target language
+=== Недостатки буквального перевода ===
 
-
-
-
+В буквальном переводе обычно есть следующие недостатки: * иностранные слова, которые не понимаются целевой аудиторией * неестественный или приводящий в замешательство порядок слов в целевом языке * идиомы, которые не употребляются ли не понимаются в целевом языке * названия предметов, не существующих в целевой культуре * описание обычаев, непонятных для целевой аудитории * отрывки, между которыми отсутствует логическая связь в целевом языке * рассказы и объяснения, не имеющие смысла для целевой аудитории
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

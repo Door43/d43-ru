@@ -1,26 +1,25 @@
-===== Checking Level Two – External Check =====
+===== Проверка второго уровня - Внешняя проверка =====
 
-This module answers the question: How do I do a level 2 check?\\
+This module answers the question: Как осуществлять проверку второго уровня?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
-  * [[ru:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
+  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
 
-==== Definition of Checking Level Two ====
+==== Определение второго уровня проверки ====
 
-The purpose of Level Two checking is to verify that representative groups from the local language community agree that the translation is a good one.
+Цель второго уровня проверки состоит в том, чтобы проверить, что группы носителей языка из местного сообщества согласны с тем, что перевод является качественным.
 
-Level Two checking will be done in two ways:
+Второй уровень проверки проводится следующим образом:
 
-  - **Language Community Check**. The translation will be checked by members of the language community to make sure that it is clear, natural, and understandable. For the steps to follow to do the Language Community Check, click [[:en:ta:vol1:checking:language_community_check|here]].
-  - **Church Leader Check**. The translation will be checked by a group of church leaders from the language community to make sure that it is accurate. For the steps to follow to do the Church Leader Check, click [[:en:ta:vol1:checking:church_leader_check|here]].
+  * Проверка, проводимая с помощью сообщества. Перевод проверяется членами языкового сообщества на правильность, благозвучность и понятность. Чтобы поэтапно осуществить проверку с помощью языкового сообщества, нажмите сюда.
+  * Проверка, осуществляемая церковным руководством. Правильность перевода проверяется группой руководителей церкви, являющихся представителями языкового сообщества. Для поэтапного осуществления проверки церковным руководством, нажмите сюда.
 
-Once this has been done, this work needs to be [[ru:ta:vol1:checking:good|affirmed]]. 
-
+После выполнения всего вышеперечисленного, перевод следует утвердить.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[ru:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[ru:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
-  * [[ru:ta:vol1:checking:good|Level 2 Affirmation]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
+  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
+  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
+  * [[ru:ta:vol1:checking:good|Утверждение второго уровня]]
 

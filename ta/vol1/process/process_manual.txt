@@ -1,21 +1,19 @@
-===== Introduction to the Process Manual =====
+===== Введение в «Руководство по работе с материалами» =====
 
-This module answers the question: What is the Process Manual?\\
+This module answers the question: Что представляет собой «Руководство по работе с материалами»?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:finding_answers|Finding Answers]]
+  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
 
-==== Welcome ====
+==== Добро пожаловать ====
 
-The Process Manual is a practical guide to help translation teams know what steps need to be taken from start to finish and how those steps are to be taken. While the Translation Manual is a how-to guide for translation theory and the Checking Manual is a how-to guide for checking theory and the Technology Manual is a how-to guide for using certain technology pieces, the Process Manual seeks to give a step-by-step process the translation team can follow. The Process Manual guides the translation team from initial setup to final publishing of translated and checked content. 
-
-
+«Руководство по работе с материалами» - это практический справочник, который информирует переводчиков о том, какие шаги должны быть предприняты от начала до конца и как их осуществлять. Если «Руководство по переводу» представляет собой пособие по теории перевода, «Руководство по редактированию» - пособие по теории редактирования, «Технологическое руководство» затрагивает вопросы о том, как использовать определенные технологические разработки, то «Руководство по работе с материалами» предназначено для того, чтобы показать команде переводчиков пошаговый процесс, которому она должна следовать. В данном пособии описывается весь процесс, начиная с личной регистрации и заканчивая публикацией переведенного и отредактированного содержания.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:getting_started|Getting Started]]
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
-  * [[ru:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
-  * [[ru:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
-  * [[ru:ta:vol1:process:intro_publishing|Introduction to Publishing]]
-  * [[ru:ta:vol1:process:intro_share|Introduction to Distribution]]
+  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
+  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
+  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
+  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
 

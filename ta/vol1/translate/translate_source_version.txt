@@ -1,51 +1,50 @@
-===== Source Texts and Version Numbers =====
+===== Исходный текст и номер версии =====
 
-This module answers the question: How can version numbers help me select a source text?\\
+This module answers the question: Как номер версии поможет мне выбрать исходный текст?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
 
-==== Importance of Version Numbers ==== 
+==== Важность номера версии ====
 
-Especially in an open project like unfoldingWord, it is important to keep track of published versions. It is important because translations (and source texts) can change frequently. Being able to identify each version helps bring clarity about which iteration is being talked about. Version numbers are also important because all translations should be based off of the latest source text. If the source text changes, the translation should be updated to match the latest version. 
+Очень важно использовать опубликованную версию, особенно в открытом проекте, таком, как unfoldingWord (Раскрывающееся Слово). Это необходимо, потому что перевод (и текст на иностранном языке) может очень быстро изменяться. Возможность идентификации каждой версии помогает понять, о каких изменениях идет речь. Цифровое обозначение стихов также очень важно, потому что все переводы должны основываться на самых поздних текстовых материалах. Если исходный текст меняется, перевод должен быть исправлен, чтобы соответствовать более поздней версии.
 
-Before starting a translation project, please ensure that you have the latest version of the source text.
+Перед тем, как приступить к переводу, удостоверьтесь, что перед вами - самая поздняя версия текста.
 
-==== How Versioning Works ====
+==== Как управлять версиями ====
 
-Version numbers are only given when a work is published, not when they are edited (in Door43 or translationStudio). Edit revision is kept in Door43, but this is different than a work being given a version number.
+Номер версии присваивается тексте только тогда, когда он опубликован, а не в процессе его редактирования (в Door43 или в translationStudio (Студии перевода)). Исправленный текст сохраняется в Door43, но он отличается от того перевода, которому дается номер версии.
 
-Prior to August 1, 2015, the versioning system used by unfoldingWord was very complex. Each major revision would increase the version number by 0.1 (e.g. ver 1 became ver 1.1) while each minor revision would change it by 0.0.1 (e.g. ver 1 became ver 1.0.1). When translations were created based off of a version number, it became widely complex to keep track of what translation was based off of which version. 
+До 1 августа 2015 г. система версий, использующаяся «Раскрывающимся Словом», была очень сложной. Каждое значительное исправление увеличивало номер версии на 0.1 (например, версия 1 становилась версией 1.1), и каждое незначительное исправление меняло номер версии на 0.0.1 (например, версия 1 становилась версией 1.0.1). Когда переводы создавались на основе номера версии, стало очень тяжело отслеживать, какой перевод на какой версии был основан.
 
-On August 1, 2015, a new versioning system was adopted. Each source text was given an integer (e.g. ver 1). Any edits made to the source text increased the integer by 1 (e.g. ver 1 became ver 2). Any translations based off of that source text took the version number the translation was based off of and added .1 (e.g. a translation off of ver 2 would be published as ver 2.1). A translation off of that translation would add a .1 to the version number it was created from (e.g. a translation off of ver 2.1 would be published as 2.1.1). Any time a text was updated, the number associated with that text would increase by 1 (e.g. if ver 2.1.1 was updated, it would become ver 2.1.2; ver 2.1 would become ver 2.2; etc). For a complete explanation of unfoldingWord versioning please read [[https://unfoldingword.org/versioning|here]].
+1 августа 2015 г. была принята новая система версий. Каждый исходный текст был обозначен целым числом (например, версия 1). Любые поправки, вносимые в исходный текст, увеличивали это целое число на 1 (например, версия 1 становилась версией 2). Любым переводам, основанным на исходном тексте, давался номер версии данного текста и .1 (например, перевод версии 2 публиковался как 2.1). К следующему переводу (т.е. к номеру версии, на основе которой он был создан) от предыдущего перевода добавлялось число .1, (например, перевод версии 2.1 публиковался как 2.1.1). Всякий раз, когда текст дорабатывался, номер, данный этому тексту, увеличивался на 1 (например, если была исправлена версия 2.1.1, она становилась версией 2.1.2; версия 2.1 становилась версией 2.2 и т.д.). Для полного объяснения системы версий «Раскрывающегося Слова» читайте здесь.
 
-//Note: For Open Bible Stories, all translations ver 3.x and before are the old system, ver 4 and above are the new system.//
+Замечание: для «Историй открытой Библии» - все переводы версии 3.х и до нее - старая система, версия 4 и выше - новая система.
 
-==== Where to Find the Latest Version ====
+==== Где найти самую последнюю версию ====
 
-https://unfoldingword.org always has the latest published version of each resource. 
+На сайте https:%%//%%unfoldingword.org вы всегда сможете найти самую последнюю версию каждого текста.
 
-//Note: translationStudio and the unfoldingWord app do not always have the latest versions since updating content does not happen automatically.//
+Замечание: В translationStudio (Студии перевода) и приложении unfoldingWord (Раскрывающееся Слово) не всегда можно найти самые последние версии, поскольку обновление содержания не происходит автоматически.
 
-==== How to Update a Previous Version of Open Bible Stories ====
+==== Как обновлять предыдущие версии «Историй открытой Библии» ====
 
-=== Identify which Version of Open Bible Stories ===
+=== Определите версию «Историй открытой Библии» ===
 
-Many translations have the version number listed. If the version number is not available, figuring out which version a translation was based off of is important. 
+Во многих переводах перечисляются номера версий. Если номер версии не доступен, выясните, какая именно версия, на которой был основан перевод, будет важна.
 
-To figure out which version a particular translation was translated from, do the following:
-  * Check story #45. If it ends with Philip looking at the chariot, then it is translated from version 1.x. If it ends with the Ethiopian Official smiling, go to the next step.
-  * Check frame 06-02. If the phrase "to the land where Abraham's relatives lived" is not included, then it is translated from version 2.x. If it is included, it is translated from at least version 3.x. (Also check frame 09-06. If "in order to save him from being killed" is not included, it is translated from version 2.x. If it is included, it is translated from at least version 3.x.)
-  * If you are still not sure, we have created a complete set of all the changes between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1.x]] or [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2.x]] and the current version. Compare your translation to this list of changes to determine which version your translation was made from. Note: All text highlighted in green has been added, text highlighted in yellow has been changed, and text highlighted in red has been deleted. Only frames that have changed are included in these lists.
-  * To make sure you have all the latest changes, look at the [[:en:obs:change-log|change log]] and make sure these changes have been made in your language.
-  
-=== Update to the Latest Version of Open Bible Stories ===
+Чтобы понять, на какой версии основывался перевод, сделайте следующее:
 
-Once you have identified which version of Open Bible Stories the translation in your language used, you will need to update the translation in your language to the latest version. To help simplify the update process, we have generated change logs of all of the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1.x and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2.x and the latest]]. Simply go through these changes and update the text in your language according to those documents, and your translation of Open Bible Stories will be up to date.
+  * Откройте историю #45. Если она заканчивается на том, как Филипп смотрит на колесницу, то этот перевод основывался на версии 1.х. Если она заканчивается на том, как евнух - эфиоплянин улыбнулся, перейдите к следующему шагу.
+  * Откройте фрейм 06-02. Если фраза «в землю, где жили родственники Авраама» отсутствует, значит, данный перевод основан на версии 2.х. Если она присутствует, то перевод основан на версии 3.х. и выше. (Также проверьте фрейм 09-06. Если фраза «чтобы спасти сына от гибели» отсутствует, перевод был основан на версии 2.х. Если она включена, то это версия 3.х. и выше).
+  * Если же вы все-таки не уверены, мы создали способ фиксирования всех изменений между версиями 1.х., 2.х. и текущей версией. Сравните ваш перевод с данным списком внесенных изменений, чтобы установить, на какой версии основывается ваш перевод. Замечание: весь текст, помеченный зеленым, был добавлен; текст, обозначенный желтым цветом - это текст, который был изменен, а текст красного цвета - это текст, который был удален.
+  * Чтобы удостовериться, что у вас есть последние изменения, откройте журнал изменений и удостоверьтесь, что данные изменения были внесены и в ваш язык.
 
+=== Обновление «Историй открытой Библии» до последней версии ===
 
+Когда вы определили на какой версии основан ваш перевод «Историй открытой Библии», вам будет необходимо обновлять ваш перевод до последней версии. Для упрощения процесса обновления мы создали журнал изменений, фиксирующий все изменения, внесенные между версией 1.х. и выше, а также между версией 2.х. и выше. Просто просмотрите эти изменения и обновите текст в вашем языке в соответствии с данными материалами, так что ваш перевод «Историй открытой Библии» будет обновлен.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_original|The Original and Source Languages]]
+  * [[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]
 

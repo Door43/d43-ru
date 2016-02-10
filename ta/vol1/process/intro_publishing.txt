@@ -1,41 +1,40 @@
-===== Introduction to Publishing =====
+===== Введение в публикацию =====
 
-This module answers the question: What is publishing?\\
+This module answers the question: Что такое публикация?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
 
-==== Publishing Overview ====
+==== Обзор публикаций ====
 
-There are two translation platforms that we use - translationStudio and Door43. Once translations have been completed, we encourage these translations to be checked. Once a translation has been checked to at least Level 1, it becomes eligible to be published. Published content is placed on a platform where it remains static. While the content on Door43 can change frequently, the published content is static and assurance of quality remains high. 
+Мы используем две платформы перевода: translationStudio и сайт Door43. Когда перевод завершен, мы советуем вам его отредактировать. Перевод может быть опубликован только тогда, когда он прошел хотя бы первый этап проверки. Опубликованный материал помещается на платформу, где остается в неизменном состоянии. В то время, как содержание на сайте Door43 может часто меняться, опубликованные материалы остаются неизменными, и гарантия их качества продолжает быть высокой.
 
-When content is published, a copy of what is found on Door43 is published to the [[https://unfoldingword.org/stories|unfoldingWord website]] in several formats:
+Когда содержание опубликовано, копия с сайта Door43 публикуется на сайте unfoldingWord в нескольких форматах:
 
-   * To be viewed online
-   * In a print-ready PDF for Print-on-Demand
-   * On the free [[https://unfoldingword.org/app|unfoldingWord mobile app]] for offline consumption
+  * В том, с помощью которого содержание может просматриваться в онлайн режиме
+  * В печатном формате PDF, предназначенном для издательства по требованию.
+  * В бесплатном мобильном приложении unfoldingWord, использующемся в режиме оффлайн.
 
-==== Publishable Content ====
+==== Публикуемое содержание ====
 
-Presently, there are two text resources that can be published using the unfoldingWord publishing engine: 
+В настоящее время есть два текстовых ресурса, которые могут быть опубликованы с помощью издательского инструмента unfoldingWord:
 
-   * [[en:obs|Open Bible Stories]]
-   * [[en:bible:intro|the Bible]]
+  * Истории открытой Библии
+  * Библия
 
-Capacity is being built to be able to handle multimedia formats as well:
+Также разрабатывается возможность для поддержки мультимедийных форматов:
 
-   * Audio Open Bible Stories
-   * Video Open Bible Stories
-   * Audio Bible
+  * Аудиоистории открытой Библии
+  * Видеоистории открытой Библии
+  * Аудиобиблия
 
-==== Published Content ====
+==== Опубликованное содержание ====
 
-Published content can be found at https://unfoldingword.org/stories/ and on the [[https://unfoldingword.org/app|unfoldingWord mobile app]]. 
+Опубликованные тексты можно найти на сайте https:%%//%%unfoldingword.org/stories/, а также на мобильном приложении unfoldingWord.
 
-In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs|Open Bible Stories in English]] says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
-
+На сайте Door43 можно найти короткую справку о ресурсах, годных для публикации, которая указывает на статус публикации в пространстве имен. Например, во время написания «Историй открытой Библии» на английском языке было сказано: «Данные материалы были опубликованы на сайте unfoldingWord как тексты под четвертой версией, прошедшие третий уровень проверки. См. их на сайте https:%%//%%unfoldingword.org/stories.»
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]
-  * [[ru:ta:vol1:process:publishing_process|How to Publish]]
+  * [[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]
+  * [[ru:ta:vol1:process:publishing_process|Как опубликовать]]
 

@@ -1,72 +1,53 @@
-===== The unfoldingWord Project =====
+===== Проект unfoldingWord (Раскрывающееся Слово) =====
 
-This module answers the question: What is the unfoldingWord Project?\\
+This module answers the question: Что представляет собой проект unfoldingWord (Раскрывающееся Слово)?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+  * [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
 
-This section explains:
-  * Why the unfoldingWord project exists and why we do what we do 
-  * How we go about trying to accomplish that goal
-  * What we do to meet that goal  
+В этом разделе даны следующие объяснения:
 
-==== Why ====  
+  * Причины существования проекта «Раскрывающееся Слово» и нашего участия в нем.
+  * Как мы пытаемся достичь намеченной цели.
+  * Что мы делаем для достижения этой цели.
 
-Jesus commanded his disciples to make disciples of EVERY people group:  
+==== Почему ====
 
-<blockquote>"Jesus came to them and spoke to them and said, "All authority has been given to me in heaven and on earth. Go therefore and make disciples of all the nations. Baptize them into the name of the Father, of the Son, and of the Holy Spirit. Teach them to obey all the things that I have commanded you. And see, I am with you always, even to the end of the world.” -Matthew 28:18-20 (ULB)</blockquote>
+Иисус повелел Своим ученикам научить ВСЕ народы:
 
-We have the promise that one day representatives from EVERY language will be in heaven:  
-    
-<blockquote>“After these things I saw, and behold, there was a great crowd, which no one was able to number, out of every nation, tribe, people, and language, standing before the throne and before the Lamb. ” -Revelation 7:9 (ULB)</blockquote>
+> «И, приблизившись, Иисус сказал им: „Дана Мне всякая власть на небе и на земле. Итак, идите, научите все народы, крестя их во имя Отца и Сына и Святого Духа, уча их соблюдать все, что Я повелел вам; и се Я с вами во все дни до скончания века“» (Матф. 28:18-20).
 
-Understanding the WORD OF GOD in one's heart language is so important:  
-    
-<blockquote>"So faith comes from hearing, and hearing by the word of Christ." -Romans 10:17 (ULB)</blockquote>
+Бог обещал нам, что наступит день, когда представители КАЖДОГО языка будут на небесах:
 
-So, why do we do what we do?   
+> «После сего взглянул я, и вот великое множество людей, которого никто не мог перечесть, из всех племен, и колен, и народов, и языков, стояло перед престолом и пред Агнцем» (Откр. 7:9).
 
-The unfoldingWord project exists because every people group deserves to have the Word of God in their language. To this end we seek to make disciples of all nations by helping to provide **unrestricted biblical content in every language of the world**.   
+Понимание БОЖЬЕГО СЛОВА на родном языке чрезвычайно важно:
 
-==== How ====  
+> «Итак, вера - от слышания, а слышание - от слова Божия» (Римл. 10:17).
 
-How do we accomplish our goal of **unrestricted biblical content in every language**? 
+Итак, почему работаем над этим проектом?
 
-  * The unfoldingWord Network - By partnering with other like-minded organizations (see www.unfoldingword.org )
-  * [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]] - By working with people and organizations who have the same beliefs  
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]] - By using a common translation theory
-  * [[ru:ta:vol1:intro:open_license|Open License]] - By releasing everything we create under an open license
-  * [[ru:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]] - By making Biblical content available to translate from a known language
+Проект «Раскрывающееся Слово» существует благодаря идее о том, что каждый народ заслуживает того, чтобы узнать Божье Слово на родном языке. С этой целью мы стремимся приобретать учеников из всех наций, обеспечивая им беспрепятственный доступ к библейскому содержанию на каждом языке, существующем в мире.
 
-==== What ====  
+==== Как ====
 
-What do we do? 
+Как же нам осуществить поставленную задачу и сделать библейское содержание доступным для каждого языка?
 
-  * **Open-licensed content** - We create and make available for translation free and unrestricted biblical content 
-    * **[[en:obs|Open Bible Stories]]** - a chronological mini-Bible comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video 
-    * **[[en:bible:intro|the Bible]]** - the only inspired, inerrant, sufficient, authoritative Word of God made available under an open license for unrestricted translation, use, and distribution
-    * **translationNotes** - linguistic, cultural, and exegetical helps created for translators. They exist for [[en:obs:notes|Open Bible Stories]] and for [[en:bible:notes:home|the Bible]].
-    * **translationQuestions** - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:home|the Bible]].
-    * **[[en:obe:home|translationWords]]** - a list of important Biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible. 
+  * Рабочая сеть «Раскрывающееся Слово» - Через партнерство с организациями - единомышленниками (см. www.unfoldingword.org).
+  * Исповедание веры - Через сотрудничество с людьми и организациями, исповедующими ту же веру
+  * Рекомендации для перевода - Через использование общей теории перевода.
+  * Открытая лицензия - Через публикацию переводов под открытой лицензией.
+  * Стратегия ключевых языков - Через предоставление доступного библейского содержания, которое может быть переведено с известного языка.
 
-  * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[ru:ta:vol1:tech:toc_techvol1|Technology Manual]])     
-    * **Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
-    * **[[ru:ta:vol1:tech:ts_intro|translationStudio]]** - a mobile app where translators can do offline translating    
-    * **[[ru:ta:vol1:tech:tk_intro|translationKeyboard]]** - a mobile app where users can create custom keyboards for languages not supported by their mobile device     
-    * **[[ru:ta:vol1:tech:uw_app|unfoldingWord app]]** - a mobile app where checked unfoldingWord translations are published and distributed     
-    * **Digital Publishing Engine** - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content     
-    * **Audio Recording** - a list of recommendations for audio recording equipment, software, and recording procedures     
-    * **Video Render Engine** - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
+==== Что ====
 
-  * **Training** - We create resources to train mother tongue translation teams (the training course is called [[https://unfoldingword.org/academy|translationAcademy]])
-    * [[ru:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - how to translate 
-    * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] -  how to check a translation
-    * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - how to use the different technology tools
-    * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - what next step to take
+Что нам следует делать?
 
-
+  * Текст, имеющий открытую лицензию - Мы создаем и обеспечиваем доступ к свободному переводу и неограниченному библейскому содержанию «Истории открытой Библии» - хронологическая мини-Библия, состоящая из 50 библейских рассказов от сотворения мира до Откровения, предназначенных для евангелизации и ученичества, печати, аудио и видео Библия - единственное вдохновенное, неповрежденное, достаточное, авторитетное Божье Слово становится доступным благодаря открытой лицензии для неограниченного перевода, использования и распространения комментарии для перевода - лингвистические, культурные, экзегетические материалы, разработанные специально для переводчиков. Их можно использовать как для перевода «Историй открытой Библии», так и Библии. Вопросы перевода - вопросы к каждому отрывку, которые переводчики и редакторы могут задавать, чтобы убедиться в том, что перевод был правильно выполнен. Эти вопросы можно применять как к «Историям открытой Библии», так к Библии. Слова для перевода - список важных библейских терминов с кратким объяснением, перекрестными ссылками и вспомогательными средствами для перевода. Могут быть использованы как для «Историй открытой Библии», так и для Библии.
+  * Инструменты - Мы разработали инструменты для перевода текста, его проверки и распространения (более подробное описание этих инструментов дано в «Технологическом руководстве») Door43 - это не только переводческая интернет - платформа, с помощью которой люди могут сотрудничать в процессе перевода или редактирования текста, но также система управления содержанием unfoldingWord (Раскрывающегося Слова) translationStudio (Студия перевода) - мобильное приложение, в котором переводчики могут работать в режиме оффлайн translationKeyboard (Клавиатура перевода) - мобильное приложение, с помощью которого пользователи могут создать индивидуальную клавиатуру для языков, не поддерживающихся их мобильным устройством программа unfoldingWord (Раскрывающееся Слово) - это мобильное приложение, с помощью которого публикуются и распространяются проверенные переводы unfoldingWord Digital Publishing Engine (Цифровое устройство для публикации) - это система, помогающая вставлять проверенный перевод на сайт и в приложение unfoldingWord, а также создавать текстовые документы для печати Audio Recording (Аудиозапись) - перечень рекомендаций для оборудования по звукозаписи, программному обеспечению и процесса записи Video Render Engine (Программа для воспроизведения видео) - автоматическая система для воспроизведения видео, с помощью которой можно соединить аудиозаписи с видеоклипами при создании видео для определенных проектов.
+  * Обучение - Мы разработали материалы для обучения переводчиков - носителей целевого языка (данный обучающий курс получил название «Академия перевода») Руководство по переводу - описан процесс осуществления перевода Руководство по редактированию - описан процесс редактирования переведенного текста Технологическое руководство - дается объяснение того, как пользоваться различными технологическими средствами Руководство по работе с материалами - описана пошаговая работа
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[ru:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
+  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
+  * [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
 

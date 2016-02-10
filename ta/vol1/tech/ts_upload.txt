@@ -1,30 +1,29 @@
-===== Upload Your Work =====
+===== Загрузить перевод в удаленный компьютер =====
 
-This module answers the question: How do I upload my work?\\
+This module answers the question: Как загрузить мой перевод в удаленный компьютер?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
 
-==== Uploading ====
+==== Загрузка в удалённый компьютер ====
 
-When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it. See [[ru:ta:vol1:tech:ts_publish]] for more information.
-
+При работе в translationStudio на вашем устройстве каждые пять минут происходит автосохранение текста. Но ваша работа не будет сохранена на сайте Door43 до тех пор, пока вы ее туда не загрузите. Для получения большей информации, см. en:ta:vol1:tech:ts_publish.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

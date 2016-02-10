@@ -1,31 +1,29 @@
-===== Install unfoldingWord on an Android Device =====
+===== Установка unfoldingWord на устройство Android =====
 
-This module answers the question: How do I install unfoldingWord on an Android device?\\
+This module answers the question: Как установить unfoldingWord на устройство Android?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+  * [[ru:ta:vol1:tech:uw_app|Мобильное приложение unfoldingWord (Раскрывающееся Слово)]]
 
-==== How to Install uW app ====
+==== Как установить приложение unfoldingWord (Раскрывающееся слово) ====
 
-The instructions for installing unfoldingWord are below. You can also watch the __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] (https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4)__ video to understand the process of selecting and installing an app on your device.
+Инструкция по установке unfoldingWord приведена ниже. В также можете посмотреть видео %%__%%Install translationStudio (https:%%//%%door43.org/media/en/ta/tech/installing_translationstudio-_android_v2.mp4)%%__%% чтобы ознакомиться с процессом выбора и установки приложения на ваше устройство.
 
-**Note:** Installing requires an Internet connection.
+Замечание: для установки требуется подключение к Интернету.
 
-   * Tap on the **Google Play Store **  icon on the Android device. Google Play Store opens.
-   * To search for the app, tap the magnifying glass at the top right of the window.
-   * Tap **Search Google Play**  and type unfoldingWord (do not use spaces).
-   * Tap the magnifying glass or close the keyboard.
-   * When the Play Store has found the program, tap on the **uW**  icon.
-   * Tap **Install**.
-   * Tap **Accept**  to use the default settings of the app.
-   * The app will download and then install. Once the program is installed, tap **Open**.
-
-
+  * Нажмите на иконку Google Play Store на устройстве Android. Откроется Google Play Store.
+  * Для нахождения приложения, выберите лупу в правом верхнем углу окна.
+  * Нажмите на поиск Google Play и введите слово unfoldingWord (без пробелов).
+  * Нажмите на лупу или закройте клавиатуру.
+  * Когда Play Store найдет программу, нажмите на иконку uW.
+  * Нажмите на слово Install (Установить).
+  * Выберите слово Accept (Принять), чтобы параметры приложения были установлены по умолчанию.
+  * Начнется загрузка приложения и далее - его установка. Когда программа будет установлена, нажмите Open (Открыть).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
-  * [[ru:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[ru:ta:vol1:tech:uw_language|Language Information]]
-  * [[ru:ta:vol1:tech:uw_select|Select a Language]]
-  * [[ru:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_first|Первое использование unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]
+  * [[ru:ta:vol1:tech:uw_language|Информация о языке]]
+  * [[ru:ta:vol1:tech:uw_select|Выбрать язык]]
+  * [[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]
 

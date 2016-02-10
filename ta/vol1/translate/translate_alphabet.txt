@@ -1,28 +1,25 @@
-===== Alphabet/Orthography =====
+===== Алфавит/Орфография =====
 
-This module answers the question: How can I create an alphabet for my language?\\
+This module answers the question: Как мне создать алфавит для родного языка?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
 
-==== Creating an Alphabet ====
+==== Создание алфавита ====
 
-If your language has not been written down before, then you will need to create an alphabet so that you can write it. There are many things to think about when creating an alphabet, and creating a good one can be very difficult. If this seems to be too difficult, you could do an audio translation instead of a written one.
+Если в вашем языке нет письменности, тогда вам нужно создать алфавит для того, чтобы иметь возможность записывать текст. При составлении алфавита придется решить многие вопросы, поэтому создание качественного алфавита - дело непростое. Если оно кажется вам слишком трудным, вы можете сделать аудиоперевод вместо письменного.
 
-The goal of a good alphabet is to have one letter to represent each different sound of your language.
+Цель хорошего алфавита - сделать так, чтобы каждая буква могла представлять отдельный звук вашего языка.
 
-If a neighboring language already has an alphabet, and if that language has similar sounds to your language, it might work well to simply borrow their alphabet. If not, then the next best thing is to borrow the alphabet from the national language that you learned in school. However, it is likely that your language has sounds that the national language does not, and so it will be difficult to use this alphabet to represent all of the sounds of your language. In that case, it is good to think about each sound in your language. Write out the national language alphabet on a piece of paper from top to bottom. Then write a word from your language next to each letter that either starts with that sound or has that sound in it. Underline the letter that makes that sound in each of the words. There may be letters in the national alphabet that your language does not use. That is fine. Now think about the sounds from these words that you had a hard time writing, or that you could not find a letter for. If the sound is similar to a sound that you did find a letter for, then maybe you can modify that letter to represent the other sound. For example, if you have a sound represented by "s", and a similar sound that there was no letter for, you could add a mark to the letter for the similar sound, such as putting ' or ^ or ~ on top of it. If you find that there is a group of sounds that seem to all have the same kind of difference from the national language sounds, then it is good to modify that group of letters in the same way. 
+Если в родственном языке уже есть алфавит и если в этом языке имеются звуки, схожие со звуками вашего языка, то их можно просто заимствовать для создания нового алфавита. Если такой алфавит отсутствует, то следующим лучшим вариантом будет заимствование букв из национального языка, который вы изучали в школе. Однако, в вашем языке могут существовать звуки, отсутствующие в национальном языке, поэтому может оказаться трудным воспроизвести все звуки вашего языка с помощью одного национального алфавита. В таком случае, следует подумать о каждом звуке вашего языка. Напишите национальный алфавит на отдельном листе - сверху вниз. Затем напишите по одному слову из вашего языка напротив каждой буквы, которое или начинается с такого звука или содержит его внутри себя. Подчеркните букву, передающую искомый звук в каждом слове. В национальном алфавите могут быть буквы, передающие звук, отсутствующий в вашем языке. Это нормально. Теперь подумайте о тех звуках в словах, которые вам было трудно написать или для которых вы не сумели найти буквы. Если звук похож на тот, для которого вы нашли букву, тогда, возможно, вы сумеете видоизменить эту букву, чтобы она могла представлять звук. Например, если у вас есть звук, обозначающийся буквой «s» и похожий звук, для которого нет буквы, вы можете добавить к букве, обозначающей знакомый звук, знак сверху: ' , или ^, или ~. Если у вас наберется группа звуков, имеющих аналогичные отличия от звуков национального языка, тогда будет правильным видоизменить группу букв по тому же принципу.
 
-Once you have finished this exercise and cannot think of any more sounds in your language, try writing a story or write down something that happened recently. As you write, you will probably discover sounds that you had not thought of earlier. Continue to modify letters so that you can write these sounds. Add these sounds to the list you made earlier.
+Когда вы закончите вышеприведенное задание, так что не сможете больше найти ни одного звука в своем языке, попытайтесь написать рассказ или опишите недавние события. В процессе письма вы, вероятно, обнаружите звуки, которые не заметили ранее. Продолжайте модифицировать буквы, чтобы обозначить эти звуки. Добавьте их в ваш список.
 
-Take your list of sounds to other speakers of your language who also read the national language and see what they think about it. Maybe they can suggest a different way to modify some letters that is simpler or easier to read. Also show these other people the story you wrote and teach them to read it by referring to your list of words and letter-sounds. If they can learn to read it easily, then your alphabet is good. If it is difficult, then there might be parts of the alphabet that still need work to be simpler, or there may be different sounds that are being represented by the same letter, or there may be some sounds that you still need to find letters for.
+Покажите свой перечень звуков носителям вашего языка, владеющим национальным языком и выясните, что эти люди об этом думают. Возможно, они смогут предложить иной способ изменения некоторых букв, чтобы их можно было проще и легче читать. Покажите им написанный вами рассказ и помогите прочитать его с помощью вашего перечня слов или букв (звуков). Если ваш рассказ будет читаться легко, то алфавит составлен грамотно. В противном же случае, вероятно, некоторые части алфавита нужно будет доработать и упростить, там могут быть различные звуки, которые были представлены одной и той же буквой или там могут быть звуки, для которых нужно будет найти отдельную букву.
 
-It is good to continue to work on this alphabet together with other speakers of your language who are good readers in the national language. You can discuss the different sounds and decide on the best way to represent them together. 
-
-
-
+Будет полезным продолжать работать над алфавитом вместе с остальными носителями вашего языка, хорошо владеющими национальным языком. Вы можете обсудить, как наилучшим способом представлять вместе различные звуки.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
 

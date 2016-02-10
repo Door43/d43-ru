@@ -1,18 +1,17 @@
-===== Peer Check =====
+===== Взаимопроверка =====
 
-This module answers the question: How can others help me check my work?\\
+This module answers the question: Как окружающие могут мне помочь с проверкой перевода?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[ru:ta:vol1:checking:self_check|Self Check]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * [[ru:ta:vol1:checking:self_check|Самопроверка]]
 
-==== How to do a Peer Check ====
+==== Как проводить взаимопроверку ====
 
-   * Give your translation to a member of the translation team who did not work on this passage. Have that person go through all of the same steps of the Self Check, making note of any places that need fixing.
-   * Review the translation together and fix those places.
-   * Read the revised translation out loud to this person and fix anything that does not sound like it is the way that someone from your community would say it.
-
+  * Покажите свой перевод сотруднику из команды переводчиков, не работавшему над данным отрывком. Пусть он выполнит пункты, перечисленные в «Самопроверке», и отмечает все места, над которым следует еще поработать.
+  * Поработайте над переводом вместе и исправьте отмеченные места.
+  * Прочитайте вслух исправленный перевод и откорректируйте все, что не является благозвучным.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:important_term_check|Important Term Check]]
+  * [[ru:ta:vol1:checking:important_term_check|Проверка важных терминов]]
 

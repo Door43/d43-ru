@@ -1,57 +1,52 @@
-===== Accuracy Check =====
+===== Правильный перевод =====
 
-This module answers the question: How can I do an accuracy check?\\
+This module answers the question: Как выполнить правильный перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[ru:ta:vol1:checking:important_term_check|Important Term Check]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
+  * [[ru:ta:vol1:checking:important_term_check|Проверка важных терминов]]
 
-==== Checking the Translation for Accuracy ====
+==== Проверка правильности перевода ====
 
-The purpose of this section is to make sure that the new translation is accurate. In other words, when compared with the source translation, does the new translation communicate the same meaning (not necessarily with the same wording or the exact order)? 
+Цель данного раздела - убедиться в том, что созданный перевод является правильным. Другими словами, передано ли в нем то значение, которое содержится в исходном языке (не обязательно, чтобы употреблялись те же самые слова и тот же порядок)?
 
-=== Level One ===
+=== Первый уровень ===
 
-The people who do the Level One accuracy check can be members of the translation team, but they should __not__ be the same people who translated the story or Bible passage that they are checking. They can also be members of the community who are not part of the translation team. They should be speakers of the language of the translation, be respected in the community, and, if possible, know the Bible well in the language of wider communication. The purpose of this step is to make sure that the translation accurately communicates the meaning of the original story or Bible passage. The checkers will be helping the translation team think about the best way to translate the meaning of the story or Bible passage in their own language. There can be one person who checks a story or Bible passage, or more than one. Having more than one person checking a story or passage can be helpful, because often different checkers will notice different things. 
+Люди, проводящие первый уровень проверки - проверку на точность - могут быть членами команды переводчиков, но не теми, кто переводил историю или Библейский отрывок. Они также могут быть членами общины, не являющейся частью команды переводчиков. Проверяющие должны быть носителями языка перевода, снискать уважительное отношение у общины и, если это возможно, хорошо знать Библию на языке широкого общения. Цель данного шага - убедиться, что перевод должным образом передает значение исконной истории или библейского отрывка. Проверяющие могут помочь команде переводчиков увидеть лучший вариант перевода истории или библейского отрывка на родной язык. Проверять историю или библейский отрывок может как один человек, так и несколько. Бывает весьма полезно участие нескольких проверяющих, поскольку часто разные редакторы могут обратить внимание на разные детали.
 
-=== Levels Two and Three ===
+=== Второй и третий уровни ===
 
-The people who do the Level Two or Level Three accuracy check should not be members of the translation team. They should be church leaders who speak the language of the translation and who know the Bible well in the source language. It is true that the language community members who checked the translation for naturalness and clarity were not allowed to look at the source while they were doing their checking. But for accuracy testing, the new translation //must be compared with the source text, or with the source in the original biblical languages//.
+Редакторы второго и третьего уровней не должны избираться из команды переводчиков. Они должны быть руководителями церкви, свободно владеющими тем языком, на который делается перевод, и хорошо знающие Библию на родном языке. Очень важно, чтобы носители родного языка, проверяющие перевод на его благозвучность и понятность, не подсматривали в исходный текст во время работы с переводом. Но в ходе проведения проверки на точность необходимо сравнивать новый перевод либо с исходным текстом, либо с оригинальным языком Библии.
 
-=== All Levels ===
+=== Все уровни ===
 
-The people doing the checking should follow these steps:
+Все проверяющие должны следовать нижеперечисленным шагам:
 
-1. Each of the checkers should read the translation (or listen to the recording) by himself, comparing it to the original Bible passage or story in the language of wider communication. It can be helpful for the translator to read the translation out loud to the checker while the checker follows along looking at the source Bible or Bibles. As the checker reads (or listens to) the translation and compares it to the source, he should keep in mind these general questions:
+  - Каждый проверяющий должен прочитать перевод (или прослушать его аудиозапись) и сравнить его с оригинальным библейским отрывком или историей на языке широкой коммуникации. Может быть полезен метод, когда переводчик вслух читает перевод проверяющему, а последний смотрит в исходную Библию или Библии. Когда редактор читает (слушает) перевод и сравнивает его и исходным текстом, он должен помнить о следующих основных моментах:
 
-  * Does the translation add anything to the original meaning?
-  * Is there any part of the meaning that is left out of the translation?
-  * Has the translation changed the meaning in any way?
+  * Внесено ли в перевод какое-либо дополнительное значение по сравнению с исходным смыслом?
+  * Была ли утрачена в переводе какая-либо часть значения?
+  * Изменилось ли значение перевода каким-либо образом?
 
-These questions can also be helpful for finding anything that might be inaccurate in the translation:
+Эти вопросы также могут помочь при выявлении неточностей в переводе:
 
-  * Was everything that was mentioned in the source language translation also mentioned in the flow of the new (local) translation? (Did the meaning of the new translation follow the message (not necessarily the wording) of the source translation? Sometimes if the arrangement of words or the order of ideas is different than in the source translation, it sounds better that way and is still accurate.)
-  * Were the people introduced in each story doing the same things as those mentioned in the source language translation? (Was it easy to see who was doing the events of the new translation when it was compared to the source language?)
-  * Are there Important Terms used in the new translation that do not match your understanding of the words in the source version? (Think about things like this: How do your people talk about a priest (one who sacrifices to God) or a temple (the sacrifice place of the Jews) without using a word borrowed from the source language?)
-  * Are the phrases used in the new translation helpful in understanding the more difficult phrases of the source translation? (Are the phrases of the new translation put together in a way that brings better understanding and still fit with the meaning of the source language translation?)
-  * Another way to determine if the text is accurate is to ask comprehension questions about the translation, such as, “who did what, when, where, how, and why.” There are questions that have already been prepared to help with this. Click for [[:en:obs:notes:questions:home|Open Bible Stories questions]] or for [[:en:bible:questions:comprehension:home|Bible questions]]. The answers to those questions should be the same as the answers to those questions about the source language translation. If they are not, there is a problem in the translation.
+  * Было ли упомянуто в новом (национальном) переводе все то, о чем говорилось в исходном тексте? (Передано ли в новом переводе послание (не обязательно - порядок слов) из исходного языка? Иногда порядок слов или порядок развития мыслей не схож с тем, что есть в исходном тексте, но он звучит лучше и сохраняет точность значения.)
+  * Говорится ли о действиях людей так, как о них сказано в исходной истории? (Легко ли увидеть, кто является участником событий в новом переводе, когда он сравнивается с исходным переводом?)
+  * Используются ли в новом переводе важные термины из исходного текста, значение которых вы не поняли? (Задайте себе такой вопрос: «Как носители вашего языка говорят о священнике (о том, кто приносит Богу жертвы) или о храме (месте жертвоприношений у евреев), не используя заимствования из исходного языка?»)
+  * Помогают ли фразы, которые были использованы в переводе, понять наиболее трудные выражения в исходном переводе? (Способствует ли оформление фраз их лучшему пониманию? Сохранено ли значение исходного текста?)
+  * Еще одним способом определения правильности перевода служат разъясняющие вопросы «кто что делал, когда, где, как и почему». Мы разработали для вас вопросы, которые вам в этом помогут. Нажмите на ссылку «Вопросы к историям открытой Библии» или «Библейские вопросы». Ответы на вопросы должны совпадать с ответами из исходного языка. В противном же случае, перевод является неточным.
 
-2. The checker should make notes where he thinks there might be a problem or something to be improved. Each checker will discuss these notes with the translation team.
-
-3. After the checkers have checked a Bible Story or chapter individually, they should all meet with the translator or translation team and review the story or Bible passage together. As they come to the places where each checker made note of a problem or question, the checkers can ask their questions or make suggestions for improvement. As the checkers and the translation team discuss the questions and suggestions, they might think of other questions or new ways of saying things. This is good. As the checkers and the translation team work together, God will help them discover the best way to communicate the meaning of the story or Bible passage. 
-
-4. After the checkers and the translation team have decided what they need to change, the translation team will revise the translation. 
-
-5. After the translation team revises the translation, they should read it out loud to each other or to other members of the language community to make sure that it still sounds natural in their language. 
-
-6. The translator (or team) makes a note of any Bible passages that are still difficult to understand, and where they would like additional help from other Bible checkers. These notes will be used by the church leaders and checkers in levels two and three, so that they can help the translators understand the meaning and communicate it more clearly. 
-
+  - Проверяющим нужно отмечать, где, по их мнению, в переводе проблемное место или что-то, что нужно улучшить. Каждый редактор должен обсудить проблемные места в тексте с командой переводчиков.
+  - После того, как редакторы сами проверят библейскую историю или главу, им следует встретиться с переводчиком или командой переводчиков и вместе с ними рассмотреть историю или библейский отрывок. Когда им попадется место, отмеченное редактором как проблемное, нужно задать вопросы переводчикам или предложить лучший вариант перевода. В ходе обсуждения вопросов и предложений редакторы и команда переводчиков могут продумать новые вопросы или иные способы для выражения мыслей. Это весьма полезное занятие. Когда редакторы и переводчики работают вместе, Бог помогает им найти лучшие способы передачи значения истории или библейского отрывка.
+  - После того, как редактор вместе с командой переводчиков решат, какие изменения им нужно будет внести, переводчики начинают прорабатывать текст.
+  - После того, как переводчики исправят перевод, им нужно будет прочитать его вслух друг другу или кому-нибудь из носителей их языка, чтобы убедиться в его благозвучности.
+  - Переводчик (или команда) отмечают каждый трудный для восприятия отрывок и те места, где им требуется дополнительная помощь от редакторов Библии. Эти замечания будут использованы руководителями церкви и редакторами на втором и третьем уровнях, чтобы помочь переводчикам понять значение и ясно его передать.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:level2|Checking Level Two – External Check]]
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[ru:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[ru:ta:vol1:checking:other_methods|Other Methods]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
+  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
+  * [[ru:ta:vol1:checking:other_methods|Другие методы]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
 

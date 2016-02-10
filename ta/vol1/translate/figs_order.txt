@@ -1,75 +1,70 @@
-===== Word Order =====
+===== Порядок слов =====
 
-This module answers the question: Is word order important?\\
+This module answers the question: Важен ли порядок слов?\\
 Before you start this module have you learned about:
 
-==== Parts of a Sentence ====
+==== Члены предложения ====
 
-A basic sentence has three important parts: subject, object, and verb.  Both subjects and objects are usually nouns (i.e. a person, place, thing, or idea). Verbs show action or a "state of being."
-  * The subject of a sentence is what the sentence is about.
-  * The subject (which will be a noun: a person, place, thing, or idea) is usually  the main “actor” in a sentence.
-  * The “actor” or subject usually does some action or is being described in some way.
+Простое предложение состоит из трех основных частей: подлежащего, дополнения и сказуемого. И подлежащее, и дополнение обычно являются существительными (личностью, местом, предметом или идеей). Сказуемое выражается глаголом, который является действием или «состоянием бытия».
 
-When the subject is identified, determine what it is doing (or what is happening to it). 
-  * A subject may be active: it can **perform** or **do** something such as “sing,” or “work,” or “teach.”  
-  * A subject can be in a **state** such as “happy,” “sad,” or “mad.”
-  * Or a subject may have something done to it.
-    * For example, “The ball was thrown.” (The ball is the subject.)
+  * Подлежащее в предложении раскрывает смысл предложения.
+  * Подлежащее (существительное: личность, место, предмет или идея) обычно является главным членом предложения.
+  * Этот член (выраженный существительным) выполняет какое-либо действие или как-то описывается.
 
-The object of a sentence is a recipient (that is NOT the subject).  The object will also be a person, place, thing, or idea.
+Когда вы найдете в предложении подлежащее, определите его роль (что с ним происходит). * Подлежащее может быть активным, если представляет или выполняет действие: «петь», «работать», «учить» (инфинитивное подлежащее - прим. пер.). * Подлежащее может передавать состояние человека: «счастливый», «грустный», «неистовый» (в таком случае оно выражается субстантивированным прилагательным - прим. пер.). * Подлежащим может быть объект, на который направлено действие. * Например, «Мяч подбросили» (слово «мяч» - подлежащее).
 
-In a simple sentence the subject usually does something to or towards an object. Consider the sentence:
+Дополнение - это член предложения, на которое направлено действие (оно НЕ является подлежащим). Дополнением также может существительное, обозначающее человека, место, предмет или идею.
 
->//"The boy kicked the ball."//
+В простом предложении подлежащее оказывает определенное действие на дополнение. Рассмотрим предложение:
 
-The boy is the **subject**; the recipient or **object** is the ball.  The subject (boy) does some **action** (kicked) to the object (ball).The VERB tells what the action is that the subject is doing (or being). 
+> «Мальчик пнул мяч.»
 
-Often it is easy to find the verb, because one looks for the action occurring in the sentence.  
+Слово «мальчик» - подлежащее; предмет, на который направлено действие - дополнение - это «мяч». Подлежащее («мальчик») подвергает действию («пнул») дополнение («мяч»). Сказуемое сообщает нам о действии, которое совершается подлежащим (человеком).
 
-==== Translation Suggestions ====
+Часто сказуемое легко найти, потому что оно обозначает происходящее в предложении действие.
 
-All languages have a preferred word order. Translate sentences so that they are accurate and have a smooth flow.
+==== Варианты перевода ====
 
-Word order or patterns can vary if the sentence:
+Во всех языках есть порядок слов в предложении. Перевод предложений должен быть понятным и благозвучным.
 
-  * is a question
-  * has descriptive words
-  * has a place in it
-  * has time in it
-  * has a condition in it, such as the word “if”
-  * is a poem
+Порядок слов или структура предложения может меняться, если это предложение:
 
-Sometimes the word order will also vary if there is a special type of emphasis. For example, perhaps in your language there is a special way to ask a rhetorical question or give a command. Knowing the preferred word order of the source text and how it is different than the target language can help a translator in translating from that language into the target language. This is especially true if your language does not have the same pattern. If the two languages have a different preferred word order for communicating the same things, then you will need to rephrase the sentence into the order that is preferred in the target language in order to make your translation sound natural. The translator’s goal is always to use natural language to make the meaning clear.
+  * вопросительное
+  * содержит описательные слова
+  * в нем указывается место
+  * в нем указывается время
+  * в нем содержится условие, начинающееся, к примеру, со слова «если»
+  * имеет стихотворную форму
 
-==== Language Examples ====
+Иногда порядок слов может меняться из-за особого типа ударения. Например, в вашем языке может существовать конкретный способ передачи риторического вопроса или выражения повеления. Знание предпочтительно порядка слов в исходном и целевом текстах, может помочь переводчику сделать качественный перевод с неродного языка на родной. Особенно это касается случаев, когда в родном языке наблюдается иной порядок слов. Если в обоих языках используется разный порядок слов при передачи одного и того же значения, вам нужно будет перефразировать предложение и дать тот порядок слов, который присущ вашему языку, чтобы ваш перевод был благозвучным. Цель переводчика - всегда использовать естественную речь, чтобы значение было понятным.
 
-Now we will look at the importance of word order.
+==== Языковые примеры ====
 
-=== English ===
+Давайте рассмотрим важность порядка слов.
 
-In English, “The boy kicked the ball”. “The boy” is the subject, “kicked” is the verb, and “the ball” is the object.
+=== Русский язык ===
 
-This is the basic word order that English uses to communicate statements. First we say the subject, then the verb, and then the object. We can represent the Subject, Verb and Object with the letters “S”, “V” and “O”. So, we can call English an **SVO** Language.
+В русском предложении «Мальчик пнул мяч» слово «мальчик» - подлежащее, «пнул» - сказуемое, а «мяч» - дополнение.
 
-=== Japanese, Chines, Dutch and Turkish ===
+Это основной порядок слов в русском языке, использующийся в повествовательном предложении. На первом месте стоит подлежащее, затем - сказуемое и, наконец, - дополнение. Давайте обозначим эти члены предложения буквами «S», «V» и «O» (Subject (субъект или существительное), Object (объект или дополнение) – Verb (предикат или сказуемое - прим. пер.).
 
-In the Japanese, Chinese, Dutch, and Turkish languages usually the subject is first, and then the object comes next, followed by the verb.
+=== Японский, китайский, нидерландский и турецкий языки ===
 
-So the basic word order for a simple sentence for these languages is: Subject – Object – Verb, or SOV. 
+В японском, китайском, нидерландском и турецком языках обычно на первом месте стоит подлежащее, затем идет дополнение и, наконец, сказуемое.
 
-=== Hebrew and Arabic ===
+Значит, основной порядок слов в простом предложении в перечисленных языках таков: субъект - объект - предикат или SOV.
 
-In the Hebrew and Arabic languages, the order for sentences is normally Verb – Subject – Object, or VSO. 
+=== Еврейский и арабский языки ===
 
-In order to translate from one of these languages into another, it is very important to change the order of the sentence into the preferred order for the target language. Only by doing this will the translation be natural and clear.
+В еврейском и арабском языках обычным порядком слов в предложении является следующий: предикат - субъект - объект или VSO.
 
-Also view the video for the [[http://youtu.be/PzMpNyCNlLQ|computer]] (http://youtu.be/PzMpNyCNlLQ) or the [[http://youtu.be/jxeGp2-TuZg|portable device]] (http://youtu.be/jxeGp2-TuZg).
+Чтобы осуществить перевод с одного языка на другой, очень важно изменить порядок слов в предложении родного языка. Только в этом случае перевод будет благозвучным и понятным.
 
-
+Также см. видео на компьютере (http:%%//%%youtu.be/PzMpNyCNlLQ) или на портативном устройстве (http:%%//%%youtu.be/jxeGp2-TuZg).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
 

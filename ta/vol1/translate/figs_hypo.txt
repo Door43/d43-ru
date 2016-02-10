@@ -1,65 +1,63 @@
-===== Hypothetical Situations =====
+===== Гипотетическая ситуация =====
 
-This module answers the question: What are hypothetical situations?\\
+This module answers the question: Что такое гипотетическая ситуация?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
 
 ==== Definition ====
 
-Something that is hypothetical is 'assumed' or 'supposed.' A hypothetical situation is a possible scenario from any point in time: past, present or future. A hypothetical situation in the past did not happen, but could have happened under different circumstances. A hypothetical situation in the present or future may or may not actually happen - the speaker presents it as hypothetical because he does not know or it depends on the actions of others. It could possibly happen or it may never happen. A hypothetical situation might mean asking a “what if” question. It might be a “suppose” or “if only” statement. Hypothetical situations are good teaching tools. Jesus often used them in his teaching.
+Гипотетический - это «допускаемый» или «предполагаемый». Гипотетическая ситуация - это возможный сценарий в любой момент времени: в прошлом, настоящем или будущем. Гипотетическая ситуация - это события, которые никогда не происходили в прошлом, но могли произойти под влиянием иных обстоятельств. Гипотетическая ситуация в настоящем или будущем может или не может произойти на самом деле; говорящий представляет ее как гипотетическую из-за своего незнания или из-за того, что события зависят от действий других людей. Такая ситуация может случиться и может никогда не произойти. Гипотетическая ситуация может быть выражена с помощью вопроса «а что, если». А также через слова «предположите» или «если только». Гипотетические ситуации являются хорошим обучающим приемом. Иисус часто прибегал к ним в Своем учении.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-  * How would your language express a situation that could never happen?
-  * How would you communicate a “suppose” scenario that could happen right now?
-  *How would your language express a situation that may or may not happen in the future?
-  * Does your language have a special way of indicating a hypothetical situation in the past?
-  * How does your language express an “if only” or “I wish” scenario which also implies some emotion?
+  * Как в вашем языке выражается ситуация, которая никогда не произойдет?
+  * Как вы передадите «предполагаемый» сценарий, который может произойти в настоящий момент? * Как в вашем языке выражается ситуация, которая может или не может произойти в будущем?
+  * Существуют ли в вашем языке способы, указывающие на гипотетическую ситуацию в прошлом?
+  * Как в вашем языке передаются экспрессивные (эмоциональные - прим. пер.) конструкции со словами «если только» или «я бы хотел».
 
-It is important in translation to be able to recognize a hypothetical situation in the text and use appropriate words or phrases. You may need to show the timing of the hypothetical situation (e.g. past, present or future). You may need to clarify that the scenario is only a possibility: that it might be true or not likely to be true; that it could possibly happen or would never happen.  Hypothetical situations may or may not imply emotions or reasons. Some hypothetical statements may use expressions such as “what if”, “suppose” or “if only” to help the reader understand the type of hypothetical situation.  Perhaps your language uses special wording or specific language structures to communicate each of these things.
+При переводе текста очень важно распознавать гипотетические ситуации и использовать подходящие слова и фразы для их передачи. Возможно, вам потребуется указать время гипотетической ситуации (например, прошлое, настоящее или будущее). Вы можете уточнить, что сценарий является предположительным; он мог бы быть истинным и мог бы не быть истиной; он мог бы произойти или не произойдет никогда. В гипотетической ситуации могут явно выражаться или могут не выражаться чувства или причины. В некоторых гипотетических утверждениях могут использоваться слова «а что, если», «предположим», «если б только» для того, чтобы помочь читателю понять тип гипотетической ситуации. Возможно, в вашем языке есть особая формулировка или определенные языковые конструкции, для передачи подобных форм.
 
-==== Examples from the Bible ====
+==== Примеры из Библии ====
 
-1. Consider a hypothetical situation that **would never happen**:
+  - Рассмотрите гипотетическую ситуацию, которая никогда не произойдет:
 
-In Luke chapter 18 verse 25 Jesus was teaching his disciples about how being rich can make it hard to enter God’s kingdom. To emphasize this, he said that it is easier for a camel to go through the eye of a needle than for a rich person to submit to God’s rule in their life.
+В Луки 18:25 Иисус учил Своих последователей о том, как трудно богатому войти в Царство Небесное. Чтобы подчеркнуть Свою мысль, Он сказал, что легче верблюду пройти через игольное ушко, чем богатому подчиниться Божьим требованиям.
 
-The hypothetical part of this is that a large camel could never squeeze through the eye of a very small sewing needle! Jesus used this hypothetical scenario to emphasize his teaching point.
+Гипотетической является часть, где говорится о верблюде, который никогда не сумеет протиснуться сквозь крохотное ушко швейной иглы. Иисус употребил данный гипотетический образ для того, чтобы подчеркнуть главную мысль в Своем учении.
 
-2. Consider a “suppose” scenario that **could possibly happen**.
+  - Рассмотрите «предположительный» сценарий, который мог бы произойти.
 
-In Matthew chapter 12 verse 11, Jesus was pointing out to the religious leaders that they were not being honest when they judged people for working on the Sabbath day. He told them, “Suppose one of you has a sheep and it falls into a deep hole on the Sabbath day. Certainly, you would work to pull it out of the hole!”
+В Матфея 12:11 Иисус говорил фарисеям, что несправедливо осуждать людей, трудящихся в субботу. Он сказал им: «Кто из вас, имея одну овцу, если она в субботу упадет в яму, не возьмет ее и не вытащит?»
 
-Jesus wasn’t talking about a specific person who did this. Rather, he was talking about a possible situation which could and often did happen. He used the hypothetical story to help listeners understand his own work (God's work).
+Иисус не имел в виду конкретного человека, поступившего подобным образом. Скорее, Он подразумевал ситуацию, которая могла бы произойти. Он употребил гипотетическую иллюстрацию, чтобы помочь Своим слушателям понять Свои действия (Божьи действия).
 
-3. The following is an example of a hypothetical scenario **in the past**:
+  - Нижеприведенные примеры являются гипотетическим сценарием в прошлом:
 
-In Matthew 11:21, Jesus said that //if the people living in the ancient cities of Tyre and Sidon had been able to see the miracles that he – Jesus – performed, they would have repented long ago.//
+В Матф. 11:21 Иисус сказал, что если бы люди, жившие в древних городах Тире и Сидоне увидели бы чудеса, которые Он творил, они давно бы покаялись.
 
-This is a hypothetical situation that we know did not happen. Jesus was making the spiritual teaching point of “what if” these people had seen the miracles? If they had seen the miracles, then, they would have repented.
+Это пример гипотетической ситуации, которая, как нам известно, не произошла. Иисус подчеркнул мысль о том, «что было бы, если бы» те люди видели чудеса? Если бы они увидели Его чудеса, то покаялись.
 
-4. Often a hypothetical situation in the past **expresses an emotion, such as regret**. For example, consider Exodus 16:3:
+  - Часто гипотетическая ситуация в прошедшем времени передает эмоции, например, сожаление. Рассмотрите Исход 16:3:
 
->“//If only we had died by the hand of Yahweh in the land of Egypt...//.”
+> «О если бы мы умерли от руки Господней в земле египетсткой...»
 
-Here the Israelites are afraid that they will have to suffer and die of hunger in the wilderness, and so they are wishing that they had stayed in Egypt and died there with full stomachs.
+Здесь израильтяне устрашились своих страданий и голодной смерти в пустыне, поэтому сказали, что желали бы остаться в Египте и умереть сытыми.
 
-Also watch the video for the [[http://youtu.be/GfFX1wWjJhA|computer]] (http://youtu.be/GfFX1wWjJhA) or the [[http://youtu.be/jIbY2ikNtHU|tablet/phone]] (http://youtu.be/jIbY2ikNtHU).\\ 
-
+Также см. видео на вашем компьютере (http:%%//%%youtu.be/GfFX1wWjJhA) или на планшете/телефоне (http:%%//%%youtu.be/jIbY2ikNtHU).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[ru:ta:vol1:translate:figs_simile|Simile]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[ru:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[ru:ta:vol1:translate:figs_irony|Irony]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[ru:ta:vol1:translate:figs_events|Order of Events]]
-  * [[ru:ta:vol1:translate:figs_parables|Parables]]
+  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
+  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
+  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
+  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
+  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
+  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
+  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
+  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
 

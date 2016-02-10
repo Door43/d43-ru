@@ -1,31 +1,26 @@
-===== Training Before Translation Begins =====
+===== Обучение перед началом перевода =====
 
-This module answers the question: What should I know about translation before I start?\\
+This module answers the question: Что нужно знать о переводе до того, как его начать?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
 
-==== What to Know Before Translation ====
+==== Что нужно знать прежде, чем приступать к переводу? ====
 
-It is recommended that you consult the [[ru:ta:vol1:translate:toc_transvol1_2|Translation Manual]] frequently as you translate this content. Before you start translating, we recommend that you start working your way through the Translation Manual at least until you know the difference between a literal translation and a meaning-based translation. Much of the rest of the Translation Manual can be used as a "just-in-time" learning resource.
+Мы рекомендуем вам как можно чаще обращаться к «Руководству по переводу» в ходе работы над содержанием текста. Перед тем, как вы приступите к переводу, мы советуем, чтобы вы проработали «Руководство по переводу», пока вы не поймете разницу между буквальным и смысловым переводом. Остальная часть «Руководства» может быть использована как периодический обучающий материал.
 
-Some important subjects that must be learned before starting a translation project:
-  * [[ru:ta:vol1:translate:guidelines_intro]] - The definition of a good translation
-  * [[ru:ta:vol1:translate:translate_process]] - How a good translation is made
-    * [[ru:ta:vol1:translate:translate_fandm]] - The difference between form and meaning
-    * [[ru:ta:vol1:translate:translate_dynamic]] - How to make a meaning-based translation
+Перед тем, как приступить к работе над текстом, нужно изучить некоторые важные вопросы:
 
-Some other important topics as you get started include:
-  * [[ru:ta:vol1:translate:translate_what]] - Suggestions for where to start translating
-  * [[ru:ta:vol1:translate:first_draft]] - How to make a first draft
-  * [[ru:ta:vol1:translate:translate_help]] - Using translation helps
+  * ru:ta:vol1:translate:guidelines_intro - Определение качественного перевода
+  * ru:ta:vol1:translate:translate_process - Как создать качественный перевод en:ta:vol1:translate:translate_fandm - Различие между формой и значением en:ta:vol1:translate:translate_dynamic - Как создать смысловой перевод
 
+Несколько важных тем, которые будут вам полезны, когда вы приступите к работе с материалами - это: * en:ta:vol1:translate:translate_what - Предложение о том, с чего начать * en:ta:vol1:translate:first_draft - Как сделать первый черновик * en:ta:vol1:translate:translate_help - Использование вспомогательных материалов при переводе
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
 

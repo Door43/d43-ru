@@ -1,21 +1,18 @@
-===== Accurate Translation =====
+===== Правильный перевод =====
 
-This module answers the question: Is the translation accurate?\\
+This module answers the question: Является ли перевод правильным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:church_leader_check|Church Leader Check]]
+  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
 
-==== An Accurate Translation ====
+==== Правильный перевод ====
 
-It is very important to make sure that the new translation is accurate. Those who have been chosen to check the translation for accuracy have the responsibility to make sure that it communicates the same meaning as the source translation.  
+Очень важно удостовериться, что новый перевод является правильным. Те, кто был избран для проверки перевода на правильность, несут ответственность за то, чтобы текст передавал то же послание, что и исходный перевод.
 
-For instructions on how to do this, go to [[:en:ta:vol1:checking:accuracy_check]], and follow the steps in the section under the heading "All Levels." 
-
-
-
+Для получения инструкций о том, как этого достичь, перейдите на страницу :en:ta:vol1:checking:accuracy_check и следуйте указаниям, которые перечисляются под заголовком «Все уровни».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:complete|Complete Translation]]
-  * [[ru:ta:vol1:checking:accuracy_check|Accuracy Check]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+  * [[ru:ta:vol1:checking:complete|Завершенный перевод]]
+  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
 

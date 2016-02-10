@@ -1,20 +1,19 @@
-===== unfoldingWord Mobile App =====
+===== Мобильное приложение unfoldingWord (Раскрывающееся Слово) =====
 
-This module answers the question: What is the unfoldingWord Mobile App?\\
-==== What is the unfoldingWord App? ====
+This module answers the question: Что представляет собой мобильное приложение unfoldingWord (Раскрывающееся Слово)?\\
+==== Что представляет собой приложение unfoldingWord? ====
 
-The unfoldingWord mobile app is used to publish checked translations of the Bible stories. Users can also view information about each story and the checking level.  This app can be used on [[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|Android]] (https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en) or [[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|iOS]] (https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8) devices.
+Мобильное приложение unfoldingWord (Раскрывающееся Слово) используется для публикации отредактированных переводов библейских рассказов. Пользователи также могут просматривать информацию о каждой истории и об уровнях редакции. Данное приложение может быть использовано на устройствах Android (https:%%//%%play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en) или iOS (https:%%//%%itunes.apple.com/us/app/unfoldingword/id925570688?mt=8).
 
-For more information see https://unfoldingword.org/app .
-
+Для получения большей информации см. https:%%//%%unfoldingword.org/app .
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
-  * [[ru:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
-  * [[ru:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[ru:ta:vol1:tech:uw_language|Language Information]]
-  * [[ru:ta:vol1:tech:uw_select|Select a Language]]
-  * [[ru:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
-  * [[ru:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_install|Установка unfoldingWord на устройство Android]]
+  * [[ru:ta:vol1:tech:uw_first|Первое использование unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]
+  * [[ru:ta:vol1:tech:uw_language|Информация о языке]]
+  * [[ru:ta:vol1:tech:uw_select|Выбрать язык]]
+  * [[ru:ta:vol1:tech:uw_update_content|Обновить приложение unfoldingWord на устройстве Android]]
+  * [[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]
 

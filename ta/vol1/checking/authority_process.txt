@@ -1,23 +1,22 @@
-===== Checking Authority and Process =====
+===== Полномочия для редактирования и процесс редактирования =====
 
-This module answers the question: What is the difference between the authority to check a Bible translation and the process for checking?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:goal_checking|The Goal of Checking]]
+This module answers the question: Какая разница существует между полномочиями проверять библейский перевод и самим процессом проверки?\\
+Before you start this module have you learned about: [[ru:ta:vol1:checking:goal_checking|Цель редактирования]]
 
-==== Explanation ====
+==== Объяснение ====
 
-The Church in each people group has the authority to decide for themselves what is and what is not a good quality translation of the Bible in their language. Authority to check and approve a Bible translation (which is constant) is separate from capacity, or the ability to carry out the process of checking a Bible translation (which can be increased). The authority for determining quality belongs to the Church, independent of their current ability, experience, or access to resources that facilitate the checking of Bible translations. So while the church in a language group has the authority to check and approve their own Bible translation, the unfoldingWord tools, including these modules of translationAcademy, are designed to ensure that the church also has the capacity to check the quality of their Bible translation using an excellent process. 
+Церковь в каждом народе имеет власть решать, какой перевод Библии на целевой язык является качественным, а какой - нет. Полномочия, связанные с проверкой и утверждением библейского перевода, являются неизменными, в отличие от умения и способности осуществлять процесс проверки библейского перевода (он может расширяться). Управление качеством перевода осуществляется церковью, оно не зависит от ее настоящих возможностей, опыта или доступа к ресурсам, облегчающим проверку библейского перевода. Итак, тогда как у национальной церкви есть власть проверять и утверждать библейский перевод, инструменты unfoldingWord (Раскрывающегося Слова) (включая модули «Академии перевода») разработаны для того, чтобы дать возможность церкви проверять качество библейского перевода с помощью использования технологических средств.
 
-This model proposes a three-tiered approach to affirming the quality of a translation, designed to reflect three general levels of Church authority within a people group:
+В данном модуле предлагается тройной подход к утверждению качества перевода, разработанного так, чтобы были отражены три основных уровня церковного управления внутри нации:
 
-  * [[ru:ta:vol1:checking:authority_level1|Authority Level 1]]: Determined by the Church-based translation team.
-  * [[ru:ta:vol1:checking:authority_level2|Authority Level 2]]: Determined by the agreement of pastors/elders who are members of different Church networks in the language group, and tested with the language community.
-  * [[ru:ta:vol1:checking:authority_level3|Authority Level 3]]: Determined by the leadership of Church networks with a presence in the people group that speaks the language.
+  * 
+  * 
+  * 
 
-The process for checking a translation will be described in the modules under the heading "Checking Process."
-
+Процесс проверки перевода будет описываться в данных модулях под заголовком «Процесс редактирования».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:authority_level1|Authority Level 1]]
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
+  * [[ru:ta:vol1:checking:authority_level1|Первый уровень управления?]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
 

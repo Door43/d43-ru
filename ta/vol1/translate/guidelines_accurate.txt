@@ -1,63 +1,59 @@
-===== Create Accurate Translations =====
+===== Создание точного перевода =====
 
-This module answers the question: How do I create accurate translations?\\
+This module answers the question: Как сделать перевод точным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
 
-==== Accurate Translations ====
+==== Правильный перевод ====
 
-To create an ACCURATE translation of the Bible means that the translation communicates the same message as the source. Here are some steps to follow:
+Чтобы перевод Библии был ПРАВИЛЬНЫМ, необходимо, чтобы он передавал то же послание, что и в исходном тексте. Вы можете следовать нижеперечисленным принципам:
 
-   * Discover the meaning of a passage.
-   * Identify the main idea.
-   * Translate with the author’s message in mind.
+  * Понять значение отрывка.
+  * Определить его главную мысль
+  * Перевести его, держа в уме авторский замысел.
 
-=== Discover the Meaning ===
+=== Понимание значения ===
 
-First, read each passage a few times to discover the meaning. Use the two versions of the Bible available in translation Studio: the Unlocked Dynamic Bible and the Unlocked Literal Bible.Also read the definitions of the Translation Words and the Translation Notes.
+Сначала прочитайте отрывок несколько раз, чтобы понять его значение. Используйте две библейских версии, доступных в приложении translation Studio (Студии перевода): «Открытую точную Библию» и «Открытую живую Библию». Прочитайте определения, данные в «Словах для перевода» и «Замечаниях по переводу».
 
-Luke 10:8 and 9 in the Unlocked Dynamic Bible say: “Whenever you enter a town and the people there welcome you, eat whatever food they provide for you. Heal the people there who are sick. Tell them, 'The kingdom of God is right here near you.‘”
+В Луки 10:8-9 в «Открытой живой Библии» говориться: «Всякий раз, когда вы входите в город, и люди вас приветствуют, ешьте все, что вам предложат. Исцеляйте больных. Говорите им: „Царство Божье приблизилось к вам“.»
 
-Those same verses in the Unlocked Literal Bible say: “Whatever city you enter, and they receive you, eat what is set before you, and heal the sick that are there. Say to them, 'The kingdom of God has come near to you.‘”
+Эти же стихи в «Открытой точной Библии» звучат так: «В какой бы город вы ни вошли, и где бы вас ни приняли, ешьте все, что вам будет предложено, и исцеляйте там больных. Говорите им: „Царство Божье приблизилось к вам“.»
 
-Do you notice the differences? There are some differences in the words each Bible version uses.
+Заметили ли вы разницу? В каждой библейской версии наблюдается некоторое различие в словах.
 
-Did you discover the meaning is the same? In both versions Jesus is giving specific instructions.
+Но поняли ли вы, что смысл один и тот же? В обеих версиях Иисус дает особые наставления.
 
-=== Identify the Main Idea ===
+=== Определите главную мысль ===
 
-Then, after discovering the meaning of the passage, you should identify the main idea.
+После того, как вы поняли значение отрывка, определите главную мысль.
 
-Ask yourself, “Why is the author writing this, and how does he feel about these things?
+Задайте себе вопрос: «Почему автор все это написал, и как он относится ко всему происходящему?»
 
-Look at the Luke 10 passage again. Why do you think the author is writing this? What do you think the author feels about what he wrote? What do you think? After you have read the passage several times, answer these questions:
-  * What is happening? //Jesus gave instructions.//
-  * When and where did these things take place? //To answer this question, you would need to remember what happened earlier. Earlier Luke writes that Jesus and the disciples are on the way to Jerusalem and chapter 10 starts with Jesus sending out 72 people to preach.//
-  * Who is involved in this passage? //Jesus and the 72 people he sent out.//
-  * Why were the 72 sent out? //To heal the sick and to tell everyone that the kingdom of God is near.//
+Прочитайте еще раз отрывок Луки 10. Как вы думаете, почему автор написал это? Как, по вашему мнению, автор относится ко всему происходящему? Что думаете вы? После того, как вы несколько раз прочитаете отрывок, ответьте на следующие вопросы:
 
-=== The Message of the Writer ===
+  * Что происходило? Иисус давал наставления.
+  * Когда и где произошло все описанное? Чтобы ответить на этот вопрос, вам нужно вспомнить, что произошло до этого. Ранее Лука писал о том, что Иисусу и Его ученики собирались идти в Иерусалим; глава 10 начинается с того, что Иисус высылает на проповедь 72 Своих ученика.
+  * Кто является главным участником всего происходящего? Иисус и 72 Его ученика, которые были высланы.
+  * Зачем 72 ученика были высланы? Чтобы исцелять больных и говорить всем, что приблизилось Царство Божье.
 
-Finally, part of translating the source text accurately is to think of the original audience and the message of the writer.
+=== Авторское послание ===
 
-Do you think the author had specific things for the reader to know? Remember what we thought the author’s main ideas were? The main ideas were:
-   * The instructions that Jesus gave
-   * That the 72 people whom Jesus sent out would have power to heal sick people
-   * That they would tell others that the kingdom of God was near
+Наконец, чтобы перевод отрывка был правильным, подумайте об исконной аудитории и авторском послании.
 
-This is the message to the original audience. Allow the same message to come clearly into your mind in the target language.
+Считаете ли вы, что у автор хотел раскрыть читателю особый замысел? Помните ли вы, каким был авторский замысел? Главная идея была такой: *Наставления, которые дал Иисус * 72 ученика, высланные Иисусом, будут иметь силу исцелять больных * Они скажут людям о том, что приблизилось Божье Царство
 
-Look at the passage and think how you would retell it in your own language. Keep this initial translation by writing it down. Use an alphabet that suits your language.
+Вот, какое послание сообщалось первоначальной аудитории. Сформулируйте это послание в уме на родном языке.
 
-**Remember:** Translation is re-telling, as exactly as possible, the meaning of the original message in a way that is clear and natural in the target language.
+Посмотрите на отрывок и подумайте, как вы выразите его на своем языке. Запишите свой перевод. Используйте буквенное начертание, употребляющееся в вашем языке.
 
-
+Помните: перевод - это точная передача значения, содержащегося в оригинале, с помощью понятного и благозвучного способа в целевом языке.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
+  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
 

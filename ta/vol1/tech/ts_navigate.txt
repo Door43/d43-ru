@@ -1,54 +1,51 @@
-===== Navigate in translationStudio =====
+===== Перемещаться в translationStudio =====
 
-This module answers the question: How do I navigate in translationStudio?\\
+This module answers the question: Как перемещаться по translationStudio?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
 
-==== Layout ====
+==== Макет страницы ====
 
-The navigation and menu icons are on the left side of the screen. The top three icons are the working views, the slider moves through the story, the menu is the three dots.
+Значки навигации и меню расположены в левой части экрана. Верхние значки помогают менять рабочий вид, бегунок позволяет перемещаться по тексту, значок меню - это три точки.
 
-==== Working Icons ====
+==== Рабочие значки ====
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+Значок главы или истории имеет вид листа бумаги и находится в левом верхнем углу. Двигайтесь вверх, чтобы полностью прочитать главу или историю. Двигайтесь в сторону, чтобы перейти на пустую страницу и начать печатать перевод на свой язык.
 
-The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+Значок с абзацами находится посередине слева и похожа на квадрат, внутри которого находится квадратик из пунктирной линии. Перемещайтесь вверх - вниз для перехода от одного абзаца к другому (абзац - небольшой отрывок истории или главы). Перемещайтесь в сторону, чтобы попасть на пустую страницу, где вы можете напечатать перевод на родной язык.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. (See: [[ru:ta:vol1:tech:ts_resources]]) Swipe up or down to move from chunk to chunk.
+Значок проверки расположен слева и похож на кубик с галочкой. Он перемещает исходный текст слева, а переведенный - справа. перемещайтесь вправо - влево, чтобы найти материалы для данного отрывка (См.: en:ta:vol1:tech:ts_resources). Перемещайтесь вверх - вниз, чтобы двигаться от одного отрывка к другому.
 
-==== Slider ====
+==== Бегунок ====
 
-The **Slider** icon is a quick way to move through a story or book of the Bible.  Tap-and-hold the dot and swipe towards the bottom or the top of the slider. 
+С помощью бегунка можно быстро перемещаться по главе или книги Библии. Удерживайте бегунок и двигайтесь вверх - вниз страницы.
 
-==== Three Dots Menu ====
+==== Меню (значок с тремя точками) ====
 
-Tap on the **three dots** to open the working menu. 
-  * My Translations [[ru:ta:vol1:tech:ts_open]]
-  * Publish [[ru:ta:vol1:tech:ts_publish]]
-  * Backup [[ru:ta:vol1:tech:ts_share]]
-  * Feedback or [[ru:ta:vol1:tech:ts_problem]]
-  * Settings
+Для открытия рабочего меню нажмите на три точки.
 
-
-
-
+  * Мои переводы en:ta:vol1:tech:ts_open
+  * Опубликовать en:ta:vol1:tech:ts_publish
+  * Создание резервной копии en:ta:vol1:tech:ts_share
+  * Обратная связь или en:ta:vol1:tech:ts_problem
+  * Установки
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

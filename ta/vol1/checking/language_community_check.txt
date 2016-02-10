@@ -1,44 +1,35 @@
-===== Language Community Check =====
+===== Редактирование, осуществляемое носителями яыка =====
 
-This module answers the question: How can the language community help me check my work?\\
+This module answers the question: Как носители языка могут помочь отредактировать перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
 
-==== Language Community Check ====
+==== Редактирование, осуществляемое носителями язка ====
 
-After you, the translation team, have performed the checks listed under Level One, you are ready to take the translation to the community so that you can check to see if it communicates the message clearly and naturally to them in the target language. 
+После того, как команда переводчиков осуществила проверку первого уровня, необходимо показать текст общине, чтобы проверить, насколько ясно было передано послание и насколько естественно оно звучит в целевом языке.
 
-For this check you will read a section of the translation to members of the language community. Before you read the translation, tell the people listening that you want them to stop you if they hear something that is not natural in their language. For more information on how to check a translation for naturalness, click [[:en:ta:vol1:checking:natural|here]].
+В ходе осуществления подобной проверки следует зачитывать отрывок из перевода членам языкового сообщества. Прежде чем вы приступите к его зачитыванию, предупредите слушающих, что вы хотите, чтобы они останавливали вас всякий раз, когда услышат что-то, что режет им слух. Для получения большей информации относительно того, как проверять перевод на благозвучность, нажмите сюда.
 
-There are a set of questions and answers for each Open Bible Story and for each chapter of the Bible that you can use to test the translation to make sure that it is communicating clearly. 
-  * [[:en:obs:notes:questions:home|Open Bible Stories questions are here]]
-  * [[:en:bible:questions:comprehension:home|Bible questions are here]]. 
+Для каждой главы из «Историй открытой Библии» разработан ряд вопросов и ответов, с помощью которых вы можете проверить перевод и удостовериться в его ясности.
 
-To use these questions, follow these steps:
+  * Вопросы к «Историям открытой Библии» находятся здесь
+  * Вопросы к Библии приведены здесь
 
-1. Read the passage of the translation to one or more members of the language community who will answer the questions. These members of the language community must be people who have not been involved in the translation before. In other words, the community members who are asked the questions should not already know the answers to the questions from working on the translation or from previous knowledge of the Bible. We want them to be able to answer the questions only from hearing or reading the translation of the story or Bible passage. This is how we will know if the translation is communicating clearly or not. For this same reason, it is important that the community members not look at a Bible while they are answering these questions.
+Для использования этих вопросов выполните следующие шаги:
 
-2. Ask the community members some of the questions for that passage, one question at a time. It is not necessary to use all of the questions for each story or chapter if it seems that the community members are understanding the translation well. 
-
-3. After each question, a member of the language community will answer the question. If the person only answers with a “yes” or a “no,” then the questioner should ask a further question so that he can be sure that the translation is communicating well. A further question could be something like, “How do you know that?” or “What part of the translation tells you that?” 
-
-4. Write down the answer that the person gives. If the person’s answer is similar to the suggested answer that has been provided for the question, then the translation of the story is clearly communicating the right information at that point. The answer does not have to be exactly the same as the suggested answer to be a right answer, but it should give basically the same information. Sometimes the suggested answer is very long. If the person answers with only part of the suggested answer, that is also a right answer. 
-
-5. If the answer is unexpected or very different than the suggested answer, or if the person cannot answer the question, then the translation team will need to revise the part of the translation that communicates that information so that it communicates the information more clearly.
-
-6. After the translation team has revised the translation of the passage, then ask other members of the language community the same questions, that is, ask other speakers of the language who have not been involved in checking the same passage before. If they answer the questions correctly, then the translation is now communicating well.
-
-7. Repeat this process with each story or Bible chapter until members of the language community can answer the questions well, showing that the translation is communicating the right information clearly. The translation is ready for the church check of level 2 when language community members who have not heard the translation before can answer the questions correctly.
-
-8. Go to the [[:en:ta:vol1:checking:community_evaluation|Community Evaluation]] Page and answer the questions there. 
-
-
-
+  - Зачитайте отрывок перевода одному или большему количеству представителей языкового сообщества и пусть они ответят на вопросы. В языковое сообщество должны приниматься сотрудники, не участвовавшие в переводе. Другими словами, члены сообщества, которым вы задаете вопросы, не должны знать ответов на вопросы из-за того, что они работали над переводом или изучали прежде Библию. Нужно, чтобы они давали ответы только на основании услышанного или прочитанного перевода библейской истории. Именно через это нам будет понятно, является ли перевод понятным или нет. По этой же причине важно, чтобы члены сообщества не подглядывали в Библию в то время, когда им будут задаваться вопросы.
+  - Постепенно задавайте членам сообщества отдельные вопросы о прочитанном отрывке. Нет необходимости задавать все вопросы к каждой истории или главе, если вы видите, что члены сообщества хорошо поняли перевод.
+  - После каждого вопроса член языкового сообщества должен дать ответ. Если человек отвечает только словами «да» и «нет», тогда нужно задать еще вопросы, чтобы удостовериться в том, что перевод был понят. Следующим вопросом может быть такой: «Как вы это узнали?» или «В какой части перевода это говорилось?»
+  - Записывайте ответы людей. Если ответ человека схож с приведенным ответом на вопрос, значит, перевод истории правильно передает информацию по этому пункту. Ответ не всегда должен слово в слово совпадать с предложенным, чтобы его можно было оценить как правильный, но должна совпадать суть обоих ответов. Иногда ответ в материалах очень длинный. Если ответ тестируемого лишь частично совпадает с правильным ответом в наших материалах, то все равно его можно будет засчитать как верный.
+  - Если ответ неожиданный, он слишком отличается от правильного или человек не может ответить на вопрос, тогда команде переводчиков следует пересмотреть данный отрывок так, чтобы текст стал более понятным.
+  - После того, как команда переводчиков проработает перевод отрывка, задайте те же самые вопросы другим представителям языкового сообщества, т.е. поработайте с другими носителями языка, которые не участвовали прежде в проверке данного отрывка. Если их ответы верны, значит, перевод качественный.
+  - Проводите подобный анализ с каждой историей и главой Библии до тех пор, пока носители языка не начнут давать правильные ответы - это будет показателем того, что перевод понятен. Перевод будет готов ко второму уровню редакции (к церковной проверке), когда носители языка, которые не были знакомы ранее с текстом, смогут правильно ответить на все вопросы.
+  - Перейдите на страницу «Оценка носителей языка» и ответьте там на вопросы.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:natural|Natural Translation]]
-  * [[ru:ta:vol1:checking:other_methods|Other Methods]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[ru:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]
+  * [[ru:ta:vol1:checking:natural|Благозвучный перевод]]
+  * [[ru:ta:vol1:checking:other_methods|Другие методы]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * [[ru:ta:vol1:checking:community_evaluation|Вопросы для «Оценки перевода носителями языка»]]
 

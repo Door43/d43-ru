@@ -1,33 +1,31 @@
-===== The Original and Source Languages =====
+===== Исконный и исходный языки =====
 
-This module answers the question: What is the difference between the original language and the source language?\\
+This module answers the question: Какое различие существует между исконным языком и исходным языком?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
 
-==== Original Language is the most Accurate ====
+==== Язык оригинала является наиболее правильным ====
 
-The original language is the language in which a Bible text was initially written. The original language of the New Testament is Greek. The original language of most of the Old Testament is Hebrew. However, the original language of some parts of the books of Daniel and Ezra is Aramaic. The original language is always the most accurate language from which to translate a passage.
+Исконный язык - это язык, на котором был изначально написан библейский текст. Исконным языком Нового Завета был древнегреческий. Исконным языком многих книг Ветхого Завета был древнееврейский. Исконным языком некоторых частей книг Даниила и Ездры был арамейский. Язык оригинала всегда является более точным - именно с него следует осуществлять перевод.
 
-The source Language is the language from which the translation is being made. If a translator is translating the Bible from the original languages, then the original language and the source language for his translation are the same. However, only people who have spent many years studying the original languages understand them and can use them as a source language. For that reason, most translators use Bibles that have been translated into a language of wider communication as their source language text. 
+Исходный язык - это язык, с которого осуществляется перевод. Если бы переводчик переводил Библию с языка - оригинала, тогда бы исконный и исходный язык был бы одним. Однако, только те, кто в течение долгого времени изучал языки оригиналов, могут понимать их и употреблять как исходные. Поэтому большинство переводчиков в качестве исходного текста используют Библии, переведенные на языки более широкого общения.
 
-If you are translating from a language of wider communication, it is a good idea to have someone who has studied the original languages compare the meaning in the target language translation with the meaning in the original language to make sure that the meaning is the same. Another way to make sure that the meaning of the target language translation is accurate is to check the translation with translation helps that have been written by people who know the original languages. These would include Bible commentaries and dictionaries, as well as the unfoldingWord Translation Notes, Important Terms definitions, and Translation Questions with their answers.
+Если вы осуществляете перевод с языка более широкого общения, весьма полезно сотрудничать с тем, кто изучал язык оригинала, для того, чтобы сравнивать значение в целевом языке со значением оригинала, чтобы удостовериться в том, что они совпадают. Другим способом выяснить, насколько точно значение было передано в целевой язык, будет сравнение перевода со вспомогательными материалами, написанными теми, кто знаком с языком оригинала. Сюда входят библейские комментарии, словари, «Замечания по переводу» в «Раскрывающемся Слове», определения «Важных терминов», «Вопросы перевода» с их ответами.
 
-==== Source Language may not be Accurate ====
+==== Исходный язык может быть неточным ====
 
-If the translator does not understand the original language, he will have to use a language of wider communication as a source language. The meaning in the source may be correct, depending on how carefully it was translated from the original. But it is still a translation, so it is a step away from the original and is not quite the same. In some cases, the source may have actually been translated from another source, rather than from the original, putting it two steps away from the original.
+Если переводчик не знаком с языком оригинала, он может использовать язык более широкого общения как исходный. Значение исходного текста может быть верным, в зависимости от того, насколько тщательно выполнялся перевод с оригинала. Но все же это будет только перевод, т.е. будут и отступления от оригинала, и перевод не будет в точности соответствовать оригиналу. В некоторых случаях, исходный текст мог переводиться с другого исходного текста, а не с оригинала, таким образом, это отодвинет нас от оригинала на два шага.
 
-Consider the example below. A translator uses a Swahili New Testament as the source for a new target language translation. However, the particular Swahili Bible version he is using was actually translated from English — not directly from the Greek (the original language). So it is possible that some of the meaning has changed in the chain of translation from the original to the target languages. 
-{{:en:ta:ol2sl2sl2tl_small_600-174.png?nolink&600x174}}
+Рассмотрите нижеприведенный пример. Переводчик использует Новый Завет, написанный на языке суахили для создания перевода на новый язык. Однако Новый Завет был переведен на язык суахили с английского языка (а не с исконного греческого). Поэтому весьма вероятно, что его значение, в некоторой степени, претерпело изменение в процессе перевода с исконного языка на целевой.
 
-The only way to make sure the translation is as accurate as possible is to compare the new translation with the original languages. Where this is not possible, use the ULB and UDB as source texts, along with other Bible translations that were translated from the original languages. 
-
+Единственным способом удостовериться в точности перевода - это сравнить новый перевод с исконным языком. Там, где это невозможно, используйте ОТБ и ОЖБ как исходный текст, а также другие переводы Библии, сделанные с языка - оригинала.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_manuscripts|Оригинальные рукописи]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

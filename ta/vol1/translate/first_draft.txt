@@ -1,23 +1,22 @@
-===== Make a First Draft =====
+===== Создание первого наброска =====
 
-This module answers the question: How do I make a first draft?\\
+This module answers the question: Как сделать первый набросок?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
 
-==== How do I start? ====
+==== С чего нужно начать? ====
 
-  * Pray that God would help you to understand the passage that you are translating and that he would help you to find the best way to communicate that passage in your language.
-  * If you are translating Open Bible Stories, read the entire story before starting to translate it. If you are translating the Bible, read the entire chapter before you start to translate any part of it. This way you will understand how the part you are translating fits into the larger context, and you will translate it better.
-  * Read the passage that you plan to translate in as many different translations as you have. The ULB will help you to see the form of the original text, and the UDB will help you to understand the meaning of the original text. Think about how to communicate the meaning in the form that people would use in your language. Also read any Bible helps or commentaries that you have that talk about that passage.
-  * Read the Translation Notes for the passage that you plan to translate.
-  * Read the definitions of important terms in the list called "translationWords" for each highlighted word in the passage that you plan to translate.
-  * Discuss the passage, the Translation Notes, and the important terms with others in the translation team.
-  * When you understand well what the passage is saying, write down (or record) what it is saying in your language, in the way that someone from your language community would say it. Write down (or record) the whole passage (the chunk of text) without looking at the source text. This will help you to say these things in a way that is natural for your language, rather than in a way that was natural for the source language but that is not the best way to say it in your language.
-
+  * Помолитесь Господу о том, чтобы Он помог вам понять отрывок, который вы собираетесь переводить, и чтобы Он помог вам найти лучший способ передать его смысл в вашем языке.
+  * Если вы переводите «Истории открытой Библии», прочитайте всю историю целиком перед тем, как вы приступите к ее переводу. Если вы переводите Библию, прочтите всю главу прежде, чем вы приступите к переводу какой-либо ее части. Так вы сумеете понять, как переводимая вами часть соответствует более крупному контексту и как лучше ее перевести.
+  * Прочтите отрывок, который вы собираетесь переводить в тех переводах, которые у вас есть. ОТБ поможет вам увидеть оригинальную форму текста, а ОЖБ будет способствовать вашему пониманию значения исходного текста. Подумайте как придать этому значению ту форму, которую используют носители вашего языка. Ознакомьтесь со вспомогательными библейскими материалами или комментариями, связанные с данным отрывком.
+  * Прочтите «Замечания по переводу» относящиеся к отрывку, который вы собираетесь переводить.
+  * Ознакомьтесь с определениями, данными в списке «Слова для перевода» для каждого выделенного слова в отрывке, который вы собираетесь переводить.
+  * Обсудите отрывок, «Замечания по переводу» и важные термины с остальными членами переводческой команды.
+  * Когда вы хорошо поймете, что говорится в отрывке, запишите на бумаге (или сделайте звукозапись) мысль так, как люди из вашего общества выразили бы ее. Запишите на бумаге (или сделайте звукозапись) всего отрывка (или его части), не подглядывая в иностранный текст. Это поможет вам выразить мысль не так, как она дана в исходном тексте (что не является лучшим способом изъяснения в вашем языке), а так, как она выражается в вашем языке.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_help|Help with Translating]]
+  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
 

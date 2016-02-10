@@ -1,25 +1,25 @@
-===== Welcome to the Technology Manual =====
+===== Добро пожаловать в «Технологическое руководство» =====
 
-This module answers the question: What is the Technology Manual?\\
+This module answers the question: Что содержится в «Технологическом руководстве»?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
 
-==== The Technology Manual ====
+==== Технологическое руководство ====
 
-Welcome to the Technology Manual! This manual will help you to understand and use the different technology tools that have been created by unfoldingWord. 
+Добро пожаловать в «Технологическое руководство»! Данное руководство поможет вам понять, как использовать различные технологические инструменты, созданные unfoldingWord (Раскрывающимся Словом).
 
-Three sections are included in Volume 1 of the Technology Manual: 
-  * [[ru:ta:vol1:tech:tS_intro]]
-  * [[ru:ta:vol1:tech:tK_intro]]
-  * [[ru:ta:vol1:tech:uW_intro]]
+Первый том технологического руководства состоит из трех разделов:
 
-In these sections you will find practical helps for installing, navigating, sharing, and using these mobile apps. 
+  * ru:ta:vol1:tech:tS_intro
+  * ru:ta:vol1:tech:tK_intro
+  * ru:ta:vol1:tech:uW_intro
 
+В данных разделах даются практические советы о том, как устанавливать, управлять, публиковать и использовать мобильные приложения.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard]]
-  * [[ru:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]
+  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
 

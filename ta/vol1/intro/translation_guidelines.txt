@@ -1,41 +1,38 @@
-===== Translation Guidelines =====
+===== Рекомендации для перевода =====
 
-This module answers the question: By what principles do we translate?\\
+This module answers the question: Какими принципами мы должны руководствоваться при переводе?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
 
-//The official version of this document is found at [[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
+Официальный текст данного документа можно найти на сайте unfoldingword.org/guidelines.
 
-==== Translation Guidelines ====
+==== Рекомендации для перевода ====
 
-//The following statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.//
+Следующее положение относительно принципов и процедур, используемых при переводе, должно подписываться всеми организациями и сотрудниками проекта «Раскрывающееся Слово». Вся переводческая деятельность выполняется в соответствии с данными общими положениями.
 
-  - **[[ru:ta:vol1:translate:guidelines_accurate|Accurate]]** — Translate accurately, without  detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. 
-  - **[[ru:ta:vol2:translate:guidelines_faithful|Faithful]]**  — Avoid any political, denominational, ideological, social, cultural, or theological bias in your translation. Use key terms that are faithful to the vocabulary of the original biblical languages. Use equivalent common language terms for the biblical words that describe the relationship between God the Father and God the Son. These may be clarified, as needed, in footnotes or other supplemental resources.
-  - **[[ru:ta:vol2:translate:guidelines_authoritative|Authoritative]]**  — Use the original language biblical texts as the highest authority for translation of biblical content. Reliable biblical content in other languages may be used for clarification and as intermediary source texts. 
-  - **[[ru:ta:vol2:translate:guidelines_historical|Historical]]**  — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content.
-  - **[[ru:ta:vol1:translate:guidelines_clear|Clear]]**  — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. 
-  - **[[ru:ta:vol1:translate:guidelines_natural|Natural]]**  — Use language forms that are effective and that reflect the way your language is used in corresponding contexts.
-  - **[[ru:ta:vol2:translate:guidelines_equal|Equal]]** — Communicate the same intent as the source text, including expressions of feeling and attitudes. As much as possible, maintain the different kinds of literature in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. 
+  * Правильность - Перевод должен быть точным, без преуменьшений, изменений и преувеличений первоначального значения. Переведенное содержание, насколько это возможно, должно соответствовать точному значению оригинального текста и пониматься так, как он был понят его первыми читателями.
+  * Беспристрастность - В ходе перевода следует избегать политической, деноминационнной, идеологической, социальной, культурной и теологической предвзятости. Используйте основные понятия, соответствующие языку оригинального библейского текста. Употребляйте эквивалентные общие термины для обозначения библейских понятий, описывающих отношения между Богом Отцом и Богом Сыном. При необходимости, можно приводить уточнения в ссылках и дополнительных источниках.
+  * Аутентичность - Исконный язык библейских текстов должен рассматриваться как авторитетный источник для перевода библейского содержания. В качестве уточняющего и вспомогательного текстового источника может использоваться достоверное библейское содержание из других языков.
+  * Историчность - Необходимо точно передавать исторические события и факты, предоставляя, при необходимости, дополнительные сведения с целью тщательной передачи послания тем, кто не живет в контексте и культуре первых получателей исконного содержания.
+  * Понятность - Для достижения максимального понимания следует использовать любые требующиеся языковые структуры. При необходимости, трансформируйте форму текста, используя нужное количество слов для точной передачи исконного значения.
+  * Благозвучность - Нужно подбирать языковые формы, которые эффективно отражают способ использования вашего языка в соответствующем контексте.
+  * Тождественность - Следует передавать тот замысел, который содержится в источнике, включая выражение чувств и отношение. По возможности, используйте разные виды библейского текста: повествование, поэзию, назидательные и пророческие материалы, - представляя нужный текст в соответствующей форме, согласующейся со сходными выражениями в вашем языке.
 
-==== Identifying and Managing Translation Quality ====
+==== Определение и проверка качества перевода ====
 
-The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
+К качеству перевода, в основном, относится правильность передачи исходного значения и степень его понятности и эффективности для носителей того языка, на который делается перевод. Предлагаемая нами стратегия включает в себя сравнение форм и коммуникационных свойств перевода с языком местного общества и проверку правильности перевода с церковными доктринами того народа.
 
-The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is:
-  - **Accurate, Clear, Natural, and Equal** — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
-  - **[[ru:ta:vol1:translate:guidelines_church_approved|Affirmed by the Church]]**  - Endorsed and used by the Church.
+Специфические приемы могут быть весьма различными, в зависимости от языка перевода и его контекста. В основном, мы считаем перевод качественным, если он прошел проверку у носителей языка и церковного руководства того народа. Перевод должен отвечать таким требованиям, как правильность, понятность, благозвучность и тождественность; он должен совпадать с исконным значением, содержащимся в источнике, быть принятым народной, Вселенской и исторической церковью а, значит, быть рекомендованным, утвержденным и употребляющимся Церковью.
 
-We also recommend that the translation work be:
+Мы также рекомендуем, чтобы процесс перевода был
 
-  - **[[ru:ta:vol2:translate:guidelines_collaborative|Collaborative]]** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible.
-  - **[[ru:ta:vol2:translate:guidelines_ongoing|Ongoing]]** — Translation work is never completely finished. Encourage those who are skilled with the language to suggest better ways to say things when they notice that improvements can be made. Any errors in the translation should also be corrected as soon as they are discovered. Also encourage the periodic review of translations to ascertain when revision or a new translation is needed. We recommend that each language community form a translation committee to oversee this ongoing work. Using the unfoldingWord online tools, these changes to the translation can be made quickly and easily.
-
+  * Совместным - Там, где это возможно, работайте вместе с другими верующими, говорящими на вашем языке, над переводом, проверкой и передачей переведенного содержания, удостоверяясь, что перевод является высококачественным и понятным большинству людей.
+  * Непрерывным - Процесс перевода никогда не завершается. Вдохновляйте профессионалов предлагать лучшие варианты там, где текст можно улучшить. Нужно исправлять все ошибки по мере их обнаружения. Проводите периодический обзор перевода, чтобы убедится в необходимости проверки или повторного перевода. Мы настоятельно рекомендуем, чтобы в каждом языковом сообществе был организован лингвистический комитет для наблюдения за ходом работы. При использовании онлайн средств «Раскрывающегося Слова» все изменения могут быть внесены легко и быстро.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:open_license|Open License]]
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]
+  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]
 

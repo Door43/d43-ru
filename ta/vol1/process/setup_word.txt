@@ -1,23 +1,22 @@
-===== Setting Up a Word Processor =====
+===== Установка текстового редактора =====
 
-This module answers the question: How do I set up a Word Processor?\\
+This module answers the question: Как установить текстовый редактор?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
 
-==== Obtaining the Source Text for Open Bible Stories ====
+==== Загрузка исходного текста «Историй открытой Библии» ====
 
-  - Go to [[:obs-template|Get Open Bible Stories Word Template]]
-  - Select your source language (the language from which you will translate) and click "Save". (Note: If you click the "Add all images in the file", the download size will increase greatly.) **The template will download as a docx file.**
-  - Open this template in your word processor of choice. 
+  * Перейдите к Get Open Bible Stories Word Template (Получить текстовый шаблон «Историй открытой Библии»)
+  * Выберите ваш исходный язык (тот язык, с которого вы будете осуществлять перевод) и нажмите Save (Сохранить). (Замечание: Если вы выберите Add all images in the file (Добавить все изображения в файл), размер загружаемого файла сильно увеличится). Шаблон будет загружен как файл в формате .docx.
+  * Откройте этот шаблон в выбранном вами текстовом редакторе.
 
-==== Obtaining Translation Helps for Open Bible Stories ====
+==== Загрузка вспомогательных материалов для перевода «Историй открытой Библии» ====
 
-  * The download for Open Bible Stories translation helps is not currently automated. Please contact [[ru:ta:vol1:intro:finding_answers|Helpdesk]] for assistance
+  * Загрузка вспомогательных материалов для «Историй открытой Библии» пока еще не автоматизирована. Для получения помощи обратитесь к службе технической поддержки.
 
-==== Obtaining the Source Text & Helps for the Bible ====
+==== Загрузка исходного текста и вспомогательных материалов для Библии ====
 
-  * This process is not presently automated. Please contact the [[ru:ta:vol1:intro:finding_answers|Helpdesk]] for further assistance.
-
+  * Данный процесс еще не автоматизирован. Для получения помощи свяжитесь со службой технической поддержки.
 
 
 Next we recommend you learn about:

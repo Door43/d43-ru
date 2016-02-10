@@ -1,64 +1,60 @@
-===== Translating in translationStudio =====
+===== Перевод в translationStudio =====
 
-This module answers the question: How do I translate in translationStudio?\\
+This module answers the question: Как переводить в translationStudio?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
 
-===== How to Translate =====
+===== Как переводить =====
 
-A basic translation process for any unfoldingWord project is explained here.
+Здесь объясняется основной процесс перевода для большинства проектов unfoldingWord.
 
-Note: the recommendations of the [[http://www.forum-intl.org/resources|Forum of Bible Agencies]] is a helpful reference in the translation of any theological text.
+Замечание: рекомендации Форума Библейских Агентств будут полезными материалами при переводе любых теологических текстов.
 
-==== Translating the Text ====
+==== Перевод текста ====
 
-As you translate, be sure that you:
-  * pray that God would help you make an easily-understandable, Scripturally-accurate translation
-  * translate everything that is in the source language
-  * do not add anything that that is not necessary for comprehension
-  * always do your translation according to the [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * always do your translation according to the [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * use the [[:en:obs:notes|Translation Notes]] and the [[:en:obe:ktobs|Important Terms]] to help you make a better translation
+Когда вы приступаете к переводу,
 
-==== What To Start Translating ====
+  * помолитесь, чтобы Господь помог вам создать легко понимаемый, согласованный с Писанием перевод
+  * переводите все содержание исходного языка
+  * не добавляйте ничего, что не нужно для понимания
+  * всегда осуществляйте перевод в соответствии с «Рекомендациями для перевода»
+  * всегда осуществляйте перевод в соответствии с «Исповеданием веры»
+  * используйте «Замечания по переводу» и «Важные термины» для создания более качественного перевода
 
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand. For more information read [[ru:ta:vol1:translate:translate_what]].
+==== С чего начать перевод ====
 
-==== Translate from the Source Language ====
+Мы советуем начать перевод с «Историй открытой Библии». Вы можете работать с ними в любом порядке, но мы рекомендуем вам начать с Истории 31, потому что она короткая, и ее содержание легко понять. Для большей информации см. en:ta:vol1:translate:translate_what.
 
-**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+==== Переводите с исходного языка ====
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+Замечание: «Исходный язык» - это язык, с которого делается перевод. «Целевой язык» - это язык, на который переводится текст.
 
-The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+Значок главы или истории имеет вид листа бумаги и находится в левом верхнем углу. Двигайтесь вверх, чтобы полностью прочитать главу или историю. Двигайтесь в сторону, чтобы перейти на пустую страницу и начать печатать перевод на свой язык.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. Swipe up or down to move from chunk to chunk.
+Значок с абзацами находится посередине слева и похожа на квадрат, внутри которого находится квадратик из пунктирной линии. Перемещайтесь вверх - вниз для перехода от одного абзаца к другому (абзац - небольшой отрывок истории или главы). Перемещайтесь в сторону, чтобы попасть на пустую страницу, где вы можете напечатать перевод на родной язык.
 
-All of the Translation Notes, Important Terms and Translation Questions have been included in the translationStudio mobile app. See [[ru:ta:vol1:tech:ts_resources]] on how to find the translation resources.
-  * Tap on the word "Notes" for the Translation Notes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language.
-  * Tap on the word "Terms" for the Important Terms. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate into the target language.
-  * Tap on the word "Questions" for the Translation Questions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
-  * Tap on the pencil icon to make corrections to the translation.
+Значок проверки расположена слева и похожа на планшет с галочкой. Она перемещает исходный текст слева, а переведенный - справа. Перемещайтесь вправо - влево, чтобы найти материалы для данного отрывка. Перемещайтесь вверх - вниз, чтобы двигаться от одного отрывка к другому.
 
-When you are done with the Resources, swipe from left to right to make the pane go away.
+Все материалы: «Замечания по переводу», «Важные термины» и «Вопросы перевода» - были включены в мобильное приложение translationStudio. См. en:ta:vol1:tech:ts_resources, чтобы узнать, как находить материалы для перевода. * Нажмите на слово Notes (Замечания), чтобы перейти к «Замечаниям по переводу». Слова и фразы даны в том порядке, в каком они фигурируют в истории или в ОТБ. Нажмите на фразу, чтобы понять, как перевести ее на родной язык. * Нажмите на слово Terms (Термины), чтобы открыть «Важные термины». Слова приводятся в том порядке, в каком они даны в тексте. Нажмите на слово или фразу, чтобы понять, как ее можно выразить на целевом языке. * Нажмите на слове Questions (Вопросы), чтобы открыть «Вопросы перевода». Вопросы даны в том же порядке, в каком приводится информация в тексте. Прочитайте вопрос и дайте на него ответ в соответствии с переведенным текстом. Нажмите на вопрос, чтобы получить ответ. Если ваш ответ совпадает с ответом из материалов, значит, перевод правильный и понятный. * Чтобы отредактировать перевод, нажмите на значок с изображением карандаша.
 
+Когда вы завершите просмотр материалов, двигайтесь слева направо, чтобы панель могла исчезнуть.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

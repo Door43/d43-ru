@@ -1,22 +1,21 @@
-===== Complete Translation =====
+===== Завершенный перевод =====
 
-This module answers the question: Is the translation complete?\\
+This module answers the question: Является ли перевод завершенным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:accurate|Accurate Translation]]
+  * [[ru:ta:vol1:checking:accurate|Правильный перевод]]
 
-==== A Complete Translation ====
+==== Завершенный перевод ====
 
-The purpose of this section is to make sure that the translation is complete. In this section, the new translation must be compared to the source translation. As you compare the two translations, ask yourself these questions: 
+Цель данного раздела - удостовериться, что перевод является завершенным. В данном разделе новый перевод должен сравниваться с исходным текстом. Когда вы будете сравнивать два перевода, задавайте себе следующие вопросы:
 
-  - Is the translation missing any of its parts? In other words, does the translation include all the events of the book that was translated?
-  - Does the translation include all the verses of the book that was translated? (When you look at the verse numbering of the source language translation, are all of the verses included in the target language translation?) Sometimes there are differences in verse numbering between translations. For example, in some translations some verses are grouped together or sometimes certain verses are put in footnotes. Even though there may be these kinds of differences between the source translation and the target translation, the target translation is still considered to be complete.
-  - Are there places in the translation where something seems to be left out, or there seems to be a different message than is found in the source language translation? (The wording and the order can be different, but the language that the translator used should give the same message as the source language translation.)
+  * Отсутствуют ли в переводе какие-либо части? Другими словами, передает ли перевод все события из переводимой книги?
+  * Включены ли в перевод все стихи из переводимой книги? (Обратите внимание на нумерацию стихов в исходном переводе: все ли стихи включены в целевой перевод?) Иногда есть расхождение в нумерации стихов в разных переводах. Например, в некоторых переводах несколько стихов сгруппированы в один или иногда некоторые стихи приводятся как сноски. Несмотря на то, что между исходным и целевым переводом могут существовать подобные различия, целевой перевод нужно все еще рассматривать как тот, что требует завершения.
+  * Есть ли в переводе места, где, как кажется, что-то было пропущено или послание отличается от исходного текста? (Порядок слов может не совпадать с исходным текстом, но цель переводчика состоит в том, чтобы передать то послание, которое находится в исходном переводе.)
 
-If there is a place where the translation is not complete, make a note of that so that you can discuss it with the translation team. 
-
+Есть ли места, где перевод не завершен? Отметьте их, чтобы вы могли их обсудить с командой переводчиков.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
-  * [[ru:ta:vol1:checking:good|Level 2 Affirmation]]
+  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
+  * [[ru:ta:vol1:checking:good|Утверждение второго уровня]]
 

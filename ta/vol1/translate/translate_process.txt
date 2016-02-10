@@ -1,23 +1,18 @@
-===== The Translation Process =====
+===== Процесс перевода =====
 
-This module answers the question: What are two things I do to translate?\\
+This module answers the question: Какие два принципа нужно осуществить при создании перевода?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
 
-==== How to Translate ====
+==== Как переводить ====
 
-There are two things to do in translation:
-  - Discover the meaning in the source language text (See: [[ru:ta:vol1:translate:translate_discover]])
-  - Re-tell the meaning in the target language translation (See: [[ru:ta:vol1:translate:translate_retell]])
-Instructions for translation sometimes divide these two things into smaller steps. The graphic below shows how these two fit into the translation process. 
-{{:en:ta:translation_process.png?nolink600x360}}
-
+При переводе играют роль две вещи: - Понимание значения исходного текста (См. en:ta:vol1:translate:translate_discover). - Пересказ этого значение на родном языке (См. en:ta:vol1:translate:translate_retell). В инструкциях по переводу иногда эти два пункта разбиваются еще на более мелкие этапы. В нижеприведенной диаграмме показывается, как эти два момента соотносятся с процессом перевода.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[ru:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
 

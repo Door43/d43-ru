@@ -1,71 +1,60 @@
-===== Create a Keyboard in tK =====
+===== Создать клавиатуру в tK =====
 
-This module answers the question: How do I create a keyboard in tK?\\
+This module answers the question: Как создать клавиатуру в tK?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]
 
-==== Getting Started ====
+==== Начало работы ====
 
-   * Decide on the language you want to make a keyboard for
-   * Go to: tk.unfoldingword.org/users/sign_in
-   * Sign in using your username and password
+  * Решите, для какого языка вы собираетесь создать клавиатуру
+  * Перейдите по ссылке tk.unfoldingword.org/users/sign_in
+  * Введите свое имя и пароль
 
-==== Keyboard Search ====
+==== Поиск клавиатуры ====
 
-Search through the keyboards already available to ensure the language has not been created or started. Three possibilities are available:
+Проведите поиск среди имеющихся клавиатур, чтобы удостовериться, что язык еще не был создан или начат. Доступны три варианта:
 
-   * The keyboard has been created already, you are done!
-   * If the keyboard has been started and not finished, you can:
-      * Wait to see if it is in progress and wait for the completion, or
-      * Continue the keyboard and complete it.
-   * If the desired keyboard is not available, the following suggestions are:
-      * Ask the requestor for more information about the keyboard/language desired specifics; such as the symbols needed for the keyboard
-      * Search for existing keyboards using a search engine
-      * Create a similar, but different keyboard using the information obtained through research.
+  * Клавиатура уже была создана, и это сделали вы!
+  * Если клавиатура начала создаваться, но не была завершена, вы можете: Подождать и посмотреть, продолжается ли работа или Лично продолжить работу по созданию клавиатуры и завершить ее.
+  * Если желаемая клавиатура не доступна, мы предлагаем вам следующее: Попросите запросчика предоставить вам больше информации о клавиатуре/языке желаемой специфики, например, о символах, нужных для клавиатуры Попробуйте поискать среди уже имеющихся клавиатур с помощью поисковой системы Создайте похожую клавиатуру с небольшими отличиями, с помощью информации, полученной в ходе поиска.
 
-Or
+Или
 
-   * Find a Unicode or UTF website with the correct symbols.
+  * Найдите Юникод или сайт преобразования формата Юникода с нужными вам символами.
 
-Then:
+Далее:
 
-==== Create or Edit a Keyboard in tK ====
+==== Создайте или редактируйте клавиатуру в приложении tK ====
 
-At [[http://tk.unfoldingword.org/|http://tk.unfoldingword.org/]], select the keyboard that is desired if available, or select the “Create New Keyboard”* button at the top of the web page:
+На сайте http:%%//%%tk.unfoldingword.org/ выберите желаемую клавиатуру (если такая имеется) или нажмите на кнопку Create New Keyboard (Создать новую клавиатуру)* в верхней части страницы:
 
-   * A new window titled “Create New Keyboard” will appear.
-   * Type the name of the keyboard language in the Keyboard name box
-   * Pick the ISO Language Code by typing the first three to five letters of the language desired and pick the appropriate code from the list, this should fill in the ISO Region Code.
-   * Keyboard Type: Most keyboards the Android 4 row will work, but the 5 row and IOS are also available. 
-   * Press “Go” 
-      * Note: If the Keyboard has already been added, select the appropriate keyboard from the “Languages with Keyboards” list or “Recently Updated Keyboards” list. 
-      * Note: There are plus “+” and “-“ keys at the end of each row. These keys allow more character keys to be added or deleted from each row.
+  * Появится окно Create New Keyboard (Создать новую клавиатуру).
+  * В поле ввода введите название языка клавиатуры
+  * Подберите код языка (ISO), набрав первые три-пять букв нужного вам языка и выберите соответствующий код из списка (для этого необходимо ввести языковой код региона).
+  * Тип клавиатуры: Подойдет большинство четырехрядных клавиатур Android, но доступна также и пятирядная вместе с операционной системой для мобильных устройств.
+  * Нажмите Go (Перейти) Замечание: Если клавиатура уже была добавлена, выберите вам нужную из списков Languages with Keyboards (Языки с клавиатурами) или Recently Updated Keyboards (Недавно обновленные клавиатуры). Замечание: В конце каждого ряда можно найти знаки «+» и «-». С помощью данных кнопок можно добавить или удалить клавиши с символами в каждом ряду.
 
-==== Edit or Add Symbols to a Keyboard ====
+==== Редактирование и добавление символов на клавиатуру ====
 
-In the next window, press the “Edit Keyboard” button in the top, right corner of the screen.
+В следующем окне нажмите кнопку Edit Keyboard (Редактировать клавиатуру) в правом верхнем углу экрана.
 
-In the beginning, these boxes will be blank until they are filled the selected symbol, UTF or Unicode selection.
+Все клавиши будут пустыми до тех пор, пока вы не заполните их нужными вам символами или Юникодом.
 
-==== Input the Symbols of the Desired Language in tK ====
+==== Введите символы нужного вам языка в tK ====
 
-   * Pick the key to be edited by selecting it with the mouse button
-   * Select the Default and Shift characters desired or the corresponding UTF-8 or Unicode string for the character.
-   * Press “Save Changes”
-   * If additional characters are desired for that key
-      * Select the key again and press the “Longpress Character” key once for each additional character desired. You will not be able to enter characters into the long keys until the long key boxes are saved.
-      * Go back and enter the desired character or UTF-8 or Unicode string. 
-   * **Press “Save Changes”**
-   * Note: Unicode U+00xx usually translates to UTF-8 “xx”. For example: Unicode “U+0d38” is equal to UTF-8 “d38”. ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
-
-
+  * С помощью мыши выбирайте клавишу, которая должна быть отредактирована.
+  * Выберите желаемые символы Default (По умолчанию) и Shift (Перемещение) или символы из кодировки UTF-8 (Юникода).
+  * Нажмите Save Changes (Сохранить изменения).
+  * Если для клавиши требуется дополнительный символ, сделайте следующее: Выберите клавишу и один раз нажмите кнопку Longpress Character (Длительное нажатие на символ) для добавления дополнительного символа. Вы не сможете вводить новые символы в длинные клавиши, пока программа сохраняет клавиши. Вернитесь обратно и введите желаемые символы из UTF-8 (Юникода).
+  * Нажмите Save Changes (Сохранить изменения).
+  * Замечание: Юникод U+00xx обычно переводится в UTF-8 “xx”. Например: Юникод “U+0d38” аналогичен UTF-8 “d38”. И еще: Если вам удалось найти верную таблицу или символ Юникода для определенного языка, вы сможете скопировать и вставить символы или коды из документа, созданного в программах Word, Excel, Adobe PDF, в клавиши клавиатуры в режиме Edit (Редакировать).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[ru:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[ru:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[ru:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
+  * [[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
+  * [[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]
 

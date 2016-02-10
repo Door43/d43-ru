@@ -1,38 +1,27 @@
-===== Language Community Evaluation Questions =====
+===== Вопросы для «Оценки перевода носителями языка» =====
 
-This module answers the question: How can I show that the community approves the translation?\\
+This module answers the question: Как я могу показать, что сообщество утвердило перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[ru:ta:vol1:checking:other_methods|Other Methods]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
+  * [[ru:ta:vol1:checking:other_methods|Другие методы]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
 
-We, the members of the translation team, affirm that we have checked the translation with members of the language community. 
+Мы - члены команды переводчиков, подтверждаем, что мы отредактировали перевод вместе с представителями языкового сообщества.
 
-  * We have checked the translation with old people and young people, and with men and women.
-  * We used the comprehension questions when we checked the translation with the community.
-  * We corrected the translation to make it clearer and easier to understand in the places where the community members did not understand it well.
+  * Мы протестировали перевод на пожилых и молодых людях, а также - на представителях мужского и женского пола.
+  * Мы задавали вопросы на понимание текста в процессе совместной с сообществом.
+  * Мы исправили перевод, чтобы он стал более точным и понятным в тех местах, где текст был плохо понят членами языкового сообщества.
 
-Please also answer the following questions. The answers to these questions will help those in the wider Christian community know that the target language community finds the translation to be clear, accurate, and natural. 
+Убедительно просим вас ответить на следующие вопросы. Ответы на предложенные вопросы помогут представителям более крупного христианского сообщества узнать, что носители целевого языка охарактеризовали перевод как понятный, правильный и благозвучный.
 
-  * List a few passages where the community feedback was helpful. How did you change these passages to make them clearer?
-\\
-\\
-\\
-\\
-\\
-  * Write an explanation for some of the Important Terms, explaining how they are equal to terms used in the source language. This will help the checkers understand why you chose these terms.
-\\
-\\
-\\
-\\
-\\
-  * Does the community verify that there is a good flow to the language when the passages are read out loud? (Does the language sound like the writer was a person from your own community?)
+  * Перечислите несколько отрывков, где ответы носителей языка вам пригодились. Как вы отредактировали эти отрывки, чтобы они стали более понятными?
+  * Выпишите несколько важных понятий и дайте им определение; объясните, как они соответствуют понятиям, приведенным в исходном языке. Это поможет редакторам понять, почему вы употребили именно эти термины.
+  * Оценило ли сообщество перевод на благозвучность, когда текст громко зачитывался? (Звучит ли текст так, будто бы он был написан носителем вашего языка?)
 
-The community leaders might want to add their own information to this or make a summary statement about how acceptable this translation is to the local community. This can be included as part of the Level Two Community Check Evaluation information. The wider church leadership will have access to this information, and it will help them validate the translation as approved by the local Christian community when they do the Level Two Church check and also Level Three Checking. 
-
+Руководители общины должны стремиться прокомментировать перевод и дать заключение о том, насколько принятым является этот перевод в поместной общине. Данная информация может быть присоединена к той, что была получена в ходе второго уровня - «Оценка перевода носителями языка». Церковное руководство должно иметь доступ к данной информации, и она поможет им утвердить перевод как одобренный поместной христианской общиной (при выполнении второго уровня церковной проверки, а также при выполнении третьего уровня редакции).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[ru:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
+  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
+  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
 

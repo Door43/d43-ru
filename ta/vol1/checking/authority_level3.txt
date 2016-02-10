@@ -1,21 +1,20 @@
-===== Authority Level 3 =====
+===== Третий уровень управления =====
 
-This module answers the question: What is authority level 3?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_level2|Authority Level 2]]
+This module answers the question: Что представляет собой третий уровень управления?\\
+Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_level2|Второй уровень управления]]
 
-==== Authority Level 3: Affirmation by Church Leadership ====
+==== Третий уровень управления: утверждение перевода руководством церкви ====
 
-The intent of this level is to affirm that the translation agrees with the intent of the original texts and with the sound doctrine of the Church historic and universal. 
+Цель данного уровня - утвердить, что перевод соответствует замыслу оригинала и здравому учению исторической и вселенской Церкви.
 
-To achieve this level, the translation team will submit the translation for review by the highest leadership of the Church that speaks the language. It is best if these leaders represent as many of the major groups of churches that exist in the language community as possible. Level 3 is thus achieved by the mutual agreement of the leadership of multiple church networks.
+Для прохождения данного уровня команда переводчиков должна предоставить перевод на проверку церковным руководителям высшего ранга, являющимся носителями языка. Лучше всего, если эти руководители будут избираться из разных церквей, существующих в языковом сообществе. Таким образом, третий уровень проверки достигается общим соглашением руководителей разветвлённой рабочей церковной сети.
 
-The translation team will edit the translation so that the leadership of these church networks affirm that it is an accurate translation and will be accepted by their church fellowships.
+Команда переводчиков должна отредактировать перевод, чтобы руководители церковной рабочей сети подтвердили его правильность и пригодность для использования церковным братством.
 
-Level 3 is completed when the translation has been thoroughly checked and approved by the leadership (or their delegates) of at least two church networks that have personnel trained in biblical languages and content.
-
+Третий уровень проверки считается завершенным, когда перевод был тщательно проверен и одобрен руководством (делегатами) по крайней мере двух церквей, у которых есть персонал, знающий библейские языки и содержание Писания.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
+  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
 

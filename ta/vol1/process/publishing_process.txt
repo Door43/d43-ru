@@ -1,37 +1,35 @@
-===== How to Publish =====
+===== Как опубликовать =====
 
-This module answers the question: How do I publish my content?\\
+This module answers the question: Как опубликовать содержание?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Introduction to Publishing]]
-  * [[ru:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]
+  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * [[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]
 
-==== Starting the Publishing Process ====
+==== В начале процесса публикации ====
 
-Before you start the Publishing Process, please be sure that you have met all the [[ru:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]. 
+Перед тем, как вы приступите к процессу публикации, удостоверьтесь, что вы ознакомились со всеми предварительными условиями публикации.
 
-To start the publishing process, someone from the team will need fill out the [[http://td.unfoldingword.org/publishing/publish/request/|Request to Publish Form]]. A few things to note about this form: 
+Чтобы запустить процесс публикации, сотрудник команды переводчиков должен заполнить «Заявку на публикацию». Вот несколько деталей относительно данной формы:
 
-   * **An email address is required** - During the publishing process, the requester will be emailed if there are any problems, and also at the end of the process, requesting a final check be made. 
-   * **Documentation of Contributors is required** - To document who was involved, each Checking Level requires that all contributors sign the [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[ru:ta:vol1:intro:open_license|Open License]]. This documentation is required to start the publishing process. You can download [[https://unfoldingword.org/forms/|signature forms]].
-     * Note: To help protect the identity of those who might desire it, pseudonyms/usernames will be cited (if provided) rather than real names in the list of contributors. 
-   * **A "pre-flight" check** - Immediately after submitting the Request to Publish form, a computerized check will take place. This check ensures that everything has been translated and that content appears in the correct web pages in Door43. It also does a statistical check which compares the standard deviation from the source language to the target language. Abnormally high or low deviations are flagged and all results of the "pre-flight" check are processed and returned to the requester within a minute or so. If any changes need to be made, they should be made before proceeding.
+  * Требуется указать электронный адрес - Если в процессе публикации возникнут какие-либо проблемы, то заявителю будет оправлено сообщение; также ему будет отправлено уведомление о завершении процесса с просьбой осуществить завершающую проверку.
+  * Требуется документация от сотрудников - Для регистрации участников на каждом этапе рабочего процесса требуется, чтобы все сотрудники подписали «Исповедание веры», «Рекомендации для перевода» и «Открытую лицензию». Данные бумаги необходимы для того, чтобы приступить к процессу публикации. Вы можете загрузить на свой компьютер все необходимые для подписи документы. Замечание: В графе «имя сотрудника» может быть указан псевдоним, а не реальное имя для защиты тех, кто не желает быть узнанным.
+  * Допечатная проверка - Сразу же после того, как была подана «Заявка на публикацию», начинается компьютерная проверка. В ходе нее устанавливается, весь ли текст был переведен и все ли содержание отобразилось на страницах сайта Door43. Она также осуществляет статистическую проверку, в ходе которой сравнивается стандартное отклонение целевого языка от исходного. Отмечаются все аномально высокие или низкие отклонения, и все результаты допечатной проверки обрабатываются и возвращаются запросчику примерно в течение минуты. Перед продолжением процесса публикации должны быть внесены все требующиеся изменения.
 
-==== During the Publishing Process ====
+==== В ходе процесса публикации ====
 
-After the Request to Publish form has been submitted, the following will happen:
+После предоставления заявки о публикации происходит следующее:
 
-   * **A documentation check** - someone from the unfoldingWord team will check to make sure all the documentation is in place and that the procedures followed during the checking process correspond to the guidelines laid out in the [[https://unfoldingword.org/quality/|Checking Levels]]. 
+  * Проверка документации - сотрудник команды unfoldingWord проверит, все ли документы на месте и все ли процедуры проверки были выполнены в соответствии с положениями, установленными касательно каждого уровня редакции.
 
-If any of the documentation is not correct, the requester will be emailed and the publishing process will stop until the problem is resolved and a "Request to Continue Publishing" form is filled out and submitted. 
+Если что-то в документации является неверным, заявителю будет отправлено электронное сообщение, и процесс публикации будет приостановлен, пока проблема не будет решена и пока не будет заполнена и представлена «Заявка о продолжении публикации».
 
-==== Finishing the Publishing Process ====
+==== Завершение процесса публикации ====
 
-When the publishing process is complete, the content will be published to the unfoldingWord catalogue which makes it available on the [[http://unfoldingword.org/stories|unfoldingWord website]] as a print-ready PDF and viewable online. It will also be published to the [[https://unfoldingword.org/app/|unfoldingWord mobile app]]. (In order for this newly published content to appear on your unfoldingWord app, you may need to download the latest content from the web.)
+Когда процесс публикации завершен, текст будет опубликован в каталоге unfoldingWord, который доступен на сайте unfoldingWord как готовый к печати файл PDF, просматриваемый в онлайн режиме. Он также будет опубликован в мобильном приложении unfoldingWord (чтобы это новое содержание появилось в вашем приложении unfoldingWord, вам может потребоваться загрузить самую последнюю версию текста из Интернета).
 
-The requester will be emailed and informed that the publishing process has been completed and they will be requested to look over the published content to ensure that everything "looks right." 
-
+Заявитель получит электронное уведомление о завершении процесса публикации, и ему будет отправлена просьба о том, чтобы он просмотрел опубликованное содержание и удостоверился, что все в порядке.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:intro_share|Introduction to Distribution]]
+  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
 

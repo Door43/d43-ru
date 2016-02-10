@@ -1,65 +1,64 @@
-===== Idiom =====
+===== Идиома =====
 
-This module answers the question: What is an idiom?\\
+This module answers the question: Что такое идиома?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
 
 ==== Definition ====
 
-An idiom is a group of words that has a meaning that is different from what one would understand from the meanings of the individual words.
+Идиома (устойчивое выражение) - это группа слов, объединённая общим значением, отличающимся по смыслу от слов в нее входящих.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-  * Use the original idiom if it would be clearly understood in your language.
-  * Use a different idiom that people use in your own language that has the same meaning.
-  * Translate the meaning plainly without using an idiom.
+  * Используйте идиомы, которые понятны в вашем языке.
+  * Используйте другую идиому с аналогичным значением, употребляющуюся в вашем языке.
+  * Переведите точное значение без использования идиомы.
 
-==== Examples from the Bible ====
+==== Примеры из Библии ====
 
->"But I have __a baptism to be baptized with__, and how distressed I am until it is accomplished!" -Luke 12:50 (WEB) 
+> «Крещением должен Я креститься; и как Я томлюсь, пока сие совершится!» (Луки 12:50)
 
-A "baptism to be baptized with" is an idiom for suffering. Jesus meant that he would soon suffer greatly.
+Выражение «крещением должен Я креститься» - это идиома, передающая значение «страдание». Иисус имел в виду, что вскоре Ему необходимо будет претерпеть огромные страдания.
 
->"Moses came near to the camp, and saw the calf and the dancing, and __Moses' nose burned__," -Exo 32:19
+> «Когда же он (Моисей) приблизился к стану и увидел тельца и пляски, тогда он воспламенился гневом» (Исход 32:19)
 
-"His nose burned" is a Hebrew idiom that means, "He became angry."
+«Воспламениться гневом» - это еврейская идиома, означающая «сильно рассердиться».
 
->"You are all __sons of__  light, and __sons of__  the day." -1 Thes 5:5a (WEB) 
+> «Ибо все вы - сыны света, сыны дня.» (1 Фес. 5:5а)
 
-The phrase “sons of” is a Hebrew idiom used to refer to people who have certain characteristics. Jews used this idiom even when speaking Greek. "Sons of light" refers to people who live according to the truth.
+Слово «сыны» в еврейском языке обозначает людей с определенными качествами. Евреи употребляли эту идиому даже при общении на греческом языке. «Сыны света» - это люди, живущие согласно истине.
 
-==== Examples from English ====
+==== Примеры из русского языка ====
 
->"He saw the light."
+> «Он прозрел.»
 
-means "He finally understood."
+означает «Он наконец понял».
 
->"It cost an arm and a leg."
+> «Это дорого ему обошлось.»
 
-means "It was very expensive."
+означает «Это было очень дорого».
 
->"Let's play it by ear."
+> «Давайте решим по ходу дела.»
 
-means "Let's improvise" or "Let's see what happens and make decisions based on that."
+означает «Будем импровизировать» или «Давайте посмотрим, что получится, а потом, исходя из этого, примем решение».
 
->"She had butterflies in her stomach."
+> «У нее бегали по спине мурашки.»
 
-means "She was nervous."
-
+означает «Она нервничала».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[ru:ta:vol1:translate:figs_simile|Simile]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[ru:ta:vol1:translate:figs_irony|Irony]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[ru:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
-  * [[ru:ta:vol1:translate:figs_events|Order of Events]]
-  * [[ru:ta:vol1:translate:figs_parables|Parables]]
+  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
+  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
+  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
+  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
+  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
+  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
+  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
+  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
 

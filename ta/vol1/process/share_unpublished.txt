@@ -1,35 +1,30 @@
-===== How to Share Unpublished Content =====
+===== Как распространять неопубликованные материалы =====
 
-This module answers the question: How can I share unpublished content?\\
+This module answers the question: Как распространять неопубликованные материалы?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_share|Introduction to Distribution]]
+  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
 
-==== Sharing Unpublished Content from translationStudio ====
+==== Обмен неопубликованным содержанием в translationStudio ====
 
-Sharing unpublished content that is contained on translationStudio is easy. Click [[ru:ta:vol1:tech:ts_share|here]] to see how.
+Процесс обмена неопубликованного содержания в translationStudio является очень простым. Нажмите сюда, чтобы посмотреть, что нужно сделать.
 
-==== Sharing Unpublished Content from Door43 ====
+==== Обмен неопубликованным содержанием на сайте Door43 ====
 
-If someone has access to the internet, simply send them the link and they will be able to access the content online. 
+Если у вас есть доступ к Интернету, просто пошлите ссылку, и ваш сотрудник сможет иметь доступ к содержанию в режиме онлайн.
 
-To share the content offline, 
+Чтобы поделиться содержанием в автономном режиме
 
-   * Log in to Door43
-   * Go to the page you want to share
-   * On the right-hand side, click on the icon of a page with birds on it for a .odt file, or click on the icon underneath that for a .pdf download. 
-   * These files can be merged to create a resource and shared as desired. 
+  * Зарегистрируйтесь на сайте Door43
+  * Перейдите на ту страницу, которой вы хотели бы поделиться
+  * Выберите значок с изображением птичек в правой части страницы, чтобы загрузить файл в формате .odt или нажмите на знак, расположенный ниже, чтобы загрузить файл в формате .pdf.
+  * Эти файлы можно объединить, чтобы создать материал и, по желанию, его распространять.
 
-In addition to this, 
+В добавок ко всему,
 
-   * At the bottom right of each page are three export buttons:
-       * TXT - exports the page as a .txt file
-       * HTM - exports the page as a .html file
-       * ODT - exports the page as a .odt file
-   * These files can be merged to create a resource and shared as desired.
-
-
+  * В правом нижнем углу каждой страницы расположены три кнопки для экспорта: TXT - экспортирует страницу как файл в формате .txt HTM - экспортирует страницу как файл в формате .html ODT - экспортирует страницу как файл в формате .odt
+  * Эти файлы можно объединить, чтобы создать материал и, по желанию, его распространять.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_published|How to Share Published Content]]
+  * [[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]
 

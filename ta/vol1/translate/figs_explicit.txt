@@ -1,36 +1,34 @@
-===== Explicit and Implicit =====
+===== Эксплицитный и имплицитный =====
 
-This module answers the question: What do the words explicit and implicit mean?\\
+This module answers the question: Что означают слова «эксплицитный» и «имплицитный»?\\
 ==== Definition ====
 
-There are two different forms of communication found in both written and spoken messages. One is called **//explicit//** and the other is called //**implicit**//. When a speaker, or writer, has a message to give, he has a particular audience in mind as he gives the message. This affects the form of his message and his decision on what information to include or leave out.
+Существует две отличные друг от друга формы общения, выражающиеся как в письменной, так и в устной формах. Одна из них - эксплицитная (прямая, ясная, открытая - прим. пер.), другая же - имплицитная (скрытая). Когда у говорящего или пишущего есть сообщение, которое нужно передать, он представляет в уме определенную аудиторию, для которой предназначается сообщение. Это влияет на форму его послания и на то, какую информацию он решает включить или пропустить.
 
-  * Information that the speaker states clearly is called **//explicit//** information. This is the information that the speaker or writer has decided to include in what he says.
-  * Information that the speaker does not state clearly is called //**implicit**//information. This is the information that the speaker or writer expects his audience to already know, and so he knows that he does not need to include that information in what he writes.
+  * Информация, которую говорящий сообщает прямо, называется эксплицитной. Это сведения, которые говорящий или пишущий решает включить в послание.
+  * Информация, которая не выражается открыто, называется имплицитной. Это информация, которую, по мнению автора, аудитория уже знает, поэтому он считает, что ему не нужно включать ее в свое послание.
 
-When a writer writes, he has in mind a certain audience who will read what he writes. The writer has a good idea of what this audience does and does not know about what he is writing about, and so the writer chooses to include the important information that he knows his audience does not know. He chooses to not include the information that his audience already knows. 
+Когда автор пишет, он представляет перед собой определенную аудиторию, которая будет читать его послание. У него есть ясное представление о том, что его аудитория знает и что она не знает в отношении всего им написанного, и он выбирает, какую важную информацию, неизвестную его читателям, ему следует включить. И он не сообщает своим читателям то, что им уже известно.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-Although implicit information is not stated in words but is only implied, it is information that the hearer or reader needs to know if he is to understand the meaning of the message. The speaker or writer has succeeded in communicating his message only if the hearer or reader correctly understands what was clearly stated as well as what was implied.
+Несмотря на то, что имплицитная информация не выражается словами, а только подразумевается, она нужна для того, чтобы слушатель или читатель мог понять смысл послания. Говорящий или пишущий достигнет цели в передаче своего послания только в том случае, если слушатель или читатель правильно поймет то, что ясно утверждалось, равно и то, что подразумевалось.
 
-When we translate the Bible, we are making it available to a new audience. This new audience will know some things about what is in the Bible, but often they will not know some of the implicit information that the original writer left out because his original audience already knew it. The new target audience, then, will need to know some of that implicit information in order to understand some parts of the text. So in order for the Bible to communicate its message successfully, the translator needs to include some of the information that the original writer left as implicit for the original audience. If this information can be included in just a few words, then the translator may decide to include this information in the text of the translation. But if it will take more than a few words, it is best to include this information in a footnote. The translator will need to think about his target audience and decide when to include some of this implicit information. Checking the translation with the community is a good way for the translator to find out where he needs to include some implicit information so that they can understand the translation.
-
-
+Когда мы переводим Библию, она становится доступной новому кругу читателей. Последние могут иметь представление о том, что написано в Библии, но нередко им не известна имплицитная информация, переданная исконным автором, потому что первоначальный читатель был с ней знаком. В таком случае, новой аудитории необходимо будет узнать имплицитную информацию, чтобы понять некоторые моменты в тексте. Поэтому для успешной передачи Библейского послания переводчику необходимо включить определенные сведения, которые исконный автор оставил имплицитными для своих первоначальных читателей. Если данная информация может быть передана несколькими словами, тогда переводчик может включить ее непосредственно в текст перевода. Но если она внушительного объема, то лучше всего сделать пояснительную сноску. Переводчик должен представлять перед собой читателя и решить, когда следует включить в текст имплицитные сведения. Проверка перевода вместе с общиной является хорошим способом для переводчика выяснить, где необходимо включить имплицитную информацию, чтобы перевод был понят аудиторией.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[ru:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[ru:ta:vol1:translate:figs_simile|Simile]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[ru:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[ru:ta:vol1:translate:figs_irony|Irony]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
-  * [[ru:ta:vol1:translate:figs_events|Order of Events]]
-  * [[ru:ta:vol1:translate:figs_parables|Parables]]
+  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
+  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
+  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
+  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
+  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
+  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
+  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
+  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
 

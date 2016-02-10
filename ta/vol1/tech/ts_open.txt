@@ -1,46 +1,34 @@
-===== Opening a Translation Project =====
+===== Открытие переводческого проекта =====
 
-This module answers the question: How do I open a translation project in translationStudio?\\
+This module answers the question: Как открыть переводческий проект в translationStudio?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
 
-==== First Time Use ====
+==== Первое использование ====
 
-The first time you use translationStudio, the app will prompt to set the target language and then return to the **"My Translation Projects" Menu**. Otherwise you will begin at the **My Translation Projects Menu**.
+Когда вы в первый раз приступаете к использованию translationStudio, приложение потребует от вас выбрать целевой язык, а затем - вернуться в меню My Translation Projects (Мои переводческие проекты). В противном случае, вы начнете с меню My Translation Projects.
 
-==== Complete these steps to open a Translation Project ====
+==== Для открытия переводческого проекта, выполните следующее: ====
 
-From the "My Translation Projects" Menu:
-  - Tap on the + in the blue circle icon located at the top right of the screen.
-  - Choose the target language 
-    - Tap on the language 
-    - Scroll to find the language
-  - Tap on to choose either the Bible:NT, Bible:OT, or Open Bible Stories
-    - Tap on a book of the Bible or Open Bible Stories opens on story 1, The Creation.
-  - Tap on a Source Language to choose one or more languages (See: [[ru:ta:vol1:tech:ts_select]] for more information)
-From the edit screen:
-  - Tap on 3 dots located at bottom left of the screen.
-  - Choose 'My Translations' from the menu.
-  - Follow the directions above.
-
+В меню My Translation Projects: - Нажмите на + в голубом кружочке, расположенного в правом верхнем углу экрана. - Выберите целевой язык - Нажмите на язык - Прокрутите список, чтобы найти язык - Выберите Библию (Ветхий Завет, Новый Завет или Библию) или «Истории открытой Библии» - Нажмите на книгу Библии или на «Историях открытой Библии» - откроется история №1 «Сотворение». - Нажмите на исходный язык для выбора одного или нескольких языков (см.: en:ta:vol1:tech:ts_select для получения более подробной информации). Из окна редактирования: - Нажмите на трех точках, расположенных в левом нижнем углу экрана. - Выберите My Translations (Мои переводы) из меню. - Следуйте вышеописанным указаниям.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

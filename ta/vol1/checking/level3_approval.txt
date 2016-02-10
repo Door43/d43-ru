@@ -1,26 +1,21 @@
-===== Level 3 Approval =====
+===== Утверждение третьего уровня =====
 
-This module answers the question: How can I affirm a Level 3 approval of the translation?\\
+This module answers the question: Как я могу получить утверждение третьего уровня редакции?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]
-  * [[ru:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]
-  * [[ru:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
+  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
+  * [[ru:ta:vol1:checking:level3_questions|Вопросы для третьего уровня редакции]]
+  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
 
-==== Proper Documentation for Level Three Affirmation ====
+==== Документация, необходимая для утверждения третьего уровня ====
 
-I, as a representative of the __   <fill in name of church network or Bible translation organization>  __ Church Network or Bible translation organization serving the __  <fill in the name of the language community>  __ language community, approve of the translation, and affirm the following:
-  - The translation conforms to the Statement of Faith and Translation Guidelines.
-  - The translation is accurate and clear in the target language.
-  - The translation uses an acceptable style of the language.
-  - The community approves of the translation.
+Я, являясь представителем церковной рабочей сети %%__%% %%__%% или организации по переводу Библии %%__%% %%__%%, служащей языковому сообществу, одобряю перевод и утверждаю следующее: - Перевод соответствует «Исповеданию веры» и «Рекомендациям для перевода». - Перевод на целевой язык является правильным и понятным. - В переводе использован подходящий языковой стиль. - Община одобряет перевод.
 
-If any problems remain unresolved after meeting with the translation team a second time, please make note of them here.
+Если после второй встречи с командой переводчиков какие-либо проблемы остались неразрешенными, обозначьте их здесь.
 
-Signed: __  <sign here>  __  
+Подпись: %%__%% %%__%%
 
-Position: __  <fill in your position here>  __
+Должность: %%__%% %%__%%
 
-After filling out this form, you will need to [[ru:ta:vol1:process:publishing_process|request to publish]] so that your translation can be published at checking level 3.     
-
+После заполнения данной формы вам необходимо обратиться с просьбой о публикации перевода под третьем уровнем редакции.
 
 

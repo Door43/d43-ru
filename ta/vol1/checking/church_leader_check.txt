@@ -1,27 +1,18 @@
-===== Church Leader Check =====
+===== Редактирование, осуществляемое руководителями церкви =====
 
-This module answers the question: How can the church leaders help improve the translation?\\
+This module answers the question: Как руководители церкви могут помочь в улучшении перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
 
-==== How to do a Church Leader Check ====
+==== Как церковное руководство должно осуществлять проверку ====
 
-After the translation has been checked by community members for clarity, it will be checked by a group of church leaders for accuracy. This group must consist of at least three church leaders who are native speakers of the target language, and who understand well one of the languages in which the source text is available. They should not be related to, or otherwise closely connected with, the translator (or translation team). Usually these reviewers will be pastors of church congregations. These church leaders should represent the different churches in the language community. That is, it is best to include church leaders from different church networks. We recommend that the group include church leaders from three different church networks, if the community has that many.
+После того, как перевод был проверен членами общины на понятность, он должен быть проверен группой церковных руководителей на свою правильность. Данная группа должна состоять хотя бы из трех церковных руководителей, являющихся носителями целевого языка, хорошо понимающие один из исходных языков, на котором доступен текст. Нельзя, чтобы они как-то относились или были тесно связаны с переводчиком (командой переводчиков). Хорошо, если ими станут пасторы церковных общин. Они будут представителями различных церквей в языковом сообществе. То есть лучше всего, если они будут избираться из рабочей сети разных церквей. Мы рекомендуем, чтобы в группу были включены лидеры трех разных церковных рабочих сетей, если таковые имеются в вашем обществе.
 
-These reviewers should follow these steps:
-  - Read the [[:en:ta:vol1:intro:statement_of_faith]] and [[:en:ta:vol1:intro:translation_guidelines]] to make sure that the translation is in agreement with both of those as they review the translation.
-  - Answer the questions about the translator or translation team that are located [[:en:ta:vol1:translate:qualifications|here]].
-  - Verify that the translation has been done in a style that is acceptable to the intended audience by asking the questions [[:en:ta:vol1:checking:acceptable|here]].
-  - Verify that the translation accurately communicates the meaning of the source text by following the guidelines [[:en:ta:vol1:checking:accuracy_check|here]].
-  - Verify that the translation is complete by following the guidelines [[:en:ta:vol1:checking:complete|here]].
-  - After you have reviewed several chapters or one book of the Bible, meet with the translation team and ask about each problem. Discuss with the translation team how they might adjust the translation in order to fix the problems. Make plans to meet again with the translation team at a later time, after they have had time to adjust the translation and test it with the community.
-  - Meet again with the translation team to verify that they have fixed the problems.
-  - Affirm that the translation is good. Click [[:en:ta:vol1:checking:good|here]] to do that on the Level Two Affirmation page.
-
+Участники этого уровня проверки должны предпринять следующие шаги: - Прочитайте :en:ta:vol1:intro:statement_of_faith и :en:ta:vol1:intro:translation_guidelines, чтобы удостовериться, что перевод соответствует требованиям обоих документов. - Ответьте на предложенные вопросы о переводчике или команде переводчиков. - С помощью предложенных вопросов проверьте, насколько данный перевод был выполнен в стиле, приемлемом для предполагаемой аудитории. - Следуя предложенным указаниям, проверьте, насколько правильно перевод передает значение исходного текста. - Пользуясь предложенными указаниями, проверьте перевод на законченность. - После того, как вы проверите несколько глав или книгу Библии целиком, встретьтесь с командой переводчиков и обсудите с ними проблемные моменты. Подумайте, как они могут исправить свой перевод, чтобы эти проблемные моменты были откорректированы. Запланируйте еще одну встречу с переводчиками после того, как они внесут все необходимые изменения в текст и протестируют его на общине. - Еще раз встретьтесь с командой переводчиков, чтобы проверить, были ли проработаны проблемные моменты. - Подтвердите качество перевода. Нажмите сюда, чтобы попасть на страницу утверждения второго уровня проверки.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:accuracy_check|Accuracy Check]]
-  * [[ru:ta:vol1:checking:accurate|Accurate Translation]]
-  * [[ru:ta:vol1:checking:good|Level 2 Affirmation]]
+  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
+  * [[ru:ta:vol1:checking:accurate|Правильный перевод]]
+  * [[ru:ta:vol1:checking:good|Утверждение второго уровня]]
 

@@ -1,36 +1,35 @@
-===== Report a Problem =====
+===== Отослать отчет об ошибке =====
 
-This module answers the question: How do I report a problem?\\
+This module answers the question: Как отослать отчет об ошибке?\\
 Before you start this module have you learned about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
 
-==== Reporting Problems ====
+==== Отчет об ошибках ====
 
-Sometimes translationStudio may not work as expected.\\
+Иногда translationStudio может работать не так, как вы ожидали.
 
-At times the program may restart, also called a 'crash'. This is most likely not because of what the translator did. When this happens, the **Feedback** window will open and a request to type into the space an explanation of what was being done just before the program restarted.
+Временами может произойти перезагрузка программы или сбой в работе программы. Вероятнее всего, причина этого не кроется в действиях переводчика. Когда такое происходит, открывается окно обратной связи, где нужно напечатать, что происходило до перезагрузки программы.
 
-At other times, the translator may want to mention a problem with the program or content. For this, go to the Translating Editing Window and tap on the 3 dots found at the bottom left of the window. Choose **Feedback** from the list. Use the keyboard to type in an explanation of the problem that you have been experiencing. 
+Иногда переводчик может захотеть сообщить о проблеме в программе или содержании. Для этого перейдите в окно редактирования перевода и нажмите на трех точках в нижнем левом углу экрана. Выберите из списка Feedback (Обратная связь). С помощью клавиатуры введите объяснение той проблемы, с которой вы столкнулись.
 
-**Note:** The Feedback option is only available when there is an Internet connection.
-
+Заметьте: Функция обратной связи доступна только при подключении к Интернету.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
 

@@ -1,25 +1,23 @@
-===== Getting Started =====
+===== Приступая к работе =====
 
-This module answers the question: What do I need to have in place before getting started?\\
+This module answers the question: Что нужно иметь в наличии перед началом работы?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:process_manual|Introduction to the Process Manual]]
+  * [[ru:ta:vol1:process:process_manual|Введение в «Руководство по работе с материалами»]]
 
-==== How to Get Started ====
+==== Как начать ====
 
-Before getting started, you must be able to:
+Перед тем, как приступить к работе, вам следует
 
-   * Agree with the [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]], [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[ru:ta:vol1:intro:open_license|Open License]]. (Everyone involved in the translation and checking will need to [[https://unfoldingword.org/forms|sign a statement]] that work is being done according to those standards.)
-   * Read with fluency the source language in which the text and translation helps are available.
-   * Gain access to the source text and translation helps either in print form, or online at https://door43.org, or through translationStudio - our mobile app platform (see https://unfoldingword.org/translationstudio/).
-   * Have access to an internet-connected computer or tablet where the translation can be uploaded and audio (if desired) can be recorded. See "[[ru:ta:vol1:tech:hardware|Suggested Hardware]]".
+  * Поставить свое согласие под «Исповеданием веры», «Рекомендациями для перевода» и «Открытой лицензией» (Любой участник перевода и проверки должен подписать бумагу о том, что его работа будет выполняться в соответствии с требуемыми стандартами).
+  * Просмотреть исходный текст и материалы к нему.
+  * Получить доступ или к печатной версии исходного текста, или - к электронной на сайте https:%%//%%door43.org, а также через translationStudio - нашу мобильную платформу (см. https:%%//%%unfoldingword.org/translationstudio/).
+  * Получить доступ к компьютеру или планшету, подключенным к Интернету, через которые перевод можно будет загрузить на удаленный компьютер и записать, по желанию, аудиоматериалы. См. «рекомендуемое оборудование».
 
-You should be able to: 
+Вы должны
 
-   * Know where to get answers to your questions. See "[[ru:ta:vol1:intro:finding_answers|Get answers to my questions]]".
-
-
+  * Знать, где получить ответы на свои вопросы. См. «Получить ответы на свои вопросы».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
 

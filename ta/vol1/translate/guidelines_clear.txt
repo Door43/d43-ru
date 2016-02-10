@@ -1,54 +1,54 @@
-===== Create Clear Translations =====
+===== Сделать перевод понятным =====
 
-This module answers the question: How do I create clear translations?\\
+This module answers the question: Как сделать перевод понятным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
 
-==== Clear Translations ====
+==== Понятный перевод ====
 
-To create a clear translation from the source text into your language:
-  * Check the pronouns in the source text and make it clear to whom or what each pronoun refers.
-  * Understand who is doing the action. A clear translation will identify the subject that is doing the action and the object that has the action done to it.
-  * You may need to change each EVENT idea into an active clause if it is in some other form, such as an abstract noun.
-  * You may need to change passive verbs to the active form.
-  * Look at each “of” phrase to identify the meaning of the relationship between the nouns connected by "of."
-  
-=== Check Pronouns ===
+Для того, чтобы создать понятный перевод с исходного текста на целевой,
 
-You will need to check the pronouns in the source text and make it clear to whom or what each pronoun refers. Pronouns are words that stand in the place of a noun or a noun phrase. They refer back to something that has already been mentioned.
+  * Найдите в иностранном тексте все местоимения и посмотрите, к кому или к чему относится каждое из них.
+  * Обратите внимание на то, кто совершает действие. В понятном переводе будет присутствовать подлежащее, совершающее действие, и дополнение, по отношению к которому это действие будет совершаться.
+  * Любое СОБЫТИЕ может заменяться активной формой, когда оно выражено как-то иначе, например, абстрактным существительным.
+  * Страдательные глаголы можно заменить действительными.
+  * Обращайте внимание на фразы, содержащие притяжательные формы, чтобы определить отношения между существительными.
 
-Always check carefully that it is clear to whom or what each pronoun refers.
+=== Проверка местоимений ===
 
-=== Identify Participants ===
+Обратите внимание на местоимения в исходном тексте и выясните, к кому или к чему относится каждое из них. Местоимения - это слова, замещающие существительные или фразу, состоящую из существительных. Местоимения относятся к чему-то, о чем уже говорилось в тексте.
 
-Next you need to understand who is doing the action. A clear translation will identify the PARTICIPANTS. The PARTICIPANTS in an event are the people or things that take part in that event. The subject that is doing the action and the object that has the action done to it are the main PARTICIPANTS. When re-expressing an EVENT idea as a verb, it is often necessary to state who or what are the PARTICIPANTS in that event. Usually this will be clear from the context.
+Всегда тщательно проверяйте, понятно ли, к кому ли к чему относится каждое местоимение.
 
-=== Clearly Express Event Ideas ===
+=== Определите участников ===
 
-A clear translation may need to express EVENT ideas as verbs. You may need to change each EVENT idea into an active clause to be sure it is understood. 
+Следующее, что вам нужно будет понять - это кто совершает действие. В понятном переводе всегда ясно, кто является УЧАСТНИКОМ. УЧАСТНИКАМИ события могут быть люди или предметы, принимающие участие в событии. Подлежащее, совершающее действие, и дополнение, на которое это действие направлено, являются главными УЧАСТНИКАМИ. Когда СОБЫТИЕ выражается предикатом, часто необходимо установить, кто или что являются УЧАСТНИКАМИ в этом событии. Обычно это ясно из контекста.
 
-When preparing to translate, it is helpful to look for any EVENT ideas in the passage, especially those which are expressed by some form other than a verb. See if you can re-express the meaning using a verb to express the EVENT idea. If, however, your language also uses nouns to express EVENT ideas and the event or action sounds more natural as a noun, then use the noun form.
+=== Понятное выражение мысли о событии ===
 
-=== Passive Verbs ===
+Чтобы перевод был понятным, может потребоваться выразить СОБЫТИЕ как предикат. Возможно, вам понадобится изменить каждую мысль о СОБЫТИИ в активное предложение, чтобы оно могло стать понятным.
 
-A clear translation may need to change any PASSIVE verbs to the ACTIVE form.
+В ходе подготовки к переводу очень полезно найти все СОБЫТИЯ в отрывке, особенно те, которые выражены не предикатом. Посмотрите, сумеете ли вы передать значение, используя предикат для выражения СОБЫТИЯ. Однако, если в вашем языке также используются существительные для выражения событий, и это событие или действие звучат лучше как существительное, тогда оставьте их в тексте как данную часть речи.
 
-In the ACTIVE form, the subject of the sentence is the person who does the action. In the PASSIVE form, the subject of the sentence is the person or thing to which the action is done. For example, "John hit Bill" is an active sentence. "Bill was hit by John" is a passive sentence.
+=== Глагол в страдательной форме ===
 
-Many languages do not have a PASSIVE form, only the ACTIVE form exists. Therefore, it may be necessary to turn a sentence from the PASSIVE form into the ACTIVE form.
+Для того, чтобы сделать перевод понятным, возможно, потребуется изменить СТРАДАТЕЛЬНЫЕ глаголы на ДЕЙСТВИТЕЛЬНЫЕ.
 
-=== Look at Each 'Of' Phrase ===
+В ДЕЙСТВИТЕЛЬНОЙ форме подлежащим в предложении является человек, который производит действие. В ПАССИВНОЙ форме в роли подлежащего в предложении выступает человек или предмет, над которым совершается действие. Например, «Иван ударил Бориса» - активное предложение. «Бориса ударил Иван» - пассивное предложение.
 
-To make a clear translation, you will also need to look at each “of” phrase to identify the meaning of the relationship between the nouns connected by "of." In many languages, “of” constructions are not as frequent as they are in Greek, the original language of the New Testament books. Study the meaning of each one and re-express the meaning of the phrase in a way which makes the relationship between the parts clear.
+Во многих языках отсутствует ПАССИВНАЯ форма, и существует лишь АКТИВНАЯ. Поэтому может возникнуть необходимость трансформировать ПАССИВНУЮ форму в АКТИВНУЮ.
 
-Translation is re-telling, as exactly as possible, the meaning of the original message in a way that is clear and natural in the target language.
+=== Обратите внимание на каждую фразу, где содержится притяжательная форма ===
 
+Чтобы перевод стал понятным, вам потребуется найти все фразы притяжательного характера для того, чтобы определить отношения между существительными, соединенными притяжательной формой. Во многих языках притяжательная форма употребляется не так часто, как в греческом - языке, на котором создавались все книги Нового Завета. Изучите значение каждой конструкции и передайте ее фразой таким способом, который ясно показывает отношения, существующие между частями конструкции.
+
+Перевод - точная передача значения исходного сообщения таким способом, который является понятным и благозвучным для носителей языка.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
+  * [[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
 

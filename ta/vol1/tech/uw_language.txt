@@ -1,25 +1,25 @@
-===== Language Information =====
+===== Информация о языке =====
 
-This module answers the question: How do I find language information?\\
+This module answers the question: Как найти информацию о языке?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+  * [[ru:ta:vol1:tech:uw_app|Мобильное приложение unfoldingWord (Раскрывающееся Слово)]]
 
-==== Finding My Language ===
+=== = Нахождение нужного языка ===
 
-For each resource, there is a dropdown in the top right-hand corner. 
-  * Tap on the dropdown menu
+Для каждого материала создан раскрывающийся список в правом верхнем углу.
 
-All the languages that have published content for that resource will appear. 
+  * Нажмите на раскрывшемся меню
 
-Note: As translations are published, you must manually [[ru:ta:vol1:tech:uW_update_content|update]] the app to get that new content. 
+Появятся все языки, публиковавшие содержание для данного материала.
 
+Замечание: Когда перевод опубликован, вам необходимо вручную обновить приложение, чтобы иметь доступ к новому содержанию.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
-  * [[ru:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
-  * [[ru:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[ru:ta:vol1:tech:uw_select|Select a Language]]
-  * [[ru:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
-  * [[ru:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_install|Установка unfoldingWord на устройство Android]]
+  * [[ru:ta:vol1:tech:uw_first|Первое использование unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]
+  * [[ru:ta:vol1:tech:uw_select|Выбрать язык]]
+  * [[ru:ta:vol1:tech:uw_update_content|Обновить приложение unfoldingWord на устройстве Android]]
+  * [[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]
 

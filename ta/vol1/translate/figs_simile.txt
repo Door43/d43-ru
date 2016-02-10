@@ -1,61 +1,60 @@
-===== Simile =====
+===== Сравнение =====
 
-This module answers the question: What is a simile?\\
+This module answers the question: Что такое сравнение?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
 
 ==== Definition ====
 
-In a simile something is compared to something else of a different kind in order to focus on a particular trait that they have in common. Unlike with metaphor, with simile the fact that there is a comparison is stated clearly with ‘like’ or ‘as.’ 
+Сравнение - это изобразительное средство речи, в котором что-то одно сравнивается с другим на основании конкретной общей черты. В отличие от метафоры, в сравнении ясно виден факт сопоставления благодаря словам «как», «подобно».
 
-==== Purposes of Simile ====
+==== Цель сравнения ====
 
-  * One purpose of simile is to teach about something that is unknown by indicating that it is similar to something that is already known.
-  * Another purpose is to emphasize that something has a particular trait or to indicate that it has that particular trait in an extreme way.
-  * Similes also help you to form a picture in your mind of something; to experience what you are reading about more fully.
+  * Одна из целей сравнения - раскрыть что-то неизвестное через указание на схожесть с уже известным.
+  * Еще одна цель сравнения - подчеркнуть особую черту в чем-либо или определить, что эта особая черта проявляется исключительным образом.
+  * При помощи сравнения в разуме человека возникает какая-либо картина, помогающая более полно пережить то, что вы читаете.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-  * If the image in the original is unknown to your people, use one from your own culture. Be sure that it is one that could have been used in the cultures of the Bible. We don't want to have comparisons to things that had not been invented when the books of the Bible were first written.
-  * Or if the image in the original is unknown to your people, simply state the point of similarity without using an image.
-  * If it would be unclear to your readers how the topic is like the image, you can state the point of similarity explicitly. However, do not do this if it was not clear to the original audience.
+  * Если образ, приведенный в оригинале, не известен вашему народу, используйте образ, близкий вашей культуре. Но удостоверьтесь, что это такой образ, который можно соотнести с библейскими временами. Весьма нежелательно проводить сравнения с теми вещами, которые еще не были изобретены в период создания библейского текста
+  * Если образ, приведенный в оригинале, не известен вашему народу, просто укажите точку сопоставления без использования изображения.
+  * Если вашим читателям не понятно, как тема соотносится с образом, вы можете ясно указать на точку сопоставления. Однако, не следует этого делать, если исконной аудитории было не понятно, о чем шла речь.
 
-==== Examples from the Bible ====
+==== Примеры из Библии ====
 
->How often I wanted to gather your children together, __as a hen gathers her chicks under her wings__, but you refused! -Luke 13:34b
+> Сколько раз хотел Я собрать чад твоих, как птица птенцов своих под крылья, и вы не захотели! (Луки 13:34б)
 
-In this simile, Jesus compared the protection he wanted to give the people of Jerusalem to the kind of protection a hen gives to her chicks when they are in danger. It's not that he would literally gather the people underneath him, but he would protect them and they would trust him.
+В этом сравнении Иисус сопоставил защиту, которую Он хотел дать народу в Иерусалиме, с той защитой, которую простирает наседка над своими птенцами в момент опасности. Иисус не имел в виду, что буквально соберет народ под Себя, но Он говорил о том, что мог бы защитить людей, если бы они Ему доверяли.
 
->For as the lightning flashes in one part of the sky and shines to the other part of the sky, so will it be when the Son of Man comes in his day. -Luke 17:24
+> Ибо, как молния, сверкнувшая от одного края неба, блистает до другого края неба, так будет Сын Человеческий в день Свой (Луки 17:24).
 
-Jesus did not say how his coming back to earth would be like when lightning flashes. But we can understand from the rest of the text that just as lighting flashes suddenly and everyone can see it, he will come suddenly and everyone will be able to see him. No one will have to be told about it.
+Иисус не говорил, что Его второе пришествие на землю будет похоже на блеск молнии. Но из второй половины стиха ясно, что точно так же, как все могут увидеть внезапно сверкнувшую молнию, так же и Господь неожиданно вернется, и все люди Его увидят. Никому не придется рассказывать об этом событии.
 
-==== Examples from English ====
+==== Примеры из русского языка ====
 
->"He is __as crooked as a dog's hind leg__."
+> «Он кривит душой.»
 
-Someone might say this about a businessman who is dishonest. English speakers associate truth with being straight and dishonesty with crookedness.
+Так говорят о нечестном бизнесмене. В русском языке правда ассоциируется с прямотой, а ложь - с кривизной души.
 
->"She was __as cool as a cucumber__."
+> «Она была холодна, как лед.»
 
-Someone might say this about a person who doesn't get emotional in a very stressful situation. English speakers associate emotion with heat and lack of emotion with coolness.
+Так говорят о человеке, не выказывающем эмоции в момент стрессовой ситуации. В русском языке эмоции могут сопоставляться с сердечным теплом, а их недостаток - с холодностью.
 
-To learn more about simile, watch the video for the [[http://youtu.be/ylwbrp-vVgI|computer]] (http://youtu.be/ylwbrp-vVgI) or the [[http://youtu.be/LQdDDn-d_ak|tablet/phone]] (http://youtu.be/LQdDDn-d_ak).
-
+Чтобы больше узнать о сравнении, см. видео на компьютере (http:%%//%%youtu.be/ylwbrp-vVgI), на планшете/телефоне (http:%%//%%youtu.be/LQdDDn-d_ak).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[ru:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[ru:ta:vol1:translate:figs_irony|Irony]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[ru:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
-  * [[ru:ta:vol1:translate:figs_events|Order of Events]]
-  * [[ru:ta:vol1:translate:figs_parables|Parables]]
+  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
+  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
+  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
+  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
+  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
+  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
+  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
+  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
 

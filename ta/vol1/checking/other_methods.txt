@@ -1,26 +1,21 @@
-===== Other Methods =====
+===== Другие методы =====
 
-This module answers the question: What are some other methods that I can use to check the translation?\\
+This module answers the question: Какие еще методы я могу использовать для проверки перевода?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
 
-==== Other Checking Methods ====
+==== Другие методы редактирования ====
 
-As well as asking questions, there are other checking methods that you may also use to ensure that the translation is easy to read and sounds natural to the listeners. Here are some other methods that you may like to try:
+Помимо постановки вопросов существуют и другие методы проверки, которые вы можете использовать, чтобы убедиться, что перевод легко читается и хорошо звучит. Вот еще методы, которые вы, возможно, захотите испробовать:
 
-  * **Retell Method**:  You, the translator or tester, can read a few verses and ask someone else to retell what was said. This helps to check the clarity and naturalness of the translation and offers alternate ways of saying the same thing. 
-
-  * **Reading Method**: Someone other than you, the translator or tester, should read a portion of the translation while you take notes where the pauses and mistakes occur. This will show how easy or how difficult it is to read and understand the translation. Look at the places in the translation where the reader paused or made mistakes and consider what part of the translation was difficult. You may need to revise the translation at those points so that it is easier to read and understand.
-
-  * **Offer Alternate translations**: In areas where you are not sure of the best way to express a word or phrase, ask other people for an alternative translation or offer a choice between two translations and see which alternative translation people think is the most clear. 
-
-  * **Reviewer Input**: Let others whom you respect read your translation. Ask them to take notes and tell you where it might be improved. Look for better word choices, natural expressions, and even spelling adjustments. 
-
-  * **Discussion Groups**: Ask people to read the translation aloud in a group of people and allow them and others to ask questions for clarification. Pay attention to the words they use, since alternate words and expressions come up when someone is trying to make sense of a difficult point, and these alternate words and expressions might be better than the ones in the translation. Pay attention to the places where people do not understand the translation, and work to make those places clearer.
-
+  * Метод пересказа: Вы - переводчик или тестировщик - можете прочитать несколько стихов и попросить слушателя пересказать прочитанное. Это поможет проверить перевод на его понятность и благозвучность и предложить альтернативные способы перефразировки текста.
+  * Метод прочтения: Кто-то (не вы) из переводчиков или проверяющих должен прочитать отрывок из перевода, а вы должны отмечать, где делаются остановки и встречаются ошибки. Этот метод позволяет увидеть, насколько легко или тяжело читать и понимать перевод. Обратите внимание на места в переводе, где читающий останавливался или допускал ошибки и посмотрите, какая часть перевода была трудной. Вам может потребоваться поработать с текстом в тех местах, чтобы его можно было легче читать и понимать.
+  * Предложение альтернативного перевода: Когда вы не уверены в благозвучии слова или фразы, вы можете попросить других людей дать альтернативный перевод или показать им два перевода, чтобы они выбрали тот, который является наиболее понятным.
+  * Вклад комментатора: Дайте прочитать ваш перевод тем, кого вы уважаете. Попросите их отметить те места, где вам следует поработать с текстом. Стремитесь подбирать слова наилучшим образом, использовать благозвучные выражения и орфографические соответствия.
+  * Группа обсуждения: Попросите кого-нибудь прочитать ваш перевод группе людей и разрешите им задавать вопросы для лучшего понимания. Обратите внимание на те слова, которые они используют, поскольку альтернативные слова и выражения появляются тогда, когда кто-то пытается понять трудный вопрос, и эти альтернативные слова и выражения могут быть хорошей заменой тем, которые содержатся в переводе. Обратите внимание на те места, где люди не понимают перевод и поработайте над текстом, чтобы он стал понятнее.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[ru:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * [[ru:ta:vol1:checking:community_evaluation|Вопросы для «Оценки перевода носителями языка»]]
 

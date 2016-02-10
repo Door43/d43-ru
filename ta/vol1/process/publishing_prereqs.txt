@@ -1,25 +1,21 @@
-===== Publishing Prerequisites =====
+===== Предварительные условия для публикации =====
 
-This module answers the question: What must be done before publishing?\\
+This module answers the question: Что нужно сделать перед публикацией?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
 
-==== Before Publishing ====
+==== Перед публикацией ====
 
-Before a resource can be published, the following prerequisites must all be met:
+Перед тем, как ресурс может быть опубликован, требуется выполнение следующих предварительных условий:
 
-   * **Whole Resource** - The whole resource must be translated and checked, in other words, parts of resources (e.g. half of the Open Bible Stories, only a few chapters of a book of the Bible) cannot be published.
-   * **At Least Level 1** - A translation must have reached at least [[ru:ta:vol1:checking:level1|Checking Level 1]]
-   * **On Door43** - Door43 must have the version that will be published (if translation or checking was done in translationStudio, you may need to [[ru:ta:vol1:process:upload_merge|merge]] your work into Door43). 
-   * **Signatures** - Everyone involved in the translation and checking must have signed the [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[ru:ta:vol1:intro:open_license|Open License]]. This can be done in a number of ways:
-     * Everyone create a Door43 account
-     * Everyone sign a [[https://unfoldingword.org/forms|guidelines and license form]]
+  * Материал должен публиковаться целиком - Весь текст должен быть переведен и проверен, другими словами, части текста (например, половина «Историй открытой Библии» или несколько глав какой-либо из книг Библии) опубликованы быть не могут.
+  * Хотя бы первый уровень редакции - Перевод должен выдержать хотя бы первый уровень проверки.
+  * На сайте Door43 - Нужно опубликовать версию на сайте Door43 (если перевод или проверка осуществлялись в приложении translationStudio, нужно поместить свою работу на сайт Door43).
+  * Подписи - Каждый, кто принимает участие в процессе перевода и редактирования, должен поставить свою подпись на документах «Исповедание веры», «Указания по переводу» и «Открытая лицензия». Это можно осуществить следующими способами: Каждый должен создать аккаунт на сайте Door43 Каждый должен подписать бумаги «Указания по переводу» и «Открытая лицензия»
 
-When all these are completed, you are ready to start the [[ru:ta:vol1:process:publishing_process|Publishing Engine]]. 
-
-
+По завершении всего вышеперечисленного вы можете запустить Publishing Engine (Инструмент публикации).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:publishing_process|How to Publish]]
+  * [[ru:ta:vol1:process:publishing_process|Как опубликовать]]
 

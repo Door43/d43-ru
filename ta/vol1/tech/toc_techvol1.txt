@@ -1,47 +1,20 @@
-===== Table of Contents - Technology Manual Volume 1 =====
+===== Содержание - Технологическое руководство Том 1 =====
 
-This module answers the question: What is in volume 1 of the technology manual?\\
-==== Technology Manual Volume 1 ====
-  - [[ru:ta:vol1:tech:tech_manual]]
+This module answers the question: Что содержится в первом томе «Технологического руководства»?\\
+==== Технологическое руководство Том 1 ====
 
-=== translationStudio Mobile App ===
-  - [[ru:ta:vol1:tech:tS_intro]]
-     - [[ru:ta:vol1:tech:tS_install]]
-     - [[ru:ta:vol1:tech:tS_first]]
-     - [[ru:ta:vol1:tech:tS_select]]
-     - [[ru:ta:vol1:tech:tS_open]]
-     - [[ru:ta:vol1:tech:tS_navigate]]
-     - [[ru:ta:vol1:tech:tS_request]]
-     - [[ru:ta:vol1:tech:tS_translate]]
-     - [[ru:ta:vol1:tech:tS_create]]
-     - [[ru:ta:vol1:tech:tS_resources]]
-     - [[ru:ta:vol1:tech:tS_useresources]]
-     - [[ru:ta:vol1:tech:tS_share]]
-     - [[ru:ta:vol1:tech:tS_upload]]
-     - [[ru:ta:vol1:tech:tS_update]]
-     - [[ru:ta:vol1:tech:tS_publish]]
-     - [[ru:ta:vol1:tech:translate_helptS]]
-     - [[ru:ta:vol1:tech:tS_problem]]
+  * ru:ta:vol1:tech:tech_manual
 
-=== translationKeyboard Mobile App ===
-  - [[ru:ta:vol1:tech:tK_intro]] 
-     - [[ru:ta:vol1:tech:tK_install]]
-     - [[ru:ta:vol1:tech:tK_start]]
-     - [[ru:ta:vol1:tech:tK_use]]
-     - [[ru:ta:vol1:tech:tK_enable]]
-     - [[ru:ta:vol1:tech:tK_find]]
-     - [[ru:ta:vol1:tech:tK_create]]
-     - [[ru:ta:vol1:tech:tK_update]]
+=== мобильное приложение translationStudio (Студия перевода) ===
 
-=== unfoldingWord Mobile App ===
-  - [[ru:ta:vol1:tech:uW_app]]
-     - [[ru:ta:vol1:tech:uW_install]]
-     - [[ru:ta:vol1:tech:uW_first]]
-     - [[ru:ta:vol1:tech:uW_checking]]
-     - [[ru:ta:vol1:tech:uW_language]]
-     - [[ru:ta:vol1:tech:uW_select]]
-     - [[ru:ta:vol1:tech:uW_update_content]]
-     - [[ru:ta:vol1:tech:uW_audio]]
+  * ru:ta:vol1:tech:tS_intro en:ta:vol1:tech:tS_install en:ta:vol1:tech:tS_first en:ta:vol1:tech:tS_select en:ta:vol1:tech:tS_open en:ta:vol1:tech:tS_navigate en:ta:vol1:tech:tS_request en:ta:vol1:tech:tS_translate en:ta:vol1:tech:tS_create en:ta:vol1:tech:tS_resources en:ta:vol1:tech:tS_useresources en:ta:vol1:tech:tS_share en:ta:vol1:tech:tS_upload en:ta:vol1:tech:tS_update en:ta:vol1:tech:tS_publish en:ta:vol1:tech:translate_helptS en:ta:vol1:tech:tS_problem
 
+=== Мобильное приложение translationKeyboard (клавиатура перевода) ===
+
+  * ru:ta:vol1:tech:tK_intro en:ta:vol1:tech:tK_install en:ta:vol1:tech:tK_start en:ta:vol1:tech:tK_use en:ta:vol1:tech:tK_enable en:ta:vol1:tech:tK_find en:ta:vol1:tech:tK_create en:ta:vol1:tech:tK_update
+
+=== Мобильное приложение unfoldingWord (Раскрывающееся Слово) ===
+
+  * ru:ta:vol1:tech:uW_app en:ta:vol1:tech:uW_install en:ta:vol1:tech:uW_first en:ta:vol1:tech:uW_checking en:ta:vol1:tech:uW_language en:ta:vol1:tech:uW_select en:ta:vol1:tech:uW_update_content en:ta:vol1:tech:uW_audio
 
 

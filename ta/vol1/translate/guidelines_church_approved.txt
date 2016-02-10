@@ -1,40 +1,40 @@
-===== Create Church-Approved Translations =====
+===== Создать перевод, который будет утвержден церковью =====
 
-This module answers the question: How do I create church-approved translations?\\
+This module answers the question: Как создать перевод, который будет утвержден церковью?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
 
-==== Church-Approved Translations ====
+==== Перевод, утвержденный церковью ====
 
-The first three qualities of a good translation are [[ru:ta:vol1:translate:guidelines_clear|clear]], [[ru:ta:vol1:translate:guidelines_natural|natural]], and [[ru:ta:vol1:translate:guidelines_accurate|accurate]]. All three of these directly affect the words and phrases that are used in the translation. If a translation is not one of these three, simply changing or reordering the words that were used can often fix the problem. The fourth quality, church-approved, has less to do with the words used and more to do with the process that is used. 
+Первыми тремя характеристиками качественного перевода является его понятность, благозвучность и правильность. Все три напрямую влияют на слова и фразы, использующиеся в переводе. Если перевод лишен хотя бы одного из этих качеств, вы можете просто изменить порядок слов, и обычно это помогает решить проблему. Четвертая характеристика - утвержденный церковью - касается не словоупотребления, но процесса перевода.
 
-==== The Goal of Translation ====
+==== Цель перевода ====
 
-The goal of the translation of biblical content is not only to produce a high-quality translation, but to produce a high-quality translation that is used and loved by the church. High-quality translations must be clear, natural, and accurate. But for a translation to be used and loved by the church, it must be church-approved. 
+Целью перевода библейского текста является не только предоставление высококачественного перевода, но также такого перевода, который понравится церкви. Высококачественный перевод должен быть понятным, благозвучным и правильным. Однако чтобы такой перевод понравился церкви и стал использоваться ею, он должен быть утвержден церковью.
 
-==== How to Create a Church-Approved Translation ====
+==== Как создать перевод, который будет утвержден церковью? ====
 
-Creating a church-approved translation is all about the process of translation, checking, and distribution. The more church networks that are involved in these processes, the more likely they will approve of the translation.
+Создание перевода, который будет утвержден церковью, связано с процессом перевода, его редактированием и распространением. Чем больше церковь вовлечена во все этапы данной работы, тем выше вероятность того, что перевод будет ею одобрен.
 
-Before starting a translation project, as many church networks as possible should be contacted and encouraged to become a part of the translation and even to send some of their people to be a part of the translation team. They should be consulted and asked for their input into the translation project, its goals, and its process. 
+Перед тем, как приступить к работе с переводческим проектом, следует установить деловые отношения с как можно большим количеством церквей, чтобы воодушевить их участвовать в рабочем процессе и выдвигать своих членов в кандидаты команды переводчиков. Церкви нужно проконсультировать и предложить сделать вклад в переводческий проект - как в его цели, так и в процесс.
 
-It is not necessary that the church actively lead the translation and coordinate all the efforts, but it is necessary that whoever is leading the translation be approved by the church networks, preferably before they even start. 
+Необязательно, чтобы церковь активно руководила переводом и координировала все его этапы, но совершенно необходимо, чтобы руководитель процесса был утвержден церковью еще до того, как приступит к своим рабочим обязанностям.
 
-==== Church Approval and the Checking Levels ====
+==== Одобрение церкви и этапы проверки ====
 
-The need for church-approval of a translation is clearly reflected in the Checking Levels. In fact, the Checking Levels are largely a measurement of how broadly the church approves of the translation. 
-  * Level 1 states that the church-approved translation team has approved the translation. 
-  * Level 2 states that the pastors and leaders of local churches approve the translation.
-  * Level 3 states that leaders of multiple church networks approve of the translation. 
+О необходимости утвержденного церковью перевода прямо говорится в «Уровнях редактирования». Фактически, «Уровни редактирования» являются показателем того, насколько широко церковь одобряет перевод.
 
-At each level, the people leading the translation should encourage participation and input from the church networks. By using this process, we hope to encourage church ownership of the translation among as many church networks as possible. With this approval, there should be nothing hindering the translation from being used to strengthen and encourage the church. 
+  * Уровень 1 устанавливает, что переводческая команда, рекомендованная церковью, утвердила перевод.
+  * Уровень 2 устанавливает, что пасторы и руководители поместных церквей утвердили перевод.
+  * Уровень 3 утверждает, что руководители разветвленной церковной рабочей сети утвердили перевод.
 
+На каждом этапе руководители перевода должны вдохновлять членов церковной сети принимать участие и вносить свой вклад. Этим самым мы надеемся передать как можно большему количеству церквей право собственности над переводом. Благодаря такому одобрению, ничто не помешает переводу быть использованным для укрепления и поддержки церкви.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[ru:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
+  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
+  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
 

@@ -1,27 +1,26 @@
-===== Choosing a Source Text =====
+===== Выбор исходного текста =====
 
-This module answers the question: What factors should be considered when choosing a source text?\\
+This module answers the question: Какими факторами необходимо руководствоваться при выборе исходного текста?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
 
-==== Factors to Consider For A Source Text ====
+==== Факторы, на которые нужно обращать внимание относительно исходного текста ====
 
-When choosing a source text, there are a number of factors that must be considered:
+Существует ряд факторов, которые нужно рассмотреть перед выбором исходного текста:
 
-  * **[[ru:ta:vol1:intro:statement_of_faith]]** - Is the text in line with the Statement of Faith?
-  * **[[ru:ta:vol1:intro:translation_guidelines]]** - Is the text in line with the Translation Guidelines?
-  * **Language** - Is the text in a suitable language that translators and checkers understand well?
-  * **[[ru:ta:vol1:translate:translate_source_licensing|Licensing]]** - Is the text released under a license that gives sufficient legal freedom?
-  * **[[ru:ta:vol1:translate:translate_source_version|Versioning]]** - Is the text the latest, most updated version?
-  * **[[ru:ta:vol1:translate:translate_original]]** - Does the translation team understand the difference between source languages and original languages?
-  * **[[ru:ta:vol1:translate:translate_manuscripts]]** - Does the translation team understand about Original Manuscripts and [[ru:ta:vol1:translate:translate_textvariants]]?
+  * ru:ta:vol1:intro:statement_of_faith - Согласуется ли текст с «Исповеданием веры»?
+  * ru:ta:vol1:intro:translation_guidelines - Согласуется ли текст с «Указаниями по переводу»?
+  * Язык - Является ли язык текста тем языком, который хорошо понимается переводчиками и редакторами?
+  * Лицензирование - Реализуется ли текст под лицензией, которая предоставляет большую степень узаконенной свободы?
+  * Управление версиями - Является ли текст самой последней, обновленной версией?
+  * ru:ta:vol1:translate:translate_original - Понятны ли команде переводчиков различия, существующие между исходным языком и исконным языком?
+  * ru:ta:vol1:translate:translate_manuscripts - Понимает ли команда переводчиков все, что связано с оригинальными текстами и текстовыми вариантами en:ta:vol1:translate:translate_textvariants?
 
-It is important the the leaders of the churches in the language group agree that the source text is a good one. The Open Bible Stories are available in many source languages on https://unfoldingword.org/stories/. There are also translations of the Bible there to be used as sources for translation in English, and soon other languages, as well.
-
+Очень важно, чтобы руководители церквей в определенной языковой среде пришли к согласию относительно качества исходного текста. «Истории открытой Библии» доступны на многих исходных языках на сайте https:%%//%%unfoldingword.org/stories/. Здесь также есть переводы Библии, которые могут быть использованы как исходные тексты на английском, с которых можно осуществлять перевод на другие языки.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
-  * [[ru:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]
-  * [[ru:ta:vol1:translate:translate_original|The Original and Source Languages]]
+  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
+  * [[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]
+  * [[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]
 

@@ -1,51 +1,48 @@
-===== Terms to Know =====
+===== Термины, которые нужно знать =====
 
-This module answers the question: What terms should I know?\\
+This module answers the question: Какие термины мне нужно знать?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
 
-==== Important Words to Know ====
+==== Важные термины, которые нужно знать ====
 
-//Note: These are terms that the Translation Manual will use to talk about language. The translator will need to understand these terms in order to use the Translation Manual.//
+Замечание: Когда в «Руководстве по переводу» пойдет речь о языке, мы будем использовать определенные термины. Переводчик должен их понять, чтобы суметь пользоваться «Руководством по переводу».
 
-**Term** - A word or phrase that refers to one thing, idea, or action. For example, the term in English for pouring liquid into one's mouth is "drink." The term for a ceremony that marks an important transition in someone's life is "rite of passage." The difference between a term and a word is that a term can contain several words.
+Термин - это слово или несколько слов, обозначающие факт, идею или действие. Например, действие, когда человек наливает себе в рот воду, обозначено словом «пить». Ритуал, сопровождающий какой-либо значимый переходный период в чьей-то жизни, обозначается словами «переходный обряд». Различие между словом и выражением состоит в том, что выражение состоит из нескольких слов.
 
-**Text** - A text is something that a speaker or writer is communicating to a hearer or reader by means of language. The speaker or writer has a certain meaning in mind, and so he or she chooses a form of the language to express that meaning.
+Текст - это сообщение, передающееся говорящим или пишущим слушателю или читателю посредством языка. Говорящий или пишущий имеет в виду определенное значение и выбирает определенную языковую форму для выражения этого значения.
 
-**Context** - The words, phrases, sentences, and paragraphs surrounding the word, phrase, or sentence in question. The context is the text that surrounds the part of the text that you are examining. The meaning of individual words and phrases can change when they are in different contexts.
+Контекст - это слова, фразы, предложения и абзацы, окружающие слово, фразу или предложение, которые вами рассмариваются. Контекст - это текст, окружающий часть исследуемого текста. Значение отдельных слов и фраз может меняться, когда они находятся в разных контекстах.
 
-**Form** - The structure of the language as it appears on the page or as it is spoken. "Form" refers to the way that the language is arranged - it includes the words, the word order, the grammar, idioms, and any other features of the structure of the text.
+Форма - это структура языка, такая, какой она представлена в письменном или устном виде. «Форма» - это способ организации речи, она включает в себя слова, их порядок, грамматику, устойчивые выражения и другие структурные особенности текста.
 
-**Grammar** - The way that sentences are put together in a language. This has to do with the order of its various parts, such as if the verb goes first or last or in the middle. 
+Грамматика - это способ организации предложений в языке. Она касается порядка слов в предложении, например, позиции предиката (в начале, середине или в конце предложения).
 
-**Idiom** - An expression that uses several words and that means something different as a whole than it would if the words were understood with the meanings that they have when they are used separately. Idioms cannot be translated literally, that is, with the meanings of the separate words. For example, "He kicked the bucket" is an idiom in English that means, "He died." 
+Идиома - это выражение, состоящее из нескольких слов, значение которых придают структуре иной смысл, по сравнению со смыслом входящих в нее отдельных слов. Идиому нельзя переводить буквально, то есть нельзя переводить значение отдельных слов в нее входящих. Например, «Он отбросил коньки» - это идиома, которая в русском языке имеет значение «Он умер».
 
-**Meaning** - The underlying idea or concept that the text is trying to communicate to the reader or hearer. A speaker or writer can communicate the same meaning by using different forms of the language, and different people can understand different meanings from hearing or reading the same language form. In this way you can see that form and meaning are not the same thing.
+Значение - это подразумеваемая мысль или концепция в тексте, которая передается читателю или слушателю. Говорящий или пишущий может передавать одно и то же значение, используя различные языковые формы; когда разные люди слышат или читают одну и ту же языковую форму, они могут по-разному понять ее значение.
 
-**Translation** - The act of expressing the meaning conveyed by the form of one language in the form of another language.
+Перевод - это акт выражения значения, проводимого через форму одного языка в другой.
 
-**Source Language** - The language //from// which the translation is being made.
+Исходный язык - язык, который переводят.
 
-**Source Text**- The text //from// which the translation is being made.
+Исходный текст - текст, который переводят.
 
-**Target Language** - The language //into// which a translation is being made.
+Целевой язык - язык на который осуществляется перевод.
 
-**Target Text**- The text being made by the translator as he or she translates the meaning from the source text.
+Целевой текст - текст, создаваемый переводчиком при переводе значения исходного текста.
 
-**Original Language** - The language in which a Bible text was initially written. The Original Language of the New Testament is Greek. The Original Language of most of the Old Testament is Hebrew. However, the Original Language of some parts of Daniel and Ezra is Aramaic. The Original Language is always the most accurate language from which to translate a passage.
+Исконный язык (язык оригинала) - язык, на котором была изначально написана Библия. Исконным языком Нового Завета был древнегреческий. Исконным языком многих книг Ветхого Завета был древнееврейский. Исконным языком некоторых частей книг Даниила и Ездры был арамейский. Исконный язык всегда является более точным, именно с него следует переводить отрывок.
 
-**Language of Wider Communication** - A language that is spoken over a broad area and by many people. For most people, this is not their first language, but is the language that they use to speak to people outside of their language community. Some people call this a trade language. Most Bibles will be translated using a language of wider communication as the source language.
+Язык более широкого общения - это язык, употребляющийся на широкой территории, являющийся средством общения для многочисленного населения. Для большинства людей этот язык не является родными и используется для общения с теми, кто находится вне их языкового сообщества.
 
-**Literal Translation** - A translation that focuses on reproducing the form of the source text in the target text, even if the meaning changes as a result.
+Буквальный перевод - это перевод, фокусирующийся на передаче формы исходного текста в целевой текст, даже когда при этом искажается первоначальное значение.
 
-**Meaning-based Translation (or Dynamic Translation)** - A translation that focuses on reproducing the meaning of the source text in the target text, even if the form changes as a result.
+Перевод, основанный на значении (динамичный перевод) - перевод, который сосредоточен на передаче значения из исходного текста в целевой, даже если это приводит к изменению формы.
 
-**Passage** - A section of the Bible text that is being talked about. This can be as small as one verse, but it is usually several verses that together have one topic or tell one story. 
-
-
-
+Отрывок - это часть библейского текста, о котором идет речь. Он может быть небольшим (всего один стих), но обычно включает несколько стихов, объединенных общей темой или мыслью.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_whatis|What is Translation]]
+  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
 

@@ -1,32 +1,22 @@
-===== Re-telling the Meaning =====
+===== Передача значения =====
 
-This module answers the question: How do I re-tell the meaning?\\
+This module answers the question: Как мне передать значение?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
 
-==== How to Re-tell the Meaning ====
+==== Как передать значение ====
 
-Following is a list of ordered steps. The purpose of these steps is to help the translator produce a translation that is natural, understandable, and accurate. One of the most common translator mistakes is failing to use the natural forms in the target language for developing a coherent text. By following these steps, the translator will produce a more natural and more understandable translation.
+Ниже приведен список необходимых шагов. Их цель состоит в том, чтобы переводчик мог дать благозвучный, понятный и правильный перевод. Одной из наиболее распространенных ошибок переводчиков является неспособность использовать те формы, которые присущи родному языку и помогают развивать мысль. Следуя нижеперечисленным пунктам, переводчик может дать более естественный и понятный перевод.
 
-  -Read the entire chosen passage in the source language. The passage should be a portion or whole section (in the Bible from one title to the next title.) 
-  -Without looking at the text in the source language, verbally tell it in the target language. Although you might forget some parts, continue telling what you remember right to the end.
-  -Again, look at the source language text. Now tell everything again in the target language. 
-  -Looking again at the source language text, focus only on the parts you forgot, and then say it all in the target language by memory.
-  -After remembering the entire passage, write it exactly as it you said it by memory.
-  -Once written, look at the source language to see if you have overlooked some detail. Insert any such detail.
-  -If you do not understand something in the source text, write into the translation ‘[not understood]’ and continue writing the rest of the passage.
-  -Now, read what you wrote. Assess whether you understand it or not. Fix the parts that should be improved.
-  -Go on to the next section. Read it in the source language. Strictly follow steps 2 through 8.
-
-
+- Прочитайте целиком отрывок на исходном языке. Пусть это будет абзац или его часть (в Библии - от одного заголовка до другого) - Не смотря в текст, устно перескажите его на родном языке. Хотя вы можете забыть его некоторые части, продолжайте пересказывать до конца то, что вы запомнили. - Еще раз прочитайте иностранный текст. На этот раз целиком перескажите его на родном языке. - Посмотрите в исходный текст и сфокусируйтесь только на тех частях, которые вы забыли, а потом произнесите их на родном языке по памяти. - После того, как вы запомнили целый абзац, запишите его так, как вы сформулировали его по памяти. - Когда текст будет записан, посмотрите в исходный текст и проверьте, не упустили ли вы какие-либо детали. Впишите их в текст. - Если вы что-то не поняли в иностранном тексте, добавьте в свой перевод заметку [не понял] и продолжайте записывать остальную часть отрывка. - Затем прочитайте то, что вы написали. Оцените, поняли ли вы текст или нет. Отметьте те части, которые должны быть доработаны. Прочитайте текст на исходном языке. Строго следуйте шагам со 2 по 8.
 
 
 //Credits: Used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 59.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

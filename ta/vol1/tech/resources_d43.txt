@@ -1,15 +1,16 @@
-===== Find the Resources in Door43 =====
+===== Нахождение материалов в Door43 =====
 
-This module answers the question: Where do I find the Resources in Door43?\\
+This module answers the question: Как найти материалы в Door43?\\
 Before you start this module have you learned about:
   * [[ru:ta:vol1:tech:d43_intro|Door43]]
-  * [[ru:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
 
-Each page of the Bible text has both the tW and tN information.\\
-The resources for the Open Bible Stories are found in the Gateway Languages. (Here is the [[en:obs:notes|English OBS Resources Directory]].)\\
-translationWords are links listed under the Heading of "Important Terms."\\
-translationNotes are under the Heading of "Translation Notes."\\
+На каждой странице библейского текста содержится информация из справочников «Слова для перевода» и «Замечания по переводу».
 
+Материалы для «Историй открытой Библии» можно найти в Gateway Languages (Ключевых языках). (Вот каталог материалов для «Историй открытой Библии» на русском языке.)
 
+«Слова для перевода» (translationWords) даются как ссылки под названием «Важные термины» ("Important Terms").
+
+«Замечания по переводу» (translationNotes) даны под заголовком «Замечания по переводу» («Translation Notes»).
 
 

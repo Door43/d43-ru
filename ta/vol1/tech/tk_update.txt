@@ -1,25 +1,24 @@
-===== Update translationKeyboard =====
+===== Обновить translationKeyboard (клавиатуру перевода) =====
 
-This module answers the question: How do I update translationKeyboard?\\
+This module answers the question: Как обновить translationKeyboard (клавиатуру перевода)?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]
 
-==== Updating tK ====
+==== Обновление клавиатуры перевода ====
 
-Sometimes you may need to update the keyboard.
+В некоторых случаях может потребоваться обновить клавиатуру.
 
-   * Open the translationKeyboard application by tapping on the tK icon found on the Android screen.
-   * Tap on the 'Update Keyboard' button.
-   * Wait for the update to complete.
-   * Close the tK application.
-
+  * Откройте приложение translationKeyboard (клавиатура перевода), нажав на иконку tK на экране устройства Android.
+  * Нажмите кнопку Update Keyboard (Обновить клавиатуру).
+  * Дождитесь завершения обновления.
+  * Закройте приложение tK.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[ru:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[ru:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[ru:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
+  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
+  * [[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]
+  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
 

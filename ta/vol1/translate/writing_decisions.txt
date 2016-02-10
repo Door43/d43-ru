@@ -1,24 +1,22 @@
-===== Decisions for Writing Your Language =====
+===== Решения о письменности нашего языка =====
 
-This module answers the question: What are some decisions we need to make for writing our language?\\
+This module answers the question: Какие решения следует принять относительно письменности нашего языка?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
 
-==== Important Questions to Answer About Writing ====
+==== Важные вопросы письменности, на которые требуется дать ответ ====
 
-When a language is first written the translator must decide how to indicate certain features of all written languages. 
+Когда язык записывается впервые, переводчику нужно решить, как определить особые черты, присущие всем языкам, имеющим письменность.
 
-These questions will give the wider community an understanding of some of the preliminary decisions made by the translator for writing the local language in the areas of punctuation, spelling and the writing of names in the Bible. The translation team and the community should agree on how to do this.
+Подобные вопросы дадут более широкому обществу понимание о предварительных решениях, принятых переводчиками относительно письменности местного языка в сферах пунктуации, орфографии и написания библейских имен. Переводческая команда и сообщество должны прийти к согласию относительно того, как это осуществить.
 
-  * Does your language have a way of highlighting direct or quoted speech? How do you show it? 
-  * What guidelines have you followed for indicating verse numbering, quoted speech and Old Testament quotations? (Are you following the style of the national language? What variations have you decided to use to suit your language?) 
-  * What guidelines have you followed in writing names in the Bible? Do you use the names written in the national language Bible? Do you have guidelines from your own language as to how names are pronounced and if they need added titles? (Has this decision been acceptable to the community?) 
-  * Have you taken note of any spelling rules for your language that you would like to share with others, such as where a word changes its form or two words combine? (Are these rules acceptable to the community?) 
- 
-
+  * Существует ли в вашем языке способ передачи прямой речи или цитат? Что это за способ?
+  * Каким указаниям вы следуете при обозначении номеров стихов, цитируемой речи и ветхозаветных выдержек? (Следуете ли вы национальному языковому стилю? Какие его разновидности вы решили использовать, чтобы удовлетворить требования вашего языка?)
+  * Каким указаниям вы следовали при написании библейских имен? Использовали ли вы те имена, которые написаны в национальной Библии? Есть ли в вашем языке правила о том, как произносятся имена и нужно ли к ним добавлять звания? (Приемлемы ли данные решения для сообщества?)
+  * Обратили ли вы внимание на какие-либо правила написания в вашем языке, которыми бы вы хотели поделиться с остальными, например, при изменении формы слова или сочетании двух слов? (Допустимы ли эти правила для общины?)
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
 

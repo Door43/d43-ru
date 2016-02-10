@@ -1,44 +1,38 @@
-===== Table of Contents - Process Manual Vol 1 =====
+===== Содержание - «Руководство по работе с материалами» Том 1 =====
 
-This module answers the question: What is in the process manual volume 1?\\
-==== Process Manual Volume 1 ====
+This module answers the question: Что содержится в «Руководстве по работе с материалами» Том 1?\\
+==== Руководство по работе с материалами Том 1 ====
 
-=== 1. Getting Started ====
-   - [[ru:ta:vol1:process:process_manual|Introduction]]
-   - [[ru:ta:vol1:process:getting_started|Getting Started]]
-   - [[ru:ta:vol1:process:setup_team]]
+=== 1. Начало работы ####= ===
 
-=== 2. Setting Up A Translation Platform ===
+  * Введение
+  * Приступая к работе
+  * ru:ta:vol1:process:setup_team
 
-  - [[ru:ta:vol1:process:platforms|Choosing a translation platforms]]
-    - [[ru:ta:vol1:process:setup_door43|Setting up Door43]]  
-    - [[ru:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] 
-    - [[ru:ta:vol1:process:setup_word|Setting up for a Word Processor]]  
+=== 2. Установка платформы перевода ===
 
-=== 3. Translating ===
+  * Выбор платформ для перевода Установка Door43 Установка translationStudio (на устройствах Android) Установка текстового редактора
 
-  - [[ru:ta:vol1:process:pretranslation_training|Training before translation begins]]
-    - [[ru:ta:vol1:process:door43_translation|Translating Using Door43]]  
-    - [[ru:ta:vol1:process:tsandroid_translation|Translating Using translationStudio]]  
-    - [[ru:ta:vol1:process:word_translation|Translating Using a Word Processor]]
-  - [[ru:ta:vol1:process:upload_merge|Merging an Upload into Door43]]
+=== 3. Перевод ===
 
-=== 4. Checking ===
+  * Обучение перед началом перевода Перевод с использованием сайта Door43 Перевод с использованием translationStudio Перевод с использованием текстового редактора
+  * Присоединение загрузок к Door43
 
-   - [[ru:ta:vol1:process:prechecking_training|Training before checking begins]]
-   - [[ru:ta:vol1:process:required_checking|How to Check]]
+=== 4. Редактирование ===
 
-=== 5. Publishing ===
+  * Обучение перед началом редактирования
+  * Как проверять
 
-   - [[ru:ta:vol1:process:intro_publishing|Introduction to publishing]]
-   - [[ru:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]
-   - [[ru:ta:vol1:process:publishing_process|How to Publish]]
+=== 5. Публикация ===
 
-=== 6. Distributing ===
+  * Введение в публикацию
+  * Предварительные условия для публикации
+  * Как опубликовать
 
-   - [[ru:ta:vol1:process:intro_share|Introduction to Distribution]]
-   - [[ru:ta:vol1:process:share_unpublished|Sharing Unpublished Content]]
-   - [[ru:ta:vol1:process:share_published|Sharing Published content]]
+=== 6. Распространение ===
 
+  * Введение в процесс осуществления распространения
+  * Распространение неопубликованных материалов
+  * Распространение опубликованных материалов
 
 

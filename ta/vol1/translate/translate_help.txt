@@ -1,26 +1,25 @@
-===== Help with Translating =====
+===== Помощь в переводе =====
 
-This module answers the question: Where do I find help for translating?\\
+This module answers the question: Где я могу найти помощь в переводе?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
-  * [[ru:ta:vol1:translate:first_draft|Make a First Draft]]
-  * [[ru:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
+  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
+  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
 
-==== Using Translation Helps ====
+==== Использование вспомогательных средств при переводе ====
 
-To help translators make the best translation possible, Translation Notes and Translation Words have been created. There is a set of [[:en:obs:notes|Translation Notes]] (https://door43.org/en/obs/notes) and [[:en:obe:kt:home|Translation Words]] (https://door43.org/en/obe/kt/home) for Open Bible Stories, and also [[en:bible:notes:home|Translation Notes]] (https://door43.org/en/bible/notes/home) and [[en:obe:home|Translation Words]] (https://door43.org/en/obe/home) for the Bible.
+Для того, чтобы помочь переводчикам осуществлять максимально качественный перевод, были разработаны «Замечания по переводу» и «Слова для перевода». Есть ряд «Замечаний по переводу» (https:%%//%%door43.org/en/obs/notes) и «Слов для перевода» (https:%%//%%door43.org/en/obe/kt/home) разработанных специально для «Историй открытой Библии», есть также «Замечания по переводу» (https:%%//%%door43.org/en/bible/notes/home) и «Слова для перевода» (https:%%//%%door43.org/en/obe/home), предназначающиеся для перевода Библии.
 
-Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain some of the Bible background that the translator needs to know to translate Open Bible Stories, as well as inform translators about different ways that they might express the same meaning.
+«Замечания по переводу» - это культурные, лингвистические и экзегетические замечания, помогающие описать и объяснить библейский контекст, который необходимо знать переводчику, чтобы перевести «Истории открытой Библии», а также информирующие переводчиков о разных способах передачи одного и того же значения.
 
-The Translation Words are key terms found in Open Bible Stories and the Bible that are important to translate correctly. Each of these important terms has a small article written about it as well as cross-references to other places where that term is used in either Open Bible Stories or the Bible. This is to show the translator other ways that the important term is used and to ensure that it has been translated correctly in those places, too.
+«Слова для перевода» - это ключевые термины, содержащиеся в «Историях открытой Библии», необходимые для правильного перевода. Для каждого значимого понятия приведена небольшая статья, а также перекрёстные ссылки с теми местами, где использованы данные термины в «Историях открытой Библии» или самой Библии. Они предназначены для того, чтобы показать переводчику иные способы употребления важных слов и чтобы помочь правильно перевести эти слова другом контексте.
 
-Once you have consulted the Translation Notes and Translation Words, then you are ready to make the best translation.
+После того, как вы ознакомитесь с «Замечаниями по переводу» и «Словами для перевода», вы будете готовы к созданию качественного перевода.
 
-**Please use the Translation Notes & Translation Words when doing your translation!**
-
+Убедительно просим вас использовать данные материалы («Замечания по переводу» и «Слова для перевода») в ходе вашей работы над текстом!
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_types|Types of Notes]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
 

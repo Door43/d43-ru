@@ -1,42 +1,35 @@
-===== Level 2 Affirmation =====
+===== Утверждение второго уровня =====
 
-This module answers the question: How can church leaders affirm that the translation is good?\\
+This module answers the question: Как руководство церкви может подтвердить, что перевод является качественным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:complete|Complete Translation]]
+  * [[ru:ta:vol1:checking:complete|Завершенный перевод]]
 
-==== Proper Documentation for Level Two Affirmation ====
+==== Документация, необходимая для утверждения второго уровня ====
 
-We, as church leaders in our language community, affirm the following: 
+Мы, руководители языкового сообщества, подтверждаем следующее:
 
-  - The translation conforms to the Statement of Faith and Translation Guidelines.
-  - The translation is accurate and clear in the target language.
-  - The translation uses an acceptable style of the language.
-  - The translation uses an appropriate alphabet and system of spelling.
-  - The community approves of the translation.
-  - The community evaluation form has been completed
+  * Перевод соответствует «Исповеданию веры» и «Рекомендациям для перевода».
+  * Перевод на целевой язык является правильным и понятным.
+  * В переводе употреблен подходящий языковой стиль.
+  * В переводе использованы подходящий алфавит и орфография.
+  * Сообщество утверждает перевод.
+  * Документ «Оценка сообщества» был заполнен
 
-If there are any remaining problems, make a note of them here for the attention of the Level Three Checkers. 
+Если какие-либо проблемы остались не решенными, оставьте здесь свое замечание для редакторов третьего уровня.
 
-Names and positions of the level 2 checkers:
+Имена и должности редакторов второго уровня:
 
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
+  * Имя: Должность:
+  * Имя: Должность:
+  * Имя: Должность:
+  * Имя: Должность:
+  * Имя: Должность:
+  * Имя: Должность:
 
-After filling out this form, you will need to [[ru:ta:vol1:process:publishing_process|request to publish]] so that your translation can be published at checking level 2.     
-
+После заполнения данной формы вам необходимо обратиться с просьбой о публикации перевода под его вторым уровнем редакции.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
-  * [[ru:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]
+  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
+  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
 

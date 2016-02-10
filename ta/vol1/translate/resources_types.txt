@@ -1,96 +1,79 @@
-===== Types of Notes =====
+===== Типы «Замечаний» =====
 
-This module answers the question: What are the different types of notes?\\
+This module answers the question: Какие типы комментариев даны в «Замечаниях по переводу»?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_help|Help with Translating]]
-  * [[ru:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
+  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
 
-==== Translation Notes ====
+==== Замечания по переводу ====
 
-Translation Notes are words or phrases copied from the ULB and then explained. In English, the ULB text is in bold.
+«Замечания по переводу» - это слова или фразы из ОТБ, которым дается объяснение. В английском тексте они выделены жирным шрифтом.
 
-There are many different type of notes in the Translation Notes. You should read all of the Translation Notes for a frame or chunk of text before starting to translate it. You should also read both the ULB and the UDB and the definitions of the translationWords.
+В «Замечаниях по переводу» содержится разные типы заметок. Вы должны прочитать все замечания по переводу для фрейма или текстового отрывка перед тем, как приступить к переводу. Вам также следует прочесть ОТБ, ОЖБ и определения, данные в «Словах для перевода».
 
-==== Types of Notes ====
+==== Типы замечаний ====
 
-=== Definitions ===
+=== Определения ===
 
-One type of Translation Note is the definition of a word. If a word in the ULB seems special or unusual, but not important enough to be included in the Translation Words, the Translation Notes will have the meaning of the word. Simple definitions of words or phrases are added without quotes or sentence  format. Here are examples:
+Одним из типов «Замечаний по переводу» является определение слов. Если слово в ОТБ выглядит необычно или по-особенному, но недостаточно важно для того, чтобы быть включенным в «Слова для перевода», в «Замечаниях по переводу» будет приведено значение этого слова. Сюда включено простое объяснение значений слов и фраз, не оформленное в виде предложений и не содержащее цитаты. Например:
 
-  * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
-  * **kings' palaces**  - a large, expensive house that a king lives in
+  * рынок - большое открытое пространство, где собираются люди для того, чтобы продать свои товары
+  * флейта - продолговатый полый музыкальный инструмент, из которого извлекают звуки, вдувая воздух в один из его концов
+  * царский дворец - большой дорогой дом, в котором живет царь
 
-=== Explanations ===
+=== Объяснения ===
 
-Simple explanations about words or phrases are in sentence format. For example:
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned** - They were too far from shore to call so they made gestures, probably waving their arms.
+Простое объяснение слов и фраз, оформленное как предложение. Например: * промывали свои сети - они очищали свои рыболовные сети, чтобы снова использовать из для рыбной ловли. * подали сигнал - они находились слишком далеко от берега, поэтому жестикулировали, вероятно, размахивая руками.
 
-=== Suggested Translations ===
+=== Варианты перевода ===
 
-Another type of Translation Note is to give you suggestions for different ways you could translate the same meaning. There are several types of suggested translations. 
+Другой разновидностью «Замечаний по переводу» является предложенные различные способы перевода одного и того же значения. Есть несколько видов перевода.
 
-== Direct Replacements ==
+== Прямое замещение ==
 
-Synonyms or equivalent phrases are written in double-quotes. These can replace the text in the ULB. 
+Синонимы и равнозначные фразы даны в двух вариантах. Ими можно заменить текст в ОТБ.
 
-In this example, the words “the path” or the words “the road” can  replace the words “the way” in the ULB. You can then decide if it is more natural to use a word like "path" or "road" or "way" in your language. 
-  * **the way**  - “the path” or “the road”
+В следующих примерах слова «тропа», «дорога» могут заменить слово «путь» в ОТБ. Вы сами можете решить, какое слово для вашего языка будет наиболее подходящим: «тропа», «дорога» или «путь». * путь - «тропа», «дорога».
 
-In this example, the words “do the same thing” can replace the words “do  likewise” in the ULB. You, as the translator, can decide which is more  natural for your language. 
-  * **do likewise**  - “do the same thing.” 
+В данном примере слова «делать то же самое» в ОТБ могут быть заменены выражением «поступать аналогичным образом». И вы как переводчик можете решить, какая фраза станет боле благозвучной в вашем языке. * «поступать аналогичным образом» - «делать то же самое».
 
-== Alternate Translation(s) ==
+== Альтернативный перевод ==
 
-An alternate translation is a suggested change to the form or content of the ULB because the target language may use a different form to communicate the same meaning. 
+Альтернативный перевод предлагает изменить форму или содержание ОТБ, поскольку в целевом языке может употребляться иная форма при передаче аналогичного значения.
 
-Examples include adding implicit information, changing passive voice to active, and stating rhetorical questions as statements.  
+Примером может служить включение в текст скрытой информации, изменение страдательных глагольных форм на действительные, замена риторического вопроса утвердительной фразой.
 
-The letters “AT” stand for "Alternate Translation," so "AT:" indicates that what follows is an alternate translation that should only be used when the form or content of the ULB is confusing or is not enough to communicate the meaning in your language.  Some examples are: 
-  * **see the salvation of God**  - AT: “learn about how God saves people from sin.”
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
+Давайте обозначим словосочетание «Альтернативный перевод» аббревиатурой «АП»; «АП» может употребляться только в тех случаях, когда форма или содержание ОТБ приводит в замешательство или не передает в должной степени значение в вашем языке. Например, * «смотрите на спасение Божье» - АП: «смотрите, как Бог спасает людей от грехов». «Следуй за Мной» - АП: «Становись Моим учеником» или «Пойдем, следуй за Мной как за своим Учителем.»
 
-=== Clarifying Translation in the UDB ===
+=== Прояснение перевода ОТБ ===
 
-There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may text from the UDB as well as a suggested translation. In that case, there will be “(UDB)” after the text from the UDB as below: 
-  * **implored him**  - “begged him” or “pleaded with him” (UDB)
-  * **he fell on his face**  - “he bowed down to the ground” (UDB) or “he knelt and touched the ground with his face”
+Если для отрывка из ОТБ текст ОЖБ станет качественной альтернативой, тогда «Замечания» к этому отрывку могут отсутствовать. Однако в некоторых случаях текст из ОЖБ может предлагаться в «Замечаниях» как вариант перевода. В таком случае будет приводиться ссылка на ОЖБ: * «упрашивал Его» - «умолял Его» или «просил Его» (ОЖБ) * «он пал на лицо» - «он поклонился до земли» (ОЖБ) или «он упал на колени и коснулся челом земли»
 
-=== Alternate Meaning(s) ===
+=== Альтернативное значение ===
 
-The Translation Notes will give **alternate meanings** when there are different ways to understand what a word or phrase means. 
+В «Замечаниях по переводу» дается альтернативное значение там, где есть различные способы понимания значения слова или фразы.
 
-This kind of note will start with the words, “Possible meanings  are that,” and then it will number the possible meanings with the preferred or most likely meaning first. If the meaning is given as an explanation, like the following examples, it is not in quotes. 
-  * **You are like a young lion … like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
-  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+Такое «Замечание» начинается со слов «Варианты значений следующие...», затем перечисляются вероятные значения, первое из которых выступает как предпочтительное. Если значение дано как объяснение, как в нижеприведенном примере, оно не заключается в кавычки. * Ты, как молодой лев.., как чудовище в морях - Возможные значения следующие: 1) он был подобен льву или чудовищу; 2) он думал, что был львом, но, на самом деле, был всего лишь чудовищем. * как чудовище в морях - возможное значение 1) он был могущественным; 2) он не совершил ничего великого.
 
-If the meaning is given in a way that can be used as a translation, like the following examples, it is in quotes.  
-  * **fell down at Jesus knees** - Possible meanings are 1) “bowed down at Jesus feet” or 2) “lay down  on the ground at Jesus feet” or 3) “knelt down before Jesus.” Peter did not fall accidentally. He did this as a sign of humility and respect for  Jesus.
+Значение, которое может быть использовано как перевод, заключено в кавычки. Например, * упал к ногам Иисуса - Возможное значение 1) «склонился к ногам Иисуса»; 2) «лег на землю у ног Иисуса»; 3) «упал на колени перед Иисусом». Петр упал не случайно. Он выразил свое смирение и почтение к Иисусу.
 
-=== Identify Figures of Speech ===
+=== Нахождение изобразительных средств речи ===
 
-The purpose of some Translation Notes is to alert you to figures of speech in the ULB and to give ideas for how to translate the same meaning in a different way. Notes that identify and explain a figure of speech will use sentence form and put the meaning in quotes. 
-  * **Make ready the way of the Lord** - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: “Repent and be ready for when the Lord comes.” (See: Metaphor)
-  * **You offspring of poisonous snakes** - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: “You evil poisonous snakes!” or “You are evil like poisonous snakes.” (See: Metaphor)
+Цель некоторых «Замечаний по переводу» состоит в том, чтобы предупредить вас о том, что в ОТБ фигурируют изобразительные средства речи, и чтобы помочь вам по-разному перевести их значение. «Замечания», в которых определяется и объясняется фигура речи, имеет форму предложения, заключенного в кавычки. * Приготовьте путь Господу - В этом предложении люди, готовящиеся к приходу Господа, сравниваются с теми, кто чинит дорогу для того, кто по ней пойдет. АП: «Покайтесь и приготовьтесь к приходу Господа» (см. «Метафора») * Порождения ехидны - Иисус использовал данное выражение, чтобы подчеркнуть, насколько опасными были фарисеи. Ехидна (ядовитая змея) олицетворяет зло и является очень опасной. АП: «Вы злые, ядовитые змеи!» или «Вы злы, как ядовитые змеи» (см. «Метафора»).
 
-If there is a Translation Academy page that explains a certain kind of figure of speech, the note will identify what kind of figure of speech it is in parentheses at the end of the note. For example, (See: Metaphor). You can then look up that kind of figure of speech in Translation Academy for more explanation. 
+Если в «Академии перевода» дано объяснение определенному изобразительному средству речи, то в конце «Замечаний» в круглых скобках будет определен этот тип речевой фигуры, например, (см. «Метафора»). Вы можете посмотреть в «Академии перевода» объяснение этого изобразительного средства.
 
-=== Indirect to Direct Quote ===
+=== Прямая и косвенная речь ===
 
-When a Translation Note is giving a direct quote as an alternative translation for an indirect quote, it will say, “This can be translated as a direct quote:” and then it will give a suggestion for how to translate it as a direct quote. For example:
-  * **to tell no one** -  This can be translated as a direct quote: “Do not tell anyone.” The  implied information is “that you have been healed.” (See: Speech Quotations, Explicit and Implicit Information)
+Когда в «Замечаниях по переводу» дана прямая речь как альтернативный перевод для косвенной речи, уточняется, что «Это может быть переведено как прямая речь:..», а затем следует вариант оформления перевода как прямой речи. Например: * никому не рассказывать - Это может быть переведено как прямая речь: «Никому не рассказывай». Имеется в виду то, что «ты был исцелен» (см. виды речи, имплицитная и эксплицитная информация).
 
-Whenever a Translation Note says "See:" in parentheses at the end of the note, the words that follow are topics that you can look up in Translation Academy that will further explain the issue that the Note talks about.
+Там, где в конце «Замечаний по переводу» в скобках написано «См.:» и далее приведено слово, значит, этому слову дано подробное объяснение в «Академии перевода».
 
-=== Multiple Notes on Long Phrase ===
+=== Объемные замечания для длинных фраз ===
 
-Sometimes there are notes for a phrase and also separate notes for portions of that same phrase. In that case, the larger phrase is first, and its parts come afterward. For example: 
-  * **you say, 'Behold, he is a gluttonous man** - This can be translated as an indirect quote: “you say that he is a  gluttonous man” or “you accuse him of being a gluttonous man.”
-  * **he is a gluttonous man** - “he is a greedy eater” or “he habitually eats too much food”
-
+Иногда «Замечания» относятся как к самой фразе, так и ее частям. В подобном случае, сначала рассматривается фраза, а затем - ее части. * ты говоришь: «Вот, он человек прожорливый» - Можно перевести как косвенную речь: «Ты говоришь, что он - человек прожорливый» или «ты обвиняешь этого человека в ненасытности». * он - человек прожорливый - «он ненасытный» или «ест слишком много».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_links|Links in the Notes]]
+  * [[ru:ta:vol1:translate:resources_links|Ссылки в «Замечаниях»]]
 

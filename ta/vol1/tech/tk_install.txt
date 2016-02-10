@@ -1,33 +1,31 @@
-===== Install translationKeyboard on an Android Device =====
+===== Установить translationKeyboard (клавиатуру перевода) на устройство Android =====
 
-This module answers the question: How do I install translationKeyboard on an Android device?\\
+This module answers the question: Как установить translationKeyboard (клавиатуру перевода) на устройство Android?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]
 
-==== How can I install tK ====
+==== Как установить клавиатуру перевода? ====
 
-Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}}  One video or follow these directions:
+Посмотрите видео {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}} или выполните следующее:
 
-**Note: ** Installing requires an Internet connection.
+Замечание: Для установки требуется подключение к Интернету.
 
-   * Tap the **Google Play Store**  icon on the Android device to open Google Play Store.
-   * In the Play Store, click on the magnifying glass at the top right of the window.
-   * Tap **Search Google Play**  and type translationKeyboard (do not use spaces).
-   * Tap the magnifying glass or close the keyboard.
-   * When the Play Store has found the program, tap the **tK**  icon.
-   * Tap **Install**  on the next screen.
-   * Tap **Accept**  to accept the default settings of the program.
-   * The program will download and then install.
-   * Once the program is installed, tap **Open**  or use the Android back button to close the Google Play Store. The tK icon should appear on the Android screen.
-
-
+  * Нажмите иконку Google Play Store на вашем устройстве Android, чтобы открыть Google Play Store.
+  * В Play Store нажмите на лупу в правом верхнем углу экрана.
+  * Нажмите на Search Google Play (Поиск) и введите translationKeyboard (без пробелов).
+  * Нажмите на лупу или закройте клавиатуру.
+  * Когда Play Store найдет программу, нажмите на иконку tK.
+  * В следующем окне нажмите кнопку Install (Установить).
+  * Нажмите Accept (Принять), чтобы принять установки по умолчанию.
+  * Программа начнет загружаться, а затем - устанавливаться.
+  * Когда программа установится, нажмите Open (Открыть) или воспользуйтесь левой стрелкой на устройстве Android, чтобы закрыть Google Play Store. На экране Android появится иконка tK.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[ru:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[ru:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[ru:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[ru:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
+  * [[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
+  * [[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]
+  * [[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]
 

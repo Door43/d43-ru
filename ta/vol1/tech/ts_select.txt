@@ -1,47 +1,35 @@
-===== Select Source and Target Languages =====
+===== Выбор исходного и целевого языка =====
 
-This module answers the question: How do I select source and target languages?\\
+This module answers the question: Как выбрать исходный и целевой языки?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
 
-==== Source & Target Languages ====
+==== Исходный и целевой языки ====
 
-You can select and change your source language and target language whenever you use translationStudio.\\
+При использовании translationStudio вы можете менять исходный и целевой языки.
 
-**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. \\
+Замечание: Когда вы используете приложение translationStudio в первый раз, открывается окно Translation Projects (Проекты перевода), в котором вы можете выбрать целевой язык.
 
-Complete these steps to select or change the target language, which is the language you are translating TO:
-  - Tap the three dots icon.
-  - Choose **My Translations**
-  - Tap the blue circle with a + sign.
-  - Swipe up to find the target language or tap the look-up icon. The search field opens and the keyboard appears. Type the first few letters of your language to navigate to that portion of the list.
-  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
-  - Choose a project to start translating.
+Для выбора или изменения ЦЕЛЕВОГО языка - языка, на который вы будете переводить текст - выполните следующее: - Нажмите на иконку с тремя точками. - Выберите My Translations (Мои переводы) - Нажмите на голубой кружок со знаком +. - Прокрутите список, чтобы найти целевой язык или нажмите иконку поиска. Откроется поисковое окно, и появится клавиатура. Введите начальные буквы языка, чтобы список начал выдавать ряд похожих названий. - Нажмите на свой язык. Если вы хотите скрыть клавиатуру, нажмите на треугольник, расположенный на черной панели внизу. - Выберите проект, чтобы начать перевод.
 
-
-Complete these steps to select or change the source language, which is the language you are translating FROM:
-In the translation project:
-  - Tap the square icon with the + and - sign found at the top right of the source text window.
-  - Tap the empty square box next to the desired source language.
-  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language.
-
+Для того, чтобы выбрать или изменить ИСХОДНЫЙ язык, выполните следующее: В проекте перевода - Нажмите на иконку со знаком + и - в верхнем правом углу экрана исходного текста. - Нажмите на пустой квадратик рядом с тем языком, который вы хотите использовать как исходный. - Нажмите кнопку Confirm (Подтвердить) внизу экрана, чтобы сохранить свой выбор. Или нажмите Cancel (Отмена), чтобы закрыть и не сохранять выбранный язык.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

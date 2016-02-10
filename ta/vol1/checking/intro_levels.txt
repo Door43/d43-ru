@@ -1,37 +1,35 @@
-===== Introduction to the Checking Levels =====
+===== Введение в уровни редактирования =====
 
-This module answers the question: How do the checking levels work?\\
+This module answers the question: Как функционируют уровни редактирования?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]
+  * [[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]
 
-==== How Checking Levels Work ====
+==== Как функционируют уровни проверки ====
 
-Here are some important tips to remember when working with Checking Levels:
+Есть несколько важных моментов, которые нужно запомнить, когда вы работаете с уровнями редактирования:
 
-  * Only translations that have reached Checking Level One or higher will be made available on the [[https://unfoldingword.org/content|unfoldingWord website]] (https://unfoldingword.org/content) and the unfoldingWord mobile app.
-  * Only translations that have reached Checking Level Three will be approved as source texts for other translations.
-  * When a Checking Level has been completed and all appropriate edits have been made to the translation on door43, the checkers will inform unfoldingWord of the details of the check, including who did the checking and their title or qualifications as a translation checker. unfoldingWord will then harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org|unfoldingWord website]] (https://unfoldingword.org) and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. It will continue to be possible to change the checked version on door43, allowing for future checking and editing.
-  * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 must be updated before proceeding with Checking Levels. See [[:en:ta:vol1:translate:translate_source_version]]. 
+  * Только те переводы, которые прошли первый уровень редакции или выше будут доступны на сайте unfoldingWord (Раскрывающееся Слово) (https:%%//%%unfoldingword.org/content), а также в мобильных приложениях unfoldingWord.
+  * Только те переводы, которые прошли третий уровень проверки, будут утверждены в качестве исходных текстов для осуществления переводов на другие языки.
+  * Когда завершается один из этапов проверки и вносятся все необходимые изменения в Door43, редакторы информируют unfoldingWord (Раскрывающееся Слово) о подробностях проверки, упоминая и о сотрудниках, осуществлявших проверку, их звании или квалификации как редакторов перевода. Потом unfoldingWord заимствует копию перевода у Door43, публикует ее в конечном цифровом виде на сайте unfoldingWord (https:%%//%%unfoldingword.org) и делает текст доступным на мобильных приложениях unfoldingWord. Также создается печатная версия текста в формате PDF, доступная для скачивания. Проверенную версию на Door43 все еще можно будет исправить, т.е. существует возможность для будущей проверки и редактирования.
+  * Для проектов «Историй открытой Библии»: Только переводы «Историй открытой Библии», которые создавались на основании английского исходного текста от версии 3.0 и выше являются пригодными для прохождения проверки первого уровня (и выше). Переводы, создававшиеся до 3.0 версии перед редактированием должны быть обновлены. См. :en:ta:vol1:translate:translate_source_version.
 
-==== The Checking Levels ====
+==== Уровни редакции ====
 
-The strategy for quality assurance of unfoldingWord content, including Open Bible Stories, is described briefly here and in detail at https://unfoldingword.org/quality/ .
+Стратегия, гарантирующая качество содержания unfoldingWord, включая «Истории открытой Библии», описана здесь в краткой форме, детально - на сайте https:%%//%%unfoldingword.org/quality/ .
 
-The three-level checking scale we use is dependent on the unfoldingWord [[:en:ta:vol1:intro:statement_of_faith]] and [[:en:ta:vol1:intro:translation_guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
+Используемая трехуровневая проверка зависит от «Исповедания веры» :en:ta:vol1:intro:statement_of_faith и «Указаний по переводу» :en:ta:vol1:intro:translation_guidelines. Все переводимое содержание сопоставляется с «Исповеданием веры» и процедурами и методологией «Указаний по переводу». На этих документах основываются три уровня проверки, используемых в проекте unfoldingWord:
 
-  * [[:en:ta:vol1:checking:level1|Checking Level One - Affirmation by Translation Team]]
-  * [[:en:ta:vol1:checking:level2|Checking Level Two - Affirmation by Community]]
-  * [[:en:ta:vol1:checking:level3|Checking Level Three - Affirmation by Church Leadership]]
+  * Первый уровень редактирования - Утверждение перевода командой переводчиков
+  * Второй уровень редактирования - Утверждение перевода носителями языка
+  * Третий уровень редактирования - Утверждение перевода руководством церкви
 
-==== Checking the Checkers ====
+==== Проверка редакторов ====
 
-The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the ([[http://door43.org]]) translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
-
-
+Система процесса и проверки, описанная в данном документе, зависит от продолжающегося процесса проверки и исправления содержания и устанавливается церковью, которая использует содержание. Обратная связь поощряется (она создана в переводческом программном обеспечении, где и может осуществляться), как и максимальный вклад всех, кто использует содержание. Перевод содержания доступен на переводческой платформе (http:%%//%%door43.org), которая разработана для того, чтобы все пользователи легко могли создавать содержание, качество которого могло бы постоянно улучшаться.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[ru:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]
+  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * [[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]
 

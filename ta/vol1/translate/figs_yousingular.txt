@@ -1,40 +1,39 @@
-===== Forms of 'You' - Singular =====
+===== Личное местоимение второго лица единственного числа (ты) =====
 
-This module answers the question: How do I know if the word 'you' is singular?\\
+This module answers the question: Как узнать, в каком числе употреблено личное местоимение второго лица (ты - вы)?\\
 Before you start this module have you learned about:
 
-==== Forms of "You" in the Bible ====
+==== Формы личного местоимения второго лица (ты - вы) в Библии ====
 
-The Bible was first written in the Hebrew and Greek languages. These languages both have a singular form of you and a plural form of you. Therefore we know when each "you" in the Bible should be [[ru:ta:vol1:translate:figs_yousingular|'singular']] or plural. But even when reading the Bible in a language that does not have distinct singular and plural forms of "you," the context will often make it clear whether the word “you” is intended to refer to one person, to two people, or to more than two people. If the target language has a dual form of "you" that is used for speaking to only two people, the translator will need to decide from the context when it is appropriate to use this form.
+Библия создавалась на древнееврейском и древнегреческом языках. В них существовали разные формы для обозначения личного местоимения второго лица в единственном и множественном числе. Из библейского текста видно, где личное местоимение второго лица было употреблено в единственном числе, а где - во множественном. И даже там, где в Библии категория числа данного местоимения не ясна, из содержания понятно, где речь идет об одном человеке, двух или большем количестве участников. Если в языке, на который переводится текст, есть двойственное число для личного местоимения второго лица, которое указывает на двух участников событий, то переводчик, исходя из контекста, должен решить, где употребить данную форму.
 
-Some languages, like English, have only one word for ‘you’ regardless of how many people are being spoken to. English speakers can refer to one person as ‘you’ or to many people as ‘you.’ Often the context will make it clear as to whether the word ‘you’ refers to one person or more than one.  Looking at the other pronouns in the sentence will help you distinguish the number of people who are being spoken to.
+В некоторых языках, например, в английском, есть только одно слово «you» для обозначения личного местоимения второго лица в любом числе. Англоговорящие могут обращаться посредством местоимения «you» как к одному человеку, так и ко многим. Обычно из содержания ясно, о каком количестве участников идет речь. Если вы обратите внимание на остальные местоимения в предложении, то сможете определить количество человек, о которых говорится в тексте.
 
-Some languages have more than one word for ‘you’ depending on how many people are being spoken to. If they are speaking to one person, they use the ‘singular’ form of ‘you’. If they are speaking to more than one person, they use the [[ru:ta:vol1:translate:figs_youdual|‘plural’]] form of ‘you.’  Some languages have a [[ru:ta:vol1:translate:figs_youdual|‘dual’]] form for speaking to two people and some have other forms for speaking to three or four people.
+В некоторых языках есть разные слова для обозначения личного местоимения второго лица в разном числе. Если речь идет об одном человеке, используется форма единственного числа. Если речь идет не об одном человеке, то используется форма множественного числа. В некоторых языках существует форма двойственного числа, когда говорится о двух участниках; есть форма тройственного числа, когда говорится о трех участниках события.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-Note that for many languages, the decision about what form of the pronoun to use will also affect the form of the verb associated with it, even in cases where the word “you” is not expressed (for example when a command is given).
+Заметьте, что во многих языках использование определенной формы местоимения влияет на глагольную форму, к нему относящуюся, даже когда само местоимение отсутствует в тексте (например, когда отдается приказ).
 
-==== Examples from the Bible ====
+==== Примеры из Библии ====
 
->//He said, “I have observed all these things from my youth up.” When Jesus heard this, he said to him, “__You__ still lack one thing. Sell everything __you__ have and give to the poor, and __you__ will have treasure in heaven. Then come, follow me.”// -Luke 18:21, 22
+> «Он же сказал: „Все это сохранил я от юности моей.“ Услышав это, Иисус сказал ему: „Еще одного не достает тебе: все, что имеешь, продай и раздай нищим, и будешь иметь сокровище на небесах, и приходи, следуй за Мной.“» (Луки 18:21, 22).
 
-Note that even though English does not have singular and plural forms of ‘you’, the context indicates that this word ‘you’ here only refers to one person. The man had just told Jesus “__I__ have observed these things” and Jesus responded with “you”, referring only to that one man.
+Обратите внимание на то, что в английском языке отсутствует числовая категория у личного местоимения второго лица, но из контекста ясно, что речь идет об одном человеке. Юноша сказал: «Я сохранил все заповеди», а Иисус ответил ему, обратившись на «ты», имея в виду одного человека.
 
->//Then the angel said to him, “Put on __your__ clothes and sandals.” And Peter did so. “Wrap __your__ cloak around __you__ and follow me,” the angel told him.// -Acts 12:8
+> И сказал ему ангел: «Опояшься и обуйся». Он сделал так. Потом говорит ему: «Надень одежду твою и иди за мною.» (Деян. 12:8).
 
-The context makes it clear that the angel is addressing one person, so the singular form of “you” would be used here in languages that make that distinction. The verbs “put on“ and “wrap” would also need the singular form.
+Из контекста ясно, что ангел обращается к одному человеку, т.е. здесь должно быть употреблено личное местоимение второго лица единственного числа. Глаголы «надень», «опояшься» также должны употребляться в форме единственного числа.
 
->//To Titus, my true son in our common faith…The reason I left __you__ in Crete was that __you__ might straighten out what was left unfinished and appoint elders in every town, as I directed __you__….__You__ must teach what is in accord with sound doctrine.”// -Titus 1:2,5; 2:1
+> Титу, истинному сыну по общей вере... Для того я оставил тебя в Крите, чтобы ты довершил недоконченное и поставил по всем городам пресвитеров, как я тебе приказывал... Ты же говори то, что сообразно с здравым учением (Титу 1:4-5; 2:1).
 
-Sometimes instruction is addressed to only one person, so the singular form of “you“ would be used. The context will make that clear. This often happens in a letter. 
+Иногда указания даются одному человеку, в этом случае будет использоваться личное местоимение второго лица единственного числа. Вы поймете это из контекста. В посланиях подобное явление часто имеет место.
 
-Also watch the video for the [[http://youtu.be/cPtjzJ2Advk|computer]] (http://youtu.be/cPtjzJ2Advk) or the [[http://youtu.be/AVITfDEk8nc|tablet/phone]] (http://youtu.be/AVITfDEk8nc).\\ 
-
+Также см. видео на вашем компьютере (http:%%//%%youtu.be/cPtjzJ2Advk) или на планшете/телефоне (http:%%//%%youtu.be/AVITfDEk8nc).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
 

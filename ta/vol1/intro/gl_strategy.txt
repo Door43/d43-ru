@@ -1,52 +1,41 @@
-===== Gateway Languages Strategy =====
+===== Стратегия ключевых языков =====
 
-This module answers the question: How can every language be reached?\\
+This module answers the question: Как достичь каждый язык?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[ru:ta:vol1:intro:open_license|Open License]]
+  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
 
-//More can be read about the Gateway Languages Strategy at [[https://unfoldingword.org/gateway/|unfoldingword.org/gateway]].//
+О «Стратегии ключевых языков» вы можете прочитать больше на сайте unfoldingword.org/gateway.
 
-==== Explanation ====  
+==== Объяснение ====
 
-The objective of the gateway languages strategy is to equip 100% of the people groups that comprise the global Church with biblical content that is released from copyright restrictions and made available in a language they understand well (a language of wider communication) together with unrestricted translation training and tools that enable them to translate it into a language they understand fully (their own language). A “gateway language” is a language of wider communication through which second-language speakers of that language can gain access to content and translate it into their own language. 
+Цель «Стратегии ключевых языков» заключается в том, чтобы полностью снарядить нации, входящие во Вселенскую Церковь, библейским текстом, который не защищен авторским правом, и чтобы сделать этот текст доступным на языках, хорошо понимающихся национальными меньшинствами (на языках более широкого общения), а также предоставить средства и инструменты для неограниченного обучения переводу материалов на понятный (родной) язык. «Ключевой язык» - это язык более широкого общения, через который носитель другого языка может получить доступ к тексту так, чтобы перевести его содержание на родной язык.
 
-The “gateway languages” at the world level comprise the smallest number of languages through which content can be delivered to every other language, via translation by bilingual speakers. For example, French is a gateway language for minority languages in Francophone Africa in that content available in French can be translated by bilingual speakers from French into their own languages. 
+Мировые или «Ключевые языки» - это немногочисленные языки, через которые библейское содержание может быть передано в любую нацию, благодаря переводу текста людьми, владеющими обоими языками. Например, французский язык является «ключевым» для тех кто говорит на малых африканских языках и, в то же время, понимает французский, поэтому тест может быть переведен с французского на местный язык носителями обоих языков.
 
-At the country level, the gateway languages of a given country are the fewest languages of wider communication required for bilingual speakers in every minority language native to the country (not located there due to immigration) to gain access to content. For example, English is the gateway language for North Korea, given that all people groups native to North Korea can be reached by translation of content into their language from English. 
+На уровне страны «ключевыми языками» данной страны может быть небольшое количество языков, использующихся для широкого общения, овладение которыми требуется от говорящих на национальных языках - меньшинствах (не являющихся ключевыми вследствие иммиграции), для получения доступа к библейскому содержанию. К примеру, английский язык является «ключевым» для Северной Кореи; так что представители из Северной Кореи, владеющие английским, могут сделать библейский текст доступным для своей нации.
 
-To read more about the Gateway Languages Strategy and to find out if your language is a gateway language go to https://unfoldingword.org/gateway/ .  
+Если вы желаете узнать больше о «Стратегии ключевых языков» и выяснить, является ли ваш язык «ключевым», посетите наш сайт https:%%//%%unfoldingword.org/gateway/ .
 
-==== Effects ====  
+==== Результаты ====
 
-This model has two basic effects: First, it empowers all languages to "pull" content to their language once the content and helps have been "pushed" into a language accessible to every language of the world (a gateway language). Second, it limits the amount of translation that needs to be done as the helps only have to be translated into the gateway language. All other languages can translate only the content as no language will be dependent upon them for understanding the translation helps.  
+Подобная модель имеет два основных преимущества: во-первых, она дает возможность всем языкам «ухватиться» за содержание в своем языке как только это содержание вместе со вспомогательными материалами «проталкивается» в мировой (ключевой) язык; во-вторых, она суживает круг тех переводов, которые необходимо осуществлять исключительно во вспомогательных целях.
 
-Thus, depending on whether or not a language is a gateway language will determine what needs to be translated into that language. 
+Таким образом, в зависимости о того, является ли язык ключевым или нет, будет устанавливаться, что именно необходимо переводить на этот язык.
 
-For Other Languages, we recommend they translate at least Open Bible Stories. They are welcome to translate whatever other resources they like.
+Для остальных языков мы рекомендуем перевести хотя бы «Истории открытой Библии». Однако перевод остальных ресурсов также приветствуется.
 
-For Gateway Languages, we strongly recommend the following resources be translated, in this order and checked to the level specified:
+Что же касается ключевых языков, то мы настоятельно рекомендуем осуществлять перевод материалов в нижеприведенном порядке и проводить определенный уровень проверки:
 
-PHASE 1
-  * translationAcademy vol 1 - Level 2
-  * Door43 Critical pages - Level 2
-  * Open Bible Stories
-    * OBS text - Level 3
-    * OBS translationNotes - Level 3
-    * OBS translationQuestions - Level 2
-    * translationWords vol 1 - Level 2
+ПЕРВЫЙ ЭТАП
 
-PHASE 2
-  * The Bible
-    * ULB Text - Level 3
-    * UDB Text - Level 3
-    * Bible translationNotes - Level 3
-    * Bible translationQuestions - Level 2
-    * translationWords vol 2 - Level 2
-  * translationAcademy vol 2 - Level 2
+  * академия перевода, том 1 - Уровень 2
+  * Door43 Важные страницы - Уровень 2
+  * Истории открытой Библии Истории открытой Библии (текст) - Уровень 3 Истории открытой Библии (замечания по переводу) - Уровень 3 Истории открытой Библии (вопросы перевода) - Уровень 2 Слова, встречающиеся в переводе, том 1 - Уровень 2
 
+ВТОРОЙ ЭТАП * Библия * Открытая точная Библия (текст) - Уровень 3 * Открытая живая Библия (текст) - Уровень 3 * Библия (замечания по переводу) - Уровень 3 * Библия (вопросы перевода) - Уровень 2 * Слова, встречающиеся в переводе, том 2 - Уровень 2 * Академия перевода, том 2 - Уровень 2
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:finding_answers|Finding Answers]]
+  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
 

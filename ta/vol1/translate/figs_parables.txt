@@ -1,43 +1,42 @@
-===== Parables =====
+===== Притчи =====
 
-This module answers the question: What is a parable?\\
+This module answers the question: Что такое притча?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
 
-==== Explanation ====
+==== Объяснение ====
 
-The kind of communication that we call "parable" includes narrative stories, metaphors, similes, proverbs, and even riddles. The intent of a parable is to convey meaning through a story or word picture. A parable is not an actual account of an event; it is more like an imaginary or hypothetical example (e.g. This could happen). It can be used to explain the kingdom of Heaven by telling a story which the listeners can understand.  Because the lesson comes in the form of a story, the listener or reader can feel themselves being a part of it; it is more likely to make an impact on their lives.
+Разновидность информации, которая называется «притчей», включает в себя повествовательные рассказы, метафоры, сравнения, олицетворения и даже загадки. Целью притчи является передача значения через рассказ или образную картину. Притча не является реальной передачей событий; она больше похожа на воображаемый или предположительный пример (т.е. на то, что могло бы произойти). Она может быть использована для объяснения истин о Царстве Небесном через историю, которая была бы понятна слушателям. Поскольку урок преподается посредством рассказа, слушатель или читатель ощущают себя его участниками, поэтому притча оказывает сильное воздействие на их жизнь.
 
-==== Translation Suggestions ====
+==== Варианты перевода ====
 
-Parables or teaching stories are best translated as closely as possible to the way they were originally told. Because the parables are set in the culture of Bible times, there may be things that are not easily understood by a modern audience. Follow the guidelines for translating unknown practices or things. But because these are parables and not real events, some things that are known to the target audience can be substituted for things that are unknown to them, as long as they existed in the time period. Parables are best translated as a situation that can be understood within your own culture. The parable is a teaching story, so it is important that all of the details and parts of the story support the main point of the story. It is important that you understand this main point of the parable before you translate it.
+Притчи или поучительные истории лучше всего переводить как можно ближе к их исконному содержанию. Поскольку притчи возникли в культуре библейских времен, возможно, в них встретится то, что будет нелегко понять современной аудитории. Следуйте инструкциям о переводе неизвестных действий и фактов. Однако поскольку речь идет о притчах, а не реальных происшествиях, некоторые факты, не известные вашей аудитории, могут быть заменены им знакомыми, поскольку они существовали в определённый промежуток времени. Лучше всего переводить притчи как ситуации, которые будут поняты в вашей культуре. Притча - это поучительный рассказ, поэтому важно, чтобы каждая его часть и деталь передавали основную мысль притчи. Очень важно, чтобы эта основная мысль была вами понята еще до того, как вы приступите к переводу притчи.
 
-When Jesus told a parable, he did not always intend for his hearers to understand what it meant right away (for example, the parable of the farmer planting seeds). So do __not__ try to explain the story or what Jesus was teaching, but simply translate the parable. Use the form that your language has for communicating that a narrative is an imaginative story (or even a story whose purpose is to teach something) and not an account of a historical event.
+Когда Иисус рассказывал притчи, Он не всегда ждал от Своих слушателей, что они сразу же ее поймут (например, притча о сеятеле). Поэтому не стремитесь к тому, чтобы объяснить значение притчи или учения Иисуса, но просто переведите ее. Используйте ту форму в вашем языке, которая передает мысль о том, что повествование является вымышленным (воображаемой историей, цель которой - чему-то научить), и не сообщает о каком-либо историческом событии.
 
-Parables seldom (if ever) contain the names of specific individuals (That may be a key for you in identifying what is a parable and what is a narrative account.)
+В притчах редко фигурирует имя человека (или вообще никогда не употребляется) - этот признак может стать ключевым при определении понятия «притча» и рассказа - повествования.
 
-(See: [[ru:ta:vol1:translate:figs_simile]], [[ru:ta:vol1:translate:figs_metaphor]], [[ru:ta:vol1:translate:figs_hypo]])
+(См.: en:ta:vol1:translate:figs_simile, en:ta:vol1:translate:figs_metaphor, en:ta:vol1:translate:figs_hypo)
 
-==== Examples from the Bible ====
+==== Примеры из Библии ====
 
->//Jesus said to them, "Certainly you will say this __proverb__ to me, 'Doctor, heal yourself. Whatever we heard that you did in Capernaum, do it here in your hometown too.'"// -Luke 4:23 ULB 
+> Он сказал им: „Конечно, вы скажите Мне присловие: «Врач, исцели Самого Себя; сделай и здесь, в Твоем отечестве, то, что, мы слышали, было в Капернауме.»“(Луки 4:23)
 
->//Then he also told them a __parable__. "Can a blind person guide another blind person? If he did, they would both fall into a pit, would they not?// -Luke 6:39 ULB
-
+> Сказал также им притчу: может ли слепой водить слепого? не оба ли упадут в яму? (Луки 6:39).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[ru:ta:vol1:translate:figs_simile|Simile]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[ru:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[ru:ta:vol1:translate:figs_irony|Irony]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
-  * [[ru:ta:vol1:translate:figs_you|Forms of You]]
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[ru:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
-  * [[ru:ta:vol1:translate:figs_events|Order of Events]]
+  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
+  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
+  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
+  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
+  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
+  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
+  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
+  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
 

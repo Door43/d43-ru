@@ -1,62 +1,55 @@
-===== Translate Unknowns =====
+===== Перевод слов с неизвестным значением =====
 
-This module answers the question: How do I translate words that I do not know?\\
-==== How to Translate Unknowns ====
+This module answers the question: Как переводить слова с неизвестным значением?\\
+==== Как переводить неизвестные детали ====
 
-There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is an object, animal, practice, or other thing that is not known to the people who speak the target language. The following information will help with translating these unknown things or concepts.
+Бывают случаи, когда в исходном тексте встречаются незнакомые слова и мысли. Если вам не известно значение слова в исходном тексте, то вам помогут в этом «Замечания по переводу» и «Важные термины». Однако, иногда слово в исходном тексте может обозначать предмет, животное, действие или что-то другое, не известное людям, говорящим целевом языке. Нижепривеженная информация поможет вам в переводе неизвестных предметов и концепций.
 
-==== Historical facts ====
+==== Исторические факты ====
 
-It is very important to remember that if the term expresses a historical fact, then that fact must be kept in a translation. For example, in Mark 11:13, Jesus cursed a fig tree. To substitute any other kind of tree would be untrue to a historical fact. To translate this, follow one of the following options:
-  * Use a general descriptive phrase, such as "a fruit tree."
-  * Use a descriptive phrase with a borrowed word, such as "a tree that bears fruit called 'figs.'"
-  * Use a borrowed word for the name of the tree: "a fig tree."
+Важно помнить, что если слово обозначает исторический факт, тогда данный факт может быть сохранен в переводе. Например, в Марка 11:13 Иисус проклял смоковницу. Будет неправильно заменить историческое слово «смоковница» на название какое-либо другого дерева. Чтобы сделать перевод, следуйте нижеперечисленным принципам:
 
-For the last two choices, a footnote would be necessary to explain what "fig" means.
+  * Употребите описательное выражение, например, «фруктовое дерево».
+  * Используйте описательную фразу с заимствованным словом, например, «дерево с плодами, которые назывались „смоквами“».
+  * Употребите заимствованное слово, обозначающее дерево: «смоковница».
 
-Another example is In John 12:14-15 where it says that Jesus rode into Jerusalem on a donkey's colt, which fulfilled a prophecy in the the Old Testament. Since it says that Jesus was sitting on a donkey's colt, which is a young donkey, the translation should not say that he sat on an ox, for example. If the word for "donkey" does not exist in the target language, a borrowed word could be used and explained in the text or in a footnote. For example, the text could say, “riding on the young of a kind of work animal called a ‘donkey.'”
+В последних двух случаях нужно дать сноску, для того, чтобы объяснить значение понятия «смоковница».
 
-This is different from the use of an animal as part of a teaching or illustration. In that case, it is not a matter of historical fact. See the example of "wolf" below.
+Другой пример содержится в Иоанна 12:14-15, где говорится о том, как Иисус въехал в Иерусалим на осленке и как, тем самым, исполнилось ветхозаветное пророчество. Поскольку сказано, что Иисус сидел на осленке (или на молодом осле), нельзя дать перевод, что Иисус сидел, к примеру, на воле. Если в вашем языке нет слова «осел», можно употребить заимствование и дать ему объяснение непосредственно в тексте или сноске. Например, в тексте могут быть слова: «сидя на вьючном животном, которое называлось „ослом“».
 
-=== Food and other objects ===
+Этот пример отличается от случая, когда животное приводится как иллюстрация, данная в учении. Тогда он не будет историческим фактом. См. приведенный ниже пример со словом «волк».
 
-  * plow (vs hand planting)
-      * See the example of translating '[[:en:bible:notes:luk:09:61|plow]]' in Luke 9:62.
-  * grapes, vineyard
-  * wheat
-  * bread
-  * numbers, numerals
+=== Пища и другие предметы ===
 
-=== Animals ===
+  * плуг (для ручного вспахивания) См. пример перевода слова «плуг» в Луки 9:62
+  * виноград, виноградник
+  * пшеница
+  * хлеб
+  * цифры, числа
 
-An example of the use of an animal in the Bible as an illustration is in John 10:12 where the word "wolf" is used as a way to describe a person who is harmful to God's people. There are many things to describe about a wolf but what is important in this verse is that it is a fierce and dangerous animal that frightens and harms the sheep.
+=== Животные ===
 
-If a wolf is an unknown animal in your culture, you could substitute an animal that looks similar and that has similar characteristics. For example, large wild dogs are similar to wolves. They attack and eat other animals, such as lambs. So “wolves” could be translated with a generic term like “wild dogs” or “fierce dogs” or with the name of a specific animal like a dog that your people know of, such as “coyotes” or “jackals.” You could also use a general descriptive phrase such as, "a dangerous wild animal" that focuses on the characteristics that are being highlighted in the text.
+Библейским примером текста, в котором животное используется в качестве иллюстрации, является Иоанна 10:12, где слово «волк» употреблено для описания человека, причиняющего вред Божьим людям. У волка есть много характерных признаков, но в данном стихе подчеркивается его жестокость и опасность как животного, пугающего и приносящего смерть овцам.
 
-Also see the Translation Note at Luke 10:3 for other translation suggestions for [[:en:bible:notes:luk:10:03|"wolf."]]
+Если в вашей культуре волк не известен, вы можете заменить это слово понятием, обозначающим животного того же вида, имеющего аналогичные признаки. Например, на волков похожи крупные дикие собаки. Они могут напасть на других животных, например, на овец, и загрызть их. Таким образом, слово «волки» можно перевести общим понятием «дикие собаки», «свирепые собаки» или словом, известным вашему народу, обозначающим животное семейства собачьих, например, «койот» или «шакал». Вы также можете использовать описательную фразу «опасное дикое животное», которая освещает в тексте основные признаки данного животного.
 
-=== Cultural practices ===
+Также смотрите «Замечания по переводу» для Луки 10:3 и для других вариантов перевода слова «волк».
 
-There might be many differences between the biblical culture and the target language culture. Sometimes a cultural substitute can be used. But be careful not to change any historical facts (see explanation above).
+=== Культурные особенности ===
 
-The unknown biblical practice could be explained in a footnote or Bible teaching. The explanations could include a known cultural practice that has the same meaning as the one described in the Bible text. For example, in Jewish culture, grief and repentance for sin were shown by wearing a rough type of cloth (sackcloth) and putting ashes on the head. Wailing was another sign of grief. In other cultures grief may be shown in different ways. But if this practice was something that actually happened it needs to be recorded as such, with an explanation that tells what it means, perhaps using a practice from the target culture that has the same meaning.
+Между библейской культурой и культурой национального языка может существовать огромное различие. Иногда допустимо культурное замещение слов. Но обращайте внимание на то, чтобы сохранять исторические данные (см. вышеприведенное объяснение).
 
-For example, in certain cultures when men greeted other men who were family or friends, they would kiss them on one cheek or both cheeks. This can be translated as “to greet him with a kiss” or “to greet him by kissing him.” If this is not done in your culture, you could explain it with a footnote. If your readers would find it embarrassing or inappropriate to say that a man would kiss another man, you could translate it in a more general way such as, “to give him a friendly greeting.”
+Неизвестная вам библейская практика может быть объяснена в сноске или библейском учении. В это объяснение может входить известные культурные действия, означающие то же самое, что и те, которые были указаны в библейском тексте. Например, в еврейской культуре состояние горя и раскаяния выражалось через ношение грубой одежды (вретища) и посыпание головы пеплом. Причитание было еще одним способом выражения горя. Но в других культурах это состояние может выражаться иначе. Но если данные действия, в действительности, имели место, то об этом следует написать и дать объяснение их значения с возможным упоминанием об аналогичной практике в культуре того языка, на который переводится текст.
 
-See the example of [[:en:bible:notes:luk:22:47|'greet with a kiss']] in Luke 22:47.
+Например, в некоторых культурах когда человек приветствовал друга или родственника, он целовал его в щеку или обе щеки. Можно перевести это как «приветствовал его поцелуем» или «приветствовал его, поцеловав». Если в вашей культуре так не делается, то вы можете дать объяснение в сноске. Если для ваших читателей неприличен и неуместен жест, когда один мужчина целует другого, вы можете перевести это в общих чертах, например, «дружески его поприветствовал».
 
-==== Translation Suggestions ====
+См. пример «приветствовать поцелуем» в Луки 22:47.
 
-Here are suggestions to keep in mind when translating a term that is not familiar in your language:
-  * Use a descriptive phrase. You will most likely need to use a phrase to explain the meaning of the unknown word. It is important only to describe the part of the meaning which is being used in the particular verse being translated.
-  * Substitute something similar. At times the exact word may be unknown to the people of the target language but there might be something similar that could be used in its place. Only do this if the term does not express a historical fact.
-  * Use a foreign word from another language. Foreign words are words taken from a language that is not the target language. You could also use the foreign word together with a general word or descriptive phrase.
-  * Use a word that is more general in meaning. An example would be "work animal" which is more general than the word "donkey." This is acceptable because a donkey is a kind of work animal.
-  * Use a word or phrase that is more specific in meaning. Sometimes there is no general word in the target language to describe the term, therefore you can give specific examples of the term being referred to. An example would be if there is no word for "lights" to refer to heavenly bodies, you could possibly say, "the sun, the moon, and the stars," using specific words.
- 
+==== Варианты перевода ====
 
+Вот некоторые предложения, которые вам следует помнить при переводе понятий, неизвестных в вашем языке: * Употребляйте описательные фразы. Возможно, понадобится использовать фразу для объяснения значения неизвестного слова. Важно пояснить только то значение, которое дано в определенном стихе, который вы переводите. * Замещайте похожие слова. Иногда определенное слово может быть неизвестным в вашей культуре, но в ней может существовать аналогичное понятие, которое может быть использовано вместо исходного слова. Вы можете замещать слова только в том случае, если они не обозначают исторические факты. * Употребите заимствование, взятое из другого языка. Заимствованное слово - это слово, взятое из неродного языка. Вы можете использовать такое слово вместе с основным понятием или описательной фразой. * Употребите слово с общим значением. Примером может быть словосочетание «вьючное животное», которое является общим понятием, в отличие от слова «осел». Такая замена уместна, потому что осел является вьючным животным. * Используйте слово или фразу, уточняющую значение. Иногда в национальном языке отсутствует общее слово, с помощью которого описывается термин, поэтому вы можете дать уточняющие примеры. Например, слово «светила» относится к небесным телам, поэтому вы можете заменить его словами «солнце, луна и звезды», т.е. уточнить.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_names|Translate Names]]
+  * [[ru:ta:vol1:translate:translate_names|Перевод имен собственных]]
 

@@ -1,28 +1,27 @@
-===== How to Share Published Content =====
+===== Как распространить опубликованные материалы =====
 
-This module answers the question: How can I share published content?\\
+This module answers the question: Как распространить опубликованные материалы?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_share|Introduction to Distribution]]
+  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
 
-==== Sharing Published Content Online ====
+==== Онлайн распространение опубликованных материалов ====
 
-All published content can be found online at https://unfoldingword.org. 
+Все публикующиеся материалы можно найти в Интернете на сайте https:%%//%%unfoldingword.org.
 
-   * Open Bible Stories can be found at https://unfoldingword.org/stories/
-   * The Bible can be found at https://bible.unfoldingword.org/
+  * «Истории открытой Библии» можно найти на сайте https:%%//%%unfoldingword.org/stories/
+  * Библию можно найти на сайте https:%%//%%bible.unfoldingword.org/
 
-==== Sharing Printed Published Content ====
+==== Распространение печатного содержания ====
 
-Print-ready PDFs of published content can be found on the [[https://unfoldingword.org|unfoldingWord website]]. These PDFs can be printed on traditional or print-on-demand printing presses. 
+Подготовленное к печати содержание в формате PDF можно найти на сайте unfoldingWord. Все PDF файлы могут быть распечатаны на полиграфическом или типографском оборудовании.
 
-These files can also be shared via email, bluetooth, sD card, etc. 
+Данные файлы также могут распространяться по электронной почте, с помощью технологии bluetooth, карт памяти и т.д.
 
-==== Sharing Published Content with the unfoldingWord Mobile App ====
+==== Распространение опубликованных материалов с помощью мобильного приложения unfoldingWord ====
 
-[[ru:ta:vol1:tech:uw_install|Installing]] the [[https://unfoldingword.org/app/|unfoldingWord App]] provides access to all published content contained in the unfoldingWord catalogue. 
-
+Установка приложения unfoldingWord обеспечивает доступ ко всем опубликованным материалам, находящимся в каталоге unfoldingWord.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]
+  * [[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]
 

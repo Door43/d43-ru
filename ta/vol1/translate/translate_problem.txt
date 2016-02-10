@@ -1,35 +1,34 @@
-===== Problems with Literal Translations =====
+===== Трудности буквального перевода =====
 
-This module answers the question: What are several problems with translations that are too literal?\\
+This module answers the question: Какие трудности появляются в переводе, когда он слишком буквален?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_wforw|Word for Word Substitution]]
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_wforw|Пословная замена]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
 
-==== The meaning of forms change ====
+==== Значение измененной формы ====
 
-Literal translations keep the form of the source text in the target text. Some translators might want to do this because, as we saw in the teaching module "The Importance of Form," the form of a text affects the meaning of the text. However, we must keep in mind that people from different cultures understand the meaning of forms differently. In different cultures, the same form may be understood in very different ways. Therefore it is not possible to protect the meaning from change by keeping the original forms. The only way to protect the meaning is to change the original form to a new form that communicates the same meaning in the new culture as the old form did in the old culture.
+В буквальном переводе сохраняется форма исходного материала в переведенном тексте. Некоторые переводчики могут отдать предпочтение этому виду перевода, потому что, как мы рассмотрели в обучаемом разделе «Важность формы», форма текста влияет на значение текста. Однако нам нужно помнить, что люди из разных культур по-разному понимают значение форм. В разных культурах одна и та же форма может пониматься по-разному. Поэтому невозможно сохранить значение неизменным, сохранив исходную форму. Единственный способ сохранить значение - это изменить исконную форму на новую, которая передаст в новой культуре значение, аналогичное тому, которое было передано посредством старой формы в прежней культуре.
 
-==== Different languages use different orders of words and phrases ====
+==== Разные языки используют разный порядок слов и фраз ====
 
-If you keep the source word order in  your translation, it will be very difficult, and sometimes impossible, for the people who speak your language to understand it. You must use the natural word order of the target language so that people can understand the meaning of the text.
+Если вы сохраните исходный порядок слов в вашем переводе, то носителям вашего языка будет очень трудно или вообще будет невозможно понять значение текста. Чтобы люди могли понять значение текста, вам следует использовать естественный порядок слов в вашем языке.
 
-==== Different languages use different idioms and expressions ====
+==== В разных языках используются разные идиомы и выражения ====
 
-Each language has its own idioms and other expressions, such as words that represent sounds or emotions. In order to express the meaning of these things, you must choose an idiom or expression that has that same meaning in the target language, not just translate each word. If you do that, the idiom or expression will have the wrong meaning.
+В каждом языке существуют свои идиомы, выражения и междометия (слова, с помощью которых передаются звуки и эмоции). Чтобы передать подобные значения, вам нужно найти идиому или выражение с аналогичным значением в родном языке, а не просто дать пословный перевод. В противном же случае, смысл идиомы или выражения будет неверным.
 
-==== Some terms do not have equivalents in other cultures ====
+==== Некоторые понятия не находят аналогий в чужих культурах ====
 
-The Bible contains many terms for things that no longer exist, such as ancient weights (stadia, cubit), money (denarius, stater) and measures (hin, ephah). Animals in Scripture may not exist in some parts of the world (fox, camel). Other words may be unknown in some cultures (snow, circumcision). It is not possible to simply substitute equivalent words for these terms in those situations. The translator must find another way to communicate the original meaning.
+В Библии есть много слов, обозначающих более несуществующие реалии, к примеру, древнюю меру длины (локоть, стадия), деньги (динарий, статир), вес (гин, ефа). Некоторые животные, упомянутые в Библии, могут отсутствовать в определенных частях планеты (лисица, верблюд). Есть слова, не известные некоторым культурам (снег, обрезание). В подобных случаях не достаточно заменить эти понятия эквивалентными терминами. Переводчику следует найти иной способ для передачи исходного значения.
 
-==== The Bible was intended to be understood ====
+==== Библия была написана для того, чтобы ее понимали ====
 
-The testimony of the Scriptures themselves shows that they were meant to be understood. The Bible is written in three languages because the language of the people changed. When the Jews returned from exile and no longer remembered Hebrew, the priests translated the Old Testament readings into Aramaic so they could understand (Neh 8:8). Later, when the New Testament was written, it was written in the common Koine Greek, which was the language that most people spoke at that time, rather than Hebrew or Aramaic or even classical Greek, which would have been harder for common people to understand.
+Библейское свидетельство показывает, что оно было предназначено для того, чтобы быть понятым. Библия создавалась на трех языках, потому что язык людей менялся. Вернувшиеся из вавилонского плена иудеи более не помнили родного языка, поэтому священники переводили книги Ветхого Завета на понятный народу арамейский язык (Неемия 8:8). Позднее, в период создания Нового Завета, вошедшие в него книги были написаны на греческом койне - языке, на котором говорила в те времена основная масса людей (а не на еврейском, арамейском или классическом греческом, трудным для понимания простому народу).
 
-These and other reasons demonstrate that God wants people to understand his word. So we know that he wants us to translate the meaning of the Bible, not reproduce the form. The meaning of the Scriptures is more important than the form.
-
+Эти причины и ряд других показывают, что Божья воля заключается в том, чтобы люди понимали Его слово. Значит, нам надо понять, что Он желает, чтобы мы переводили значение Библии, а не просто воспроизводили форму. Значение Писания намного важнее его формы.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

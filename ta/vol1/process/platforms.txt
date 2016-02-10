@@ -1,24 +1,21 @@
-===== Selecting a Platform =====
+===== Выбор платформы =====
 
-This module answers the question: How do I choose a translation platform?\\
+This module answers the question: Как выбрать платформу для перевода?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:getting_started|Getting Started]]
+  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
 
-==== Choosing a Translation Platform ====
+==== Выбор платформы для перевода ====
 
-Now you need to select a translation and checking platform. This is where the translation and checking teams will do their work. There are four options: 
+Теперь вам потребуется выбрать платформу для перевода и проверки. Это та система, в которой команды переводчиков и редакторов будут осуществлять свою работу. Есть три варианта:
 
-  * Online in a web browser - For those with consistent internet, they can work straight on door43. Click [[ru:ta:vol1:process:setup_door43|here]] to set up door43 for translation.
-  * Offline on a mobile device - For those with access to an Android tablet or mobile device, they can work offline in our translation app called translationStudio. Click [[ru:ta:vol1:process:setup_tsandroid|here]] to set up translationStudio.
-  * Offline in a word processor - For those who would like to work in a word processor, they download the files needed to do that. Click [[ru:ta:vol1:process:setup_word|here]] to set up word processor. 
-
-
-
+  * Онлайн вэб браузер - Обладатели безлимитного интернета могут работать непосредственно на сайте Door43. Нажмите сюда, чтобы установить Door43 в качестве платформы для перевода.
+  * Режим оффлайн на мобильном устройстве - Те, у кого есть планшет или мобильное устройство Android, могут работать в нашем приложении translationStudio в режиме оффлайн. Нажмите сюда, чтобы установить translationStudio.
+  * Текстовый редактор, работающий в режиме оффлайн - Те, кто предпочитает работать в текстовом редакторе, должны будут загружать рабочие файлы. Нажмите сюда, чтобы установить текстовый редактор.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:setup_door43|Setting up Door43]]
-  * [[ru:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]
-  * [[ru:ta:vol1:process:setup_word|Setting Up a Word Processor]]
-  * [[ru:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
+  * [[ru:ta:vol1:process:setup_door43|Установка Door43]]
+  * [[ru:ta:vol1:process:setup_tsandroid|Установка translationStudio]]
+  * [[ru:ta:vol1:process:setup_word|Установка текстового редактора]]
+  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
 

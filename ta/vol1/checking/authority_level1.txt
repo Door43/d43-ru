@@ -1,20 +1,18 @@
-===== Authority Level 1 =====
+===== Первый уровень управления? =====
 
-This module answers the question: What is authority level 1?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_process|Checking Authority and Process]]
+This module answers the question: Что представляет собой первый уровень управления?\\
+Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_process|Полномочия для редактирования и процесс редактирования]]
 
-==== Authority Level 1: Affirmation by Translation Team ====
+==== Первый уровень управления: утверждение перевода командой переводчиков ====
 
-The intent of this level is to affirm the agreement of the translation team with standard Christian doctrine, as well as with the guidelines for ensuring the accuracy of the translation itself. Content published at this level promotes the broadest reach of the content as an active project, with an open invitation (implied or direct) to members of the language community to suggest improvements to the translation.
+Цель этого уровня - утвердить соглашение команды переводчиков со стандартной христианской доктриной, а также с указаниями, обеспечивающими правильность перевода. Опубликованное на данном уровне содержание обеспечивает больший доступ к содержанию действующего открытого проекта (предполагаемым или прямым) членам языкового сообщества, вносящих улучшение в перевод.
 
-To achieve this level, the translation team asserts that the [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]] is an accurate reflection of their own beliefs and that the translated content is also in harmony with it.
+Для прохождения данного уровня команда переводчиков должна признать, что в основе их веры лежит «Исповедание веры» и что переведенное содержание находится в соответствии с ним.
 
-The translator (or team) asserts that the translation has been done in accordance with the [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]] and that they have made use of available exegetical and translation checking resources in the translation process, including the Translation Notes and Translation Words.
-
-
+Переводчик (или команда) должны заявить, что перевод выполняется в соответствии с «Указаниями по переводу» и что они в ходе своего переводческого процесса они использовали доступные экзегетические материалы и материалы по редактированию перевода, а также «Замечания по переводу» и «Слова для перевода».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:authority_level2|Authority Level 2]]
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
+  * [[ru:ta:vol1:checking:authority_level2|Второй уровень управления]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
 

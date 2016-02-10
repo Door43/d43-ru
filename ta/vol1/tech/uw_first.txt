@@ -1,29 +1,27 @@
-===== Use unfoldingWord for the First Time =====
+===== Первое использование unfoldingWord =====
 
-This module answers the question: How do I use unfoldingWord for the first time?\\
+This module answers the question: Как использовать unfoldingWord в первый раз?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
-  * [[ru:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
+  * [[ru:ta:vol1:tech:uw_app|Мобильное приложение unfoldingWord (Раскрывающееся Слово)]]
+  * [[ru:ta:vol1:tech:uw_install|Установка unfoldingWord на устройство Android]]
 
-==== First-Time Use ====
+==== Первое использование ====
 
-The first time the unfoldingWord app opens on a device, it will open to the language selection page. Tap on the language you wish to view. The stories will open in that language. There are no other settings to change in this app.
+Когда в первый раз вы откроете приложение unfoldingWord, появится страница для выбора языка. Выберите нужный вам язык. Все истории будут открываться на этом языке. Иные установочные параметры для данного приложения отсутствуют.
 
-==== Checking Levels ====
+==== Уровни редактирования ====
 
-Below the list of languages, there is an explanation of the three-level checking system. Each level is described in detail.
+Ниже приводится список языков, дается объяснение трехуровневой системы редактирования. Каждый уровень подробно описывается.
 
-==== Language Information ====
+==== Информация о языке ====
 
-To view the checking status of each language translation, tap the <font inherit/georgia,serif;;inherit;;inherit>**  // i  //  **</font>    icon to the right of the language. The screen will open to show the translators for that language, the checking level, version and publish date.
-
-
+Чтобы посмотреть проверочный статус перевода на каждом языке, нажмите на значок i справа от языка. Откроется окно, в котором переводчику будет показан язык перевода, уровень проверки, версия и дата публикации.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[ru:ta:vol1:tech:uw_language|Language Information]]
-  * [[ru:ta:vol1:tech:uw_select|Select a Language]]
-  * [[ru:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
-  * [[ru:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * [[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]
+  * [[ru:ta:vol1:tech:uw_language|Информация о языке]]
+  * [[ru:ta:vol1:tech:uw_select|Выбрать язык]]
+  * [[ru:ta:vol1:tech:uw_update_content|Обновить приложение unfoldingWord на устройстве Android]]
+  * [[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]
 

@@ -1,34 +1,23 @@
-===== Checking Level One – Translation Team Check =====
+===== Первый уровень редактирования - Проверка текста командой переводчиков =====
 
-This module answers the question: How do I do a level one check?\\
+This module answers the question: Как осуществить первый уровень редактирования?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
+  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
 
-==== Definition of Checking Level One ====
+==== Определение первого уровня редактирования ====
 
-Level One checking will be done primarily by the translation team, with some help from others in the language community. The translator or translation team should check their translation before they translate very many stories or chapters of the Bible, so that they can correct mistakes as early as possible in the translation process. Many of the steps in this process will need to be done several times before the translation is finished.
+Первый уровень редактирования осуществляется, главным образом, командой переводчиков с незначительной помощью, оказываемой со стороны представителей языкового сообщества. Переводчик или группа переводчиков должны сразу же проверить свой перевод (еще до того, как они переведут большой объем глав из «Историй» или Библии) - так они смогут исправить ошибки на ранних этапах переводческого процесса. Многие из этих этапов придется проходить по несколько раз, пока перевод не будет завершен.
 
-For the purposes of the unfoldingWord project, translations of Bible texts and biblical content are able to be published after they reach Checking Level One. This enables the broadest reach of the content as an active project, with an open invitation to others in the language community (implied or direct) to help improve the translation. 
+Ради целей проекта unfoldingWord (Раскрывающееся Слово) перевод Библии и библейских историй можно будет опубликовать сразу же после прохождения первого уровня редактирования. Это открывает более широкий доступ к содержанию действующего проекта, давая возможность представителям языкового сообщества участвовать (прямо или заочно) в улучшении качества перевода.
 
-==== Steps for checking under Level One: ====
+==== Этапы проверки первого уровня: ====
 
-These are the steps that the translation team must follow in order to achieve Checking Level One:
-  - **Contact.**  Make contact with at least one element of the unfoldingWord network, notifying unfoldingWord that you intend to begin translation. To get information about how to do that, click [[ru:ta:vol1:intro:finding_answers|here]].
-  - **Review.**  Review the [[:en:ta:vol1:intro:statement_of_faith]] and the [[:en:ta:vol1:intro:translation_guidelines]].
-  - **Agree.**  Agree that the Statement of Faith is an accurate reflection of your own beliefs and that you intend to translate the content in harmony with it and also in accordance with the Translation Guidelines by signing the form [[https://unfoldingword.org/forms/|here]] (https://unfoldingword.org/forms).
-  - **Draft.**  Make a draft translation of some portions of the text. For instructions on how to make a draft translation, click [[:en:ta:vol1:translate:first_draft|here.]]
-  - **Self Check**. For instructions on how to do a Self Check of your draft translation, click [[:en:ta:vol1:checking:self_check|here.]]
-  - **Peer Check**. For instructions on how to do a Peer Check of your draft translation, click [[:en:ta:vol1:checking:peer_check|here. ]]
-  - **Important Term Check**. For instructions on how to do an Important Term Check of your draft translation, click [[:en:ta:vol1:checking:important_term_check|here. ]]
-  - **Accuracy Check**. For instructions on how to do an Accuracy Check of your draft translation, click [[:en:ta:vol1:checking:accuracy_check|here. ]]
-  - **Affirmation**. Affirm that you, as a translation team or individual, have made full use of the Translation Notes, the definitions of Important Terms, and the other exegetical and translation checking resources in the translation process, and that you have followed the steps for checking under Level One. For instructions on how to affirm completion of Level One, click [[:en:ta:vol1:checking:level1_affirm|here. ]]
-
-
+Вот шаги, которые команда переводчиков должна предпринять, чтобы пройти первый уровень редакции: - Контакт. Установите контакт хотя бы с одним элементом сети «Раскрывающегося Слова», уведомив «Раскрывающееся Слово», что вы намерены начать перевод. - Ознакомление. Ознакомьтесь с «Исповеданием веры» :en:ta:vol1:intro:statement_of_faith и «Указаниями для перевода» :en:ta:vol1:intro:translation_guidelines. - Соглашение. Подтвердите, что «Исповедание веры» лежит в основе вашей веры, и вы намерены осуществлять перевод в соответствии с «Указаниями по переводу», подписав нижеприведенную форму: (https:%%//%%unfoldingword.org/forms). - Черновик. Сделайте черновой перевод нескольких отрывков. Для получения указаний о том, как осуществлять черновой перевод, нажмите сюда. - Самопроверка. Для получения указаний о том, как выполнять самостоятельную проверку чернового перевода, нажмите сюда. - Взаимопроверка. Для получения указаний о том, как выполнять взаимопроверку чернового перевода, нажмите сюда. - Проверка важных терминов. Для получения указаний о том, как выполнять проверку важных терминов, нажмите сюда. - Проверка правильности. Для получения инструкций о том, как выполнять проверку правильности перевода, нажмите сюда. - Подтверждение. Подтвердите, что вы как команда переводчиков или как отдельный переводчик в ходе рабочего процесса использовали в полном объеме «Замечания по переводу», «Определения важных терминов» и прочие экзегетические и редакторские материалы и что вы выполнили все этапы первого уровня проверки. Для получения указаний о том, как утвердить завершение первого уровня, нажмите сюда.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[ru:ta:vol1:translate:first_draft|Make a First Draft]]
-  * [[ru:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
+  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
 

@@ -2,8 +2,8 @@
 
 This module answers the question: How can I translate in Door43?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
-  * [[ru:ta:vol1:process:setup_door43|Setting up Door43]]
+  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
+  * [[ru:ta:vol1:process:setup_door43|Установка Door43]]
 
 ==== Using Translation Helps ====
 
@@ -38,6 +38,6 @@ Sharing your work is easy on Door43.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
-  * [[ru:ta:vol1:process:required_checking|How to Check]]
+  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
+  * [[ru:ta:vol1:process:required_checking|Как проверять]]
 

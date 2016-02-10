@@ -1,31 +1,26 @@
-===== Introduction to Translation Manual =====
+===== Введение в «Руководство по переводу» =====
 
-This module answers the question: What is the Translation Manual?\\
+This module answers the question: Что представляет собой «Руководство по переводу»?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[ru:ta:vol1:intro:finding_answers|Finding Answers]]
+  * [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
 
-==== What Does the Translation Manual Teach? ====
+==== Что представляет собой «Руководство по переводу»? ====
 
-This manual teaches translation theory and how to make a good translation. Many of the modules will be immensely helpful to study before starting a translation project. Other modules are only needed for "just-in-time" learning.
+Данное руководство учит теории перевода и тому, как сделать качественный перевод. Будет очень полезно изучить большую часть данных модулей перед тем, как начать переводческий проект. Другие модули необходимы только для кратковременного изучения.
 
-Some highlights in the Translation Manual:
+Некоторые важные моменты в «Руководстве по переводу»:
 
-  * [[ru:ta:vol1:translate:guidelines_intro]] - defining a good translation
-  * [[ru:ta:vol1:translate:translate_process]] - how to achieve a good translation
-  * [[ru:ta:vol1:translate:choose_team]] - some items to consider before starting a translation project
-  * [[ru:ta:vol1:translate:translate_what]] - how to start translating
-
-
-
-
-
+  * ru:ta:vol1:translate:guidelines_intro - определение качественного перевода
+  * ru:ta:vol1:translate:translate_process - как сделать перевод качественным
+  * ru:ta:vol1:translate:choose_team - некоторые вопросы для размышления перед началом переводческого проекта
+  * ru:ta:vol1:translate:translate_what - как приступить к переводу
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_why|Why We Translate the Bible]]
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
+  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
 

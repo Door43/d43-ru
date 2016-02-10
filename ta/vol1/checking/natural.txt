@@ -1,26 +1,25 @@
-===== Natural Translation =====
+===== Благозвучный перевод =====
 
-This module answers the question: Is the translation natural?\\
+This module answers the question: Является ли перевод благозвучным?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level2|Checking Level Two – External Check]]
-  * [[ru:ta:vol1:checking:clear|Clear Translation]]
+  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
+  * [[ru:ta:vol1:checking:clear|Понятный перевод]]
 
-==== A Natural Translation ====
+==== Благозвучный перевод ====
 
-To translate the Bible so that it is NATURAL means that: 
+БЛАГОЗВУЧНЫЙ перевод - это
 
-The translation should sound like it was written by a member of the target language community—not by a foreigner.
+Перевод, который звучит так, будто бы текст был создан представителем целевого языка, а не иностранцем.
 
-To check a translation for naturalness, it is not helpful to compare it to the source language. During this check for naturalness, no one should look at the source language Bible. People will look at the source language Bible again for other checks, such as the check for accuracy, but not during this check.
+При проверке перевода на его благозвучность не помогает сравнивание с исходным языком. В ходе проверки перевода на благозвучность никто не должен подглядывать в исходный библейский текст. Проверяющие сверяются с исходным библейским текстом при осуществлении других типов проверки, например при проверке на правильность, но не при настоящем типе проверки.
 
-To check a translation for naturalness, you or another member of the language community must read it out loud. You can read it to one other person who speaks the target language or to a group of people. Before you start reading, tell the people listening that you want them to stop you when they her something that does not sound like the way someone from your language community would say it. When someone stops you, then you can discuss together how someone would say that same thing in a more natural way.
+При проверке перевода на благозвучность вы или какой-либо другой носитель национального языка должен начать громко зачитывать текст. Вы можете зачитывать текст как одному носителю вашего языка, так и целой группе. Прежде чем приступить к зачитыванию, предупредите людей, чтобы они останавливали вас всякий раз, как услышат что-то неблагозвучное. Когда кто-то останавливает вас, вы вместе можете обсудить, как можно по-новому сформулировать проблемную фразу, чтобы она звучала натурально.
 
-It is helpful to think about a situation in your village in which people would talk about the same kind of thing that the translation is talking about. Imagine people that you know talking about that thing, and then say it out loud in that way. If others agree that that is a good and natural way to say it, then write it that way in the translation.
-
+Иногда будет полезно представить, как бы выразили подобную мысль ваши односельчане. Вообразите, будто бы ваши знакомые высказываются подобным образом, а затем громко произнесите пришедшую вам на ум фразу. Если слушающие соглашаются с тем, что звучит неплохо, запишите этот вариант перевода.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:acceptable|Acceptable Style]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[ru:ta:vol1:checking:language_community_check|Language Community Check]]
+  * [[ru:ta:vol1:checking:acceptable|Подходящий стиль]]
+  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
+  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
 

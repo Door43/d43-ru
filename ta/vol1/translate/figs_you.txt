@@ -1,30 +1,29 @@
-===== Forms of You =====
+===== Формы личного местоимения второго лица =====
 
-This module answers the question: What are the different forms of you?\\
+This module answers the question: Какие существуют формы личного местоимения второго лица?\\
 Before you start this module have you learned about:
 
-==== Singular / Dual / Plural ====
+==== Единственное / Двойственное / Множественное ====
 
-Some languages have more than one word for ‘you’ depending on how many people are being spoken to. If they are speaking to one person, they use the ‘singular’ form of "you." If they are speaking to more than one person, they use the "plural" form of "you." Some languages have a "dual" form for speaking to two people and some have other forms for speaking to three or four people. 
+В некоторых языках есть разные слова для обозначения личного местоимения второго лица в разном числе. Если речь идет об одном человеке, используется форма единственного числа. Если речь идет не об одном человеке, то используется форма множественного числа. В некоторых языках существует форма двойственного числа, когда говорится о двух участниках; есть форма тройственного числа, когда говорится о трех участниках события.
 
-Watch the video for Singular / Dual / Plural [[http://youtu.be/cPtjzJ2Advk|computer]] (http://youtu.be/cPtjzJ2Advk) or the [[http://youtu.be/AVITfDEk8nc|tablet/phone]] (http://youtu.be/AVITfDEk8nc).
+См. видео о единственном, двойственном и множественном числе на компьютере (http:%%//%%youtu.be/cPtjzJ2Advk) или на планшете/телефоне (http:%%//%%youtu.be/AVITfDEk8nc).
 
-For more information regarding Singular forms of you [[ru:ta:vol1:translate:figs_yousingular|click here]].
+Для получения большей информации о личном местоимении второго лица единственного числа, нажмите сюда.
 
-For more information regarding Dual / Plural forms of you [[ru:ta:vol1:translate:figs_youdual|click here]].
+Для получения большей информации о личном местоимении второго лица двойственного или множественного числа, нажмите сюда.
 
-==== Formal / Informal ====
+==== Официальное / неофициальное ====
 
-Some languages also have different forms of "you" to indicate respect or social distance. They use the formal form of "you" when addressing someone who is an elder or respected or in authority. They use the informal "you" when talking with a peer or someone with less authority. Because the Bible was written in languages that do not have this difference, the translator will need to decide when it is best to use formal or informal forms of the language.
+В некоторых языках личное местоимение второго лица может указывать на уважение или социальную дистанцию. При обращении к уважаемому или вышестоящему лицу используется официальная форма этого местоимения. Его неофициальная форма употребляется для обращения к равному по положению или нижестоящему лицу. Поскольку Библия создавалась на языке, где отсутствовали подобные разграничения, переводчику необходимо решить, в каких случаях данное местоимение будет принимать официальную или неофициальную форму.
 
-Watch the video on Formal / Informal for the [[http://youtu.be/MwbYo9dZUDc|computer]] (http://youtu.be/MwbYo9dZUDc) or the [[http://youtu.be/XfgVYqbugYE|tablet/phone]] (http://youtu.be/XfgVYqbugYE).
+См. видео об официальной / неофициальной форме на вашем компьютере (http:%%//%%youtu.be/MwbYo9dZUDc), на планшете/телефоне (http:%%//%%youtu.be/XfgVYqbugYE).
 
-For more information regarding Formal / Informal forms of you [[:en:ta:vol2:translate:figs_youformal|click here]].
-
+Для получения большей информации об официальной / неофициальной форме нажмите сюда.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[ru:ta:vol1:translate:figs_order|Word Order]]
+  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
+  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
 

@@ -1,39 +1,29 @@
-===== What to Start Translating =====
+===== С чего начать перевод =====
 
-This module answers the question: What should I start translating?\\
+This module answers the question: С чего мне следует начать перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
 
-==== What Should I Start Translating? ====
+==== С чего нужно начинать перевод? ====
 
-We recommend that you begin by translating Open Bible Stories. There are many good reasons to start by translating Open Bible Stories:
-  * Open Bible Stories was designed to be easily translated
-    * It is largely narrative
-    * Many difficult phrases and words have been substituted with words that are easier to translate
-    * It has many pictures to help the translator understand the text
-  * Open Bible Stories is much shorter than the Bible or even the New Testament, so it can be quickly completed and distributed to the Church
-  * Since it is not Scripture, Open Bible Stories removes the fear that many translators have of translating the Word of God
-  * Translating Open Bible Stories before translating the Bible gives the translators experience and training in translation, so that when they translate the 
-  Bible, they will do it well
-    * Experience in creating a translation and checking team
-    * Experience in doing the translation and checking process
-    * Experience in using the Unfolding Word translation tools
-    * Experience in resolving translation conflicts
-    * Experience in getting church and community participation
-    * Experience in publishing and distributing content
-  * Open Bible Stories is a great tool to teach the church, evangelize the lost, and train the translators in what the Bible is all about
+Мы рекомендуем вам сначала приступить к переводу «Историй открытой Библии». Существует много основательных причин для того, чтобы начать перевод именно с них.
 
-You can work your way through the Stories in whatever order that you want, but we have found [[https://door43.org/en/obs/31|Story #31]] is a good first story to translate since it is short and easy to understand.
+  * Истории открытой Библии написаны в легкой для перевода форме Они даны в форме повествования Многие трудные фразы и слова заменяются на более легкие В «Историях» содержится огромное количество иллюстраций, которые помогут переводчикам понять текст
+  * «Истории открытой Библии» намного короче Библии и Нового Завета, поэтому их можно быстро перевести и распространить в Церкви
+  * Благодаря тому, что «Истории открытой Библии» не являются Писанием, они избавляют переводчиков от страха перед переводом Слова Божьего
+  * Работа с «Историями открытой Библии», проводимая перед началом работы с Библией, помогает переводчику набраться опыта и знаний, поэтому когда он приступит к переводу Библии, его перевод будет более качественным; он сможет приобрести опыт в создании команды для перевода и редактирования текста; научится осуществлять перевод и редактирование; сможет набраться опыта в использовании средств «Раскрывающегося Слова»; научится разрешать переводческие конфликты; приобретет опыт по получению поддержки церкви и общины; научится публиковать и распространять свои переводы
+  * «Истории открытой Библии» является великолепным средством, которое может быть использовано для обучения Церкви, евангелизации неверующих, обучения переводчиков библейскому содержанию
 
-After completing Open Bible Stories, we encourage the translation team to start translating the Bible. We highly recommend starting with books that are largely narrative (like Ruth or the Gospel of Mark) and saving the more difficult, theologically "heavy" books (like Romans and Galatians) until much later in the translation process. 
+Вы можете начать работать с «Историями» в любом порядке, но мы рекомендуем вам начать с Истории 31, потому что она короткая, и ее содержание легко понять.
 
+После завершения перевода «Историй открытой Библии» мы рекомендуем, чтобы команда переводчиков приступила к работе с Библией. Мы настоятельно рекомендуем начать с повествовательных книг (Руфь или Евангелие от Марка), а «тяжелые» теологические книги (Римлянам, Галатам) оставить на потом.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:first_draft|Make a First Draft]]
-  * [[ru:ta:vol1:translate:translate_help|Help with Translating]]
-  * [[ru:ta:vol1:translate:translate_whatis|What is Translation]]
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
+  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
+  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
+  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
 

@@ -1,56 +1,47 @@
-===== The Qualities of a Good Translation =====
+===== Качества хорошего перевода =====
 
-This module answers the question: What are the qualities of a good translation?\\
+This module answers the question: Каким качествам должен отвечать хороший перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:translate:translate_whatis|What is Translation]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
 
-==== Four Main Qualities ====
+==== Четыре главных качества ====
 
-There are four main qualities of a good translation. It must be:
+Качественный перевод отвечает четырем основным признакам. Он
 
-  * [[ru:ta:vol1:translate:guidelines_clear|Clear]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Natural]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Accurate]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Church-Approved]]
+  * Понятный
+  * Благозвучный
+  * Правильный
+  * Утвержден церковью
 
-We can think of each of these qualities as a leg of a four-legged stool. Each one is necessary. If one is missing, the stool will not stand. Likewise, each of these qualities must be present in a translation in order for it to be useful and faithful to the church. 
+Мы можем представить каждое из этих четырех качеств как отдельные ножки стола. Каждая ножка важна сама по себе. Если у стола нет одной ножки, он не сможет стоять. Аналогичным образом, перевод должен отвечать каждому из перечисленных качеств, чтобы быть полезным для церкви и соответствовать ее требованиям.
 
-=== Clear ===
+=== Понятный ===
 
-Use whatever language structures are necessary to achieve the highest level of comprehension. This includes simplifying concepts, rearranging the form of a text, and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. Learn how to make [[ru:ta:vol1:translate:guidelines_clear|Clear Translations]].
+Для достижения максимального понимания, следует использовать любые требующиеся языковые структуры. При необходимости, упрощайте концепции, трансформируйте форму текста, используя нужное количество слов для точной передачи исконного значения. Учитесь делать перевод понятным.
 
-=== Natural ===
+=== Благозвучный ===
 
-Use language forms that are effective and that reflect the way your language is used in corresponding contexts. Learn how to make [[ru:ta:vol1:translate:guidelines_natural|Natural Translations]].
+Употребляйте эффективные языковые формы, отражающие способ употребления вашего языка в соответствующем контексте. Учитесь созданию благозвучного перевода.
 
-=== Accurate ===
+=== Правильный ===
 
-Translate accurately, without detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. Translate with the meaning of the text in mind and communicate accurately the implicit information, unknown concepts and figures of speech. Learn how to make [[ru:ta:vol1:translate:guidelines_accurate|Accurate Translations]].
+Перевод должен быть правильным, без преуменьшения, изменения и преувеличения первоначального значения. Переведенное содержание, насколько это возможно, должно соответствовать точному значению исконного текста, обращенного к его самым первым читателям. Переводите, держа в памяти значение текста, и точно передавайте скрытую информацию, неизвестные концепции и речевые фигуры. Учитесь созданию правильного перевода.
 
-=== Church-Approved ===
+=== Утвержден церковью ===
 
-If a translation is clear, natural, and accurate but the church does not approve of it or accept it, then it does not achieve the final goal of edifying the church. It is important that the church be involved in the translation, checking, and distribution of the translation. Learn how to make [[ru:ta:vol1:translate:guidelines_church_approved|Church-Approved Translations]].
+Если перевод понятный, благозвучный и правильный, но церковь не утверждает его и не принимает, тогда он не достиг основной цели - служить для наставления церкви. Очень важно, чтобы церковь была вовлечена в процесс перевода, проверки и распространения текста. Учитесь создавать перевод, который будет утвержден церковью.
 
-==== Eight Other Qualities ====
+==== Восемь дополнительных качеств ====
 
-In addition to being clear, natural, accurate, and church-approved, great translations should also be:
-  * [[ru:ta:vol2:translate:guidelines_faithful|Faithful]]
-  * [[ru:ta:vol2:translate:guidelines_authoritative|Authoritative]]
-  * [[ru:ta:vol2:translate:guidelines_historical|Historical]]
-  * [[ru:ta:vol2:translate:guidelines_pure|Pure]]
-  * [[ru:ta:vol2:translate:guidelines_equal|Equal]]
-  * [[ru:ta:vol2:translate:guidelines_expressive|Expressive]]
-  * [[ru:ta:vol2:translate:guidelines_collaborative|Collaborative]]
-  * [[ru:ta:vol2:translate:guidelines_ongoing|Ongoing]]
-
+Перевод не только должен быть понятным, благозвучным, правильным и утвержденным церковью, но он также должен быть * Беспристрастным * Аутентичным * Историчным * Безупречным * Тождественным * Экспрессивным * Совместным * Непрерывным
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
+  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
+  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
+  * [[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
 

@@ -1,41 +1,34 @@
-===== Levels of Meaning =====
+===== Уровни значения =====
 
-This module answers the question: What are the Levels of Meaning?\\
+This module answers the question: Какие существуют уровни значения?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[ru:ta:vol1:translate:translate_form|The Importance of Form]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * [[ru:ta:vol1:translate:translate_form|Важность формы]]
 
-==== Levels of Meaning ====
+==== Уровни значения ====
 
-A good translation requires that the meaning be the same in the target language as in the source language.
+Для создания качественного перевода требуется, чтобы значение в целевом языке соответствовало значению в исходном языке.
 
-There are many different levels of meaning in the Bible. These levels include: 
-  * Meaning of words
-  * Meaning of phrases
-  * Meaning of sentences
-  * Meaning of paragraphs
-  * Meaning of chapters
-  * Meaning of books
+В Библии существует много разных уровней значения. Вот эти уровни:
 
-==== Words Have Meaning ====
+  * Значение слов
+  * Значение фраз
+  * Значение предложений
+  * Значение абзацев
+  * Значение глав
+  * Значение книг
 
-That is, even the smallest unit, a word, has a meaning. But this meaning is determined by the context that the word is in. For example, a single word like "give" may have the following possible meanings, depending on the context:
-  * to grant a gift
-  * to collapse or break
-  * to surrender
-  * to quit
-  * to concede
-  * to supply
-  * etc.
+==== В словах содержится значение ====
 
-==== Building the Larger Meaning ====
+То есть наименьшая лексическая единица - слово - обладает значением. Но это значение определяется контекстом, в котором находится данное слово. Например, слово «давать», в зависимости от контекста, может иметь следующие оттенки значения: * дарить подарок * дать трещину * сдаваться * сдать должность * предавать * снабжать и т.д.
 
-The translator must determine what each word means in the context, and then reproduce the same meaning in the translated text. These words then combine into phrases, sentences, paragraphs, etc. Therefore, the translator must also make sure that the words fit together into equivalent phrases, sentences, paragraphs, etc. so that the translated text has the same meaning on each level.
+==== Построение более широкого значения ====
 
+Переводчик должен определить значение каждого слова в контексте, а затем воспроизвести это значение в переводимом тексте. Затем из этих слов составляются фразы, предложения, абзацы и т.д. Поэтому переводчик должен удостовериться, что слова формируют друг с другом соответствующие фразы, предложения, абзацы и т.д., и что значение текста сохраняется на всех уровнях.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

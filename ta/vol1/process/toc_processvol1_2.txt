@@ -1,9 +1,8 @@
-===== Table of Contents - Process Manual =====
+===== Содержание - Руководство по работе с материалами =====
 
-This module answers the question: What is in the process manual?\\
-{{page>en:ta:vol1:process:toc_processvol1}}  
+This module answers the question: Что содержится в «Руководстве по работе с материалами»?\\
+{{page>ru:ta:vol1:process:toc_processvol1}}
 
-{{page>en:ta:vol2:process:toc_processvol2}}
-
+{{page>ru:ta:vol2:process:toc_processvol2}}
 
 

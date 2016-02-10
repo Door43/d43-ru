@@ -1,36 +1,31 @@
-===== Translate for Meaning =====
+===== Перевод значения =====
 
-This module answers the question: Why should I translate for meaning?\\
+This module answers the question: Почему нужно переводить значение?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
 
-The people who wrote the Bible had messages from God that God wanted people to understand. These original writers used whatever language that they and their people spoke at the time when God gave his message so that they and their people could understand God's messages. God wants people today to understand those same messages. But people today do not speak those languages that the Bible was written in long ago. So God has given us the task of translating the Bible into the languages that people speak today. 
+Людям, писавшим Библию, давалось Божье повеление передать волю Господа людям. Когда Господь изрекал Свое Слово, авторы книг записывали его на родном языке, чтобы вместе с народом народ уразуметь Божью волю. Бог желает, чтобы люди в наши дни понимали Его послания. Но современные люди не используют те языки, на которых была создана Библия много веков назад. Поэтому Господь поставил перед нами задачу перевести Библию на современные языки.
 
-From this we can see that the particular language that people use to communicate God's messages is not important. The particular words that are used is not important. What is important is the meaning that those words communicate. The meaning is the message, not the words or the language. What we must translate, then, is not the words or the forms of the sentences of the  source languages, but the meaning.
+Мы можем сделать вывод, что язык, который люди использовали для передачи Божьего послания, сам по себе не является важным. Также не представляют важность используемые слова. Но то, что действительно является важным, так это значение, переданное с помощью данных слов. Именно значение является содержанием послания, а не отдельные слова в языке. В таком случае, нам следует переводить не слова или формы предложения исходного языка, но содержащееся в нем значение.
 
-Look at the pairs of sentences below. 
+Рассмотрите пары предложений, приведенный ниже.
 
-  * It rained all night.
-  * Rain fell all night.
+  * Лил дождь всю ночь.
+  * Дождь шел всю ночь.
+  * Джон сильно удивился, услышав эти новости.
+  * Новости сильно поразили Джона, когда он их услышал.
+  * Это был жаркий день.
+  * День был жарким.
+  * Дом Петра
+  * Дом, который принадлежит Петру
 
-  * John was very surprised when he heard the news.
-  * The news very much amazed John when he heard it.
-
-  * It was a hot day.
-  * The day was hot.
-
-  * Peter’s house
-  * The house that belongs to Peter
-
-You can see that the meaning of each pair of sentences is the same, even though they use different words. This is the way it is in a good translation. We will use different words than the source text, but we will keep the meaning the same. We will use words that our people understand and use them in a way that is natural for our language. Communicating the same meaning as the source text in a clear and natural way is the goal of translation.
-
-
+Вы видите, что смысл каждой пары предложений одинаковый, несмотря на то, что он передается с помощью разных лексических конструкций. То же самое должно быть в качественном переводе. Мы используем слова, отличные от тех, которые находим в источнике, но мы сохраняем смысл. Мы будем использовать слова, понятные нашему народу, и оформим их так, чтобы они звучали естественно. Целью перевода является передача значения, заключенного в исходном тексте, в понятной и благозвучной форме.
 
 
 //Credits: Example sentences from Barnwell, pp. 19-20, (c) SIL International 1986, used by permission.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
 

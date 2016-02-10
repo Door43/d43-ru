@@ -1,14 +1,13 @@
-===== Setting up Door43 =====
+===== Установка Door43 =====
 
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
 
-==== Getting Started with Door43 ====
+==== Начало работы на сайте Door43 ====
 
-To get started on door43, please follow the following steps: 
+Для того, чтобы приступить к работе на сайте Door43, выполните следующее:
 
 {{page>en:get-started}}
-
 
 
 Next we recommend you learn about:

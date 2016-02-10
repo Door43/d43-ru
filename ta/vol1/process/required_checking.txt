@@ -1,35 +1,34 @@
-===== How to Check =====
+===== Как проверять =====
 
-This module answers the question: How do I check a translation?\\
+This module answers the question: Как проверять перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
 
-==== Purpose of Checking Levels ====
+==== Цель уровней редактирования ====
 
-The purpose the [[ru:ta:vol1:checking:toc_checkvol1_2|checking levels]] is primarily to help ensure that the translation has been made in accordance with the [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]] and the [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]. Another purpose for the checking levels is to increase the input and ownership of the translation among the community that will be using it. 
+Основной целью уровней редактирования является подтверждение того, что перевод был выполнен в соответствии с «Исповеданием веры» и «Рекомендациями для перевода». Другой целью проверки является расширение вклада и прав собственности на перевод среди общин, которые будут его использовать.
 
-=== Checking Level 1 ===
+=== Первый уровень редактирования ===
 
-[[ru:ta:vol1:checking:level1|Checking Level 1]] is done primarily by the translation team, with some input from the language community. 
+Первый уровень редактирования, в основном, проводится командой переводчиков с незначительным вкладом языкового сообщества.
 
-Please follow the [[ru:ta:vol1:checking:level1|Steps for checking under Level One]] to complete a Level 1 check. 
+Для прохождения первого уровня редактирования следуйте инструкциям, относящимся к первому уровню проверки.
 
-After completing the Level 1 Check, you are encouraged to [[ru:ta:vol1:process:intro_publishing|publish]] your translation and continue on to Checking Level 2 (see below). 
+После прохождения первого уровня проверки мы воодушевляем вас опубликовать свой перевод и продолжить прохождение второго уровня редактирования (см. ниже).
 
-=== Checking Level 2 ===
+=== Второй уровень редактирования ===
 
-[[ru:ta:vol1:checking:level2|Checking Level 2]] is done to verify that representative groups from the local language community agree that the translation is a good one. It is done with a [[ru:ta:vol1:checking:language_community_check|language community check]] and a [[ru:ta:vol1:checking:church_leader_check|church leader check]]. 
+Второй уровень редактирования проводится для того, чтобы проверить, что группа представителей местного языкового сообщество находит перевод качественным. Редактирование осуществляется местным языковым сообществом и церковными руководителями.
 
-After completing the Level 2 Check, you are encouraged to [[ru:ta:vol1:process:intro_publishing|publish]] your translation and continue on to Checking Level 3 (see below), if you so desire. 
+По завершении данного уровня редактирования приветствуется публикация перевода и прохождение третьего уровня проверки (см. ниже) (по желанию).
 
-=== Checking Level 3 === 
+=== Третий уровень редактирования ===
 
-[[ru:ta:vol1:checking:level3|Checking Level 3]] has two possible tracks: track one requires church networks to approve the translation and track two requires one church network and one trained translation consultant. Be sure you work through the [[ru:ta:vol1:checking:level3_questions|Level 3 Checking Questions]] while you complete this checking level. 
+Третий уровень редактирования может осуществляться двумя способами: в первом случае требуется осуществление проверки перевода рабочей сетью церквей; во втором - проверка должна осуществляться одной рабочей церковной сетью и одним подготовленным консультантом по переводу. Удостоверьтесь, что по завершении третьего уровня редактирования вы смогли ответить на вопросы касательно данного уровня проверки.
 
-After completing the Level 3 Check, you are encouraged to [[ru:ta:vol1:process:intro_publishing|publish]] your translation. This is the highest checking level. 
-
+После завершения данного уровня редактирования приветствуется публикация вашего перевода. Этот уровень проверки является самым последним.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
 

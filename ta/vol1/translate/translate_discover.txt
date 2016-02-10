@@ -1,24 +1,15 @@
-===== Discover the Meaning of the Text =====
+===== Понять значения текста =====
 
-This module answers the question: How Do I Discover the Meaning of the Text?\\
+This module answers the question: Как мне понять значение текста?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
 
-==== How to Discover the Meaning ====
+==== Как понять значение ====
 
-There are many different things that we can do to help us to discover the meaning of the text, that is, to make sure that we understand what the text is trying to say. Here are a few suggestions:
-   - Read the whole passage through before you translate it. Understand the main point of the whole passage before you begin to translate it. If it is a narrative passage, such as a story of one of Jesus' miracles, picture the original situation. Imagine you were there. Imagine how people felt.
-   - When translating the Bible, always use at least two versions of the Bible together as your source text. Comparing two versions will help you to think about the meaning, so that you do not just follow the words of one version literally. The two versions should be:
-      *One version that follows the form of the original language fairly closely, such as the Unlocked Literal Bible (ULB).
-      * One meaning-based version, such as the Unlocked Dynamic Bible (UDB).
-   - Use the Important Terms resources to learn about terms that you are not familiar with. Words sometimes have more than one meaning. Make sure that you have understood the right meaning of the word in the passage.
-   - Also use the translationNotes that are with the ULB Bible. These are available in the translationStudio program and the Door43 website. These will explain things about the passage that may not be clear. If possible, also use other reference books, such as other versions of the Bible, a Bible dictionary, or Bible commentaries.
-
-
-
+Существует много разных этапов, которых нам предстоит пройти для того, чтобы понять значение текста, т.е. чтобы убедиться, что мы поняли основную мысль текста. Вот несколько предложений: - Прочитайте отрывок целиком прежде чем приступить к его переводу. Определите основную мысль всего отрывка, прежде чем начать его переводить. Если это повествование, например, рассказ о чуде, которое сотворил Иисус, изобразите исходную ситуацию. Представьте себе, что вы были там. Вообразите, как чувствовали себя люди. - Когда вы переводите Библию, всегда пользуйтесь хотя бы двумя ее версиями в качестве исходного текста. Сравнение обоих версий друг с другом поможет вам осмыслить значение, так что вы не просто будете буквально передавать слова одно из версий. Пользуйтесь следующими версиями: «Открытой точной Библией» (ОТБ), которая воспроизводит форму, близкую к языку оригиналов, и версией, основанной на переводе значения - «Открытой живой Библией» (ОЖБ). - Используйте справочник «Важные термины», чтобы понять те слова, с которыми вы не знакомы. Удостоверьтесь, что вы поняли правильно значение слов в отрывке. - Также используйте «Замечания по переводу», относящиеся к «Открытой точной Библии». Они также доступны в программе «Студия перевода» и на сайте Door43. В них объясняются значения отрывков, которые могут быть не ясны. По возможности используйте вспомогательную литературу, например, другие версии Библии, библейские словари и комментарии.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[ru:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
 

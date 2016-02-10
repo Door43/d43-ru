@@ -1,47 +1,45 @@
-===== Setting Up the translationKeyboard APP on an Android device =====
+===== Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android =====
 
-This module answers the question: How do I set up the translationKeyboard APP on an Android device?\\
+This module answers the question: Как установить приложение translationKeyboard (Клавиатура перевода) на устройство Android?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
 
-==== How Can I Set Up tK? ====
+==== Как установить клавиатуру для перевода (tK)? ====
 
-Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}}  three minute video or follow these directions: Set up translationKeyboard so you can type in the font of your language. Tap the tK icon to open the program. The Installation Instructions window opens. Use your finger to tap-swipe up to move the information up on the screen.
+Просмотрите трехминутное видео {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}} или выполние следующее: Установите translationKeyboard (Клавиатура перевода), чтобы вы могли вводить текст на родном языке. Нажмите на иконку tK, чтобы запустить программу. Откроется окно с инструкциями по установке. Перемещайте информацию на экране с помощью нажатия или направленного вверх движения пальца.
 
-==== Action 1: Add translationKeyboard to the system ====
+==== Шаг 1: Добавьте translationKeyboard к системе. ====
 
-   * Tap on the 'Enable Keyboard' button.
-   * A window with all the available keyboards opens.
-   * Find translationKeyboard on the list.
-   * Look for the on-off slide to the right of the translationKeyboard name.
-   * Tap-slide the button. The button turns green.
-   * A warning screen opens.
-   * Tap on 'OK' to allow the keyboard to work.
-   * Tap the back arrow on the Android menu to go back to the setup window.
+  * Нажмите на кнопку «Enable Keyboard» («Запустить работу клавиатуры»).
+  * Откроется окно со всеми доступными клавиатурами.
+  * Найдите в списке клавиатуру для перевода.
+  * Найдите включающийся - выключающийся ползунок справа от названия клавиатуры перевода.
+  * Нажмите на кнопку. Кнопка станет зеленой.
+  * Откроется предупреждающее окно.
+  * Нажмите «ОК» для активизации клавиатуры.
+  * Нажмите кнопку «Назад» в меню Android, чтобы вернуться в окно установки.
 
-==== Action 2: Set the input method ====
+==== Шаг 2: Установка способа ввода ====
 
-   * Tap the 'set input method' button.
-   * A window opens. Tap the circle by 'translationKeyboard'.
-   * The window closes.
+  * Нажмите кнопку «set input method» (установка способа ввода).
+  * Откроется окно. Нажмите на круг под translationKeyboard.
+  * Окно закроется.
 
-==== Action 3: Select the input languages ====
+==== Шаг 3: Выберите язык ввода ====
 
-   * Tap on the 'Input Language' button.
-   * The Input languages list shows.
-   * Use a tap-swipe-up action to see all the languages on the list.
-   * Look for the target language keyboard.
-   * Select by tapping on the box to the right of the language.
-   * Use the back arrow on the Android menu to go back to the setup window.
-
-
+  * Нажмите на кнопку «Input Language» (Язык ввода).
+  * Откроется список языков ввода.
+  * Двигайтесь вверх-вниз, чтобы увидеть все языки в списке.
+  * Найдите клавиатуру для целевого языка.
+  * Выберите ее, нажав на кнопку справа от языка.
+  * Нажмите стрелку «Назад» для возвращения в установочное меню Android.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[ru:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[ru:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[ru:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[ru:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
+  * [[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
+  * [[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]
+  * [[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]
 

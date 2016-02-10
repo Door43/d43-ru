@@ -1,43 +1,40 @@
-===== Introduction to Translation Checking =====
+===== Введение в «Редактирование перевода» =====
 
-This module answers the question: Why do we do translation checking?\\
+This module answers the question: Почему мы редактируем перевод?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
 
-==== Translation Checking ====
+==== Редактирование перевода ====
 
-=== Introduction ===
+=== Введение ===
 
-As part of the translation process, it is necessary that several people check the translation to make sure that it is clearly communicating the message that it should communicate. A beginning translator who was told to check his translation once said, “But I speak my native language perfectly. The translation is for that language. What more is needed?” What he said was true, but there are two more things to keep in mind. 
+Частью переводческого процесса является обязательная проверка перевода несколькими людьми на понятность передаваемого послания. Однажды переводчик, которому сказали проверить свой перевод, ответил: «Я в совершенстве владею родным языком. Я делал перевод на свой язык. Что еще нужно?» Он мыслит верно, однако нужно помнить еще о двух вещах.
 
-One thing is that he may not have understood the source text correctly, and so someone who knows what it should say might be able to correct the translation. This could be because he did not correctly understand a phrase or expression in the source language. In this case, someone else who understands the source language well can correct the translation. 
+Первое, переводчик мог неверно понять исходный текст, поэтому тот, кто знает иностранный язык лучше, может внести поправки в текст. Это может произойти из-за того, что переводчик неверно понял фразу ли выражение в иностранном языке. В таком случае кто-то еще, кто хорошо понимает исходный язык, может исправить перевод.
 
-Or it could be that he did not understand something about what the Bible meant to communicate at a certain place. In this case, someone who knows the Bible well, such as a Bible teacher or a Bible translation checker, can correct the translation. 
+Или переводчик мог не понять, что имелось в виду в определенном месте в Библии. В таком случае, тот, кто хорошо знает Библию, например, библейский учитель или редактор Библии, может внести исправления в перевод.
 
-The other thing is that, although the translator may know very well what the text should say, the way he translated it might mean something else to a different person. That is, another person might think that the translation is talking about something other than what the translator intended, or the person hearing or reading the translation might not understand what the translator was trying to say. That is why it is always necessary to check what someone else understands from the translation so that we can make it more accurate and more clear. 
+Второе, несмотря на то, что переводчик мог хорошо понять, что говорится в тексте, форма переведенного текста может привести к тому, что смысл перевода будет понят читателем совсем по-другому. То есть читатель может понять текст по-своему, не так, как текст понимался переводчиком; или вообще читатель или слушатель может не понять того, что хотел сказать переводчик. Вот, почему, всегда необходимо проверять, как текст был понят окружающими, чтобы доработать перевод, сделав его более понятным и правильным.
 
-This is a guide to the process of checking, in the form of a scale with three levels.
+Ниже приведены указания по трехступенчатому редактированию.
 
-This checking scale helps to show the extent to which the accuracy and clarity of a translation have been verified. These checking levels have been developed by the [[https://unfoldingword.org|unfoldingWord network]] (https://unfoldingword.org), the same group that manages Door43 with the help of many volunteers, and they are used to indicate the checking level of all biblical content on Door43.
+Данные уровни редакции помогают увидеть степень понятности и правильности проверяющегося перевода. Все три этапа были разработаны сотрудниками проекта unfoldingWord (Раскрывающееся Слово) (https:%%//%%unfoldingword.org), которые, благодаря помощи многочисленных добровольцев, управляют сайтом Door43; эти этапы редакции используются для определения уровня проверки всего библейского содержания на сайте.
 
-=== The Checking Levels ===
+=== Уровни редакции ===
 
-There are three checking levels: 
-  * [[:en:ta:vol1:checking:level1]] 
-  * [[:en:ta:vol1:checking:level2]]
-  * [[:en:ta:vol1:checking:level3]]. 
+Мы предлагаем вам три уровня редактирования:
 
-Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
+  * :en:ta:vol1:checking:level1
+  * :en:ta:vol1:checking:level2
+  * :en:ta:vol1:checking:level3.
 
-The purpose of having several Checking Levels is to make translated materials quickly available to the church, while also allowing the content to continue to be checked and corroborated in an open environment. At all times, the degree to which its accuracy has been checked will be clearly indicated. We believe this will result in a faster checking process, allow broad church participation and ownership, and produce better translations.
+Любой перевод, не прошедший первый этап редактирования, считается непроверенным и не получает никакого проверочного статуса.
 
-
-
-
+Целью нескольких этапов редактирования является стремление сделать переведенные материалы легко доступными для церкви, а также сделать содержание открытым для дальнейшей проверки и утверждения более широким кругом читателей. Степень проверки правильности перевода всегда будет четко обозначена. Мы считаем, что это ускорит процесс проверки, даст возможность церкви участвовать в осуществлении перевода и более широко устанавливать право собственности, а также поможет создать более качественный перевод.
 
 
 //Credits: Quotation used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 69.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
+  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
 

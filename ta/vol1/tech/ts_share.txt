@@ -1,48 +1,33 @@
-===== Backup and Share Your Work =====
+===== Создать резервную копию и распространить перевод =====
 
-This module answers the question: How do I backup and share my work?\\
+This module answers the question: Как делать резервное копирование перевода и распространять свою работу?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
 
-==== Backup & Share ====
+==== Резервное копирование и распространение ====
 
-You can share your work for another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.\\
+Вы можете распространять свой перевод в другой программе, отсылать его на другое устройство или сохранить на флэш-памяти. Если ваш перевод находится на карте памяти, вы можете сохранить его на компьютере или устройстве, где установлено приложение translationStudio.
 
-**Note: ** You can only move or share the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.\\
+Замечание: Данные функции позволяют вам перемещать изменения, произведенными на вашем устройстве, или делиться ими. В данных инструкциях словосочетание «your work» (ваша работа) означает все изменения, которые были сделаны на вашем устройстве.
 
-To share, move, or store your work, complete these steps:
-  - Tap the three dots on the bottom left of the editing window.
-  - Tap **Backup** on the list.
-  - At the **Backup** screen, select what you want to do.
-   - Tap **Backup to SD Card** to move your work onto the SD card inserted into your device. This function will not work if no SD card is inserted into the device.
-   - Tap **Send to another app** to export your work.
-     - Tap **Android Beam**  to send your work to a nearby device that has translationStudio installed on it. The app will attempt to locate the device. 
-     - Tap **Bluetooth** to send your work to a nearby device. If it continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
-     - Tap **Drive** to send your work to a Google Drive that has been created before. This requires an Internet connection.
-     - Tap **Gmail** to send your work to an email account. This requires an Internet connection.
-     - Tap ** Slack** to send your work to the Door43 Slack account.
-  - When you are finished, tap outside the Backup Screen to return to the translation screen.
-
-
-
-
+Для того, чтобы распространить, переместить или сохранить ваш перевод, выполните следующие шаги: - Нажмите на три точки внизу экрана окна редактирования. - Выберите из списка Backup (Резервное копирование). - В открывшемся окне выберите желаемое действие. - Нажмите Backup to SD Card (Создать резервную копию на флэш - памяти), чтобы отправить свой перевод на карту памяти, которая находится внутри вашего устройства. - Данная функция не будет выполнена, если в вашем устройстве отсутствует карта памяти. - Нажмите кнопку Send to another app (Отправить в другое приложение), чтобы экспортировать перевод. - Нажмите на опции Android Beam, чтобы переслать вашу работу на соседнее устройство, на котором установлена программа translationStudio. Приложение попытается найти устройство. - Нажмите опцию Bluetooth, чтобы переслать свой перевод на соседнее устройство. Если поиск продолжается более минуты, закройте окно и проверьте, на обоих ли устройствах есть опция Bluetooth. - Нажмите Drive (Диск), чтобы отправить перевод на созданный ранее Google Drive (Диск Google). Для этого потребуется подключение к Интернету. - Чтобы переслать ваш перевод по электронной почте, нажмите Gmail. - Нажмите Slack, чтобы переслать свой перевод на ваш аккаунт в Door43 Slack. По завершении нажмите окно за пределами экрана резервного копирования для возврата в окно перевода.
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

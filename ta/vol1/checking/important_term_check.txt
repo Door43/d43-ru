@@ -1,20 +1,17 @@
-===== Important Term Check =====
+===== Проверка важных терминов =====
 
-This module answers the question: How can I check for important terms?\\
+This module answers the question: Как проверять важные термины?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[ru:ta:vol1:checking:peer_check|Peer Check]]
+  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * [[ru:ta:vol1:checking:peer_check|Взаимопроверка]]
 
-==== How to do an Important Term Check ====
+==== Как проверять важные термины ====
 
-  * Make a list of the important terms in the story or Bible passage that you translate, along with the term that you choose for it in the target language. It is best if you can do this on a chart so that you can list the source term in one column and the target term in another column. Further columns could list equivalent terms in other languages and the references where these terms occur in the Bible. Make sure that everyone translating Bible books that use these terms has access to the chart so that you can all use the same terms in your translation.
-  * Use the list of words and definitions in the translationWords section of Door43 or translationStudio to help you to make a list of these words and to understand what they mean.
-  * Each time the important term occurs in the source text, make sure that the word you have chosen for the translation still makes sense in that context. If it does not, discuss the problem with others on the translation team and try to find a solution together. You may need to use a different term, or you may need to use more than one term for the different contexts, or you may need to find another way to communicate the important term, such as using a longer phrase.
-
-
-
+  * Выпишите из библейской истории или переводимого вами отрывка все важные понятия и подберите им слова из целевого языка. Лучше всего сделать таблицу из двух колонок, в одной из которых записывать все исходные понятия, а в другой - их перевод. В дальнейшем в эти колонки можно включать эквивалентные термины из других языков и ссылки, где они встречаются в Библии. Удостоверьтесь, что у каждого, кто переводит книги Библии, есть эта таблица терминов, чтобы все могли использовать одни и те же понятия в своих переводах.
+  * Используйте список слов и их определения из раздела «Слова для перевода» на сайте Door43 или в translationStudio (Студии перевода), которые помогут вам составить список важных терминов и понять их значение.
+  * Всякий раз, когда важное слово попадается в тексте, удостоверьтесь, что перевод этого слова сохранит свое значение в контексте. Если же значение утрачивается, то обсудите эту проблему с остальными членами команды переводчиков и попытайтесь вместе найти решение. Возможно, вам потребуется использовать другое слово или в разных контекстах вам придется использовать разное количество слов, также может потребоваться найти иной способ передачи важного термина, например, использование длинной фразы.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
 

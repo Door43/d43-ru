@@ -1,24 +1,21 @@
-===== Links in the Notes =====
+===== Ссылки в «Замечаниях» =====
 
-This module answers the question: Why should I use the links in the Notes?\\
+This module answers the question: Зачем нужно использовать ссылки в «Замечаниях»?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_help|Help with Translating]]
-  * [[ru:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
+  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
 
-==== Repeated Phrases in a Book ====
+==== Повторяющиеся фразы в книге ====
 
-Sometimes a phrase is used multiple times in one book. When this happens, there will be a link in the Notes - green chapter and verse numbers that you can click on - that will take you back to where you have translated that phrase before. This will make it easier for you to translate this phrase by reminding you of where you have already translated it. This will make your translation faster and more consistent because you will be reminded to translate that phrase in the same way each time. If a translation that you have used before for the same phrase does not fit a new context, then you will have to think of a new way to translate it. In this case, you should make a note of it and discuss it with others on the translation team. These links will only take you back to notes in the book that you are working on. 
+Иногда какая-нибудь фраза встречается в книге много раз. В таком случае, в «Замечаниях» будет дана ссылка зеленого цвета, в которой будет указан номер главы и стиха; при нажатии на ссылку вы сможете вернуться в то место, где подобная фраза была ранее переведена. Вам будет легче перевести ее, если вы вспомните, что уже переводили данную фразу ранее. Это ускорит вашу работу и сделает ее согласованной, потому что каждый раз вам будет напоминаться перевод фразы. Если же перевод, сделанный ранее, не подходит к новому содержанию, вы должны подумать, как иначе перевести фразу. Вы можете отметить это предложение и обсудить его перевод с остальными членами команды. Ссылки же могут всего лишь вернуть вас обратно к заметкам в той книге, над которой вы работаете.
 
-=== Examples ===
+=== Примеры ===
 
-  * **be fruitful and multiply** - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]].
-  * **everything that creeps along the ground** - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
-  * **will be blessed in him** - AT: “will be blessed because of Abraham” or “will be blessed because  I have blessed Abraham.” For translating “in him,” see how you  translated “through you” in [[:en:bible:notes:gen:12:01|12:3]].
-
-
-
+  * плодитесь и размножайтесь - См., как вы перевели это повеление в 1:28.
+  * все, что двигалось по земле - Речь идет обо всех животных. См., как вы перевели эту фразу в 1:25.
+  * будут в нем благословлены - Альтернативный перевод: «благословятся, благодаря Арааму», «благословятся, потому что Я благословил Авраама». Для перевода «в нем» см., как вы перевели «через тебя» в 12:3.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_types|Types of Notes]]
+  * [[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]
 

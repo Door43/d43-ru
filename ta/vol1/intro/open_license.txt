@@ -1,34 +1,32 @@
-===== Open License =====
+===== Открытая лицензия =====
 
-This module answers the question: What freedoms do users have with unfoldingWord content?\\
+This module answers the question: Какие свободы имеет пользователь относительно содержания unfoldingWord («Раскрывающегося Слова»)?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
+  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
 
-//The official version of this document is found at [[https://unfoldingword.org/license|unfoldingword.org/license]].//
+Официальный текст этого документа можно найти на сайте unfoldingword.org/license.
 
-==== Copyrights & Licensing ====
+==== Авторское право и лицензирование ====
 
-All content on Door43 is made available under a **Creative Commons Attribution-ShareAlike 4.0 International License** (http://creativecommons.org/licenses/by-sa/4.0/), which means
+Все содержание Door43 является доступным благодаря Creative Commons Attribution-ShareAlike 4.0 International License (http:%%//%%creativecommons.org/licenses/by-sa/4.0/), и это означает, что
 
-You are free:
-  * Share — copy and redistribute the material in any medium or format
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+Вы вправе
 
-Under the following conditions:
-  * Attribution — You must attribute the work as follows: "Original work available at http://door43.org ." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+  * Делиться материалом: копировать и распространять его в любом масштабе и формате.
+  * Адаптировать материал: заново сочетать, изменять и дополнять его для любых целей, включая коммерческие.
 
-==== Attribution of Door43 Contributors ====
+При соблюдении следующих условий: * Установление авторства — Вы должны указать авторскую принадлежность следующим образом: «Текстовый оригинал доступен на сайте http:%%//%%door43.org». Ссылка на исконного автора, дающаяся во вторичных материалах, никоим образом не предполагает, что мы соглашаемся с внесенными изменениями или материалами. * Участие на равных правах — Если вы заново сочетаете, изменяете или дополняете материал, то вы должны делать это под той же лицензией, которая есть у оригинала.
 
-When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[www.openbiblestories.com|main page]].
+==== Установление авторства сотрудников Door43 ====
 
-Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.** That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
+При импорте ресурса (книги, руководству по изучению Библии и т.д.) на сайт Door43, первоначальный материал должен сохраняться под открытой лицензией, под которой он и был доступен. Например, иллюстрации, использованные в «Историях открытой Библии», являются доступными и имеют открытую лицензию, поэтому открыто размещаются на главной странице проекта.
 
+Сотрудники проекта Door43 согласны, что изменения, автоматически появляющиеся в истории каждой страницы, являются важным вкладом в их труд. То есть каждый, кто переводит «Истории открытой Библии» на другой язык, регистрируется как участник «Мирового миссионерского сообщества Door43» или как кто-то подобный. Личный вклад каждого переводчика сохраняется в истории страницы с переводимым текстом.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[ru:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
+  * [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
+  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
 

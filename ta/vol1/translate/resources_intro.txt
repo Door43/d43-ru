@@ -1,42 +1,40 @@
-===== Introduction to Resources =====
+===== Ознакомление с материалами =====
 
-This module answers the question: What are Resources?\\
+This module answers the question: Что представляют собой материалы?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[ru:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
+  * [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
+  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
 
-==== Introduction to Resources ====
+==== Ознакомление с материалами ====
 
-UnfoldingWord has designed several resources to help you as you translate the Bible or Open Bible Stories. All of these Resources are available for all projects in Door43, and most are available in translationStudio. \\
+Проект «Раскрывающееся Слово» разработал несколько материалов, которые будут вам полезны при переводе Библии или «Историй из открытой Библии». Все они доступны для всех проектов на сайте Door43, также большая их часть доступна в translationStudio (Студии перевода).
 
-The resources are:
-  * Open Bible Stories
-  * The Unlocked Literal Bible (ULB)
-  * The Unlocked Dynamic Bible (UDB)
-  * translationWords
-  * translationNotes
-  * translationQuestions
-  * translationAcademy
-    
-=== Things to Know ===
+Это следующие ресурсы:
 
-  * Open Bible Stories is a collection of 50 stories from the Bible with pictures that give a very brief overview of its message.
-  * Open Bible Stories has its own set of translationWords, translationNotes, and translationQuestions.
-  * The ULB puts the form of the original languages of the Bible into modern English to show the structure and style of the original.
-  * The UDB is a translation that seeks to present the meaning of the Bible in a way that is simple and easy to understand.
-  * The translationWords for the Bible are important terms that are taken from the ULB.
-  * The translationNotes for the Bible are explanations of the text of the ULB.
-  * translationWords are important words to know and should be translated accurately.
-  * translationNotes provide additional information on ways to translate into your language clearly and naturally.
-  * translationQuestions is a set of questions with answers that you can use to check the translation with others who speak your language.
-  * translationAcademy contains information about how to translate, how to check translations, and how to use the unfoldingWord translation tools.
+  * Истории открытой Библии
+  * Открытая точная Библия (ОТБ)
+  * Открытая живая Библия (ОЖБ)
+  * Слова для перевода
+  * Замечания по переводу
+  * Вопросы перевода
+  * Академия перевода
 
+=== Что нужно знать ===
 
-
+  * «Истории открытой Библии» - это 50 иллюстрированных рассказов, передающие в краткой форме библейское послание.
+  * В «Историях открытой Библии» содержится своя группа слов для перевода, замечаний по переводу и вопросов для перевода.
+  * ОТБ облекает язык Библии в современный, чтобы показать структуру и стиль оригинала.
+  * ОЖБ представляет собой перевод, помогающий сделать библейское значение простым и легким для понимания.
+  * Библейские «Слова для перевода» - это важные понятия, взятые из ОТБ.
+  * Библейские «Замечания по переводу» - это объяснение текста ОТБ.
+  * «Слова для перевода» - это важные термины, которые следует знать, чтобы правильно переводить.
+  * «Замечания по переводу» дают дополнительную информацию о том, как сделать перевод на родной язык понятным и благозвучным.
+  * «Вопросы перевода» - это ряд вопросов с ответами, которые вы можете использовать, чтобы сверить ваш перевод с речью носителей родного языка.
+  * «Академия перевода» содержит информацию о том, как переводить и проверять текст, а также как использовать переводческие средства «Раскрывающегося Слова».
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:resources_d43|Find the Resources in Door43]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:resources_d43|Нахождение материалов в Door43]]
 

@@ -1,39 +1,29 @@
-===== Install translationStudio on an Android Device =====
+===== Установить translationStudio на устройство Android =====
 
-This module answers the question: How do I install translationStudio on an Android device?\\
+This module answers the question: Как установить translationStudio на устройство Android?\\
 Before you start this module have you learned about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
 
-==== Installing tS ====
+==== Установка tS ====
 
-**Note:** This process requires an Internet connection.
-  - Tap on the **Google Play Store**  icon on the Android device. Google Play Store opens.
-  - To search for the app in the Play Store, tap on the magnifying glass at the top right of the window.
-  - Tap on the words **Search Google Play**  and type in translationStudio (do not use spaces).
-  - Tap the magnifying glass or close the keyboard.
-  - When the Play Store has found the program, tap the **tS**  icon.
-  - Tap **Install**  then tap **Accept**  to use the default settings of the program.
-  - The program will download and then install.
-  - The app will download and then install. Once the program is installed, tap **Open**.
-
-
+Замечание: Для данного процесса потребуется соединение с Интернетом. - Нажмите на иконку Google Play Store на устройстве Android. Откроется Google Play Store. - Для нахождения приложения в Play Store, нажмите на увеличительное стекло в правом верхнем углу экрана. - Нажмите на Search Google Play (Поиск Google Play) и введите название «translationStudio» (без использования пробелов). - Нажмите на лупу или закройте клавиатуру. - Когда Play Store найдет программу, нажмите на иконку tS. - Выберите Install (Установить), затем - Accept (Принять), чтобы все установки были выполнены по умолчанию. - Программа будет загружена и установлена. Когда приложение будет установлено, нажмите Open (Открыть).
 
 
 Next we recommend you learn about:
   * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[ru:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[ru:ta:vol1:tech:ts_open|Opening a Translation Project]]
-  * [[ru:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Find my Language]]
-  * [[ru:ta:vol1:tech:ts_translate|Translating in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[ru:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Backup and Share Your Work]]
-  * [[ru:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[ru:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[ru:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[ru:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Report a Problem]]
+  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
+  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
+  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
+  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
+  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
+  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
+  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
+  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
+  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
+  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
 

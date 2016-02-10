@@ -1,50 +1,49 @@
-===== Choosing a Translation Team =====
+===== Создание команды переводчиков =====
 
-This module answers the question: How do I choose a translation team?\\
+This module answers the question: Как создать команду переводчиков?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[ru:ta:vol1:translate:translate_whatis|What is Translation]]
-  * [[ru:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
+  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
 
-==== Importance of a Translation Team ====
+==== Важность команды переводчиков ====
 
-Translating the Bible is a very large and difficult task that will take many people to accomplish. This module will discuss the skills that will be needed by members of the Bible translation team, and the responsibilities that these people will have. Some people will have many skills and responsibilities, and other people will have only a few. But it is important that every Bible translation team include enough people to make sure that all of these skills are represented on the team.
+Перевод Библии - задача весьма объемная и нелегкая, для достижения которой требуется значительное количество людей. В данном разделе будет рассматриваться вопрос о навыках, необходимых для переводчиков, составляющих команду, а также вопрос об ответственности, на них налагающейся. Участники, обладающие многими навыками, будут наделены большей ответственностью, тогда как другие - только некоторой. Команда переводчиков должна состоять из членов, обладающими всеми необходимыми навыками для перевода Библии.
 
-=== Church Leaders ===
+=== Руководители церкви ===
 
-Before starting a translation project, as many church networks as possible should be contacted and encouraged to become a part of the translation and even to send some of their people to be a part of the translation team. They should be consulted and asked for their input into the translation project, its goals, and its process. 
+Перед тем, как приступить к работе с переводческим проектом, следует установить деловые отношения с как можно большим количеством церквей, чтобы воодушевить их участвовать в рабочем процессе и выдвигать своих членов в кандидаты команды переводчиков. Церкви нужно проконсультировать и предложить сделать вклад в переводческий проект - как в его цели, так и в процесс.
 
-=== Translation Committee ===
+=== Переводческий комитет ===
 
-It is good if the leaders of these churches and church networks can form a committee to guide the work, choose the translators, resolve problems that arise, and encourage the churches to pray for the work and to support the work financially. 
+Будет весьма полезным, если руководители церквей смогут организовать комитет, который будет направлять работу, выбирать переводчиков, решать возникшие проблемы и воодушевлять церковь молиться за их труд и оказывать финансовую поддержку.
 
-This committee can also choose the people who will check the translation for accuracy at levels 2 and 3.
+Этот комитет также может выбрать людей, которые будут проверять правильность перевода на втором и третьем уровнях.
 
-When it comes time, this committee can also make decisions about the format of the translation, how it will be distributed, and they can encourage the churches to use the translated Scriptures.
+В подходящий момент комитет может принимать решение о формате перевода, его распространении, он должен побуждать церковь пользоваться переведенной Библией.
 
-=== Translators ===
+=== Переводчики ===
 
-These are the people who will do the work of making the translation drafts. They will be appointed by the Translation Committee. They need to be people who are native speakers of the target language, who can read the source language very well, and who are respected in the community for their Christian character. For more details about these things, see [[:en:ta:vol1:translate:qualifications]]. 
+Переводчики ответственны за создание чернового перевода. Они избираются переводческим комитетом. Это должны быть носители целевого языка, которые обладают хорошими навыками чтения исходного текста и которые снискали уважение общины благодаря своему христианскому характеру. Подробности см. :en:ta:vol1:translate:qualifications.
 
-As well as making the first drafts, these people will form the core of the translation team that will check each other's work, check the translation with the language community, and receive the suggestions for revision from the level 2 and level 3 checkers. After each review or checking session, these translators are responsible to make the changes to the translation that are necessary so that it communicates what it should in the best way. So they will revise the translation many, many times.
+Задача переводчиков состоит не только в том, чтобы осуществлять черновой перевод; эти люди составляют костяк команды переводчиков, проверяющих работу друг друга, сравнивающих текст с языком общины и получающих комментарии о требуемых исправлениях от представителей второго и третьего уровней проверки. После каждого обзора или очередного этапа проверки на переводчиков возложена ответственность за исправление перевода, чтобы текст мог отвечать самым высоким стандартам. Поэтому им может потребоваться исправлять свою работу огромное количество раз.
 
-=== Typists ===
+=== Наборщики текста ===
 
-If the translators themselves are not inputting the translation draft into a computer or tablet, then someone else on the team needs to do this. This needs to be someone who can type without making a lot of errors. This person also needs to know how to use punctuation marks correctly and consistently. This person may also need to type the revisions and corrections to the translation after each round of checking.
+Если переводчики сами не вводят текст, с которым они работают, в компьютер или планшет, тогда это должен делать кто-то из членов команды. Данную ответственность следует возложить на сотрудника, который сможет выполнять такую задачу без лишних усилий. Он должен знать основы пунктуации. От него также может потребоваться печать проверенного текста и внесение исправлений после каждого этапа проверки.
 
-=== Translation Testers ===
+=== Тестировщики перевода ===
 
-Some people need to test the translation with members of the language community to make sure that the translation is clear and sounds natural in the target language. Usually these are the translators, but they could be other people. These testers need to read the translation to people and then ask them questions to see how they are understanding it. For a description of this task, see [[:en:ta:vol1:checking:language_community_check]]. For alternate methods of testing the translation, see [[:en:ta:vol1:checking:other_methods]]. 
+Некоторым участникам придется протестировать перевод на членах языкового сообщества, чтобы убедиться в его понятности и благозвучности для носителей целевого языка. Обычно данная ответственность возлагается на самих переводчиков, но ее также можно возложить и на других людей. Они должны зачитывать перевод людям, а затем задавать им вопросы, чтобы выяснить, насколько текст был понят слушателями. Описание этого процесса дано на странице :en:ta:vol1:checking:language_community_check. Для альтернативных методов тестирования перевода см. :en:ta:vol1:checking:other_methods.
 
-=== Checkers ===
+=== Редакторы ===
 
-The people who are selected to check the translation for accuracy should be people who already know the Bible well in the source language. They should be able to read well in the source language. They will be comparing the translation to the source Bible, to make sure that the translation communicates everything that is in the source Bible. They should be people who are interested in the translation work and who have time to do a good job of checking. It is good if these people can include members of the different church groups who speak the target language and who will use the translation. The level 2 checkers should be leaders in their local church. The level 3 checkers should be leaders of groups of churches, or respected very widely in the language area. Since many of these people are very busy, it may work best to send different books or chapters to different people, and not burden one or two people with the whole translation.
-
+Люди, назначающиеся в качестве редакторов, проверяющих правильность перевода, должны избираться из тех, кто хорошо знаком с библейским текстом на родном языке. Они также должны владеть навыками хорошего чтения иностранного текста. Им предстоит сравнивать перевод с исходным библейским текстом, чтобы удостовериться, что перевод передает абсолютно все, что есть в исходной Библии. Это должны быть люди, которым интересна работа переводчика и у которых есть время для осуществления качественной проверки. Весьма полезно, если редакторы будут из разных церквей, смогут владеть целевым языком и станут пользоваться этим переводом в будущем. Редакторы второго уровня должны избираться из руководящего состава поместных церквей. Редакторами третьего уровня должны быть руководителями групп церквей или широко уважаемыми в своей языковой среде людьми. Поскольку люди на таких должностях обычно очень заняты, то лучше всего отсылать разным редакторам различные книги или главы, и не возлагать обязательство по редактированию всех текстов на одного человека (двух людей).
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:qualifications|Translator Qualifications]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * [[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
 

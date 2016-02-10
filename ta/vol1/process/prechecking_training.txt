@@ -1,19 +1,18 @@
-===== Training Before Checking Begins =====
+===== Обучение перед началом редактирования =====
 
-This module answers the question: What should I know about checking before I begin?\\
+This module answers the question: Что следует знать о редактировании до того, как к нему приступишь?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
+  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
 
-==== Before Checking ====
+==== Перед редактированием ====
 
-It is recommended that you consult the [[ru:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] frequently as you check this content. Before you start checking, we recommend that you start working your way through the Checking Manual until you understand what is required at each level. As you work through the checking process, you will need to consult the Checking Manual frequently. 
+Рекомендуется, чтобы при проверке содержания вы часто обращались к «Руководству по переводу». Прежде чем вы приступите к проверке, мы рекомендуем вам тщательно ознакомиться с «Руководством по редактированию», чтобы понять, что требуется от каждого уровня проверки. Когда вы будете работать над редактированием текста, как можно чаще обращайтесь к «Руководству по редактированию».
 
-Note: Content will not be published to the unfoldingWord website or mobile app until it has attained at least checking level 1. 
-
+Замечание: Содержание не может быть опубликовано ни на сайте unfoldingWord, ни в мобильном приложении до тех пор, пока оно не выдержит хотя бы первый уровень проверки.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
-  * [[ru:ta:vol1:checking:goal_checking|The Goal of Checking]]
-  * [[ru:ta:vol1:process:required_checking|How to Check]]
+  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
+  * [[ru:ta:vol1:checking:goal_checking|Цель редактирования]]
+  * [[ru:ta:vol1:process:required_checking|Как проверять]]
 

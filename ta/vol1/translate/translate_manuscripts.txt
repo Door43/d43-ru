@@ -1,27 +1,25 @@
-===== Original Manuscripts =====
+===== Оригинальные рукописи =====
 
-This module answers the question: Is there more information about the Original Language text?\\
+This module answers the question: Есть ли еще сведения об исконном тексте?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
 
-==== The Writing of the Original Manuscripts ====
+==== Создание первых рукописей ====
 
-The Bible was written many hundreds of years ago as God inspired his prophets and apostles in ancient times. The Old Testament books were written in Hebrew, with a few parts in Aramaic, the language that the people of Israel used as they lived in exile in Assyria and Babylon. The New Testament books were written in Greek, the language that was used for wider communication throughout the known world between 300 years before Christ and 300 years after Christ. The Old Testament was also translated into Greek about two to three hundred years before Christ.
+Библия создавалась много сотен лет назад, когда Бог вдохновлял Своих пророков и Апостолов древности. Книги Ветхого Завета создавались на древнееврейском, частично - на арамейском (на том языке, на котором израильтяне разговаривали в период ассирийского и вавилонского плена) языках. Книги Нового Завета писались на древнегреческом языке, который использовался в известном нам мире за 300 лет до рождения Христа и спустя 300 лет после Него. Ветхий Завет также переводился на греческий язык за двести-триста лет до прихода Христа.
 
-Since there was no paper in those early days, these writings were put on specially prepared animal skins or a material woven of reeds. These writings were extremely important, so trained people copied them over and over by hand, with great care to be accurate and faithful to the original text that they were copying.
+Поскольку в тот ранний период не существовало бумаги, рукописи изготавливались из выделанной шкуры животных или тростника. Все эти рукописи чрезвычайно важны, поскольку они с огромной тщательностью, строго придерживаясь оригинала, постоянно копировались вручную специально обученными этому людьми.
 
-Over hundreds of years, people made very many copies of the Bible and these copies became spread throughout the ancient world. As the Bible was translated into other ancient languages such as Latin, the translators in various parts of the world used the copies that were available to them when they translated. Later, people began to collect these copies and compare them. While these copies were very much the same, some of them had small differences from each other.
+За сотни лет люди сумели изготовить множество копий Библии, и эти копии распространялись в древнем мире. По мере того, как Библия начала переводиться на другие древние языки, например, на латынь, переводчики в разных частях мира использовали копии, доступные для перевода. Позднее люди начали собирать эти копии и сравнивать их. Тексты были очень схожи друг с другом, но были и такие, которые имели незначительные отличия.
 
-To decide which copies were right at these places where there were small differences, Bible scholars decided that the oldest copies were better because they were closer to the originals. Where the more recent copies were different, the Bible scholars decided that these differences were either accidental errors made while copying or sometimes they were ideas put into the copies by people who were not copying in a strictly faithful manner. So, when we try to decide which copies are more reliable or trustworthy, we prefer the older ones and also we prefer the groups of copies that were made by people who followed a tradition that had a reputation for accuracy and faithfulness.
-
-
+Чтобы решить, какие копии были верны в местах где наблюдалось незначительное различие в содержании, исследователи Библии постановили, что более древние рукописи были лучше, поскольку находились ближе к оригиналу. Там, где более поздние копии имели расхождения, исследователи Библии решили, что данные расхождения были или случайными ошибками, допущенными при копировании, или личными мыслями тех, кто не придерживался строгого и точного копирования. Следовательно, когда мы пытаемся решить, какие копии являются достоверными, мы отдаем предпочтение более ранним, а также исследуем группы копий, сделанные теми, кто следовал традиции, которая была признана как более точная и достоверная.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_textvariants|Textual Variants]]
-  * [[ru:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * [[ru:ta:vol1:translate:translate_textvariants|Текстовые разновидности]]
+  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
 

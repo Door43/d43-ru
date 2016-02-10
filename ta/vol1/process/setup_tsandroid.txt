@@ -1,20 +1,19 @@
-===== Setting Up translationStudio =====
+===== Установка translationStudio =====
 
-This module answers the question: How do I set up translationStudio?\\
+This module answers the question: Как установить translationStudio?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:platforms|Selecting a Platform]]
+  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
 
-=== Set up the app ===
+=== Установка приложения ===
 
-  - First you will need to [[ru:ta:vol1:tech:ts_install|install translationStudio]] on an Android device. (See also https://unfoldingword.org/translationstudio/ ))
-  - [[ru:ta:vol1:tech:ts_first|First time use]] of translationStudio will require an agreement to the [[ru:ta:vol1:intro:statement_of_faith]], the [[ru:ta:vol1:intro:translation_guidelines]], and the [[ru:ta:vol1:intro:open_license]]. 
+  * Сначала от вас потребуется установить translationStudio на устройство Android. (См. также https:%%//%%unfoldingword.org/translationstudio/ ))
+  * При первом использовании translationStudio требуется соглашение о вероисповедании the en:ta:vol1:intro:statement_of_faith, рекомендациях для перевода en:ta:vol1:intro:translation_guidelines, и открытой лицензии en:ta:vol1:intro:open_license.
 
-=== Set up the source language ===
+=== Установить исходный язык ===
 
-  - [[ru:ta:vol1:tech:ts_select|Select Source & Target Languages]]. Go [[ru:ta:vol1:tech:ts_request|here]] if you cannot find your language.
+  * Выбрать источник и язык перевода. Войдите сюда, если вы не можете найти свой язык.
 
-//For more information on how to use translationStudio see the [[ru:ta:vol1:tech:toc_techvol1|Technology Manual section on translationStudio]]//.
-
+Для получения большей информации о том, как использовать translationStudio смотрите раздел «Технологическое руководство» в translationStudio.
 
 
 Next we recommend you learn about:

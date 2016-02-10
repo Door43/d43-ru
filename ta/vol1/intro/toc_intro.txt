@@ -1,16 +1,14 @@
-===== Table of Contents - Introduction =====
+===== Содержание - Введение =====
 
-This module answers the question: What is in the Introduction?\\
-==== Introduction ====
+This module answers the question: Что такое «Введение»?\\
+==== Введение ====
 
-  - [[ru:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
-  - [[ru:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  - [[ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  - [[ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  - [[ru:ta:vol1:intro:open_license|Open License]]
-  - [[ru:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  - [[ru:ta:vol1:intro:finding_answers|Finding Answers]]
-
-
+  * Введение в академию перевода.
+  * Проект unfoldingWord (Раскрывающееся Слово)
+  * Исповедание веры
+  * Рекомендации для перевода
+  * Открытая лицензия
+  * Стратегия ключевых языков
+  * Получение ответов
 
 

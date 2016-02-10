@@ -1,27 +1,24 @@
-===== Introduction to Distribution =====
+===== Введение в процесс осуществления распространения =====
 
-This module answers the question: How can I distribute content?\\
+This module answers the question: Как я могу распространить содержание?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
 
-==== Distribution Overview ====
+==== Распространение (общий обзор) ====
 
-Content is worthless unless it is disseminated and used. One advantage of using the Door43/unfoldingWord translation and publishing platform is that it provides multiple, simple ways of distributing both published and unpublished content. 
+Содержание является бесполезным, если оно не распространяется и не используется. Одним из преимуществ использования платформ перевода и публикации Door43/unfoldingWord является то, что они предоставляют несколько простых способов распространения опубликованных и неопубликованных материалов.
 
-==== Open License ====
+==== Открытая лицензия ====
 
-The biggest factor that encourages distribution of content is the [[ru:ta:vol1:intro:open_license|Open License]] that is used with all content on Door43 and unfoldingWord. This license gives everybody the freedom they need to:
+Самым важным фактором, позволяющим распространять содержание, является открытая лицензия, которая применима ко всему содержанию Door43 и unfoldingWord. Данная лицензия предоставляет всем право
 
-   * Share — copy and redistribute the material in any medium or format
-   * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+  * Делиться материалом: копировать и распространять его в любом масштабе и формате.
+  * Адаптировать материал: заново сочетать, изменять и дополнять его для любых целей, включая коммерческие.
 
-Under the terms of the license. 
-
-
-
+В пределах условий лицензии.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]
-  * [[ru:ta:vol1:process:share_published|How to Share Published Content]]
+  * [[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]
+  * [[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]
 

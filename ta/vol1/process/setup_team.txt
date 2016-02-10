@@ -1,41 +1,33 @@
-===== Setting Up A Translation Team =====
+===== Формирование команды переводчиков =====
 
-This module answers the question: How can I set up a translation team?\\
+This module answers the question: Как сформировать команду переводчиков?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:process:getting_started|Getting Started]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
 
-==== Translation Teams and the Definition of a Good Translation ====
+==== Команды переводчиков и определение качественного перевода ====
 
-There are many important questions that must be considered when setting up a translation and checking team. Perhaps the most important thing to keep in mind is that the goal is a [[ru:ta:vol1:translate:guidelines_intro|good translation]] which has four basic characteristics:
-  * [[ru:ta:vol1:translate:guidelines_clear|Clear]] - Clear translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[ru:ta:vol1:translate:guidelines_natural|Natural]] - Natural translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[ru:ta:vol1:translate:guidelines_accurate|Accurate]] - Accurate translations can only be produced by people who understand well the language of the source text and notes and preferably the original text, too
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Church-Approved]] - Church-Approved translations are most easily produced by including in the translation and checking process as many church networks who speak the target language as possible
+Есть много важных вопросов, которые следует рассмотреть при наборе команд переводчиков и редакторов. Возможно, наиболее важным моментом, о котором следует помнить, является то, что цель заключается в создании качественного перевода, отвечающего следующим четырем требованиям:
 
-==== Choosing a Team ====
+  * Понятности - Понятным перевод может быть только тогда, когда он создается при участии как можно большего количества носителей языка, как переводчиков, так и проверяющих.
+  * Благозвучности - Перевод может быть благозвучным только в тех случаях, когда над ним работает большое количество носителей целевого языка - как переводчиков, так и проверяющих.
+  * Правильности - Перевод может быть правильным только тогда, когда он создается людьми, хорошо понимающими иностранный текст и материалы к нему, а также (в идеале) - текст оригинала.
+  * Быть утвержден церковью - Утвержденный церковью перевод наиболее легко создается при участии как можно большего количества участников из церковной рабочей сети в переводческом и проверочном процессе.
 
-As you begin selecting a translation and checking team, there are many different types of people and roles that are needed. There are also specific qualifications that are needed for each team. 
-  * [[ru:ta:vol1:translate:choose_team]] - Describes many of the roles that are needed
-  * [[ru:ta:vol1:translate:qualifications]] - Describes some of the skills needed by the translators
+==== Выбор команды ====
 
-==== Translation Decisions ====
+Когда вы приступаете к отбору команд переводчиков и редакторов, потребуется найти разные типы людей и ролей. К тому же каждая команда должна отвечать определенным квалификационным требованиям. * en:ta:vol1:translate:choose_team - Описывается множество требуемых ролей * en:ta:vol1:translate:qualifications - Описываются навыки, необходимые для переводчиков.
 
-There are many decisions the translation team will have to make, many of them right at the beginning of the project. Included are the following:
-  * [[ru:ta:vol1:translate:translate_source_text]] - Choosing a good source text is very important
-    * [[ru:ta:vol1:translate:translate_source_licensing]] - Copyright issues must be considered when choosing a source text
-    * [[ru:ta:vol1:translate:translate_source_version]] - Translating from the latest version of a source text is best
-  * [[ru:ta:vol1:translate:translate_alphabet]] - Many languages have alphabet decisions that need to be made
-  * [[ru:ta:vol1:translate:writing_decisions]] - Writing style, punctuation, translating names, spelling, and other decisions have to be made
-  * [[ru:ta:vol1:translate:translate_what]] - Choosing what to translate first is another decision to be made
+==== Переводческие решения ====
 
+Существует множество решений, которые должна принять команда переводчиков еще до начала работы с проектом. Среди них следующие: * en:ta:vol1:translate:translate_source_text - Очень важно выбрать качественный исходный текст * en:ta:vol1:translate:translate_source_licensing - При выборе исходного текста следует учитывать закон об авторском праве * en:ta:vol1:translate:translate_source_version - Лучше всего переводить самую последнюю версию исходного текста * en:ta:vol1:translate:translate_alphabet - Во многих языках придется создавать алфавит * en:ta:vol1:translate:writing_decisions - Следует учитывать такие вопросы, как стиль перевода, расстановка знаков препинания, перевод названий и имен, орфография и др. * en:ta:vol1:translate:translate_what - Еще одним решение будет выбор текста, который нужно будет перевести в первую очередь
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Choosing a Translation Team]]
-  * [[ru:ta:vol1:translate:qualifications|Translator Qualifications]]
-  * [[ru:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
-  * [[ru:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[ru:ta:vol1:translate:translate_what|What to Start Translating]]
+  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * [[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]
+  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
+  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
 

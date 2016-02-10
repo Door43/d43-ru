@@ -1,51 +1,51 @@
-===== The Importance of Form =====
+===== Важность формы =====
 
-This module answers the question: What is the importance of form?\\
+This module answers the question: Какова важность формы?\\
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[ru:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[ru:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[ru:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
 
-==== Why Form is Important ====
+==== Почему важна форма? ====
 
-The meaning of a text is the most crucial element. However, the form of the text is also very important. It is more than just a "container" for the meaning. It affects the way the meaning is understood and received. So the form itself also has a meaning.
+Значение текста является наиболее важным элементом. Однако форма текста также очень важна. Она - не просто «вместилище» значения. Она влияет на то, как это значение понимается и принимается. Таким образом, сама форма также передает значение.
 
-For example, look at the differences in form between these translations of Psalm 9:1-2:
+Например, обратите внимание на различия в переводе Псалма 9:1-2:
 
->//I will give thanks to the Lord with all my heart. I will tell of all the great things You have done. I will be glad and full of joy because of You. I will sing praise to Your name, O Most High.// \\ (New Life Version)
+> Возблагодарю Господа всем моим сердцем. Расскажу о великих делах, Им сотворенных. Буду радоваться и веселиться о Тебе. Буду петь и славить имя Твое, Всевышний. \
 
->//I will give thanks to the LORD with my whole heart;\\ I will tell of all your wonderful deeds.\\ I will be glad and exult in you;\\ I will sing praise to your name, O Most High. //\\ (New Revised Standard Version)
+> Воздам благодарность Господу от всего сердца;\ буду рассказывать обо всех Твоих чудесах.\ Буду радоваться и превозносить Тебя;\ буду петь имени Твоему, о Всевышний. \
 
-The first version puts the text into a form that is no different than the form it uses for telling stories. Each line of the Psalm is stated as a separate sentence.
+В первом случае текст имеет форму, которая не отличается от повествовательной. Каждая фраза в Псалме оформлена в виде отдельного предложения.
 
-In the second version, the text is arranged as lines of poetry are arranged in the target culture, with each line of the poem on a separate line of the page. Also, the first two lines are joined with a semi-colon, with the second line indented. These things indicate that they are related - they say very similar things. The third and fourth lines also have the same arrangement.
+Во втором случае текст оформлен как строки стихотворения в определенной культуре: каждая фраза стихотворения занимает отдельную строку на странице. Кроме того, первые две строки соединяются точкой с запятой и отступом во второй строке. Это определяет их как родственные, т.е. как те, в которых говорится об одном и том же. Третья и четвертая строки имеют аналогичное оформление.
 
-A reader of the second version will know that this Psalm is a poem or a song because of the form that it has, while the reader of the first version may not get that understanding, because it was not communicated through the form of the text. The reader of the first version might be confused, because the Psalm seems to be a song, but it is not presented as one. The words are expressing a joyful emotion. As a translator, you should use the form for expressing a joyful song in your language.
+Читатель второй версии будет знать, что этот Псалом является стихотворением или песней, благодаря его форме, тогда тот, кто читает первый вариант не будет этого знать, потому что это не будет передано формой текста. Читатель первой версии может прийти в замешательство, потому что Псалом кажется песней, но он не оформлен как песня. Слова псалма передают радостные чувства. Как переводчику вам следует использовать ту форму, с помощью которой в вашем языке выражается радость.
 
-Look also at the form of 2 Samuel 18:33b:
+Посмотрите на форму 2 Царств 18:33б:
 
->//"O my son Absalom! My son, my son Absalom! If only I had died instead of you–O Absalom, my son, my son!"// (New International Version)
+> «О сын мой, Авесалом! О сын мой, Авессалом! Если б только мне вместо тебя умереть, Авессалом, сын мой, сын мой!»
 
-Someone might say that the meaning contained in this part of the verse is, "I wish that I had died instead of my son Absalom." This does summarize the meaning contained in the words. But the form communicates much more than just that content. The repetition of "my son" so many times, the repetition of the name "Absalom," the expression "O," the wish form "If only…" all communicate a strong emotion of deep anguish on the part of a father who has lost a son. As a translator, you need to translate not just the meaning of the words, but also the meaning of the form. For 2 Samuel 18:33b, it is important that you use a form that communicates the same emotion as contained in the original language.
+Некоторые могут предположить, что значение, которое содержится в этих строках, таково: «Желаю умереть вместо моего сына Авессалома». Это выводится из значения слов, содержащихся во фразе. Но форма сообщает намного больше, чем простое содержание. Повторение слов «мой сын» и «Авессалом», а также междометие «О» и высказывание «Если б только» передают глубокие страдания отца, потерявшего сына. Как переводчику вам следует не просто перевести значение слов, но также значение формы. Для отрывка из 2 Царств 18:33б важно, чтобы вы использовали форму, передающую те же эмоции, что и в оригинале.
 
-So we need to examine the form of the biblical text and ask ourselves why it has that form and not some other one. What attitude or emotion is it communicating? Other questions that might help us to understand the meaning of the form are: 
-  * Who wrote it?
-  * Who received it?
-  * In what situation was it written?
-  * Which words and phrases were chosen and why?
-  * Are the words very emotional words, or is there anything special about the order of the words?
+Итак, нам нужно обращать внимание на форму библейского текста и задавать себе вопросы: «Почему у текста именно такая форма, а не какая-то другая?», «Какое отношение или чувства она передает?» Другие вопросы, помогающие нам понять значение формы, таковы:
 
-When we understand the meaning of the form, then we can choose a form that has that same meaning in the target language and culture.
+  * Кто автор послания?
+  * Кто получатель послания?
+  * Для какой ситуации был написан текст?
+  * Какие слова и фразы подбирались и почему?
+  * Являются ли слова экспрессивными или есть ли что-то особенное в их оформлении?
 
-==== Culture Affects Meaning ====
+Когда нам станет понятным значение формы, мы сможем найти в родном языке и культуре форму с аналогичным значением.
 
-The meaning of forms is determined by culture. The same form might have different meanings in different cultures. In translation, the meaning must remain the same, including the meaning of the form. This means that the form of the text must change to fit the culture. The form includes the language of the text, its arrangement, any repetitions, or any expressions that imitate sounds like "O." You must examine all of these things, decide what they mean, and then decide which form will express that meaning in the best way for the target language and culture.
+==== Культура влияет на значение ====
 
+Значение форм определяется культурой. Одна и та же форма может иметь разное значение в различных культурах. При переводе значение должно оставаться тем же, включая и значение формы. То есть форма текста должна меняться, чтобы соответствовать культуре. Форма включает в себя язык текста, его организацию, повторения или выражения, которые передают восклицание «О!» Вам необходимо исследовать этот вопрос, понять, что означает форма, а затем выбрать ту, которая лучшим образом будет соответствовать родному языку и культуре.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
-  * [[ru:ta:vol1:translate:translate_levels|Levels of Meaning]]
+  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
+  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * [[ru:ta:vol1:translate:translate_levels|Уровни значения]]
 
