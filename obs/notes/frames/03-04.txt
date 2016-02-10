@@ -8,10 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:noah|Noah]]**
-  * **[[:ru:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-
+  * **[[:ru:obe:other:Noah]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:kt:God]]**
 
 ===== Translation Notes: =====
 
