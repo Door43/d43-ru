@@ -8,11 +8,11 @@ After **Noah** got off the boat, he built an **altar** and **sacrificed** some o
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:noah|Noah]]**
-  * **[[:ru:obs:notes:key-terms:altar|altar]]**
-  * **[[:ru:obs:notes:key-terms:sacrifice|sacrificed]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:bless|blessed]]**
+  * **[[:ru:obe:other:noah]]**
+  * **[[:ru:obe:other:altar]]**
+  * **[[:ru:obe:other:sacrifice]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:bless]]**
 
 
 ===== Translation Notes: =====
