@@ -1,17 +1,56 @@
 
-----
 
 **Door43**
 
-  * [[ru:home|Door43 (ru)]]
+  * [[ru:home|Door43 (Russian)]]
+
+**Help**
+
+  * [[:ru:ta|translationAcademy]]
+  * [[:ru:get-started|How to Get Started]]
+  * [[:ru:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[ru:obs|Истории Открытой Библии, в. 2.0]]
+  *  [[:ru:obs|Истории Открытой Библии]]
+      * [[:ru:obs:notes|translationNotes]]
+      * [[:ru:obs:notes:questions:home|translationQuestions]]
+      * [[:ru:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:ru:bible:intro|Bible (Russian)]]
+      * [[:ru:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:ru:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:ru:bible:notes:home|translationNotes]]
+      * [[:ru:bible:questions:comprehension:home|translationQuestions]]
+      * [[:ru:obe:home|translationWords]]
+  * [[:ru:ta|translationAcademy ]]
+      * [[:ru:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:ru:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:ru:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:ru:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:ru:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
 
 **About Door43**
 
-  * [[ru:license|Лицензия]]
+  * [[:ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:ru:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
@@ -23,3 +62,4 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/ru|Ethnologue data]]
+
