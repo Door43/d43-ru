@@ -8,10 +8,10 @@ When **Rebekah's babies were born**, **the older son** came out **red** and **ha
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:rebekah|Rebekah's]]**
-  * **[[:ru:obs:notes:key-terms:son|son]]**
-  * **[[:ru:obs:notes:key-terms:esau|Esau]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:ru:obe:other:Rebekah]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:other:esau]]**
+  * **[[:ru:obe:other:Jacob]]**
 
 
 ===== Translation Notes: =====
