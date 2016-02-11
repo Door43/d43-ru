@@ -8,10 +8,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:esau|Esau]]**
-  * **[[:ru:obs:notes:key-terms:bless|bless]]**
+  * **[[:ru:obe:other:Jacob]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:Esau]]**
+  * **[[:ru:obe:kt:bless]]**
 
 
 ===== Translation Notes: =====
