@@ -8,13 +8,13 @@ When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Tak
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham's]]**
-  * **[[:ru:obs:notes:key-terms:faith|faith]]**
-  * **[[:ru:obs:notes:key-terms:son|son]]**
-  * **[[:ru:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:ru:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:abraham]]**
+  * **[[:ru:obe:kt:faith]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:other:sacrifice]]**
+  * **[[:ru:obe:other:obey]]**
 
 
 ===== Translation Notes: =====
