@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:ru:obs:notes:key-terms:servant|servants]]**
+  * **[[:ru:obe:other:Canaan]]**
+  * **[[:ru:obe:other:Jacob]]**
+  * **[[:ru:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
