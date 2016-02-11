@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:joseph|Joseph's]]**
-  * **[[:ru:obs:notes:key-terms:dream|dreamed]]**
-  * **[[:ru:obs:notes:key-terms:servant|slave]]**
+  * **[[:ru:obe:other:josephot]]**
+  * **[[:ru:obe:other:dream]]**
+  * **[[:ru:obe:other:servant]]**
 
 
 ==== Translation Notes: ====
