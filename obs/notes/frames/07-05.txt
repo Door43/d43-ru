@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:esau|Esau]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:ru:obs:notes:key-terms:bless|blessing]]**
+  * **[[:ru:obe:other:Esau]]**
+  * **[[:ru:obe:other:Jacob]]**
+  * **[[:ru:obe:kt:bless]]**
 
 
 ===== Translation Notes: =====
