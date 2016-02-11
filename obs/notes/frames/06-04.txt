@@ -8,13 +8,13 @@ After a long time, **Abraham** died and all of **the promises that God had made 
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms:promise|promises]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms:rebekah|Rebekah]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:kt:god]]**
+  * **[[:ru:obe:kt:covenant]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:other:Rebekah]]**
 
 
 ===== Translation Notes: =====
