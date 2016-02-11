@@ -8,10 +8,10 @@ When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms:son|son]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:servant|servants]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
