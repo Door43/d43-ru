@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:ru:obs:notes:key-terms:servant|servant]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac's]]**
+  * **[[:ru:obe:other:Rebekah]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:other:Isaac]]**
 
 
 ===== Translation Notes: =====
