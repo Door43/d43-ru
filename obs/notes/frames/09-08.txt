@@ -7,11 +7,11 @@ One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israel
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:ru:obs:notes:key-terms:servant|slave]]**
-  * **[[:ru:obs:notes:key-terms:save|save]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
