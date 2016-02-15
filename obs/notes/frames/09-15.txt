@@ -7,10 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:aaron|Aaron]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:Pharaoh]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Aaron]]**
 
 
 ==== Translation Notes: ====
