@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:shepherd]]**
+  * **[[:ru:obe:other:Egypt]]**
 
 
 ==== Translation Notes: ====
