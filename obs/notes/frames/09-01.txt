@@ -8,10 +8,10 @@ After **Joseph** died, all of his relatives stayed in **Egypt**. They and their 
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:ru:obe:other:josephot]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
