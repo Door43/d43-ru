@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
