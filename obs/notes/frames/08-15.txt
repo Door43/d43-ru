@@ -8,14 +8,14 @@ The **covenant promises** that **God** gave to **Abraham** were **passed on to I
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:ru:obs:notes:key-terms:promise|promises]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israel]]**
+  * **[[:ru:obe:kt:covenant]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:Jacob]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
