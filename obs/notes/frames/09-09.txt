@@ -7,8 +7,8 @@ When **Moses** thought nobody would see, he killed the **Egyptian** and buried h
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptian]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
