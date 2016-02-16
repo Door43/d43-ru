@@ -7,13 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:idol|idols]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:sabbath|Sabbath day]]**
-  * **[[:ru:obs:notes:key-terms:holy|holy]]**
-  * **[[:ru:obs:notes:key-terms:sabbath|seventh day]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:god]]**
+  * **[[:ru:obe:kt:sabbath]]**
+  * **[[:ru:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
