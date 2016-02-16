@@ -7,12 +7,12 @@ So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Pharaoh]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:Aaron]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:Egypt]]**
 
 
 ==== Translation Notes: ====
