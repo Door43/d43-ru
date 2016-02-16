@@ -7,11 +7,11 @@ Then **God** told **Moses** to throw ashes into the air in front of **Pharaoh**.
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:pharaoh]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
