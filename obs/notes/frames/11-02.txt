@@ -7,11 +7,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:save|save]]**
-  * **[[:ru:obs:notes:key-terms:son|son]]**
-  * **[[:ru:obs:notes:key-terms:believe|believed]]**
-  * **[[:ru:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:save]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:lamb]]**
 
 
 ==== Translation Notes: ====
