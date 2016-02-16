@@ -7,12 +7,12 @@ When the **Israelites** saw that the **Egyptians** were dead, they **trusted in 
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:believe|believed]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:kt:prophet]]**
 
 
 ==== Translation Notes: ====
