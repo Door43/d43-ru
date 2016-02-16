@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:save|saved]]**
-  * **[[:ru:obs:notes:key-terms:servant|slavery]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:god-false|gods]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:covenant]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:save]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:other:Egypt]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:falsegod]]**
 
 
 ==== Translation Notes: ====
