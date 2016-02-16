@@ -7,10 +7,10 @@ After the **Israelites** all **made it safely to the other side** of the sea, **
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptian]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
