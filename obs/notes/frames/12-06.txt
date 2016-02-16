@@ -7,9 +7,9 @@ Then **God** moved the **pillar of cloud** and placed it between the **Israelite
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptians]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
