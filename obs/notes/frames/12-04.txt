@@ -7,12 +7,12 @@ So **Pharaoh** and his army chased after the **Israelites** to **make them their
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:servant|slaves]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:ru:obs:notes:key-terms:red-sea|Red Sea]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:ru:obe:other:Pharaoh]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:RedSea]]**
+ 
 
 
 ==== Translation Notes: ====
