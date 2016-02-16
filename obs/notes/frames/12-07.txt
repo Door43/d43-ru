@@ -7,8 +7,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Moses]]**
 
 
 ==== Translation Notes: ====
