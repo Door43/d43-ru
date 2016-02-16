@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:passover|Passover]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:ru:obs:notes:key-terms:servant|slaves]]**
-  * **[[:ru:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:kt:Passover]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:kt:lamb]]**
 
 
 ==== Translation Notes: ====
