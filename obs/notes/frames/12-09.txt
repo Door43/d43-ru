@@ -7,9 +7,9 @@ Then **God** moved the cloud up and out of the way so that the **Egyptians** cou
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:egypt]]**
+  * **[[:ru:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
