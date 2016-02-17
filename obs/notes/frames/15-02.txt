@@ -7,12 +7,12 @@ The **Israelites** had to cross the **Jordan River** to enter into the **Promise
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:ru:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:ru:obs:notes:key-terms:priest|priests]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:JordanRiver]]**
+  * **[[:ru:obe:kt:PromisedLand]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Joshua]]**
+  * **[[:ru:obe:kt:priest]]**
 
 
 ==== Translation Notes: ====
