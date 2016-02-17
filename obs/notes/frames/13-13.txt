@@ -7,10 +7,10 @@ When **Moses** came down the mountain and saw the **idol**, he was so angry that
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:idol|idol]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:TenCommandments]]**
 
 
 ==== Translation Notes: ====
