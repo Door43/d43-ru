@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:ru:obs:notes:key-terms:idol|idol]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:sin|sin]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:pray|prayed]]**
+  * **[[:ru:obe:other:Aaron]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:other:sacrifice]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:pray]]**
 
 
 ==== Translation Notes: ====
