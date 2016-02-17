@@ -14,7 +14,7 @@
   * **[[:ru:obe:other:Jacob]]**
   * **[[:ru:obe:kt:PromisedLand]]**
   * **[[:ru:obe:other:descendant]]**
-  * **[[:ru:obe:other:peoplegroups]]**   <<<<<<
+  * **[[:ru:obe:other:peoplegroup]]**   
   * **[[:ru:obe:other:canaan]]**
   * **[[:ru:obe:kt:worship]]**
   * **[[:ru:obe:other:obey]]**
