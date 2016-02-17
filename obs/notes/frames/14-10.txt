@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:canaan|Canaan]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:Canaan]]**
 
 
 ==== Translation Notes: ====
