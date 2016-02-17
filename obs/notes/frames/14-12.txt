@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israel]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:faithful|faithful]]**
-  * **[[:ru:obs:notes:key-terms:promise|promises]]**
-  * **[[:ru:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:ru:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:kt:faithful]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:other:Isaac]]**
+  * **[[:ru:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
