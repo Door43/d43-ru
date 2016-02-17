@@ -10,7 +10,7 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
   * **[[:ru:obe:KT:God]]**
   * **[[:ru:obe:other:TenCommandments]]**
   * **[[:ru:obe:other:Moses]]**
-  * **[[:ru:obe:other:godslaw]]**   <<<<<<<
+  * **[[:ru:obe:kt:lawofmoses]]**
   * **[[:ru:obe:other:obey]]**
   * **[[:ru:obe:kt:promise]]**
   * **[[:ru:obe:kt:bless]]**
