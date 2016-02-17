@@ -7,12 +7,12 @@ After **God** had told the **Israelites** the laws he wanted them to obey as par
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:ru:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:ru:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:ru:obs:notes:key-terms:canaan|Canaan]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:kt:covenant]]**
+  * **[[:ru:obe:other:Sinai]]**
+  * **[[:ru:obe:kt:PromisedLand]]**
+  * **[[:ru:obe:other:Canaan]]**
 
 
 ==== Translation Notes: ====
