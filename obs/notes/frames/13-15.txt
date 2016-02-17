@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:pray|prayed]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:ru:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:ru:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:pray]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:forgive]]**
+  * **[[:ru:obe:other:TenCommandments]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:other:Sinai]]**
+  * **[[:ru:obe:kt:PromisedLand]]**
 
 
 ==== Translation Notes: ====
