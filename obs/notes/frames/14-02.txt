@@ -18,7 +18,7 @@
   * **[[:ru:obe:other:canaan]]**
   * **[[:ru:obe:kt:worship]]**
   * **[[:ru:obe:other:obey]]**
-  * **[[:ru:obe:other:falsegods]]**   <<<<<<
+  * **[[:ru:obe:kt:falsegod]]**
   * **[[:ru:obe:kt:evil]]**
 
 
