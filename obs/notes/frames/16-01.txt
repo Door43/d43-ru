@@ -7,18 +7,18 @@ After **Joshua** died, the **Israelites disobeyed God** and **did not drive out 
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:disobey|disobeyed]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:ru:obs:notes:key-terms:obey|obey]]**
-  * **[[:ru:obs:notes:key-terms:gods-law|God's laws]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:god-false|gods]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:true|true]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
+  * **[[:ru:obe:other:Joshua]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:disobey]]**
+  * **[[:ru:obe:kt:god]]**
+  * **[[:ru:obe:other:canaan]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:kt:lawofmoses]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:falsegod]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:true]]**
+  * **[[:ru:obe:other:king]]**
 
 
 ==== Translation Notes: ====
