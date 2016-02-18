@@ -7,11 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:midian|Midianites]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:save|saved]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israel]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:midian]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
