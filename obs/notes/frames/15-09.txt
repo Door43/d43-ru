@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israel]]**
-  * **[[:ru:obs:notes:key-terms:amorite|Amorites]]**
+  * **[[:ru:obe:kt:god]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:other:amorite]]**
 
 
 ==== Translation Notes: ====
