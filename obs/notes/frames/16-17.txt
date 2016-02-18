@@ -22,4 +22,4 @@
   * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
 
 
-**[[:ru:obs:notes:frames:16-16|<<]] | [[:en:obs:notes:16|Up]] | [[:en:obs:notes:frames:16-18|>>]]**
+**[[:ru:obs:notes:frames:16-16|<<]] | [[:ru:obs:notes:16|Up]] | [[:ru:obs:notes:frames:16-18|>>]]**
