@@ -7,9 +7,9 @@ The next morning the people saw that someone had torn down and destroyed the **a
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:altar|altar]]**
-  * **[[:ru:obs:notes:key-terms:gideon|Gideon's]]**
-  * **[[:ru:obs:notes:key-terms:god-false|god]]**
+  * **[[:ru:obe:other:altar]]**
+  * **[[:ru:obe:other:gideon]]**
+  * **[[:ru:obe:kt::falsegod]]**
 
 
 ==== Translation Notes: ====
