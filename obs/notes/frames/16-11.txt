@@ -9,11 +9,11 @@ That night **God** told **Gideon**, “**Go down** to the **Midianite** camp and
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:ru:obs:notes:key-terms:midian|Midianite]]**
-  * **[[:ru:obs:notes:key-terms:dream|dreamed]]**
-  * **[[:ru:obs:notes:key-terms:worship|worshiped]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:gideon]]**
+  * **[[:ru:obe:other:midian]]**
+  * **[[:ru:obe:other:dream]]**
+  * **[[:ru:obe:kt:worship]]**
 
 
 ==== Translation Notes: ====
