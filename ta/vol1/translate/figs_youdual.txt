@@ -1,6 +1,7 @@
 ===== Форма личного местоимения второго лица - двойственная или множественная? =====
 
-This module answers the question: Как узнать число личного местоимения второго лица?\\
+This module answers the question: //Как узнать число личного местоимения второго лица?//
+
 Before you start this module have you learned about:
 
 ==== Личное местоимение второго лица в Библии и его число ====
@@ -33,7 +34,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
-  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * //[[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]//
+  * //[[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]//
+  * //[[ru:ta:vol1:translate:figs_order|Порядок слов]]//
 

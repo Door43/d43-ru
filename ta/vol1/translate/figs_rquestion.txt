@@ -1,8 +1,9 @@
 ===== Риторический вопрос =====
 
-This module answers the question: Что такое риторический вопрос?\\
+This module answers the question: //Что такое риторический вопрос?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
+  * //[[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]//
 
 ==== Definition ====
 
@@ -39,17 +40,17 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
-  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
-  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
-  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
-  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
-  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
-  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
-  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
-  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
-  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
-  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
+  * //[[ru:ta:vol1:translate:figs_metaphor|Метафора]]//
+  * //[[ru:ta:vol1:translate:figs_simile|Сравнение]]//
+  * //[[ru:ta:vol1:translate:figs_idiom|Идиома]]//
+  * //[[ru:ta:vol1:translate:figs_irony|Ирония]]//
+  * //[[ru:ta:vol1:translate:figs_order|Порядок слов]]//
+  * //[[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]//
+  * //[[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]//
+  * //[[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]//
+  * //[[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]//
+  * //[[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]//
+  * //[[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]//
+  * //[[ru:ta:vol1:translate:figs_events|Порядок событий]]//
+  * //[[ru:ta:vol1:translate:figs_parables|Притчи]]//
 

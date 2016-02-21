@@ -1,9 +1,10 @@
 ===== Благозвучный перевод =====
 
-This module answers the question: Является ли перевод благозвучным?\\
+This module answers the question: //Является ли перевод благозвучным?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
-  * [[ru:ta:vol1:checking:clear|Понятный перевод]]
+  * //[[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]//
+  * //[[ru:ta:vol1:checking:clear|Понятный перевод]]//
 
 ==== Благозвучный перевод ====
 
@@ -19,7 +20,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:acceptable|Подходящий стиль]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
-  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
+  * //[[ru:ta:vol1:checking:acceptable|Подходящий стиль]]//
+  * //[[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]//
+  * //[[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]//
 

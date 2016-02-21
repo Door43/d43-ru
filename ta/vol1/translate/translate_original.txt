@@ -1,9 +1,10 @@
 ===== Исконный и исходный языки =====
 
-This module answers the question: Какое различие существует между исконным языком и исходным языком?\\
+This module answers the question: //Какое различие существует между исконным языком и исходным языком?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
 
 ==== Язык оригинала является наиболее правильным ====
 
@@ -23,9 +24,9 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_manuscripts|Оригинальные рукописи]]
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_manuscripts|Оригинальные рукописи]]//
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

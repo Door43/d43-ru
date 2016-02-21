@@ -1,8 +1,9 @@
 ===== Введение в процесс осуществления распространения =====
 
-This module answers the question: Как я могу распространить содержание?\\
+This module answers the question: //Как я могу распространить содержание?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
 
 ==== Распространение (общий обзор) ====
 
@@ -19,6 +20,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]
-  * [[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]
+  * //[[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]//
+  * //[[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]//
 

@@ -1,9 +1,10 @@
 ===== Проверка второго уровня - Внешняя проверка =====
 
-This module answers the question: Как осуществлять проверку второго уровня?\\
+This module answers the question: //Как осуществлять проверку второго уровня?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
-  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
+  * //[[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]//
+  * //[[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]//
 
 ==== Определение второго уровня проверки ====
 
@@ -18,8 +19,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
-  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
-  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
-  * [[ru:ta:vol1:checking:good|Утверждение второго уровня]]
+  * //[[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]//
+  * //[[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]//
+  * //[[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]//
+  * //[[ru:ta:vol1:checking:good|Утверждение второго уровня]]//
 

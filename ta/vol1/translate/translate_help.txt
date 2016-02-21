@@ -1,10 +1,11 @@
 ===== Помощь в переводе =====
 
-This module answers the question: Где я могу найти помощь в переводе?\\
+This module answers the question: //Где я могу найти помощь в переводе?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
-  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
-  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
+  * //[[ru:ta:vol1:translate:translate_what|С чего начать перевод]]//
+  * //[[ru:ta:vol1:translate:first_draft|Создание первого наброска]]//
+  * //[[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]//
 
 ==== Использование вспомогательных средств при переводе ====
 
@@ -20,6 +21,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]
-  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
+  * //[[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]//
+  * //[[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]//
 

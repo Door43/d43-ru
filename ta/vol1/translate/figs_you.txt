@@ -1,6 +1,7 @@
 ===== Формы личного местоимения второго лица =====
 
-This module answers the question: Какие существуют формы личного местоимения второго лица?\\
+This module answers the question: //Какие существуют формы личного местоимения второго лица?//
+
 Before you start this module have you learned about:
 
 ==== Единственное / Двойственное / Множественное ====
@@ -23,7 +24,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
-  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * //[[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]//
+  * //[[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]//
+  * //[[ru:ta:vol1:translate:figs_order|Порядок слов]]//
 

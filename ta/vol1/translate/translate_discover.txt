@@ -1,8 +1,9 @@
 ===== Понять значения текста =====
 
-This module answers the question: Как мне понять значение текста?\\
+This module answers the question: //Как мне понять значение текста?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
 
 ==== Как понять значение ====
 
@@ -10,6 +11,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
-  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
+  * //[[ru:ta:vol1:translate:translate_retell|Передача значения]]//
 

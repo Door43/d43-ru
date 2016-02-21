@@ -1,8 +1,9 @@
 ===== Введение в «Руководство по работе с материалами» =====
 
-This module answers the question: Что представляет собой «Руководство по работе с материалами»?\\
+This module answers the question: //Что представляет собой «Руководство по работе с материалами»?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
+  * //[[ru:ta:vol1:intro:finding_answers|Получение ответов]]//
 
 ==== Добро пожаловать ====
 
@@ -10,10 +11,10 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
-  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
-  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
-  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
-  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
+  * //[[ru:ta:vol1:process:getting_started|Приступая к работе]]//
+  * //[[ru:ta:vol1:process:platforms|Выбор платформы]]//
+  * //[[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]//
+  * //[[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]//
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
+  * //[[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]//
 

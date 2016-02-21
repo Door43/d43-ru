@@ -1,10 +1,11 @@
 ===== Качества хорошего перевода =====
 
-This module answers the question: Каким качествам должен отвечать хороший перевод?\\
+This module answers the question: //Каким качествам должен отвечать хороший перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
-  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
+  * //[[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]//
 
 ==== Четыре главных качества ====
 
@@ -39,9 +40,9 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * //[[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]//
+  * //[[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]//
+  * //[[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]//
+  * //[[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
 

@@ -1,10 +1,11 @@
 ===== Создание команды переводчиков =====
 
-This module answers the question: Как создать команду переводчиков?\\
+This module answers the question: //Как создать команду переводчиков?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
-  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]//
+  * //[[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]//
 
 ==== Важность команды переводчиков ====
 
@@ -42,8 +43,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * //[[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]//
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
 

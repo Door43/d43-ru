@@ -1,8 +1,9 @@
 ===== Как распространить опубликованные материалы =====
 
-This module answers the question: Как распространить опубликованные материалы?\\
+This module answers the question: //Как распространить опубликованные материалы?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
+  * //[[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]//
 
 ==== Онлайн распространение опубликованных материалов ====
 
@@ -23,5 +24,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]
+  * //[[ru:ta:vol1:process:share_unpublished|Как распространять неопубликованные материалы]]//
 

@@ -1,8 +1,9 @@
 ===== Получение ответов =====
 
-This module answers the question: Как мне получить ответы на свои вопросы?\\
+This module answers the question: //Как мне получить ответы на свои вопросы?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
+  * //[[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]//
 
 ==== Как найти ответы на вопросы? ====
 
@@ -14,5 +15,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
 

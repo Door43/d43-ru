@@ -1,9 +1,10 @@
 ===== Процесс перевода =====
 
-This module answers the question: Какие два принципа нужно осуществить при создании перевода?\\
+This module answers the question: //Какие два принципа нужно осуществить при создании перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
 
 ==== Как переводить ====
 
@@ -11,8 +12,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
-  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
+  * //[[ru:ta:vol1:translate:translate_retell|Передача значения]]//
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
 

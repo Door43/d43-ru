@@ -1,10 +1,11 @@
 ===== С чего начать перевод =====
 
-This module answers the question: С чего мне следует начать перевод?\\
+This module answers the question: //С чего мне следует начать перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
 
 ==== С чего нужно начинать перевод? ====
 
@@ -22,8 +23,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
-  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
-  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
-  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
+  * //[[ru:ta:vol1:translate:first_draft|Создание первого наброска]]//
+  * //[[ru:ta:vol1:translate:translate_help|Помощь в переводе]]//
+  * //[[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]//
+  * //[[ru:ta:vol1:process:platforms|Выбор платформы]]//
 

@@ -1,9 +1,10 @@
 ===== Как опубликовать =====
 
-This module answers the question: Как опубликовать содержание?\\
+This module answers the question: //Как опубликовать содержание?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
-  * [[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
+  * //[[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]//
 
 ==== В начале процесса публикации ====
 
@@ -31,5 +32,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
+  * //[[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]//
 

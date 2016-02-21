@@ -1,8 +1,9 @@
 ===== Приступая к работе =====
 
-This module answers the question: Что нужно иметь в наличии перед началом работы?\\
+This module answers the question: //Что нужно иметь в наличии перед началом работы?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:process_manual|Введение в «Руководство по работе с материалами»]]
+  * //[[ru:ta:vol1:process:process_manual|Введение в «Руководство по работе с материалами»]]//
 
 ==== Как начать ====
 
@@ -19,5 +20,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
+  * //[[ru:ta:vol1:process:platforms|Выбор платформы]]//
 

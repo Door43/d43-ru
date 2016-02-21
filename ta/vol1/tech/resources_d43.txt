@@ -1,9 +1,10 @@
 ===== Нахождение материалов в Door43 =====
 
-This module answers the question: Как найти материалы в Door43?\\
+This module answers the question: //Как найти материалы в Door43?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:d43_intro|Door43]]
-  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
+  * //[[ru:ta:vol1:tech:d43_intro|Door43]]//
+  * //[[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]//
 
 На каждой странице библейского текста содержится информация из справочников «Слова для перевода» и «Замечания по переводу».
 

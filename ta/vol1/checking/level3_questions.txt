@@ -1,8 +1,9 @@
 ===== Вопросы для третьего уровня редакции =====
 
-This module answers the question: Как нужно проводить редактирование третьего уровня?\\
+This module answers the question: //Как нужно проводить редактирование третьего уровня?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
+  * //[[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]//
 
 ==== Вопросы для третьего уровня ====
 
@@ -35,7 +36,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
-  * [[ru:ta:vol1:checking:level3_approval|Утверждение третьего уровня]]
-  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
+  * //[[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]//
+  * //[[ru:ta:vol1:checking:level3_approval|Утверждение третьего уровня]]//
+  * //[[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]//
 

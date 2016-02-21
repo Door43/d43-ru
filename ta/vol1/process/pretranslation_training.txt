@@ -1,9 +1,10 @@
 ===== Обучение перед началом перевода =====
 
-This module answers the question: Что нужно знать о переводе до того, как его начать?\\
+This module answers the question: //Что нужно знать о переводе до того, как его начать?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]//
 
 ==== Что нужно знать прежде, чем приступать к переводу? ====
 
@@ -18,9 +19,9 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
-  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]//
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
+  * //[[ru:ta:vol1:translate:translate_what|С чего начать перевод]]//
 

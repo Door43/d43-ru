@@ -1,11 +1,12 @@
 ===== Утверждение первого уровня =====
 
-This module answers the question: Как следует утверждать завершение первого уровня проверки?\\
+This module answers the question: //Как следует утверждать завершение первого уровня проверки?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
-  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
+  * //[[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]//
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
+  * //[[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]//
 
 ==== Документация, необходимая для утверждения первого уровня ====
 
@@ -25,5 +26,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]
+  * //[[ru:ta:vol1:checking:level2|Проверка второго уровня - Внешняя проверка]]//
 

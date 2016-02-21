@@ -1,8 +1,9 @@
 ===== Merging an Upload Into Door43 =====
 
-This module answers the question: How can I merge my uploaded content into Door43?\\
+This module answers the question: //How can I merge my uploaded content into Door43?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
+  * //[[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]//
 
 ==== Uploading Content Onto Door43 ====
 
@@ -27,6 +28,6 @@ To merge content uploaded by translationStudio:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * //[[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]//
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
 

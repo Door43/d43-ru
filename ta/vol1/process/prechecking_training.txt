@@ -1,8 +1,9 @@
 ===== Обучение перед началом редактирования =====
 
-This module answers the question: Что следует знать о редактировании до того, как к нему приступишь?\\
+This module answers the question: //Что следует знать о редактировании до того, как к нему приступишь?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
+  * //[[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]//
 
 ==== Перед редактированием ====
 
@@ -12,7 +13,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
-  * [[ru:ta:vol1:checking:goal_checking|Цель редактирования]]
-  * [[ru:ta:vol1:process:required_checking|Как проверять]]
+  * //[[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]//
+  * //[[ru:ta:vol1:checking:goal_checking|Цель редактирования]]//
+  * //[[ru:ta:vol1:process:required_checking|Как проверять]]//
 

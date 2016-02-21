@@ -1,10 +1,11 @@
 ===== Введение в «Руководство по переводу» =====
 
-This module answers the question: Что представляет собой «Руководство по переводу»?\\
+This module answers the question: //Что представляет собой «Руководство по переводу»?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
-  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
+  * //[[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]//
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
+  * //[[ru:ta:vol1:intro:finding_answers|Получение ответов]]//
 
 ==== Что представляет собой «Руководство по переводу»? ====
 
@@ -19,8 +20,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
+  * //[[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]//
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_what|С чего начать перевод]]//
 

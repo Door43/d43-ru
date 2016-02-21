@@ -1,10 +1,11 @@
 ===== Вопросы для «Оценки перевода носителями языка» =====
 
-This module answers the question: Как я могу показать, что сообщество утвердило перевод?\\
+This module answers the question: //Как я могу показать, что сообщество утвердило перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
-  * [[ru:ta:vol1:checking:other_methods|Другие методы]]
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * //[[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]//
+  * //[[ru:ta:vol1:checking:other_methods|Другие методы]]//
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
 
 Мы - члены команды переводчиков, подтверждаем, что мы отредактировали перевод вместе с представителями языкового сообщества.
 
@@ -22,6 +23,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
-  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
+  * //[[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]//
+  * //[[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]//
 

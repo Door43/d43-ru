@@ -1,9 +1,10 @@
 ===== Рекомендации для перевода =====
 
-This module answers the question: Какими принципами мы должны руководствоваться при переводе?\\
+This module answers the question: //Какими принципами мы должны руководствоваться при переводе?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
-  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
+  * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
+  * //[[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]//
 
 Официальный текст данного документа можно найти на сайте unfoldingword.org/guidelines.
 
@@ -32,7 +33,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
-  * [[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]
+  * //[[ru:ta:vol1:intro:open_license|Открытая лицензия]]//
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
+  * //[[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]//
 

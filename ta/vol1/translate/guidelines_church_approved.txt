@@ -1,9 +1,10 @@
 ===== Создать перевод, который будет утвержден церковью =====
 
-This module answers the question: Как создать перевод, который будет утвержден церковью?\\
+This module answers the question: //Как создать перевод, который будет утвержден церковью?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
 
 ==== Перевод, утвержденный церковью ====
 
@@ -33,8 +34,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]
-  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
-  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
+  * //[[ru:ta:vol1:translate:guidelines_clear|Сделать перевод понятным]]//
+  * //[[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]//
+  * //[[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]//
+  * //[[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]//
 

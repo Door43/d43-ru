@@ -1,6 +1,7 @@
 ===== Содержание - Технологическое руководство =====
 
-This module answers the question: Что содержится в технологическом руководсдтве?\\
+This module answers the question: //Что содержится в технологическом руководсдтве?//
+
 {{page>ru:ta:vol1:tech:toc_techvol1}}
 
 {{page>ru:ta:vol2:tech:toc_techvol2}}

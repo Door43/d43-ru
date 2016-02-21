@@ -1,6 +1,7 @@
 ===== Содержание - Руководство по редактированию =====
 
-This module answers the question: Что содержится в «Руководстве по редактированию»?\\
+This module answers the question: //Что содержится в «Руководстве по редактированию»?//
+
 {{page>ru:ta:vol1:checking:toc_checkvol1}}
 
 {{page>ru:ta:vol2:checking:toc_checkvol2}}

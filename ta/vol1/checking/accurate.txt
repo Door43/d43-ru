@@ -1,8 +1,9 @@
 ===== Правильный перевод =====
 
-This module answers the question: Является ли перевод правильным?\\
+This module answers the question: //Является ли перевод правильным?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
+  * //[[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]//
 
 ==== Правильный перевод ====
 
@@ -12,7 +13,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:complete|Завершенный перевод]]
-  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
+  * //[[ru:ta:vol1:checking:complete|Завершенный перевод]]//
+  * //[[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]//
+  * //[[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]//
 

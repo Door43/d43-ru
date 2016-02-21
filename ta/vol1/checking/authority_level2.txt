@@ -1,7 +1,8 @@
 ===== Второй уровень управления =====
 
-This module answers the question: Что представляет собой второй уровень управления?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_level1|Первый уровень управления?]]
+This module answers the question: //Что представляет собой второй уровень управления?//
+
+Before you start this module have you learned about: //[[ru:ta:vol1:checking:authority_level1|Первый уровень управления?]]//
 
 ==== Второй уровень управления: утверждение перевода общиной ====
 
@@ -16,5 +17,5 @@ Before you start this module have you learned about: [[ru:ta:vol1:checking:autho
 Команда переводчиков внесет в текст исправления на основании проведенного анализа, чтобы языковое сообщество могло утвердить его на благозвучность и понятность, а руководство церкви - на правильность.
 
 
-Next we recommend you learn about: [[ru:ta:vol1:checking:authority_level3|Третий уровень управления]]
+Next we recommend you learn about: //[[ru:ta:vol1:checking:authority_level3|Третий уровень управления]]//
 

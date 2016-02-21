@@ -1,6 +1,7 @@
 ===== Личное местоимение второго лица единственного числа (ты) =====
 
-This module answers the question: Как узнать, в каком числе употреблено личное местоимение второго лица (ты - вы)?\\
+This module answers the question: //Как узнать, в каком числе употреблено личное местоимение второго лица (ты - вы)?//
+
 Before you start this module have you learned about:
 
 ==== Формы личного местоимения второго лица (ты - вы) в Библии ====
@@ -33,7 +34,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
-  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
-  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
+  * //[[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]//
+  * //[[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]//
+  * //[[ru:ta:vol1:translate:figs_order|Порядок слов]]//
 

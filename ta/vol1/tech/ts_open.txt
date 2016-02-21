@@ -1,8 +1,9 @@
 ===== Открытие переводческого проекта =====
 
-This module answers the question: Как открыть переводческий проект в translationStudio?\\
+This module answers the question: //Как открыть переводческий проект в translationStudio?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
+  * //[[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]//
 
 ==== Первое использование ====
 
@@ -14,21 +15,21 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
-  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
-  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
-  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
-  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
-  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
-  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
-  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
-  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
-  * [[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]
-  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
+  * //[[ru:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]//
+  * //[[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]//
+  * //[[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]//
+  * //[[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]//
+  * //[[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_request|Найти мой язык]]//
+  * //[[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]//
+  * //[[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
+  * //[[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]//
+  * //[[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]//
+  * //[[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]//
 

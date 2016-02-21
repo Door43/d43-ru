@@ -1,17 +1,18 @@
 ===== translationKeyboard (клавиатура перевода) =====
 
-This module answers the question: Что представляет собой приложение translationKeyboard (клавиатура перевода)?\\
+This module answers the question: //Что представляет собой приложение translationKeyboard (клавиатура перевода)?//
+
 ==== Что такое tK (translationKeyboard - клавиатура перевода)? ====
 
 TranslationKeyboard (клавиатура перевода) - это мобильное приложение, в котором пользователь может создать специальную клавиатуру для языков, не поддерживающихся их мобильным устройством. Вы можете загрузить translationKeyboard для устройств Android.
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
-  * [[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]
-  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
-  * [[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]
-  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
-  * [[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]
-  * [[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]
+  * //[[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]//
+  * //[[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]//
+  * //[[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]//
+  * //[[ru:ta:vol1:tech:tk_enable|Запустить translationKeyboard (клавиатуру перевода) на устройство Android]]//
+  * //[[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]//
+  * //[[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]//
+  * //[[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]//
 

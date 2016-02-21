@@ -1,8 +1,9 @@
 ===== Введение в «Редактирование перевода» =====
 
-This module answers the question: Почему мы редактируем перевод?\\
+This module answers the question: //Почему мы редактируем перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
+  * //[[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]//
 
 ==== Редактирование перевода ====
 
@@ -36,5 +37,5 @@ Before you start this module have you learned about:
 //Credits: Quotation used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 69.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
+  * //[[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]//
 

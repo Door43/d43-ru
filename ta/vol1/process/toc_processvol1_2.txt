@@ -1,6 +1,7 @@
 ===== Содержание - Руководство по работе с материалами =====
 
-This module answers the question: Что содержится в «Руководстве по работе с материалами»?\\
+This module answers the question: //Что содержится в «Руководстве по работе с материалами»?//
+
 {{page>ru:ta:vol1:process:toc_processvol1}}
 
 {{page>ru:ta:vol2:process:toc_processvol2}}

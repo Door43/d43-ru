@@ -1,6 +1,7 @@
 ===== Изобразительные средства речи. =====
 
-This module answers the question: Какие существуют изобразительные средства речи?\\
+This module answers the question: //Какие существуют изобразительные средства речи?//
+
 ==== Definition ====
 
 Речевые фигуры - это способ передачи высказывания, при котором слова используются не в буквальном смысле. То есть значение речевой фигуры не является аналогичным более прямому значению слов. Для перевода значения речевой фигуры вам необходимо увидеть ее в тексте и понять ее значение в языке оригинала. Только после этого вы сумеете сделать выбор или в пользу речевой фигуры, или в пользу прямого способа передачи значения в целевом языке.
@@ -28,18 +29,18 @@ This module answers the question: Какие существуют изобраз
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_metaphor|Метафора]]
-  * [[ru:ta:vol1:translate:figs_simile|Сравнение]]
-  * [[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]
-  * [[ru:ta:vol1:translate:figs_idiom|Идиома]]
-  * [[ru:ta:vol1:translate:figs_irony|Ирония]]
-  * [[ru:ta:vol1:translate:figs_order|Порядок слов]]
-  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
-  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
-  * [[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]
-  * [[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]
-  * [[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]
-  * [[ru:ta:vol1:translate:figs_events|Порядок событий]]
-  * [[ru:ta:vol1:translate:figs_parables|Притчи]]
+  * //[[ru:ta:vol1:translate:figs_metaphor|Метафора]]//
+  * //[[ru:ta:vol1:translate:figs_simile|Сравнение]]//
+  * //[[ru:ta:vol1:translate:figs_rquestion|Риторический вопрос]]//
+  * //[[ru:ta:vol1:translate:figs_idiom|Идиома]]//
+  * //[[ru:ta:vol1:translate:figs_irony|Ирония]]//
+  * //[[ru:ta:vol1:translate:figs_order|Порядок слов]]//
+  * //[[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]//
+  * //[[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]//
+  * //[[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]//
+  * //[[ru:ta:vol1:translate:figs_explicit|Эксплицитный и имплицитный]]//
+  * //[[ru:ta:vol1:translate:figs_explicitinfo|Делаем имплицитную информацию эксплицитной]]//
+  * //[[ru:ta:vol1:translate:figs_hypo|Гипотетическая ситуация]]//
+  * //[[ru:ta:vol1:translate:figs_events|Порядок событий]]//
+  * //[[ru:ta:vol1:translate:figs_parables|Притчи]]//
 

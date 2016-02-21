@@ -1,8 +1,9 @@
 ===== Что такое перевод =====
 
-This module answers the question: Что такое перевод?\\
+This module answers the question: //Что такое перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
 
 ==== Definition ====
 
@@ -15,10 +16,10 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_why|Почему мы переводим Библию]]//
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

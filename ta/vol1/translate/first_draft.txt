@@ -1,10 +1,11 @@
 ===== Создание первого наброска =====
 
-This module answers the question: Как сделать первый набросок?\\
+This module answers the question: //Как сделать первый набросок?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * //[[ru:ta:vol1:translate:translate_what|С чего начать перевод]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
 
 ==== С чего нужно начать? ====
 
@@ -18,5 +19,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
+  * //[[ru:ta:vol1:translate:translate_help|Помощь в переводе]]//
 

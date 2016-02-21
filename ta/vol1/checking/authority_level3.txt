@@ -1,7 +1,8 @@
 ===== Третий уровень управления =====
 
-This module answers the question: Что представляет собой третий уровень управления?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:authority_level2|Второй уровень управления]]
+This module answers the question: //Что представляет собой третий уровень управления?//
+
+Before you start this module have you learned about: //[[ru:ta:vol1:checking:authority_level2|Второй уровень управления]]//
 
 ==== Третий уровень управления: утверждение перевода руководством церкви ====
 
@@ -15,6 +16,6 @@ Before you start this module have you learned about: [[ru:ta:vol1:checking:autho
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * //[[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]//
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
 

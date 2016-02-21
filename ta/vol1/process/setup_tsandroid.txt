@@ -1,8 +1,9 @@
 ===== Установка translationStudio =====
 
-This module answers the question: Как установить translationStudio?\\
+This module answers the question: //Как установить translationStudio?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
+  * //[[ru:ta:vol1:process:platforms|Выбор платформы]]//
 
 === Установка приложения ===
 
@@ -17,5 +18,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]
+  * //[[ru:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]//
 

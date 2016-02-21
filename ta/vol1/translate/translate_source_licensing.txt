@@ -1,9 +1,10 @@
 ===== Авторские права, лицензирование и исходный текст =====
 
-This module answers the question: Какими соображениями относительно авторских прав и лицензирования следует руководствоваться при выборе исходного текста?\\
+This module answers the question: //Какими соображениями относительно авторских прав и лицензирования следует руководствоваться при выборе исходного текста?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:intro:open_license|Открытая лицензия]]//
 
 ==== Почему это так важно? ====
 
@@ -28,5 +29,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]
+  * //[[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]//
 

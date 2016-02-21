@@ -1,7 +1,8 @@
 ===== Введение в «Руководство по редактированию» =====
 
-This module answers the question: Что представляет собой «Руководство по редактированию?»\\
-Before you start this module have you learned about: [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+This module answers the question: //Что представляет собой «Руководство по редактированию?»//
+
+Before you start this module have you learned about: //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
 
 ==== Руководство по редактированию перевода ====
 
@@ -16,5 +17,5 @@ Before you start this module have you learned about: [[ru:ta:vol1:translate:tran
 Во втором томе содержатся дальнейшие инструкции для проверки перевода, которые могут использоваться лидерами церковной рабочей сети для редактирования текста. Поскольку многие из лидеров церковной рабочей сети не владеют иностранным языком, во второй том включены инструкции по созданию обратного перевода, позволяющего сотрудникам проверять перевод с языка, которым они не владеют.
 
 
-Next we recommend you learn about: [[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]
+Next we recommend you learn about: //[[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]//
 

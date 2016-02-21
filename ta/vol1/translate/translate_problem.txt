@@ -1,10 +1,11 @@
 ===== Трудности буквального перевода =====
 
-This module answers the question: Какие трудности появляются в переводе, когда он слишком буквален?\\
+This module answers the question: //Какие трудности появляются в переводе, когда он слишком буквален?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_wforw|Пословная замена]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_wforw|Пословная замена]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
 
 ==== Значение измененной формы ====
 
@@ -30,5 +31,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

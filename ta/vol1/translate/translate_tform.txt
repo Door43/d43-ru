@@ -1,10 +1,11 @@
 ===== Перевод значения =====
 
-This module answers the question: Почему нужно переводить значение?\\
+This module answers the question: //Почему нужно переводить значение?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
 
 Людям, писавшим Библию, давалось Божье повеление передать волю Господа людям. Когда Господь изрекал Свое Слово, авторы книг записывали его на родном языке, чтобы вместе с народом народ уразуметь Божью волю. Бог желает, чтобы люди в наши дни понимали Его послания. Но современные люди не используют те языки, на которых была создана Библия много веков назад. Поэтому Господь поставил перед нами задачу перевести Библию на современные языки.
 
@@ -27,5 +28,5 @@ Before you start this module have you learned about:
 //Credits: Example sentences from Barnwell, pp. 19-20, (c) SIL International 1986, used by permission.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
 

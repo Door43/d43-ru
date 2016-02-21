@@ -1,8 +1,9 @@
 ===== Предварительные условия для публикации =====
 
-This module answers the question: Что нужно сделать перед публикацией?\\
+This module answers the question: //Что нужно сделать перед публикацией?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
 
 ==== Перед публикацией ====
 
@@ -17,5 +18,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:publishing_process|Как опубликовать]]
+  * //[[ru:ta:vol1:process:publishing_process|Как опубликовать]]//
 

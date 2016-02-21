@@ -1,11 +1,12 @@
 ===== Важность формы =====
 
-This module answers the question: Какова важность формы?\\
+This module answers the question: //Какова важность формы?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
-  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
+  * //[[ru:ta:vol1:translate:translate_retell|Передача значения]]//
 
 ==== Почему важна форма? ====
 
@@ -45,7 +46,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
-  * [[ru:ta:vol1:translate:translate_levels|Уровни значения]]
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
+  * //[[ru:ta:vol1:translate:translate_levels|Уровни значения]]//
 

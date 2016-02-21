@@ -1,9 +1,10 @@
 ===== Передача значения =====
 
-This module answers the question: Как мне передать значение?\\
+This module answers the question: //Как мне передать значение?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
 
 ==== Как передать значение ====
 
@@ -15,8 +16,8 @@ Before you start this module have you learned about:
 //Credits: Used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 59.//
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

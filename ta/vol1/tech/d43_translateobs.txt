@@ -1,8 +1,9 @@
 ===== Как переводить «Истории открытой Библии» в Door43 =====
 
-This module answers the question: Как переводить «Истории открытой Библии» в Door43?\\
+This module answers the question: //Как переводить «Истории открытой Библии» в Door43?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:d43_intro|Door43]]
+  * //[[ru:ta:vol1:tech:d43_intro|Door43]]//
 
 ==== Исповедание веры ====
 

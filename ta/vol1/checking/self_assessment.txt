@@ -1,10 +1,11 @@
 ===== Предписания относительно самостоятельного оценивания =====
 
-This module answers the question: Как можно объективно оценить качество перевода?\\
+This module answers the question: //Как можно объективно оценить качество перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:complete|Завершенный перевод]]
-  * [[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]
-  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
+  * //[[ru:ta:vol1:checking:complete|Завершенный перевод]]//
+  * //[[ru:ta:vol1:checking:church_leader_check|Редактирование, осуществляемое руководителями церкви]]//
+  * //[[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]//
 
 ==== Самостоятельная оценка качества перевода ====
 
@@ -116,12 +117,12 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:good|Утверждение второго уровня]]
-  * [[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]
-  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
-  * [[ru:ta:vol1:checking:accurate|Правильный перевод]]
-  * [[ru:ta:vol1:checking:clear|Понятный перевод]]
-  * [[ru:ta:vol1:checking:natural|Благозвучный перевод]]
-  * [[ru:ta:vol1:checking:level3_questions|Вопросы для третьего уровня редакции]]
-  * [[ru:ta:vol1:checking:level3_approval|Утверждение третьего уровня]]
+  * //[[ru:ta:vol1:checking:good|Утверждение второго уровня]]//
+  * //[[ru:ta:vol1:checking:accuracy_check|Правильный перевод]]//
+  * //[[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]//
+  * //[[ru:ta:vol1:checking:accurate|Правильный перевод]]//
+  * //[[ru:ta:vol1:checking:clear|Понятный перевод]]//
+  * //[[ru:ta:vol1:checking:natural|Благозвучный перевод]]//
+  * //[[ru:ta:vol1:checking:level3_questions|Вопросы для третьего уровня редакции]]//
+  * //[[ru:ta:vol1:checking:level3_approval|Утверждение третьего уровня]]//
 

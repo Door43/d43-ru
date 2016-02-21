@@ -1,9 +1,10 @@
 ===== Добро пожаловать в «Технологическое руководство» =====
 
-This module answers the question: Что содержится в «Технологическом руководстве»?\\
+This module answers the question: //Что содержится в «Технологическом руководстве»?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
-  * [[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
+  * //[[ru:ta:vol1:checking:intro_check|Введение в «Руководство по редактированию»]]//
 
 ==== Технологическое руководство ====
 
@@ -19,7 +20,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]
-  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  * //[[ru:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[ru:ta:vol1:tech:tk_intro|translationKeyboard (клавиатура перевода)]]//
+  * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
 

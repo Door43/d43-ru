@@ -1,9 +1,10 @@
 ===== Текстовые разновидности =====
 
-This module answers the question: Почему в ОТБ пропущены или добавлены стихи\\
+This module answers the question: //Почему в ОТБ пропущены или добавлены стихи//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manuscripts|Оригинальные рукописи]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * //[[ru:ta:vol1:translate:translate_manuscripts|Оригинальные рукописи]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
 
 ==== Объяснение ====
 
@@ -21,5 +22,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
+  * //[[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]//
 

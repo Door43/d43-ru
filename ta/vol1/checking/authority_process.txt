@@ -1,7 +1,8 @@
 ===== Полномочия для редактирования и процесс редактирования =====
 
-This module answers the question: Какая разница существует между полномочиями проверять библейский перевод и самим процессом проверки?\\
-Before you start this module have you learned about: [[ru:ta:vol1:checking:goal_checking|Цель редактирования]]
+This module answers the question: //Какая разница существует между полномочиями проверять библейский перевод и самим процессом проверки?//
+
+Before you start this module have you learned about: //[[ru:ta:vol1:checking:goal_checking|Цель редактирования]]//
 
 ==== Объяснение ====
 
@@ -17,6 +18,6 @@ Before you start this module have you learned about: [[ru:ta:vol1:checking:goal_
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:authority_level1|Первый уровень управления?]]
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
+  * //[[ru:ta:vol1:checking:authority_level1|Первый уровень управления?]]//
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
 

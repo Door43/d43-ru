@@ -1,11 +1,12 @@
 ===== Буквальный перевод =====
 
-This module answers the question: Что такое буквальный перевод?\\
+This module answers the question: //Что такое буквальный перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
+  * //[[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
 
 ==== Definition ====
 
@@ -29,5 +30,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

@@ -1,8 +1,9 @@
 ===== Введение в уровни редактирования =====
 
-This module answers the question: Как функционируют уровни редактирования?\\
+This module answers the question: //Как функционируют уровни редактирования?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]
+  * //[[ru:ta:vol1:checking:intro_checking|Введение в «Редактирование перевода»]]//
 
 ==== Как функционируют уровни проверки ====
 
@@ -29,7 +30,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
-  * [[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]
+  * //[[ru:ta:vol1:checking:intro_levels|Введение в уровни редактирования]]//
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
+  * //[[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]//
 

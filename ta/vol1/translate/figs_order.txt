@@ -1,6 +1,7 @@
 ===== Порядок слов =====
 
-This module answers the question: Важен ли порядок слов?\\
+This module answers the question: //Важен ли порядок слов?//
+
 Before you start this module have you learned about:
 
 ==== Члены предложения ====
@@ -64,7 +65,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]
-  * [[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]
-  * [[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]
+  * //[[ru:ta:vol1:translate:figs_you|Формы личного местоимения второго лица]]//
+  * //[[ru:ta:vol1:translate:figs_youdual|Форма личного местоимения второго лица - двойственная или множественная?]]//
+  * //[[ru:ta:vol1:translate:figs_yousingular|Личное местоимение второго лица единственного числа (ты)]]//
 

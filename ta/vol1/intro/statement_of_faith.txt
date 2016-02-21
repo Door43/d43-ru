@@ -1,8 +1,9 @@
 ===== Исповедание веры =====
 
-This module answers the question: Во что мы верим?\\
+This module answers the question: //Во что мы верим?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
 
 Официальный текст этого документа можно найти на сайте unfoldingword.org/faith.
 
@@ -34,6 +35,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
-  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
+  * //[[ru:ta:vol1:intro:open_license|Открытая лицензия]]//
 

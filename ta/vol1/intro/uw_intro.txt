@@ -1,8 +1,9 @@
 ===== Проект unfoldingWord (Раскрывающееся Слово) =====
 
-This module answers the question: Что представляет собой проект unfoldingWord (Раскрывающееся Слово)?\\
+This module answers the question: //Что представляет собой проект unfoldingWord (Раскрывающееся Слово)?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
+  * //[[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]//
 
 В этом разделе даны следующие объяснения:
 
@@ -48,6 +49,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
-  * [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
+  * //[[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]//
+  * //[[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]//
 

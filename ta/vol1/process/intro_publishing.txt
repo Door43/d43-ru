@@ -1,8 +1,9 @@
 ===== Введение в публикацию =====
 
-This module answers the question: Что такое публикация?\\
+This module answers the question: //Что такое публикация?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
+  * //[[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]//
 
 ==== Обзор публикаций ====
 
@@ -35,6 +36,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]
-  * [[ru:ta:vol1:process:publishing_process|Как опубликовать]]
+  * //[[ru:ta:vol1:process:publishing_prereqs|Предварительные условия для публикации]]//
+  * //[[ru:ta:vol1:process:publishing_process|Как опубликовать]]//
 

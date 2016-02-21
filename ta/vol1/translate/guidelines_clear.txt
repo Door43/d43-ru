@@ -1,9 +1,10 @@
 ===== Сделать перевод понятным =====
 
-This module answers the question: Как сделать перевод понятным?\\
+This module answers the question: //Как сделать перевод понятным?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
 
 ==== Понятный перевод ====
 
@@ -47,8 +48,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]
-  * [[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]
-  * [[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
+  * //[[ru:ta:vol1:translate:guidelines_natural|Создать благозвучный перевод]]//
+  * //[[ru:ta:vol1:translate:guidelines_accurate|Создание точного перевода]]//
+  * //[[ru:ta:vol1:translate:guidelines_church_approved|Создать перевод, который будет утвержден церковью]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
 

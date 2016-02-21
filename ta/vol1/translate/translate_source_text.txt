@@ -1,8 +1,9 @@
 ===== Выбор исходного текста =====
 
-This module answers the question: Какими факторами необходимо руководствоваться при выборе исходного текста?\\
+This module answers the question: //Какими факторами необходимо руководствоваться при выборе исходного текста?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
 
 ==== Факторы, на которые нужно обращать внимание относительно исходного текста ====
 
@@ -20,7 +21,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
-  * [[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]
-  * [[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]
+  * //[[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]//
+  * //[[ru:ta:vol1:translate:translate_source_version|Исходный текст и номер версии]]//
+  * //[[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]//
 

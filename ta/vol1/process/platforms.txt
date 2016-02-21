@@ -1,8 +1,9 @@
 ===== Выбор платформы =====
 
-This module answers the question: Как выбрать платформу для перевода?\\
+This module answers the question: //Как выбрать платформу для перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
+  * //[[ru:ta:vol1:process:getting_started|Приступая к работе]]//
 
 ==== Выбор платформы для перевода ====
 
@@ -14,8 +15,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:setup_door43|Установка Door43]]
-  * [[ru:ta:vol1:process:setup_tsandroid|Установка translationStudio]]
-  * [[ru:ta:vol1:process:setup_word|Установка текстового редактора]]
-  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
+  * //[[ru:ta:vol1:process:setup_door43|Установка Door43]]//
+  * //[[ru:ta:vol1:process:setup_tsandroid|Установка translationStudio]]//
+  * //[[ru:ta:vol1:process:setup_word|Установка текстового редактора]]//
+  * //[[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]//
 

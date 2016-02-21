@@ -1,9 +1,10 @@
 ===== How to Translate in translationStudio Android =====
 
-This module answers the question: How can I translate in translationStudio?\\
+This module answers the question: //How can I translate in translationStudio?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]
-  * [[ru:ta:vol1:process:setup_tsandroid|Установка translationStudio]]
+  * //[[ru:ta:vol1:process:pretranslation_training|Обучение перед началом перевода]]//
+  * //[[ru:ta:vol1:process:setup_tsandroid|Установка translationStudio]]//
 
 ==== Using Translation Helps ====
 
@@ -33,7 +34,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]
-  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
-  * [[ru:ta:vol1:process:required_checking|Как проверять]]
+  * //[[ru:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]//
+  * //[[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]//
+  * //[[ru:ta:vol1:process:required_checking|Как проверять]]//
 

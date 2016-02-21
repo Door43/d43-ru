@@ -1,8 +1,9 @@
 ===== Термины, которые нужно знать =====
 
-This module answers the question: Какие термины мне нужно знать?\\
+This module answers the question: //Какие термины мне нужно знать?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]
+  * //[[ru:ta:vol1:translate:translate_manual|Введение в «Руководство по переводу»]]//
 
 ==== Важные термины, которые нужно знать ====
 
@@ -44,5 +45,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]
+  * //[[ru:ta:vol1:translate:translate_whatis|Что такое перевод]]//
 

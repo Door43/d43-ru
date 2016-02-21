@@ -1,9 +1,10 @@
 ===== Формирование команды переводчиков =====
 
-This module answers the question: Как сформировать команду переводчиков?\\
+This module answers the question: //Как сформировать команду переводчиков?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:process:getting_started|Приступая к работе]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:process:getting_started|Приступая к работе]]//
 
 ==== Команды переводчиков и определение качественного перевода ====
 
@@ -24,10 +25,10 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
-  * [[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
-  * [[ru:ta:vol1:translate:translate_what|С чего начать перевод]]
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
+  * //[[ru:ta:vol1:translate:qualifications|Квалификация переводчика]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:translate:translate_alphabet|Алфавит/Орфография]]//
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
+  * //[[ru:ta:vol1:translate:translate_what|С чего начать перевод]]//
 

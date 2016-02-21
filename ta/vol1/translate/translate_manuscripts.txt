@@ -1,9 +1,10 @@
 ===== Оригинальные рукописи =====
 
-This module answers the question: Есть ли еще сведения об исконном тексте?\\
+This module answers the question: //Есть ли еще сведения об исконном тексте?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
 
 ==== Создание первых рукописей ====
 
@@ -17,9 +18,9 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_textvariants|Текстовые разновидности]]
-  * [[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_textvariants|Текстовые разновидности]]//
+  * //[[ru:ta:vol1:translate:translate_terms|Термины, которые нужно знать]]//
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

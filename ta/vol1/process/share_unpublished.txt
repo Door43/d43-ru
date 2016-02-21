@@ -1,8 +1,9 @@
 ===== Как распространять неопубликованные материалы =====
 
-This module answers the question: Как распространять неопубликованные материалы?\\
+This module answers the question: //Как распространять неопубликованные материалы?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]
+  * //[[ru:ta:vol1:process:intro_share|Введение в процесс осуществления распространения]]//
 
 ==== Обмен неопубликованным содержанием в translationStudio ====
 
@@ -26,5 +27,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]
+  * //[[ru:ta:vol1:process:share_published|Как распространить опубликованные материалы]]//
 

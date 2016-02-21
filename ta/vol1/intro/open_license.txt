@@ -1,10 +1,11 @@
 ===== Открытая лицензия =====
 
-This module answers the question: Какие свободы имеет пользователь относительно содержания unfoldingWord («Раскрывающегося Слова»)?\\
+This module answers the question: //Какие свободы имеет пользователь относительно содержания unfoldingWord («Раскрывающегося Слова»)?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
-  * [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
-  * [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
+  * //[[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]//
+  * //[[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]//
 
 Официальный текст этого документа можно найти на сайте unfoldingword.org/license.
 
@@ -27,6 +28,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
-  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
+  * //[[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]//
+  * //[[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]//
 

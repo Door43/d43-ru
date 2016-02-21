@@ -1,6 +1,7 @@
 ===== Содержание - Руководство по переводу =====
 
-This module answers the question: Что содержится в «Руководстве по переводу»?\\
+This module answers the question: //Что содержится в «Руководстве по переводу»?//
+
 {{page>ru:ta:vol1:translate:toc_transvol1}}
 
 {{page>ru:ta:vol2:translate:toc_transvol2}}

@@ -1,9 +1,10 @@
 ===== Типы «Замечаний» =====
 
-This module answers the question: Какие типы комментариев даны в «Замечаниях по переводу»?\\
+This module answers the question: //Какие типы комментариев даны в «Замечаниях по переводу»?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
-  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
+  * //[[ru:ta:vol1:translate:translate_help|Помощь в переводе]]//
+  * //[[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]//
 
 ==== Замечания по переводу ====
 
@@ -75,5 +76,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_links|Ссылки в «Замечаниях»]]
+  * //[[ru:ta:vol1:translate:resources_links|Ссылки в «Замечаниях»]]//
 

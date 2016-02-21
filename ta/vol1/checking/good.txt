@@ -1,8 +1,9 @@
 ===== Утверждение второго уровня =====
 
-This module answers the question: Как руководство церкви может подтвердить, что перевод является качественным?\\
+This module answers the question: //Как руководство церкви может подтвердить, что перевод является качественным?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:complete|Завершенный перевод]]
+  * //[[ru:ta:vol1:checking:complete|Завершенный перевод]]//
 
 ==== Документация, необходимая для утверждения второго уровня ====
 
@@ -30,6 +31,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]
-  * [[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]
+  * //[[ru:ta:vol1:checking:self_assessment|Предписания относительно самостоятельного оценивания]]//
+  * //[[ru:ta:vol1:checking:level3|Третий уровень редактирования - Подтверждающая проверка]]//
 

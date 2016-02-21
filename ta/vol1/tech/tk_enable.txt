@@ -1,8 +1,9 @@
 ===== Запустить translationKeyboard (клавиатуру перевода) на устройство Android =====
 
-This module answers the question: Как запустить translationKeyboard (клавиатуру перевода) на устройстве Android?\\
+This module answers the question: //Как запустить translationKeyboard (клавиатуру перевода) на устройстве Android?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
+  * //[[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]//
 
 ==== Запуск tK (клавиатуры перевода) ====
 
@@ -12,10 +13,10 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]
-  * [[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]
-  * [[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]
-  * [[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]
-  * [[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]
-  * [[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]
+  * //[[ru:ta:vol1:tech:tk_install|Установить translationKeyboard (клавиатуру перевода) на устройство Android]]//
+  * //[[ru:ta:vol1:tech:tk_start|Установка приложения translationKeyboard (Клавиатура перевода) на устройство Android]]//
+  * //[[ru:ta:vol1:tech:tk_use|Как использовать translationKeyboard (клавиатуру перевода) в translationStudio (студии перевода)]]//
+  * //[[ru:ta:vol1:tech:tk_find|Выбрать метод ввода]]//
+  * //[[ru:ta:vol1:tech:tk_create|Создать клавиатуру в tK]]//
+  * //[[ru:ta:vol1:tech:tk_update|Обновить translationKeyboard (клавиатуру перевода)]]//
 

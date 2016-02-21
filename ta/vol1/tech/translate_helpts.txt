@@ -1,6 +1,7 @@
 ===== Нахождение помощи с translationStudio =====
 
-This module answers the question: Как найти того, кто мог бы мне помочь с translationStudio?\\
+This module answers the question: //Как найти того, кто мог бы мне помочь с translationStudio?//
+
 ==== Help ====
 
 Для обмена информацией сообщество Door43 использует Slack (чат для переводчиков - прим. пер.). Присоединившись к данному каналу связи, вы можете узнать о пользе и проблемах данного приложения, а также поделиться своими идеями с разработчиками и переводчиками. Slack хорошо работает в браузерах, но вы также можете скачать для него собственный клиент.
@@ -9,20 +10,20 @@ This module answers the question: Как найти того, кто мог бы
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]
-  * [[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]
-  * [[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]
-  * [[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]
-  * [[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_request|Найти мой язык]]
-  * [[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]
-  * [[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]
-  * [[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]
-  * [[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]
-  * [[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]
-  * [[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]
+  * //[[ru:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]//
+  * //[[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]//
+  * //[[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]//
+  * //[[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]//
+  * //[[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_request|Найти мой язык]]//
+  * //[[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]//
+  * //[[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
+  * //[[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]//
+  * //[[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_publish|Опубликовать содержание в unfoldingWord (Раскрывающемся Слове)]]//
+  * //[[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]//
 

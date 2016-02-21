@@ -1,9 +1,10 @@
 ===== Исходный текст и номер версии =====
 
-This module answers the question: Как номер версии поможет мне выбрать исходный текст?\\
+This module answers the question: //Как номер версии поможет мне выбрать исходный текст?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
-  * [[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
+  * //[[ru:ta:vol1:translate:translate_source_licensing|Авторские права, лицензирование и исходный текст]]//
 
 ==== Важность номера версии ====
 
@@ -46,5 +47,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]
+  * //[[ru:ta:vol1:translate:translate_original|Исконный и исходный языки]]//
 

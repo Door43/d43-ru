@@ -1,8 +1,9 @@
 ===== Выбрать язык =====
 
-This module answers the question: Как выбрать язык?\\
+This module answers the question: //Как выбрать язык?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:tech:uw_app|Мобильное приложение unfoldingWord (Раскрывающееся Слово)]]
+  * //[[ru:ta:vol1:tech:uw_app|Мобильное приложение unfoldingWord (Раскрывающееся Слово)]]//
 
 ==== Выбор языка ====
 
@@ -14,10 +15,10 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:tech:uw_install|Установка unfoldingWord на устройство Android]]
-  * [[ru:ta:vol1:tech:uw_first|Первое использование unfoldingWord]]
-  * [[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]
-  * [[ru:ta:vol1:tech:uw_language|Информация о языке]]
-  * [[ru:ta:vol1:tech:uw_update_content|Обновить приложение unfoldingWord на устройстве Android]]
-  * [[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]
+  * //[[ru:ta:vol1:tech:uw_install|Установка unfoldingWord на устройство Android]]//
+  * //[[ru:ta:vol1:tech:uw_first|Первое использование unfoldingWord]]//
+  * //[[ru:ta:vol1:tech:uw_checking|Об уровнях редактирования]]//
+  * //[[ru:ta:vol1:tech:uw_language|Информация о языке]]//
+  * //[[ru:ta:vol1:tech:uw_update_content|Обновить приложение unfoldingWord на устройстве Android]]//
+  * //[[ru:ta:vol1:tech:uw_audio|Использовать аудио функции в unfoldingWord]]//
 

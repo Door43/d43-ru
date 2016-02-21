@@ -1,9 +1,10 @@
 ===== Взаимопроверка =====
 
-This module answers the question: Как окружающие могут мне помочь с проверкой перевода?\\
+This module answers the question: //Как окружающие могут мне помочь с проверкой перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
-  * [[ru:ta:vol1:checking:self_check|Самопроверка]]
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
+  * //[[ru:ta:vol1:checking:self_check|Самопроверка]]//
 
 ==== Как проводить взаимопроверку ====
 
@@ -13,5 +14,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:important_term_check|Проверка важных терминов]]
+  * //[[ru:ta:vol1:checking:important_term_check|Проверка важных терминов]]//
 

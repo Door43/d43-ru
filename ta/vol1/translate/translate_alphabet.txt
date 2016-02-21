@@ -1,9 +1,10 @@
 ===== Алфавит/Орфография =====
 
-This module answers the question: Как мне создать алфавит для родного языка?\\
+This module answers the question: //Как мне создать алфавит для родного языка?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]
-  * [[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]
+  * //[[ru:ta:vol1:translate:choose_team|Создание команды переводчиков]]//
+  * //[[ru:ta:vol1:translate:translate_source_text|Выбор исходного текста]]//
 
 ==== Создание алфавита ====
 
@@ -21,5 +22,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
 

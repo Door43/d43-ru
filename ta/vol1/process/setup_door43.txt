@@ -1,7 +1,7 @@
 ===== Установка Door43 =====
 
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:platforms|Выбор платформы]]
+  * //[[ru:ta:vol1:process:platforms|Выбор платформы]]//
 
 ==== Начало работы на сайте Door43 ====
 
@@ -11,5 +11,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:door43_translation|Translating in Door43]]
+  * //[[ru:ta:vol1:process:door43_translation|Translating in Door43]]//
 

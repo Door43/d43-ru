@@ -1,8 +1,9 @@
 ===== Другие методы =====
 
-This module answers the question: Какие еще методы я могу использовать для проверки перевода?\\
+This module answers the question: //Какие еще методы я могу использовать для проверки перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]
+  * //[[ru:ta:vol1:checking:language_community_check|Редактирование, осуществляемое носителями яыка]]//
 
 ==== Другие методы редактирования ====
 
@@ -16,6 +17,6 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]
-  * [[ru:ta:vol1:checking:community_evaluation|Вопросы для «Оценки перевода носителями языка»]]
+  * //[[ru:ta:vol1:translate:writing_decisions|Решения о письменности нашего языка]]//
+  * //[[ru:ta:vol1:checking:community_evaluation|Вопросы для «Оценки перевода носителями языка»]]//
 

@@ -1,8 +1,9 @@
 ===== Как проверять =====
 
-This module answers the question: Как проверять перевод?\\
+This module answers the question: //Как проверять перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]
+  * //[[ru:ta:vol1:process:prechecking_training|Обучение перед началом редактирования]]//
 
 ==== Цель уровней редактирования ====
 
@@ -30,5 +31,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]
+  * //[[ru:ta:vol1:process:intro_publishing|Введение в публикацию]]//
 

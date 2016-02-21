@@ -1,8 +1,9 @@
 ===== Перевод имен собственных =====
 
-This module answers the question: Как переводить имена собственные?\\
+This module answers the question: //Как переводить имена собственные?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]]
+  * //[[ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]]//
 
 ==== Определение имени собственного ====
 

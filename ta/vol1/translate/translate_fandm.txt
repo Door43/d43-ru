@@ -1,10 +1,11 @@
 ===== Форма и значение =====
 
-This module answers the question: Что такое форма и значение?\\
+This module answers the question: //Что такое форма и значение?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_discover|Понять значения текста]]
-  * [[ru:ta:vol1:translate:translate_retell|Передача значения]]
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_discover|Понять значения текста]]//
+  * //[[ru:ta:vol1:translate:translate_retell|Передача значения]]//
 
 ==== Определение формы и значения ====
 
@@ -35,8 +36,8 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
-  * [[ru:ta:vol1:translate:translate_levels|Уровни значения]]
-  * [[ru:ta:vol1:translate:translate_form|Важность формы]]
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
+  * //[[ru:ta:vol1:translate:translate_levels|Уровни значения]]//
+  * //[[ru:ta:vol1:translate:translate_form|Важность формы]]//
 

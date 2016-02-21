@@ -1,9 +1,10 @@
 ===== Стратегия ключевых языков =====
 
-This module answers the question: Как достичь каждый язык?\\
+This module answers the question: //Как достичь каждый язык?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
-  * [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
+  * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
+  * //[[ru:ta:vol1:intro:open_license|Открытая лицензия]]//
 
 О «Стратегии ключевых языков» вы можете прочитать больше на сайте unfoldingword.org/gateway.
 
@@ -37,5 +38,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
+  * //[[ru:ta:vol1:intro:finding_answers|Получение ответов]]//
 

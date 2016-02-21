@@ -1,9 +1,10 @@
 ===== Самопроверка =====
 
-This module answers the question: Как проверить первый черновик?\\
+This module answers the question: //Как проверить первый черновик?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]
-  * [[ru:ta:vol1:translate:first_draft|Создание первого наброска]]
+  * //[[ru:ta:vol1:checking:level1|Первый уровень редактирования - Проверка текста командой переводчиков]]//
+  * //[[ru:ta:vol1:translate:first_draft|Создание первого наброска]]//
 
 ==== Как осуществлять самопроверку ====
 
@@ -13,5 +14,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:checking:peer_check|Взаимопроверка]]
+  * //[[ru:ta:vol1:checking:peer_check|Взаимопроверка]]//
 

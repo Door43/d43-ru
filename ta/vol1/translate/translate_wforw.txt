@@ -1,9 +1,10 @@
 ===== Пословная замена =====
 
-This module answers the question: Почему следует избегать пословного перевода?\\
+This module answers the question: //Почему следует избегать пословного перевода?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
 
 ==== Definition ====
 
@@ -60,7 +61,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_problem|Трудности буквального перевода]]
-  * [[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]
-  * [[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]
+  * //[[ru:ta:vol1:translate:translate_problem|Трудности буквального перевода]]//
+  * //[[ru:ta:vol1:translate:figs_intro|Изобразительные средства речи.]]//
+  * //[[ru:ta:vol1:translate:translate_dynamic|Смысловой перевод]]//
 

@@ -1,9 +1,10 @@
 ===== Ссылки в «Замечаниях» =====
 
-This module answers the question: Зачем нужно использовать ссылки в «Замечаниях»?\\
+This module answers the question: //Зачем нужно использовать ссылки в «Замечаниях»?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:translate_help|Помощь в переводе]]
-  * [[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]
+  * //[[ru:ta:vol1:translate:translate_help|Помощь в переводе]]//
+  * //[[ru:ta:vol1:translate:resources_intro|Ознакомление с материалами]]//
 
 ==== Повторяющиеся фразы в книге ====
 
@@ -17,5 +18,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]
+  * //[[ru:ta:vol1:translate:resources_types|Типы «Замечаний»]]//
 

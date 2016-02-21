@@ -1,11 +1,12 @@
 ===== Смысловой перевод =====
 
-This module answers the question: Что такое смысловой перевод?\\
+This module answers the question: //Что такое смысловой перевод?//
+
 Before you start this module have you learned about:
-  * [[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]
-  * [[ru:ta:vol1:translate:translate_process|Процесс перевода]]
-  * [[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]
-  * [[ru:ta:vol1:translate:translate_fandm|Форма и значение]]
+  * //[[ru:ta:vol1:translate:guidelines_intro|Качества хорошего перевода]]//
+  * //[[ru:ta:vol1:translate:translate_process|Процесс перевода]]//
+  * //[[ru:ta:vol1:translate:translate_literal|Буквальный перевод]]//
+  * //[[ru:ta:vol1:translate:translate_fandm|Форма и значение]]//
 
 ==== Введение ====
 
@@ -55,5 +56,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[ru:ta:vol1:translate:translate_tform|Перевод значения]]
+  * //[[ru:ta:vol1:translate:translate_tform|Перевод значения]]//
 
