@@ -7,10 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:saul|Saul]]**
-  * **[[:ru:obs:notes:key-terms:love|love]]**
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
+  * **[[:ru:obe:other:Saul]]**
+  * **[[:ru:obe:kt:love]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:other:king]]**
 
 
 ==== Translation Notes: ====
