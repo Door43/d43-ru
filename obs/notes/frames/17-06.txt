@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:temple|temple]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:ru:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:kt:temple]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:sacrifice]]**
+  * **[[:ru:obe:other:tentofMeeting]]**
+  * **[[:ru:obe:other:moses]]**
 
 
 ==== Translation Notes: ====
