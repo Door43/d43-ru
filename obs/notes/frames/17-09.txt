@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:justice|justice]]**
-  * **[[:ru:obs:notes:key-terms:faithful|faithfulness]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:bless|blessed]]**
-  * **[[:ru:obs:notes:key-terms:sin|sinned]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:kt:justice]]**
+  * **[[:ru:obe:kt:faithful]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:bless]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
