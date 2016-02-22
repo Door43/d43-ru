@@ -7,8 +7,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:bathsheba|Bathsheba]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:other:Bathsheba]]**
 
 
 ==== Translation Notes: ====
