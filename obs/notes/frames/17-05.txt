@@ -7,14 +7,14 @@ Eventually, **Saul** died in battle, and **David** became **king** of **Israel**
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:saul|Saul]]**
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israel]]**
-  * **[[:ru:obs:notes:key-terms:love|loved]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:bless|blessed]]**
-  * **[[:ru:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:ru:obe:other:Saul]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:kt:love]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:bless]]**
+  * **[[:ru:obe:other:Jerusalem]]**
 
 
 ==== Translation Notes: ====
