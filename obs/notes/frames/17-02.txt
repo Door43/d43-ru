@@ -7,18 +7,18 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
-  * **[[:ru:obs:notes:key-terms:saul|Saul]]**
-  * **[[:ru:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:ru:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:ru:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:ru:obs:notes:key-terms:humble|humble]]**
-  * **[[:ru:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:ru:obs:notes:key-terms:trust|trusted]]**
-  * **[[:ru:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:other:Saul]]**
+  * **[[:ru:obe:other:shepherd]]**
+  * **[[:ru:obe:other:Bethlehem]]**
+  * **[[:ru:obe:other:sheep]]**
+  * **[[:ru:obe:other:humble]]**
+  * **[[:ru:obe:kt:righteous]]**
+  * **[[:ru:obe:kt:trust]]**
+  * **[[:ru:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
