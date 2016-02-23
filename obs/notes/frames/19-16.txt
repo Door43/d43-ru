@@ -9,7 +9,7 @@
 
   * **[[:ru:obe:kt:God]]**
   * **[[:ru:obe:kt:prophet]]**
-  * **[[:ru:obe:kt:worship]**
+  * **[[:ru:obe:kt:worship]]**
   * **[[:ru:obe:other:idol]]**
   * **[[:ru:obe:kt:justice]]**
   * **[[:ru:obe:kt:mercy]]**
