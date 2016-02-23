@@ -7,12 +7,12 @@ Most of the time, the people did not **obey God**. They often mistreated the **p
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:obey|obey]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:ru:obs:notes:key-terms:jeremiah|Jeremiah]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
-  * **[[:ru:obs:notes:key-terms:mercy|mercy]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:other:Jeremiah]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:kt:mercy]]**
 
 
 ==== Translation Notes: ====
