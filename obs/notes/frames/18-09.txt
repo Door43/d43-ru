@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:jeroboam|Jeroboam]]**
-  * **[[:ru:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:sin|sin]]**
-  * **[[:ru:obs:notes:key-terms:idol|idols]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:temple|Temple]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
+  * **[[:ru:obe:other:Jeroboam]]**
+  * **[[:ru:obe:other:rebel]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:Temple]]**
+  * **[[:ru:obe:other:kingdomofJudah]]**
 
 
 ==== Translation Notes: ====
