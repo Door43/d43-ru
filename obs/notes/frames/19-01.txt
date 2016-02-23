@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:prophet]]**
 
 
 ==== Translation Notes: ====
