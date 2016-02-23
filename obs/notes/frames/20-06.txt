@@ -6,15 +6,15 @@ About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:ru:obs:notes:key-terms:king|king]]**
-  * **[[:ru:obs:notes:key-terms:babylon|Babylonians]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:ru:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:ru:obs:notes:key-terms:servant|servant]]**
+  * **[[:ru:obe:other:assyria]]**
+  * **[[:ru:obe:other:kingdomofIsrael]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Nebuchadnezzar]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:other:babylon]]**
+  * **[[:ru:obe:other:kingdomofJudah]]**
+  * **[[:ru:obe:other:Babylon]]**
+  * **[[:ru:obe:other:servant]]**
 
 
 ==== Translation Notes: ====
