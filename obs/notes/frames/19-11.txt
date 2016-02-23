@@ -7,9 +7,9 @@ Immediately, fire **fell from the sky** and burned up the meat, the wood, the ro
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:altar|altar]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
+  * **[[:ru:obe:other:altar]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
