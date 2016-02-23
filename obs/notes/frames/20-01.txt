@@ -7,16 +7,16 @@ The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against *
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:ru:obs:notes:key-terms:sin|sinned]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:ru:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:ru:obs:notes:key-terms:repent|repent]]**
-  * **[[:ru:obs:notes:key-terms:worship|worship]]**
-  * **[[:ru:obs:notes:key-terms:obey|obey]]**
+  * **[[:ru:obe:other:kingdomofIsrael]]**
+  * **[[:ru:obe:other:kingdomofJudah]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:covenant]]**
+  * **[[:ru:obe:other:Sinai]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:repent]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
