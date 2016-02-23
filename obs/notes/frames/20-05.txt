@@ -7,17 +7,17 @@ The people in the **kingdom of Judah** saw how **God** had **punished** the peop
 
 ====== Important Terms: ======
 
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:punish|punished]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:ru:obs:notes:key-terms:believe|believing]]**
-  * **[[:ru:obs:notes:key-terms:obey|obeying]]**
-  * **[[:ru:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:ru:obs:notes:key-terms:idol|idols]]**
-  * **[[:ru:obs:notes:key-terms:god-false|gods]]**
-  * **[[:ru:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
+  * **[[:ru:obe:other:kingdomofJudah]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:punish]]**
+  * **[[:ru:obe:other:kingdomofIsrael]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[ru:obe:kt:falsegod]]**
+  * **[[:ru:obe:other:canaan]]**
+  * **[[:ru:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
