@@ -7,11 +7,11 @@ Then the **Assyrians** brought **foreigners** to live in the land where the **ki
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:ru:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms:samaria|Samaritans]]**
+  * **[[:ru:obe:other:assyria]]**
+  * **[[:ru:obe:other:kingdomofIsrael]]**
+  * **[[:ru:obe:other:israel]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:other:samaria]]**
 
 
 ==== Translation Notes: ====
