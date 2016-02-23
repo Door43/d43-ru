@@ -7,12 +7,12 @@ All the people of the **kingdom of Israel**, including the 450 **prophets** of *
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:ru:obs:notes:key-terms:baal|Baal]]**
-  * **[[:ru:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:ru:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
+  * **[[:ru:obe:other:kingdomofIsrael]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:other:Baal]]**
+  * **[[:ru:obe:other:Elijah]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
