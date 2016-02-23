@@ -10,7 +10,7 @@
   * **[[:ru:obe:kt:God]]**
   * **[[:ru:obe:kt:prophet]]**
   * **[[:ru:obe:kt:worship]**
-  * **[[:ru:obe:kt:idol]]**
+  * **[[:ru:obe:other:idol]]**
   * **[[:ru:obe:kt:justice]]**
   * **[[:ru:obe:kt:mercy]]**
   * **[[:ru:obe:kt:evil]]**
@@ -18,7 +18,6 @@
   * **[[:ru:obe:kt:judge]]**
   * **[[:ru:obe:kt:guilt]]**
   * **[[:ru:obe:other:punish]]**
-
 
 ==== Translation Notes: ====
 
