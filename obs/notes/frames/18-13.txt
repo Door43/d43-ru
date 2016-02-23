@@ -7,19 +7,19 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:king|kings]]**
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms:david|David]]**
-  * **[[:ru:obs:notes:key-terms:good|good]]**
-  * **[[:ru:obs:notes:key-terms:justice|justly]]**
-  * **[[:ru:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:other:kingdomofjudah]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:other:David]]**
+  * **[[:ru:obe:kt:good]]**
+  * **[[:ru:obe:kt:justice]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:god]]**
   * **[[:ru:obs:notes:key-terms:evil|evil]]**
-  * **[[:ru:obs:notes:key-terms:idol|idols]]**
-  * **[[:ru:obs:notes:key-terms:sacrifice|sacrificed]]**
-  * **[[:ru:obs:notes:key-terms:god-false|gods]]**
-  * **[[:ru:obs:notes:key-terms:rebel|rebelled]]**
+  * **[[:ru:obe:other:idol]]**
+  * **[[:ru:obe:other:sacrifice]]**
+  * **[[:ru:obe:kt:falsegod]]**
+  * **[[:ru:obe:other:rebel]]**
 
 
 ==== Translation Notes: ====
