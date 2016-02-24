@@ -7,11 +7,10 @@ The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:ru:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophesied]]**
-  * **[[:ru:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms:betray|betray]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:other:Isaiah]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:betray]]**
 
 
 ==== Translation Notes: ====
