@@ -8,11 +8,11 @@ The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **bro
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:ru:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:ru:obs:notes:key-terms:galilee|Galilee]]**
-  * **[[:ru:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms:heal|heal]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:other:Isaiah]]**
+  * **[[:ru:obe:other:Galilee]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:other:heal]]**
 
 
 ==== Translation Notes: ====
