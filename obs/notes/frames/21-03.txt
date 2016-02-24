@@ -8,11 +8,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:promise|promised]]**
-  * **[[:ru:obs:notes:key-terms:moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:ru:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:christ]]**
 
 
 ==== Translation Notes: ====
