@@ -7,10 +7,10 @@ The **Persian Empire** was strong but **merciful** to the people it conquered. S
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:mercy|merciful]]**
-  * **[[:ru:obs:notes:key-terms:jew|Jew]]**
-  * **[[:ru:obs:notes:key-terms:temple|Temple]]**
-  * **[[:ru:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:ru:obe:kt:mercy]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:kt:Temple]]**
+  * **[[:ru:obe:other:Jerusalem]]**
 
 
 ==== Translation Notes: ====
