@@ -7,13 +7,13 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:god|God]]**
-  * **[[:ru:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms:promise|promise]]**
-  * **[[:ru:obs:notes:key-terms:adam|Adam]]**
-  * **[[:ru:obs:notes:key-terms:eve|Eve]]**
-  * **[[:ru:obs:notes:key-terms:descendant|descendant]]**
-  * **[[:ru:obs:notes:key-terms:satan|Satan]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:other:Adam]]**
+  * **[[:ru:obe:other:Eve]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:kt:Satan]]**
 
 
 ==== Translation Notes: ====
