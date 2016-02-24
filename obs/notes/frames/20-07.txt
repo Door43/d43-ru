@@ -7,11 +7,11 @@ But after a few years, the king of **Judah rebelled** against **Babylon**. So, t
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:ru:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:ru:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:ru:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:ru:obs:notes:key-terms:temple|Temple]]**
+  * **[[:ru:obe:other:kingdomofjudah]]**
+  * **[[:ru:obe:other:rebel]]**
+  * **[[:ru:obe:other:Babylon]]**
+  * **[[:ru:obe:other:Jerusalem]]**
+  * **[[:ru:obe:kt:Temple]]**
 
 
 ==== Translation Notes: ====
