@@ -8,14 +8,14 @@ The **prophets** also said that the **Messiah** would be perfect, **having no si
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:ru:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms:sin|sin]]**
-  * **[[:ru:obs:notes:key-terms:death|die]]**
-  * **[[:ru:obs:notes:key-terms:receive|receive]]**
-  * **[[:ru:obs:notes:key-terms:punish|punishment]]**
-  * **[[:ru:obs:notes:key-terms:peace|peace]]**
-  * **[[:ru:obs:notes:key-terms:god|God]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:christ]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:receive]]**
+  * **[[:ru:obe:other:punish]]**
+  * **[[:ru:obe:other:peace]]**
+  * **[[:ru:obe:kt:god]]**
 
 
 ==== Translation Notes: ====
