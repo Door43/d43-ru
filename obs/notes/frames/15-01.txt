@@ -11,7 +11,6 @@
   * **[[:ru:obe:other:Canaan]]**
   * **[[:ru:obe:kt:PromisedLand]]**
   * **[[:ru:obe:other:Joshua]]**
-  * **[[:ru:obe:other:canaan]]**
   * **[[:ru:obe:other:jericho]]**
   * **[[:ru:obe:other:Rahab]]**
   * **[[:ru:obe:kt:believe]]**
