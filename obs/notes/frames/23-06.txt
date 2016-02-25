@@ -8,11 +8,11 @@ That night, there were some **shepherds** in a nearby field **guarding their flo
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:ru:obs:notes:key-terms/angel|angel]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/bethlehem|Bethlehem]]**
+  * **[[:ru:obe:other:shepherd]]**
+  * **[[:ru:obe:kt:angel]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:other:Bethlehem]]**
 
 
 ===== Translation Notes: =====
