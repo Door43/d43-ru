@@ -5,15 +5,15 @@
 The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/angel|angel]]**
-  * **[[:ru:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:ru:obs:notes:key-terms/mary|Mary]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/son|son]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/yahweh|Yahweh]]**
-  * **[[:ru:obs:notes:key-terms/save|saves]]**
-  * **[[:ru:obs:notes:key-terms/sin|sins]]**
+  * **[[:ru:obe:kt:angel]]**
+  * **[[:ru:obe:other:josephnt]]**
+  * **[[:ru:obe:other:mary]]**
+  * **[[:ru:obe:kt:holyspirit]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:Yahweh]]**
+  * **[[:ru:obe:kt:save]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
