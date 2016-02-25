@@ -6,11 +6,11 @@ The **angel** said to **Zechariah**, “Your wife will have a son. You will name
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms/angel|angel]]**
-  * **[[:ru:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:ru:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:ru:obe:kt:angel]]**
+  * **[[:ru:obe:other:zechariahnt]]**
+  * **[[:ru:obe:other:johnbaptist]]**
+  * **[[:ru:obe:kt:HolySpirit]]**
+  * **[[:ru:obe:kt:christ]]**
 
 
 ===== Translation Notes: =====
