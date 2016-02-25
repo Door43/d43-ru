@@ -6,11 +6,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms/mary|Mary]]**
-  * **[[:ru:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:ru:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:ru:obs:notes:key-terms/angel|angel]]**
-  * **[[:ru:obs:notes:key-terms/dream|dream]]**
+  * **[[:ru:obe:other:Mary]]**
+  * **[[:ru:obe:kt:righteous]]**
+  * **[[:ru:obe:other:josephnt]]**
+  * **[[:ru:obe:kt:angel]]**
+  * **[[:ru:obe:other:dream]]**
 
 
 ===== Translation Notes: =====
