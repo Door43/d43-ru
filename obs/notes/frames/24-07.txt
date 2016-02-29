@@ -6,10 +6,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:ru:obs:notes:key-terms/sin|sinned]]**
+  * **[[:ru:obe:other:johnthebaptist]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
