@@ -5,13 +5,13 @@
 Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/fast|fasted]]**
-  * **[[:ru:obs:notes:key-terms/satan|Satan]]**
-  * **[[:ru:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:ru:obs:notes:key-terms/sin|sin]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:kt:HolySpirit]]**
+  * **[[:ru:obe:other:fast]]**
+  * **[[:ru:obe:kt:Satan]]**
+  * **[[:ru:obe:kt:tempt]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
