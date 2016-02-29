@@ -5,12 +5,12 @@
 **Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:ru:obe:kt:Jesus]]**
   * **[[:ru:obs:notes:key-terms/satan|Satan]]**
-  * **[[:ru:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:ru:obs:notes:key-terms/worship|Worship]]**
-  * **[[:ru:obs:notes:key-terms/lord|Lord]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
+  * **[[:ru:obe:kt:wordofgod]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:Lord]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
