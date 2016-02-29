@@ -18,4 +18,4 @@
   * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
 
 
-**[[:ru:obs:notes:frames:25-01|<<]] | [[:en:obs:notes:25|Up]] | [[:en:obs:notes:frames:25-03|>>]]**
+**[[:ru:obs:notes:frames:25-01|<<]] | [[:ru:obs:notes:25|Up]] | [[:ru:obs:notes:frames:25-03|>>]]**
