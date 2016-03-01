@@ -5,9 +5,9 @@
 The people of **Nazareth** dragged **Jesus** out of the **place of worship** and brought him to the edge of a cliff to throw him off of it in order to kill him. **But Jesus walked through the crowd** and left the town of Nazareth.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/worship|worship]]**
+  * **[[:ru:obe:other:Nazareth]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:worship]]**
 
 
 ===== Translation Notes: =====
