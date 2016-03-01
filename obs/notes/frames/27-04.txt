@@ -5,10 +5,10 @@
 **Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:ru:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:ru:obs:notes:key-terms/jericho|Jericho]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:other:Jerusalem]]**
+  * **[[:ru:obe:other:Jericho]]**
 
 
 ===== Translation Notes: =====
