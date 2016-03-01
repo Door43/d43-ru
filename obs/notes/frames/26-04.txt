@@ -6,10 +6,10 @@
 Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/word-of-god|scripture]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/joseph-nt|Joseph]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:wordofgod]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:other:josephnt]]**
 
 
 ===== Translation Notes: =====
