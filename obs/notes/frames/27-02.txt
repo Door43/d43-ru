@@ -7,12 +7,12 @@
 The **law expert** replied that **God's law** says, “**Love the Lord your God with all your heart, soul, strength, and mind**. And **love your neighbor as yourself**.” **Jesus** answered, “You are correct! Do this and you will **live**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/gods-law|God's law]]**
-  * **[[:ru:obs:notes:key-terms/love|Love]]**
-  * **[[:ru:obs:notes:key-terms/lord|Lord]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/life|live]]**
+  * **[[:ru:obe:kt:godslaw]]**   <<<<<<<<<<<<<
+  * **[[:ru:obe:kt:Love]]**
+  * **[[:ru:obe:kt:Lord]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
