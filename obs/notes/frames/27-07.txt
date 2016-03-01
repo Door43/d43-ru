@@ -5,9 +5,9 @@
 “Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jew|Jews]]**
-  * **[[:ru:obs:notes:key-terms/priest|priests]]**
-  * **[[:ru:obs:notes:key-terms/temple|Temple]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:kt:priest]]**
+  * **[[:ru:obe:kt:Temple]]**
 
 
 ===== Translation Notes: =====
