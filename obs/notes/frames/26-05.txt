@@ -5,12 +5,12 @@
 Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/true|true]]**
-  * **[[:ru:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:ru:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:ru:obs:notes:key-terms/israel|Israel]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:true]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:other:Elijah]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
