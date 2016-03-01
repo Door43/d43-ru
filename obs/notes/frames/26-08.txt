@@ -5,9 +5,9 @@
 Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/galilee|Galilee]]**
-  * **[[:ru:obs:notes:key-terms/heal|healed]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:Galilee]]**
+  * **[[:ru:obe:other:heal]]**
 
 
 ===== Translation Notes: =====
