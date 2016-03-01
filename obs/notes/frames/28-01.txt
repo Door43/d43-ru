@@ -5,13 +5,13 @@
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/good|Good]]**
-  * **[[:ru:obs:notes:key-terms/teacher|teacher]]**
-  * **[[:ru:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/obey|obey]]**
-  * **[[:ru:obs:notes:key-terms/gods-law|God's laws]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:Good]]**
+  * **[[:ru:obe:kt:teacher]]**
+  * **[[:ru:obe:kt:eternity]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:kt:lawofmoses]]**
 
 
 ===== Translation Notes: =====
