@@ -5,9 +5,9 @@
 Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:ru:obs:notes:key-terms/king|king]]**
-  * **[[:ru:obs:notes:key-terms/servant|servants]]**
+  * **[[:ru:obe:kt:kingdomofGod]]**
+  * **[[:ru:obe:other:king]]**
+  * **[[:ru:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
