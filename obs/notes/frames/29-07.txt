@@ -5,8 +5,8 @@
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/servant|servants]]**
-  * **[[:ru:obs:notes:key-terms/king|king]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:other:king]]**
 
 
 ===== Translation Notes: =====
