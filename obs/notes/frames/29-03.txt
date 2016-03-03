@@ -5,9 +5,8 @@
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/servant|servant]]**
-  * **[[:ru:obs:notes:key-terms/king|king]]**
-  * **[[:ru:obs:notes:key-terms/servant|slaves]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:other:king]]**
 
 
 ===== Translation Notes: =====
