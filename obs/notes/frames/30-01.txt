@@ -7,9 +7,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:ru:obs:notes:key-terms/preach|preach]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:apostle]]**
+  * **[[:ru:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
