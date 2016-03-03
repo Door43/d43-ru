@@ -5,10 +5,10 @@
 The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/demon-possessed|man with the demon]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son]]**
-  * **[[:ru:obs:notes:key-terms/god|Most High God]]**
+  * **[[:ru:obe:kt:demonpossessed]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:sonofgod]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
