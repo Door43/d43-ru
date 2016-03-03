@@ -5,12 +5,12 @@
 **When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:ru:obs:notes:key-terms/true|Truly]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:worship]]**
+  * **[[:ru:obe:kt:true]]**
+  * **[[:ru:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
