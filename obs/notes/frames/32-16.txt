@@ -5,10 +5,10 @@
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/faith|faith]]**
-  * **[[:ru:obs:notes:key-terms/heal|healed]]**
-  * **[[:ru:obs:notes:key-terms/peace|peace]]**
+  * **[[:ru:obe:kt:jesus]]**
+  * **[[:ru:obe:kt:faith]]**
+  * **[[:ru:obe:other:heal]]**
+  * **[[:ru:obe:other:peace]]**
 
 
 ===== Translation Notes: =====
