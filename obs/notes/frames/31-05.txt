@@ -5,9 +5,9 @@
 Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
