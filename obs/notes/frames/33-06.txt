@@ -6,10 +6,10 @@
 **This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:ru:obs:notes:key-terms/satan|devil]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:wordofGod]]**
+  * **[[:ru:obe:kt:satan]]**
 
 
 ===== Translation Notes: =====
