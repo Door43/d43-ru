@@ -5,11 +5,11 @@
 “The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/sin|sinner]]**
-  * **[[:ru:obs:notes:key-terms/adultery|adulterers]]**
-  * **[[:ru:obs:notes:key-terms/tax-collector|tax collector]]**
+  * **[[:ru:obe:other:jewishleaders]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:adultery]]**
+  * **[[:ru:obe:other:taxcollector]]**
 
 
 ===== Translation Notes: =====
