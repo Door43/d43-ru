@@ -5,9 +5,9 @@
 **One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/tax-collector|tax collectors]]**
-  * **[[:ru:obs:notes:key-terms/sin|sinners]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:taxcollector]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
