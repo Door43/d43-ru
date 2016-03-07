@@ -11,7 +11,7 @@ Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collec
   * **[[:ru:obe:other:taxcollector]]**
   * **[[:ru:obe:other:pray]]**
   * **[[:ru:obe:kt:righteous]]**
-  * **[[:ru:obe:kt:religiousleader]]**
+  * **[[:ru:obe:other:jewishleaders]]**
   * **[[:ru:obe:other:humble]]**
   * **[[:ru:obe:other:proud]]**
 
