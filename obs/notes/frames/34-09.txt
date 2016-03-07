@@ -5,13 +5,13 @@
 “But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/tax-collector|tax collector]]**
-  * **[[:ru:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:ru:obs:notes:key-terms/pray|prayed]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/mercy|merciful]]**
-  * **[[:ru:obs:notes:key-terms/sin|sinner]]**
+  * **[[:ru:obe:other:taxcollector]]**
+  * **[[:ru:obe:other:jewishleaders]]**
+  * **[[:ru:obe:kt:heaven]]**
+  * **[[:ru:obe:other:pray]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:mercy]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
