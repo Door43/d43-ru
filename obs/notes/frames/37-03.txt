@@ -5,12 +5,12 @@
 **Jesus' disciples** replied, “**Master**, if **Lazarus** is sleeping, then **he will get better**.” Then Jesus told them plainly, “**Lazarus is dead**. **I am glad** that I was not there, so that you may **believe** in me.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:ru:obs:notes:key-terms/death|dead]]**
-  * **[[:ru:obs:notes:key-terms/believe|believe]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:other:Lazarus]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
