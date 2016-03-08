@@ -6,11 +6,11 @@ As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/moses|Moses]]**
-  * **[[:ru:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/good|good]]**
+  * **[[:ru:obe:other:Moses]]**
+  * **[[:ru:obe:other:Elijah]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
