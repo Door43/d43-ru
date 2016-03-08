@@ -5,9 +5,8 @@
 “There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/son|sons]]**
-  * **[[:ru:obs:notes:key-terms/inherit|inheritance]]**
-
+  * **[[:ru:obs:notes:key-terms:son|sons]]**
+  * **[[:ru:obs:notes:key-terms:inherit|inheritance]]**
 
 ===== Translation Notes: =====
 
