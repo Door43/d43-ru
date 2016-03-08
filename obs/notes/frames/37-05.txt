@@ -11,7 +11,7 @@
   * **[[:ru:obe:kt:believe]]**
   * **[[:ru:obe:kt:death]]**
   * **[[:ru:obe:kt:lord]]**
-  * **[[:ru:obe:other:Messiah]]**
+  * **[[:ru:obe:kt:christ]]**
   * **[[:ru:obe:kt:SonofGod]]**
 
 
