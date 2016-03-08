@@ -5,14 +5,14 @@
 **Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/resurrection|Resurrection]]**
-  * **[[:ru:obs:notes:key-terms/life|Life]]**
-  * **[[:ru:obs:notes:key-terms/believe|believes]]**
-  * **[[:ru:obs:notes:key-terms/death|dies]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:Resurrection]]**
+  * **[[:ru:obe:kt:life]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:other:Messiah]]**
+  * **[[:ru:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
