@@ -5,11 +5,11 @@
 One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John** with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/john|John]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptized]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:other:Johnthebaptist]]**
+  * **[[:ru:obe:kt:baptize]]**
 
 
 ===== Translation Notes: =====
