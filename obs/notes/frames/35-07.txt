@@ -7,7 +7,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/son|son]]**
+  * **[[:ru:obe:kt:son]]**
 
 
 ===== Translation Notes: =====
