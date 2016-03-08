@@ -5,10 +5,10 @@
 “But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/servant|servants]]**
-  * **[[:ru:obs:notes:key-terms/son|son]]**
-  * **[[:ru:obs:notes:key-terms/death|dead]]**
-  * **[[:ru:obs:notes:key-terms/life|alive]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:kt:son]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
