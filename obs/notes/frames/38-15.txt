@@ -5,15 +5,15 @@
 **As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/servant|servant]]**
-  * **[[:ru:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:ru:obs:notes:key-terms/god-father|Father]]**
-  * **[[:ru:obs:notes:key-terms/angel|angels]]**
-  * **[[:ru:obs:notes:key-terms/obey|obey]]**
-  * **[[:ru:obs:notes:key-terms/heal|healed]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:peter]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:kt:highpriest]]**
+  * **[[:ru:obe:kt:godthefather]]**
+  * **[[:ru:obe:kt:angel]]**
+  * **[[:ru:obe:other:obey]]**
+  * **[[:ru:obe:other:heal]]**
+  * **[[:ru:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
