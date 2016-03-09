@@ -5,10 +5,10 @@
 **Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/death|die]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
