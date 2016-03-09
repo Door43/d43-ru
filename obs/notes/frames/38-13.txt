@@ -5,11 +5,10 @@
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/pray|prayer]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/betray|betrayer]]**
-
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:betray]]**
+  * **[[:ru:obe:other:pray]]**
 
 ===== Translation Notes: =====
 
