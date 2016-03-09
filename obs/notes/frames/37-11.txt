@@ -5,10 +5,10 @@
 But the **religious leaders** of the **Jews** were **jealous**, so they **gathered together** to plan how they could kill **Jesus** and **Lazarus**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:ru:obs:notes:key-terms/jew|Jews]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/lazarus|Lazarus]]**
+  * **[[:ru:obe:other:jewishleaders]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:Lazarus]]**
 
 
 ===== Translation Notes: =====
