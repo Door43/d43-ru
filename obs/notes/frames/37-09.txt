@@ -5,11 +5,11 @@
 Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:ru:obs:notes:key-terms/god-father|Father]]**
-  * **[[:ru:obs:notes:key-terms/believe|believe]]**
-  * **[[:ru:obs:notes:key-terms/lazarus|Lazarus]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:heaven]]**
+  * **[[:ru:obe:kt:godthefather]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:other:Lazarus]]**
 
 
 ===== Translation Notes: =====
