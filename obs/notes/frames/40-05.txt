@@ -5,13 +5,13 @@
 The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:ru:obs:notes:key-terms/mock|mocked]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:ru:obs:notes:key-terms/cross|cross]]**
-  * **[[:ru:obs:notes:key-terms/save|save]]**
-  * **[[:ru:obs:notes:key-terms/believe|believe]]**
+  * **[[:ru:obe:other:Jewishleaders]]**
+  * **[[:ru:obe:other:mock]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:SonofGod]]**
+  * **[[:ru:obe:kt:cross]]**
+  * **[[:ru:obe:kt:save]]**
+  * **[[:ru:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
