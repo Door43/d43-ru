@@ -5,10 +5,10 @@
 After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/mock|mocked]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:ru:obs:notes:key-terms/cross|cross]]**
+  * **[[:ru:obe:other:mock]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:crucify]]**
+  * **[[:ru:obe:kt:cross]]**
 
 
 ===== Translation Notes: =====
