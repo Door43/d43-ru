@@ -5,12 +5,12 @@
 **Pilate** became afraid that the crowd would begin to **riot**, so he ordered his soldiers to **crucify Jesus**. The **Roman** soldiers whipped Jesus and put **a royal robe** and a **crown made of thorns** on him. Then they **mocked** him by saying, “**Look**, **the King of the Jews**!”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:ru:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/rome|Roman]]**
-  * **[[:ru:obs:notes:key-terms/mock|mocked]]**
-  * **[[:ru:obs:notes:key-terms/king-of-jews|King of the Jews]]**
+  * **[[:ru:obe:other:Pilate]]**
+  * **[[:ru:obe:kt:crucify]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:rome]]**
+  * **[[:ru:obe:other:mock]]**
+  * **[[:ru:obe:kt:KingoftheJews]]**
 
 
 ===== Translation Notes: =====
