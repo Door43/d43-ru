@@ -5,10 +5,10 @@
 The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/sabbath|Sabbath]]**
-  * **[[:ru:obs:notes:key-terms/jew|Jews]]**
-  * **[[:ru:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:Sabbath]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:other:tomb]]**
  
 
 
