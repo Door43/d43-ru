@@ -5,12 +5,12 @@
 After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:ru:obs:notes:key-terms/believer|believers]]**
-  * **[[:ru:obs:notes:key-terms/pray|pray]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:heaven]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:other:Jerusalem]]**
+  * **[[:ru:obe:kt:believer]]**
+  * **[[:ru:obe:other:pray]]**
 
 
 ===== Translation Notes: =====
