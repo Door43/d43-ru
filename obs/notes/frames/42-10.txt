@@ -6,15 +6,15 @@ Jesus said to his **disciples**, “**All authority in heaven and on earth has b
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:ru:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptizing]]**
-  * **[[:ru:obs:notes:key-terms/god-father|Father]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/obey|obey]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:heaven]]**
+  * **[[:ru:obe:other:peoplegroup]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:kt:godthefather]]**
+  * **[[:ru:obe:kt:sonofgod]]**
+  * **[[:ru:obe:kt:holyspirit]]**
+  * **[[:ru:obe:other:obey]]**
 
 
 ===== Translation Notes: =====
