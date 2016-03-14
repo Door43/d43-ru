@@ -5,11 +5,11 @@
 Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/passover|Passover]]**
-  * **[[:ru:obs:notes:key-terms/jew|Jews]]**
-  * **[[:ru:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:ru:obe:kt:Passover]]**
+  * **[[:ru:obe:other:Jew]]**
+  * **[[:ru:obe:other:jerusalem]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:heaven]]**
 
 
 ===== Translation Notes: =====
