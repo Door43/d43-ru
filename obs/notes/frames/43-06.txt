@@ -5,12 +5,12 @@
 “Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/israel|Israel]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/miracle|signs and wonders]]**
-  * **[[:ru:obs:notes:key-terms/power|power]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:vi:key-terms/crucify|crucified]]**
+  * **[[:ru:obe:other:Israel]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:miracle]]**
+  * **[[:ru:obe:kt:power]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:crucify]]**
 
 
 ===== Translation Notes: =====
