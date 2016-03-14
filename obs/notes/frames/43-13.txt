@@ -5,12 +5,12 @@
 The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:ru:obs:notes:key-terms/pray|prayed]]**
-  * **[[:ru:obs:notes:key-terms/praise|praising]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/believer|believers]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:apostle]]**
+  * **[[:ru:obe:other:pray]]**
+  * **[[:ru:obe:other:praise]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:believer]]**
 
 
 ===== Translation Notes: =====
