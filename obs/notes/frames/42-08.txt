@@ -12,7 +12,7 @@
   * **[[:ru:obe:kt:forgive]]**
   * **[[:ru:obe:kt:sin]]**
   * **[[:ru:obe:other:Jerusalem]]**
-  * **[[:ru:obe:kt:peoplegroups]]**
+  * **[[:ru:obe:other:peoplegroups]]**   <<<<<
   * **[[:ru:obe:kt:witness]]**
 
 
