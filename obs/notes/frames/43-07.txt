@@ -5,15 +5,15 @@
 “Although **Jesus** died, **God raised** him from the **dead**. **This fulfills the prophecy which says**, ‘**You will not let your Holy One rot in the grave**.’ We are **witnesses** to the fact that God **raised Jesus to life again**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/raise|raised]]**
-  * **[[:ru:obs:notes:key-terms/death|dead]]**
-  * **[[:ru:obs:notes:key-terms/fulfill|fulfills]]**
-  * **[[:ru:obs:notes:key-terms/prophet|prophecy]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Holy One]]**
-  * **[[:ru:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:ru:obs:notes:key-terms/life|life]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:raise]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:fulfill]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:witness]]**
+  * **[[:ru:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
