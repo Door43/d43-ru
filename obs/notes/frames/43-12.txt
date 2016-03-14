@@ -5,13 +5,13 @@
 About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/believe|believed]]**
-  * **[[:ru:obs:notes:key-terms/peter|Peter]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:ru:obs:notes:key-terms/church|church]]**
-  * **[[:ru:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:other:Peter]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:kt:church]]**
+  * **[[:ru:obe:other:Jerusalem]]**
 
 
 ===== Translation Notes: =====
