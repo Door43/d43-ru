@@ -5,14 +5,14 @@
 Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:ru:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:ru:obs:notes:key-terms/god-father|Father]]**
-  * **[[:ru:obs:notes:key-terms/power|power]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:other:Jerusalem]]**
+  * **[[:ru:obe:kt:godthefather]]**
+  * **[[:ru:obe:kt:power]]**
+  * **[[:ru:obe:kt:HolySpirit]]**
+  * **[[:ru:obe:kt:heaven]]**
+  * **[[:ru:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
