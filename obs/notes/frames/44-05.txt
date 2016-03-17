@@ -5,18 +5,18 @@
 “You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/rome|Roman]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/life|life]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/raise|raised]]**
-  * **[[:ru:obs:notes:key-terms/death|dead]]**
-  * **[[:ru:obs:notes:key-terms/fulfill|fulfill]]**
-  * **[[:ru:obs:notes:key-terms/prophet|prophecies]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:ru:obs:notes:key-terms/repent|repent]]**
-  * **[[:ru:obs:notes:key-terms/sin|sins]]**
+  * **[[:ru:obe:other:Rome]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:life]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:raise]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:fulfill]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:suffer]]**
+  * **[[:ru:obe:kt:repent]]**
+  * **[[:ru:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
