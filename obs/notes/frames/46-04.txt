@@ -5,12 +5,12 @@
 There was a **disciple** in Damascus named Ananias. **God** said to him, “Go to the house where **Saul** is staying. Place your hands on him so that he can see again.” **But Ananias said**, “**Master**, I have heard how this man has **persecuted** the believers.” **God answered him**, “Go! I have chosen him **to declare my name** to the Jews and to people from other people groups. He will **suffer** many things **for my name**.”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/paul|Saul]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:ru:obs:notes:key-terms/suffer|suffer]]**
+  * **[[:ru:obe:kt:disciple]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:paul]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:other:persecute]]**
+  * **[[:ru:obe:kt:suffer]]**
 
 
 ===== Translation Notes: =====
