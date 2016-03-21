@@ -20,4 +20,4 @@
   * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
 
 
-**[[:ru:obs:notes:frames:45-01|<<]] | [[:en:obs:notes:45|Up]] | [[:en:obs:notes:frames:45-03|>>]]**
+**[[:ru:obs:notes:frames:45-01|<<]] | [[:ru:obs:notes:45|Up]] | [[:ru:obs:notes:frames:45-03|>>]]**
