@@ -5,12 +5,12 @@
 **God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/believe|believe]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:ru:obs:notes:key-terms/paul|Paul]]**
-  * **[[:ru:obs:notes:key-terms/silas|Silas]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:other:Paul]]**
+  * **[[:ru:obe:other:silas]]**
 
 
 ===== Translation Notes: =====
