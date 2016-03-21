@@ -5,12 +5,12 @@
 **As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/receive|receive]]**
-  * **[[:ru:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/sin|sin]]**
-  * **[[:ru:obs:notes:key-terms/death|died]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:receive]]**
+  * **[[:ru:obe:kt:spirit]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
