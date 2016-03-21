@@ -5,12 +5,12 @@
 The jailer and his whole family **believed** in **Jesus** and were **baptized**. Then the jailer gave **Paul** and **Silas** a meal and they **rejoiced** together.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/believe|believed]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:ru:obs:notes:key-terms/paul|Paul]]**
-  * **[[:ru:obs:notes:key-terms/silas|Silas]]**
-  * **[[:ru:obs:notes:key-terms/joy|rejoiced]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:baptize]]**
+  * **[[:ru:obe:other:Paul]]**
+  * **[[:ru:obe:other:silas]]**
+  * **[[:ru:obe:kt:joy]]**
 
 
 ===== Translation Notes: =====
