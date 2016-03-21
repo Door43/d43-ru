@@ -5,16 +5,16 @@
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:ru:obs:notes:key-terms/true|true]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:ru:obs:notes:key-terms/rebel|rebellious]]**
-  * **[[:ru:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:ru:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:ru:obe:kt:highpriest]]**
+  * **[[:ru:obe:kt:true]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:Abraham]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:other:disobey]]**
+  * **[[:ru:obe:other:rebel]]**
+  * **[[:ru:obe:kt:HolySpirit]]**
+  * **[[:ru:obe:kt:prophet]]**
+  * **[[:ru:obe:kt:christ]]**
 
 
 ===== Translation Notes: =====
