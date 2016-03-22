@@ -21,4 +21,4 @@
   * //(There are no notes for this frame.)// 
 
 
-**[[:ru:obs:notes:frames:48-12|<<]] | [[:en:obs:notes:48|Up]] | [[:en:obs:notes:frames:48-14|>>]]**
+**[[:ru:obs:notes:frames:48-12|<<]] | [[:ru:obs:notes:48|Up]] | [[:ru:obs:notes:frames:48-14|>>]]**
