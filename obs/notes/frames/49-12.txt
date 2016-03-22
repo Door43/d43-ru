@@ -7,16 +7,16 @@
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/save|save]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/sin|sins]]**
-  * **[[:ru:obs:notes:key-terms/believe|believe]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:ru:obs:notes:key-terms/death|died]]**
-  * **[[:ru:obs:notes:key-terms/cross|cross]]**
-  * **[[:ru:obs:notes:key-terms/raise|raised]]**
-  * **[[:ru:obs:notes:key-terms/life|life]]**
+  * **[[:ru:obe:kt:save]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:SonofGod]]**
+  * **[[:ru:obe:kt:death]]**
+  * **[[:ru:obe:kt:cross]]**
+  * **[[:ru:obe:kt:raise]]**
+  * **[[:ru:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
