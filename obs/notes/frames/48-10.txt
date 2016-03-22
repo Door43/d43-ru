@@ -6,14 +6,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/passover|Passover]]**
-  * **[[:ru:obs:notes:key-terms/lamb|Lamb]]**
-  * **[[:ru:obs:notes:key-terms/believe|believes]]**
-  * **[[:ru:obs:notes:key-terms/blood|blood]]**
-  * **[[:ru:obs:notes:key-terms/sin|sin]]**
-  * **[[:ru:obs:notes:key-terms/god|God's]]**
-  * **[[:ru:obs:notes:key-terms/punish|punishment]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:Passover]]**
+  * **[[:ru:obe:kt:Lamb]]**
+  * **[[:ru:obe:kt:believe]]**
+  * **[[:ru:obe:kt:blood]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:other:punish]]**
 
 
 ===== Translation Notes: =====
