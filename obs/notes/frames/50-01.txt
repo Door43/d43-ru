@@ -5,11 +5,11 @@
 For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/good-news|good news]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/church|Church]]**
-  * **[[:ru:obs:notes:key-terms/promise|promised]]**
+  * **[[:ru:obe:kt:goodnews]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:kt:Church]]**
+  * **[[:ru:obe:kt:promise]]**
 
 
 ===== Translation Notes: =====
