@@ -7,11 +7,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/love|loves]]**
-  * **[[:ru:obs:notes:key-terms/sin|sinners]]**
-  * **[[:ru:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:ru:obe:kt:Jesus]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:love]]**
+  * **[[:ru:obe:kt:sin]]**
+  * **[[:ru:obe:kt:forgive]]**
 
 
 ===== Translation Notes: =====
