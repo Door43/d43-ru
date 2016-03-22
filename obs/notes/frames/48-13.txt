@@ -7,13 +7,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/god|God]]**
-  * **[[:ru:obs:notes:key-terms/promise|promised]]**
-  * **[[:ru:obs:notes:key-terms/david|King David]]**
-  * **[[:ru:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:ru:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:ru:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:ru:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:ru:obe:kt:God]]**
+  * **[[:ru:obe:kt:promise]]**
+  * **[[:ru:obe:other:david]]**
+  * **[[:ru:obe:kt:SonofGod]]**
+  * **[[:ru:obe:kt:christ]]**
+  * **[[:ru:obe:other:descendant]]**
+  * **[[:ru:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
