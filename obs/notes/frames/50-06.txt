@@ -5,9 +5,9 @@
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
 ===== Important Terms: =====
 
-  * **[[:ru:obs:notes:key-terms/servant|servants]]**
-  * **[[:ru:obs:notes:key-terms/lord|Master]]**
-  * **[[:ru:obs:notes:key-terms/good|good]]**
+  * **[[:ru:obe:other:servant]]**
+  * **[[:ru:obe:kt:lord]]**
+  * **[[:ru:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
