@@ -3,8 +3,8 @@
 This module answers the question: //Как опубликовать содержание в unfoldingWord (Раскрывающемся Слове)?//
 
 Before you start this module have you learned about:
+  * //[[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
 
-  * //[[:ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
 ==== Публикация ====
 
 В ходе публикации вашей работы необходимо осуществить следующие действия. Процесс начинается в translationStudio (Студии перевода), когда вы выбираете слово Publish (Опубликовать) в меню в виде значка из трех точек. Процесс продолжается в Door43, когда вы отправляете запрос, чтобы опубликовать форму для своего обновленного текста.
@@ -26,7 +26,7 @@ Before you start this module have you learned about:
   * Посмотрите на изменения. Вы сможете увидеть каждую часть текста вместе с ее предыдущей версией.
   * Перемещайте окно вниз, пока не увидите кнопки: Dismiss, Edit & Apply and Apply (Отклонить, Редактировать и применить, Применить). Для отмены публикации нажмите Dismiss (Отклонить). Для внесения дальнейших изменений выберите Edit & Apply (Редактировать и применить). Вы можете внести свои изменения и применить их к процессу публикации. Чтобы продолжить без внесения изменений, выберите Apply (Применить).
 
-При этом ваша работа станет доступной на Door43 и может быть скачана. Если она готова, мы настоятельно рекомендуем ее опубликовать.
+При этом ваша работа станет доступной на Door43 и может быть скачена. Если она готова, мы настоятельно рекомендуем ее опубликовать.
 
 === Шаг 3: Заявка на публикацию ===
 
@@ -49,22 +49,23 @@ Before you start this module have you learned about:
 
 В соответствии с законами об авторском праве (существующих независимо от того, из какой вы страны и какие законы в вашей страны существуют) вы должны включить имя каждого участника в заявку о публикации и предоставить подлинную подпись каждого сотрудника. Как известно, в некоторых случаях имя не может быть названо, в таком случае, необходимо назвать свой псевдоним.
 
-Next we recommend you learn about:
 
-  * //[[:ru:ta:vol1:process:publishing_process|Как опубликовать]]//
-  * //[[:ru:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]//
-  * //[[:ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]//
-  * //[[:ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]//
-  * //[[:ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]//
-  * //[[:ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_request|Найти мой язык]]//
-  * //[[:ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]//
-  * //[[:ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
-  * //[[:ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]//
-  * //[[:ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]//
-  * //[[:ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]//
-  * //[[:ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]//
+Next we recommend you learn about:
+  * //[[ru:ta:vol1:process:publishing_process|Как опубликовать]]//
+  * //[[ru:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_install|Установить translationStudio на устройство Android]]//
+  * //[[ru:ta:vol1:tech:ts_first|Использовать translationStudio в первый раз]]//
+  * //[[ru:ta:vol1:tech:ts_select|Выбор исходного и целевого языка]]//
+  * //[[ru:ta:vol1:tech:ts_open|Открытие переводческого проекта]]//
+  * //[[ru:ta:vol1:tech:ts_navigate|Перемещаться в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_request|Найти мой язык]]//
+  * //[[ru:ta:vol1:tech:ts_translate|Перевод в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_create|Создать и редактировать текст]]//
+  * //[[ru:ta:vol1:tech:ts_resources|Найти материалы в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_useresources|Как использовать «Материалы», данные в translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_share|Создать резервную копию и распространить перевод]]//
+  * //[[ru:ta:vol1:tech:ts_upload|Загрузить перевод в удаленный компьютер]]//
+  * //[[ru:ta:vol1:tech:ts_update|Обновить проекты в translationStudio]]//
+  * //[[ru:ta:vol1:tech:translate_helpts|Нахождение помощи с translationStudio]]//
+  * //[[ru:ta:vol1:tech:ts_problem|Отослать отчет об ошибке]]//
+
