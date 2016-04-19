@@ -1,10 +1,11 @@
-====== Complete List of Important Terms - Russian ======
+====== Complete List of translationWords - Russian ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ru:obe:kt:home]]
-  * [[:ru:obe:other:home]]
+  * [[:ru:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ru:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages ru:obe -r -title -exclude:home -textPages="">
