@@ -4,13 +4,12 @@ This module answers the question: //Что такое «Введение»?//
 
 ==== Введение ====
 
-  - [[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]
-  - [[ru:ta:vol1:intro:uw_intro| Проект unfoldingWord (Раскрывающееся Слово)]]
-  - [[ru:ta:vol1:intro:statement_of_faith| Исповедание веры]]
-  - [[ru:ta:vol1:intro:translation_guidelines| Рекомендации для перевода]]
-  - [[ru:ta:vol1:intro:open_license| Открытая лицензия]]
-  - [[ru:ta:vol1:intro:gl_strategy| Стратегия ключевых языков]]
-  - [[ru:ta:vol1:intro:finding_answers| Получение ответов]]
+  * Введение в академию перевода.
+  * Проект unfoldingWord (Раскрывающееся Слово)
+  * Исповедание веры
+  * Рекомендации для перевода
+  * Открытая лицензия
+  * Стратегия ключевых языков
+  * Получение ответов
 
 
-  
