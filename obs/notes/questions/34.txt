@@ -3,30 +3,30 @@
 ===== Comprehension Questions and Answers =====
 
 
-  - **How does a mustard seed compare to other seeds?**
-    *//It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-    *//It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-    *//It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-    *//He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-    *//He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-    *//People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-    *//He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-    *//He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-    *//He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-    *//The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-    *//He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-    *//He will lift them up. [34-10]//
+  - **Каким было горчичное зерно по сравнению со всеми остальными семенами?**
+    *//Оно было меньше всех семян. [34-01]//
+  - **Что происходит с горчичным зерном, когда оно вырастает?**
+    *//Оно становится больше всех садовых растений. [34-02]//
+  - **Что происходит с дрожжами, когда их кладут в тесто?**
+    *//Они расходятся по всему тесту. [34-03]//
+  - **Что сделал человек после того, как нашел спрятанное в поле сокровище?**
+    *//Он продал все, чем владел, и потратил деньги на то, чтобы купить это поле. [34-04]//
+  - **Что сделал продавец жемчуга, когда нашел удивительную жемчужину?**
+    *//Он продал все, чем владел, и потратил деньги на то, чтобы купить ее. [34-05]//
+  - **Тем, кто полагался на свои добрые дела и презирал окружающих?**
+    *//Кому Иисус рассказал притчу о двух людях, молящихся в Храме. [34-06]//
+  - **За что фарисей благодарил Бога?**
+    *//Он благодарил Бога за то, что он не был грешником как прочие люди. [34-07]//
+  - **Почему фарисей думал, что он праведен?**
+    *//Он постился дважды в неделю и отдавал десятую часть со всех своих денег и имущества. [34-08]//
+  - **О чем просил Бога мытарь?**
+    *//Он просил Бога смилостивиться над ним, потому что осознавал свою греховность. [34-09]//
+  - **Кого Бог провозгласил праведным?**
+    *//Мытаря. [34-10]//
+  - **Что Бог сделает с теми, кто возгордился?**
+    *//Он смирит их. [34-01]//
+  - **Что Бог сделает с теми, кто смирился?**
+    *//Он вознесет их. [34-10]//
 
 
-**[[ru/obs/notes/questions/33|<< ]] | [[en/obs/notes/questions/35| >>]]**
+**[[ru/obs/notes/questions/33|<< ]] | [[ru/obs/notes/questions/35| >>]]**
