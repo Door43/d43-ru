@@ -17,14 +17,13 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
 ==== Translation Notes: ====
 
 
-  * **took some dirt** - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **formed it** - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
-  * **a man** - Only the man was created at this time; the woman was created later by a different method.
-  * **breathed life** - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
-  * **life** - In this event, God breathed both physical and spiritual life into the man.
-  * **Adam** - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **care for it** - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
-
+  * **взял прах** - Бог сотворил человека из праха или сухой почвы, взятой от земли. Это слово, по-видимому, должно отличаться от основного слова, которое употребляется в значении "земля".
+  * **создал** - Это слово показывает, что Бог Сам лично сформировал человека; сравните это с тем, как человек творит что-то своими собственными руками. Убедитесь, что вы используете слово, отличающееся от слова «творить». Заметьте, что оно очень отличается от того, как Бог творил все остальное с помощью сказанного Им слова.
+  * **человека** - На этот раз был сотворен один человек; женщина была создана позже иным способом.
+  * **вдохнул в него жизнь** - В этой фразе показывается очень личное, сокровенное Божье действие в момент передачи жизни в тело Адама (сравните с человеческим дыханием).
+  * **жизнь** - При этом Бог вдохнул в человека как физическую, так и духовную жизнь.
+  * **Адам** - Имя "Адам" - это ветхозаветное слово, обозначающее "человек", аналогичное слову «прах», из которого он был создан.
+  * **сад** - Часть суши, засаженная деревьями и растениями для определенной цели (обычно для произведения пищи или создания красоты).
+  * **возделывал его** - Адам хранил сад, присматривая за ним, очищая его от сорняков, поливая, собирая урожай, сажая растения, и т.д.
 
 **[[:ru:obs:notes:frames:01-09|<<]] | [[:ru:obs:notes:01|Up]] | [[:ru:obs:notes:frames:01-11|>>]]**
