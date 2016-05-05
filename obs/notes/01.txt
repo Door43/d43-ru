@@ -14,7 +14,7 @@ Click on the images below to translate each frame of the story.
 
 
 [[:ru:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200|Frame 01-01}}]]\\ 
-The Beginning [01-01]\\ 
+в начале[01-01]\\ 
 \\ 
 [[:ru:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200|Frame 01-02}}]]\\ 
 God Created Light [01-02] \\ 
