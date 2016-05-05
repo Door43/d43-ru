@@ -18,13 +18,13 @@
 ==== Translation Notes: ====
 
 
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
+  * **посреди** - Важность этих двух деревьев подчеркивалась тем, что они были посажены в центре сада.
+  * **сад** - Часть суши, засаженная деревьями и растениями для определенной цели (обычно для произведения пищи или создания красоты).
+  * **дерево жизни** - Всякий, вкусивший от этого дерева, получил бы бессмертие.
+  * **дерево познания добра и зла** - Плод с этого дерева давал человеку возможность познать добро и зло.
+  * **познания** - Знание или понимание, полученное через личный опыт.
+  * **добра и зла** - Зло противоположно добру. Точно так же, как «добро» относится к тому, что угодно Богу, так и «зло» относится ко всему, что Богу не угодно.
+  * **умрет** - В этом случае он умер бы как физически, так и духовно.
 
 
 **[[:ru:obs:notes:frames:01-10|<<]] | [[:ru:obs:notes:01|Up]] | [[:ru:obs:notes:frames:01-12|>>]]**
