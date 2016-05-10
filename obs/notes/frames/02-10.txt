@@ -12,6 +12,6 @@
 ==== Translation Notes: ====
 
 
-  * **childbirth very painful** - Some languages may need to express this as a verb. You could say, "I will cause you to have much more pain when you give birth to children."
+  * **Çocuk doğururken çok acı çekeceksin** - azı dillerde isim (doğuruş), bazısında ise fiil (doğurma) şekli doğaldır. «Doğuruşun çok ağrılı olacak» ya da "Çocuk doğururken daha çok acı çekmeni sağlayacağım" şeklinde olabilir.
 
 **[[:ru:obs:notes:frames:02-09|<<]] | [[:ru:obs:notes:02|Up]] | [[:ru:obs:notes:frames:02-11|>>]]**
