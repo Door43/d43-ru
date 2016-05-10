@@ -12,9 +12,9 @@
 ===== Translation Notes: =====
 
 
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
+  * **Tufandan yıllar sonra** - Tufan bittikten sonra çok nesil gelip gitmişti.
+  * **insanlar yine çoğalmışlardı** - Nuh’un ailesi bir kent dolduracak kadar çoğalmıştı.
+  * **aynı dil** - Yani sadece tek dil vardı ve herkes birbirini anlayabiliyordu.
+  * **kent** - Metinde özel bir isim belirtilmediği için genel anlamda "kent" sözcüğünü kullanmak iyidir.
 
 **[[:ru:obs:notes:frames:03-16|<<]] | [[:ru:obs:notes:04|Up]] | [[:ru:obs:notes:frames:04-02|>>]]**
