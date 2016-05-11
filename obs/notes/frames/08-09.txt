@@ -14,8 +14,8 @@
 ==== Translation Notes: ====
 
 
-  * **store up large amounts of food** - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
-  * **famine** - See how you translated this in **[[:ru:obs:notes:frames:08-07|[08-07]]]**.
+  * **собирать огромные запасы зерна** - Египтяне собирали богатый урожай и хранили его в городах. Эти запасы принадлежали фараону.
+  * **голод** - См., как вы перевели это в **[[:ru:obs:notes:frames:08-07|[08-07]]]**.
 
 
 **[[:ru:obs:notes:frames:08-08|<<]] | [[:ru:obs:notes:08|Up]] | [[:ru:obs:notes:frames:08-10|>>]]**
