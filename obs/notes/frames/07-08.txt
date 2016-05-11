@@ -16,6 +16,5 @@
 ===== Translation Notes: =====
 
 
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
-
+  * **прожив двадцать лет** - Иаков прожил двадцать лет в той земле, откуда была родом его мать. Если это звучит не совсем ясно, можно сказать: "После двадцати лет проживания в земле его родственников".
 **[[:ru:obs:notes:frames:07-07|<<]] | [[:ru:obs:notes:07|Up]] | [[:ru:obs:notes:frames:07-09|>>]]**
