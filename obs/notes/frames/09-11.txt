@@ -15,7 +15,7 @@
 ==== Translation Notes: ====
 
 
-  * **wilderness** - See how you translated this in **[[:ru:obs:notes:frames:09-10|[09-10]]]**.
+  * **в пустыню** - См., как это слово было переведено в **[[:ru:obs:notes:frames:09-10|[09-10]]]**.
 
 
 **[[:ru:obs:notes:frames:09-10|<<]] | [[:ru:obs:notes:09|Up]] | [[:ru:obs:notes:frames:09-12|>>]]**
