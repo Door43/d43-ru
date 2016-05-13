@@ -1,17 +1,13 @@
-====== OBS translationQuestions ======
+====== Вопросы перевода для "Историй из открытой Библии" ======
 
+Переводчики должны использовать эти вопросы при проверке текста следующим образом:
 
-Translators should use these questions during the level checking process this way:
+  - Переведите историю.
+  - Прочтите историю тем, кто владеет вашим языком, но не принимал участие в переводе.
+  - Задайте им вопросы, предложенные на этих страницах.
+  - Получили ли вы верные ответы на эти вопросы? В таком случае, перевод правильный, благозвучный и понятный.
+  - Были ли некоторые ответы неверными? Если "да" - исправьте перевод.
 
-
-    - Translate the story.
-    - Read the story to some one that speaks your language and did not help with the translation.
-    - Ask them the questions on these pages.
-    - Did they answer the questions correctly? Then the translation is very accurate, natural and clear.
-    - Did they not answer some of the questions correctly? Then correct the translation.
-
-
-The translation can be approved for level 2 when the questions have been answered correctly.
-
+Перевод может быть утвержден как прошедший второй уровень проверки, когда на вопросы были даны правильные ответы.
 
 <nspages ru:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="translationQuestions for the Open Bible Stories:">
