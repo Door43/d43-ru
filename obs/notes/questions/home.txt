@@ -10,4 +10,4 @@
 
 Перевод может быть утвержден как прошедший второй уровень проверки, когда на вопросы были даны правильные ответы.
 
-<nspages ru:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Вопросы перевода для "translationQuestions for the Open Bible Stories":">
+<nspages ru:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Вопросы перевода для 'translationQuestions for the Open Bible Stories':">
