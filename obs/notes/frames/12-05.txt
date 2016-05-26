@@ -17,8 +17,8 @@
 ==== Translation Notes: ====
 
 
-  * **God will fight for you today and save you** - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
-  * **move** – Some languages will be more specific and say, "walk."
+  * **Бог будет сражаться за вас сегодня и спасёт вас** - Иначе это можно выразить так: "Сегодня Бог поразит перед вами египтян и не даст им причинить вам вред."
+  * **идти** – В некоторых языках можно выразить это точнее, используя слово "шагать."
 
 
 **[[:ru:obs:notes:frames:12-04|<<]] | [[:ru:obs:notes:12|Up]] | [[:ru:obs:notes:frames:12-06|>>]]**
