@@ -18,10 +18,10 @@
 ==== Translation Notes: ====
 
 
-  * **the Passover** - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **remember how God gave them victory over** – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
-  * **unleavened bread** - This is another way to say, "bread that was made without yeast."
+  * **пасху** - Можно перевести это как "совершать пасхальные действия", "устраивать пасхальное празднование" или "совершать пасхальную трапезу."
+  * **в память о том, как Он дал им победу над** – Можно перевести это как "постоянно напоминая себе о том, как Бог нанес поражение..." Слово "напоминать" не просто означает "не забывать", но также оно значит "официально праздновать."
+  * **непорочного агнца** - Слово "непорочный" относится здесь к ягненку (или козленку), не имеющему болезней и недостатков. По-другому можно сказать: "полностью здорового и хорошо сложенного."
+  * **с пресным хлебом** - Можно сказать: "с бездрожжевым хлебом". См., как вы перевели это слово в **[[:ru:obs:notes:frames:11-03|[11-03]]]**
   * //A Bible story from// - These references may be slightly different in some Bible translations.
 
 
