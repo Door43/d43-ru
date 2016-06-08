@@ -20,9 +20,9 @@
 ==== Translation Notes: ====
 
 
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
+  * **Бог дал им завет, сказав** - То, что потом сказал им Бог, являлось содержанием завета, то есть Он говорил им то, чему они должны были следовать. Можно перевести это как "Потом Бог продиктовал им Свой завет. Он сказал..." или "Бог заключил с ними такой завет:"
+  * **Господь Бог ваш** - В некоторых языках фраза будет более понятной, если в ней изменить порядок слов: "Ваш Господь Бог". Удостоверьтесь, что это не звучит так, будто бы израильтяне поклонялись многим богам. Дайте понять, что Господь был их единственным Богом. По-другому это можно перевести как "Господь, являющийся вашим Богом» или "ваш Бог, имя Которому Господь."
+  * **спасший вас от рабства** - Можно перевести это как «освободивший вас от рабства."
 
 
 **[[:ru:obs:notes:frames:13-03|<<]] | [[:ru:obs:notes:13|Up]] | [[:ru:obs:notes:frames:13-05|>>]]**
