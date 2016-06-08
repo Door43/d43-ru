@@ -16,10 +16,10 @@
 ==== Translation Notes: ====
 
 
-  * **a detailed description** - This could be translated as, "God described it in detail" or, "God told them exactly how He wanted them to make it."
-  * **It was called** - This could be translated as, "They called it" or, "Moses called it."
-  * **the room behind the curtain** - This room was hidden by the curtain. Some languages would call this room, "the room in front of the curtain."
-  * **God lived there** - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: "God was there" or, "God revealed Himself to humans there."
+  * **подробное описание** - Можно перевести это как "Бог подробно описал" или "Бог подробно рассказал им, чего Он от них хотел."
+  * **Он назывался** - Можно перевести это как "они называли его" или "Моисей называл его."
+  * **в комнату за завесу** - Это помещение было скрыто занавесом. В некоторых языках эта комната будет называться "комнатой перед завесой."
+  * **там присутствовал Бог** - Если данная фраза заставляет людей полагать, что Бог был ограничен скинией, переведите ее следующим образом: "Бог был там» или "Бог открывал там Себя людям."
 
 
 **[[:ru:obs:notes:frames:13-07|<<]] | [[:ru:obs:notes:13|Up]] | [[:ru:obs:notes:frames:13-09|>>]]**
