@@ -21,10 +21,10 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 ==== Translation Notes: ====
 
 
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:ru:obs:notes:frames:13-05|[13-05]]]** and **[[:en:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
+  * **эти десять заповедей** - Речь идет о повелениях, которые Бог дал Моисею для того, чтобы израильтяне могли их придерживаться. Они перечислены в **[[:ru:obs:notes:frames:13-05|[13-05]]]** и **[[:ru:obs:notes:frames:13-06|[13-06]]]**.
+  * **на каменных скрижалях** - Скрижали были плоскими каменными плитами.
+  * **Бог также дал** - Можно перевести это как "Бог также повелел им."
+  * **для соблюдения** - Можно перевести это как "которым они должны были следовать" или "которые им нужно было хранить."
 
 
 **[[:ru:obs:notes:frames:13-06|<<]] | [[:ru:obs:notes:13|Up]] | [[:ru:obs:notes:frames:13-08|>>]]**
