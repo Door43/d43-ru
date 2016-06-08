@@ -20,8 +20,8 @@
 ==== Translation Notes: ====
 
 
-  * **listened to** - See how you translated this phrase in **[[:ru:obs:notes:frames:13-12|[13-12]]]**.
-  * **Moses wrote** - Moses chiseled the words into the stone using a tool.
+  * **послушал** - См., как вы перевели эту фразу в**[[:ru:obs:notes:frames:13-12|[13-12]]]**.
+  * **Моисей вытесал** - Моисей вытесал каменные скрижали с помощью молота и зубила.
   * //A Bible story from// - These references may be slightly different in some Bible translations.
 
 
