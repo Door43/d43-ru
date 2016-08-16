@@ -18,8 +18,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **Похожая история повторялась много раз​**  - Можно перевести это как «Аналогичные вещи повторялись снова и снова» или «Такое происходило много раз».
 **[[:ru:obs:notes:frames:16-16|<<]] | [[:ru:obs:notes:16|Up]] | [[:ru:obs:notes:frames:16-18|>>]]**
