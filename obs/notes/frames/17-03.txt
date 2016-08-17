@@ -15,8 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **a giant named Goliath** - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
-
-
+  * **с великаном по имени Голиаф​**  - Слово «великан» здесь описывает человека, который был необыкновенно большим и сильным. Голиаф был воином огромного роста, сражавшимся в армии противников Израиля.
 **[[:ru:obs:notes:frames:17-02|<<]] | [[:ru:obs:notes:17|Up]] | [[:ru:obs:notes:frames:17-04|>>]]**
