@@ -14,9 +14,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **the wilderness** - This was a remote location with very few people. This may also be translated as, "desert" or, "the bush."
-  * **The drought** - This could be translated as, "the lack of rain." This drought was a result of Elijah declaring that there would be no rain.
-
-
+  * **в пустыне​**  - Речь идет о далекой местности с очень редким населением. Слово «пустыня» можно перевести как «дикая местность» или «степь».
+  * **Засуха**  - Или «недостаток дождя». Засуха возникла из-за провозглашения Илии о том, что не будет дождя.
 **[[:ru:obs:notes:frames:19-02|<<]] | [[:ru:obs:notes:19|Up]] | [[:ru:obs:notes:frames:19-04|>>]]**
