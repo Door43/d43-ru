@@ -23,8 +23,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **watching** - That is, "caring for" or, "protecting" or, "taking care of."
-
-
+  * **пас **- То есть «заботился», «защищал» или «смотрел за».
 **[[:ru:obs:notes:frames:17-01|<<]] | [[:ru:obs:notes:17|Up]] | [[:ru:obs:notes:frames:17-03|>>]]**
