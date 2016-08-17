@@ -19,8 +19,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **построить храм​**  - Давид хотел соорудить постоянное здание для поклонения Богу, которое служило бы вместо скинии собрания.
 **[[:ru:obs:notes:frames:17-05|<<]] | [[:ru:obs:notes:17|Up]] | [[:ru:obs:notes:frames:17-07|>>]]**
