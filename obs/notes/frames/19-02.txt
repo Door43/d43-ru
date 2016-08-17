@@ -20,9 +20,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **until I say so** - This may be translated as, "until I command the rain and dew to come again."
-  * **This made Ahab very angry** – This could be translated as, "When Ahab heard what Elijah said, he became very angry."
-
-
+  * **пока я не скажу​**  - Можно перевести это как «пока я не повелю пойти дождю и выпасть росе».
+  * **Эти слова привели Ахава в ярость​**  – Можно перевести это как «Когда Ахав услышал, что сказал Илия, он рассвирепел».
 **[[:ru:obs:notes:frames:19-01|<<]] | [[:ru:obs:notes:19|Up]] | [[:ru:obs:notes:frames:19-03|>>]]**
