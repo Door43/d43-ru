@@ -16,8 +16,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
-
+  * **Будет потомком Давида​**  - По-другому можно сказать: «прямым потомком самого Давида».
 **[[:ru:obs:notes:frames:21-03|<<]] | [[:ru:obs:notes:21|Up]] | [[:ru:obs:notes:frames:21-05|>>]]**
