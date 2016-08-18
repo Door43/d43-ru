@@ -17,12 +17,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **Malachi** - Malachi was the last prophet in the Old Testament.
-  * **foretold** - This could be translated as, "predicted" or, "prophesied." It means to tell something that will happen in the future. Malachi spoke God's message to the people 400 years before the Messiah came.
-  * **prophesied** – In this context, "prophesied" has the same meaning as "foretold" and "predicted" since it means the prophet told something that would happen far in the future.
-  * **the Messiah would be born from a virgin** - Another way to say this would be, "a virgin would give birth to the Messiah."
-  * **Micah** - Micah was an Old Testament prophet of God who, like Isaiah, spoke his messages from God almost 800 years before the Messiah came.
-
-
+  * **Малахия**  - Малахия был последним пророком Ветхого Завета.
+  * **говорил​**  - Можно перевести это слово как «предсказывал» или «пророчествовал». Данное слово означает «говорить о чем-то, что произойдет в будущем». Малахия передавал Божье послание народу за 400 лет до рождения Мессии.
+  * **пророчествовал **– В контексте это слово имеет значение, аналогичное понятиям «предсказывал» или «прогнозировал», поскольку здесь имеется в виду, что пророк говорил то, что случится в будущем.
+  * **Мессия родится от девы​**  - Можно сказать и по-другому: «дева родит Мессию».
+  * **Михей **- Михей был ветхозаветным Божьим пророком, которой как и Исаия передавал послания Божьи почти за 800 лет до рождения Мессии.
 **[[:ru:obs:notes:frames:21-08|<<]] | [[:ru:obs:notes:21|Up]] | [[:ru:obs:notes:frames:21-10|>>]]**
