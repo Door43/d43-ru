@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **сделай эти камни хлебом​**  - Можно перевести так: «пусть эти камни станут хлебом» или «преврати эти камни в хлеб чудесным образом».
+  * **хлебом **- В тех языках, где хлеб не является обычной едой, можно использовать слово «пищей». В еврейской культуре хлеб был основным видом пищи.
 **[[:ru:obs:notes:frames:25-01|<<]] | [[:ru:obs:notes:25|Up]] | [[:ru:obs:notes:frames:25-03|>>]]**
