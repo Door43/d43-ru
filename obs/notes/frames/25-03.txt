@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:ru:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **хлебом **- Убедитесь, что здесь вы использовали тот же перевод слова «хлеб», что и в **[[:ru:obs:notes:frames:25-02|[25-02]]]**.
+  * **но всякое слово, сказанное Богом **- По-другому эту фразу можно перевести как «Но людям нужно слушать и повиноваться всему тому, что говорит Бог» или «Но у людей будет истинная жизнь, если они будут верить и повиноваться всему тому, что говорит Бог».
 **[[:ru:obs:notes:frames:25-02|<<]] | [[:ru:obs:notes:25|Up]] | [[:ru:obs:notes:frames:25-04|>>]]**
