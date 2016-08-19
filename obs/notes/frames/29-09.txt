@@ -12,12 +12,11 @@
 
 ===== Translation Notes: =====
 
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:ru:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:ru:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **Потом Иисус сказал​**  - Вы можете добавить «...Своим ученикам».
+  * **Так **- Слово «так» относится к способу, которым царь наказал безжалостного слугу в **[[:ru:obs:notes:frames:29-08|[29-08]]]**.
+  * **Мой Небесный Отец​**  - Или «Мой Отец на небесах». Иисус указал на Свои уникальные личные взаимоотношения с Богом - Отцом.
+  * **своего брата​**  - См., как вы перевели это в **[[:ru:obs:notes:frames:29-01|[29-01]]]**.
+  * **от всего сердца​**  - Или «искренне», «по-настоящему», «неподдельно», «на самом деле».
+//A Bible story from//  - These references may be slightly different in some Bible translations.
 
 **[[:ru:obs:notes:frames:29-08|<<]] | [[:ru:obs:notes:29|Up]] | [[:ru:obs:notes:frames:30-01|>>]]**
