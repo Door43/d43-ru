@@ -14,11 +14,9 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **Однажды**  - Здесь говорится о событии, которое произошло в прошлом, но конкретное время не указывается. Во многих языках есть аналогичный способ начинать повествование какой-либо правдивой истории подобным образом.
+  * **моего брата​**  - Под этим словом подразумеваются не только люди, являющиеся кровными родственниками, но и те, кто имеет другие тесные связи (религиозные, этнические и т.д.).
+  * **грешит против меня​**  - Можно перевести это как «плохо поступит по отношению ко мне».
+  * **Не до семи раз, а до семидесяти раз по семь!​**  - Можно перевести это как «Вы должны прощать не только семь раз, а семьдесят раз по семь». Иисус не имел в виду конкретное число. Он говорил, что мы должны прощать людей всякий раз, когда они согрешают против нас.
+  * **Под этими словами Иисус подразумевал​**  - То есть «Иисус имел в виду.., когда говорил...»
 **[[:ru:obs:notes:frames:28-10|<<]] | [[:ru:obs:notes:29|Up]] | [[:ru:obs:notes:frames:29-02|>>]]**
