@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **left everything** - That is, "left everything behind" or, "given up everything we owned."
-  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
-
-
+  * **мы оставили всё​**  - То есть «бросили» или «отказались от всего, чем владели».
+  * **Какой будет наша награда?​**  - Можно сказать по-другому: «Какую награду мы получим?», «Как наградят нас?» или «Как Бог нас вознаградит?» Возможно, нужно будет добавить «за то, что мы сделали?»
 **[[:ru:obs:notes:frames:28-08|<<]] | [[:ru:obs:notes:28|Up]] | [[:ru:obs:notes:frames:28-10|>>]]**
