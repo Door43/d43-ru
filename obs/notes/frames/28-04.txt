@@ -11,11 +11,9 @@
 
 ===== Translation Notes: =====
 
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **ты **- Если в вашем языке есть несколько слов для обозначения местоимения «ты» в зависимости от количества людей, используйте то слово, которое стоит в единственном числе. Иисус обращался к одному человеку.
+  * **совершенным **- То есть «совершенно праведным».
+  * **всё, что имеешь​**  - То есть «все свое имущество».
+  * **сокровище **- Можно также перевести как «богатство» или «огромное сокровище».
+  * **на небесах​**  - Это также можно перевести как «которые будут на небесах, когда ты туда придешь». Эти сокровища будут «там и тогда», по сравнению с тем богатством, от которого Иисус попросил юношу отречься «здесь и сейчас».
 **[[:ru:obs:notes:frames:28-03|<<]] | [[:ru:obs:notes:28|Up]] | [[:ru:obs:notes:frames:28-05|>>]]**
