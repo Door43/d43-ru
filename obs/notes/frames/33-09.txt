@@ -12,11 +12,11 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:ru:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:ru:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:ru:obs:notes:frames:33-08|[33-08]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+(Jesus continues to explain the story.)
 
+  * **в хорошую почву **- См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-05|[33-05]]]**.
+  * **человек**  - См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-06|[33-06]]]**.
+  * **приносит плод​**  - См., как вы перевели эту фразу в **[[:ru:obs:notes:frames:33-08|[33-08]]]**.
+//A Bible story from//  - These references may be slightly different in some Bible translations.
 
 **[[:ru:obs:notes:frames:33-08|<<]] | [[:ru:obs:notes:33|Up]] | [[:ru:obs:notes:frames:34-01|>>]]**
