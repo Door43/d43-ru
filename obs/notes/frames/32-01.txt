@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **Однажды**  - Здесь говорится о событии, которое произошло в прошлом, но конкретное время не указывается. Во многих языках есть аналогичный способ начинать повествование какой-либо правдивой истории подобным образом.
+  * **в страну Гергесинскую **- Данная область располагалась вдоль восточного побережья Галилейского моря. Народ этой страны происходил от Иудеев, но мы не располагаем большим количеством информации об этих людях.
 **[[:ru:obs:notes:frames:31-08|<<]] | [[:ru:obs:notes:32|Up]] | [[:ru:obs:notes:frames:32-02|>>]]**
