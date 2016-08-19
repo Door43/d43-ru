@@ -15,10 +15,9 @@
 
 ===== Translation Notes: =====
 
-  * **When Peter and Jesus got into the boat, the wind** - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
-  * **worshiped Jesus** - This could be translated as, "bowed down and worshiped Jesus." This word has the idea of physically bowing down in front of someone out of respect and reverence.
-  * **Truly you are the Son of God** - Other ways to say this would be, "You really are the Son of God" or, "It really is true that you are the Son of God."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **Когда Пётр и Иисус вошли в лодку, ветер **- Возможно, лучше будет сказать: «Петр и Иисус вошли в лодку, и потом ветер...»
+  * **поклонились Иисусу​**  - Можно перевести это как «поклонились и прославили Иисуса». Под данным словом подразумевается физическое действие - поклониться кому-то в знак почета и уважения.
+  * **Истинно, Ты - Сын Божий​**  - Иначе можно сказать «Ты действительно Сын Божий» или «На самом деле, Ты - Сын Божий».
+//A Bible story from//  - These references may be slightly different in some Bible translations.
 
 **[[:ru:obs:notes:frames:31-07|<<]] | [[:ru:obs:notes:31|Up]] | [[:ru:obs:notes:frames:32-01|>>]]**
