@@ -14,11 +14,10 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:ru:obs:notes:frames:29-06|[29-06]]]**.
+(Jesus continues the story.)
 
-
+  * **позвал слугу **- То есть «приказал слуге к прийти нему» или «приказал стражникам привести слугу».
+  * **молил меня​**  - Можете перевести это как «молил меня» или «настойчиво просил меня о помиловании».
+  * **Ты должен был поступить так же​**  - Или «Тебе следовало простить своего должника точно так же, как я простил тебя».
+  * **бросил**  - То есть «приказал стражникам бросить». См., как слово «бросил» переведено в **[[:ru:obs:notes:frames:29-06|[29-06]]]**.
 **[[:ru:obs:notes:frames:29-07|<<]] | [[:ru:obs:notes:29|Up]] | [[:ru:obs:notes:frames:29-09|>>]]**
