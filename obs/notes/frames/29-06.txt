@@ -10,10 +10,9 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:ru:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:ru:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
+(Jesus continues the story.)
 
-
+  * **своего товарища​**  - Переведите это слово так же, как вы сделали это в **[[:ru:obs:notes:frames:29-05|[29-05]]]**.
+  * **упал на колени​**  - Эта фраза имеет здесь такое же значение, что и в **[[:ru:obs:notes:frames:29-04|[29-04]]]**.
+  * **бросил его в тюрьму​**  - Можно дать следующий перевод: «сделал так, чтобы товарища посадили в тюрьму». Слово «бросил» означает, что слуга сделал это насильственно.
 **[[:ru:obs:notes:frames:29-05|<<]] | [[:ru:obs:notes:29|Up]] | [[:ru:obs:notes:frames:29-07|>>]]**
