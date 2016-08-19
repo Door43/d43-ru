@@ -14,10 +14,9 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
+(Jesus continues the story.)
 
-
+  * **Фарисей молился так​**  - По-другому можно сказать так: «Вот, как молился фарисей» или «Фарисей молился следующим образом».
+  * **я не грешник, как​**  - Или «Я не грешен, как...», «Я праведен, не то что...»
+  * **неправедные**  - Или «неблагочестивые люди», «люди, делающие зло», «нарушители закона».
 **[[:ru:obs:notes:frames:34-06|<<]] | [[:ru:obs:notes:34|Up]] | [[:ru:obs:notes:frames:34-08|>>]]**
