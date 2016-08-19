@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
-
+  * **Однажды**  - Здесь говорится о событии, которое произошло в прошлом, но конкретное время не указывается. Во многих языках есть аналогичный способ начинать повествование какой-либо правдивой истории подобным образом.
+  * **мытарей​**  - Сборщики налогов считались самыми худшими грешниками, потому что они часто крали деньги, взимая с людей налог выше того, что требовало государство.
 **[[:ru:obs:notes:frames:34-10|<<]] | [[:ru:obs:notes:35|Up]] | [[:ru:obs:notes:frames:35-02|>>]]**
