@@ -11,9 +11,8 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
+(Jesus continues the story.)
 
-
+  * **заплатить долг​**  - То есть «отдать назад те деньги, которые он занял у царя».
+  * **чтобы плата за них покрыла их долг​**  - Или можно перевести как «деньги от их продажи пойдут на погашение их долга».
 **[[:ru:obs:notes:frames:29-02|<<]] | [[:ru:obs:notes:29|Up]] | [[:ru:obs:notes:frames:29-04|>>]]**
