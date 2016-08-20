@@ -13,8 +13,7 @@
 
 ===== Translation Notes: =====
 
-(The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-
+  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
   * **учитель​**  - См., как вы перевели это слово в **[[:ru:obs:notes:frames:27-01|[27-01]]]**.
   * **из Иерусалима в Иерихон​**  - В некоторых языках вы можете дать следующий перевод: «из города Иерусалима в город Иерихон».
 **[[:ru:obs:notes:frames:27-03|<<]] | [[:ru:obs:notes:27|Up]] | [[:ru:obs:notes:frames:27-05|>>]]**
