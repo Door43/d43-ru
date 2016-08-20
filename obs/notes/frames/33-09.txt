@@ -12,8 +12,7 @@
 
 ===== Translation Notes: =====
 
-(Jesus continues to explain the story.)
-
+  * (Jesus continues to explain the story.)
   * **в хорошую почву **- См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-05|[33-05]]]**.
   * **человек**  - См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-06|[33-06]]]**.
   * **приносит плод​**  - См., как вы перевели эту фразу в **[[:ru:obs:notes:frames:33-08|[33-08]]]**.
