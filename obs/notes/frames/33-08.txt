@@ -12,8 +12,7 @@
 
 ===== Translation Notes: =====
 
-(Jesus continues to explain the story.)
-
+  * (Jesus continues to explain the story.)
   * **на почве, заросшей колючками**  - См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-04|[33-04]]]**.
   * **человек**  - См., как вы перевели это слово в **[[:ru:obs:notes:frames:33-06|[33-06]]]**.
   * **заботы **- Или «дела», «нужды», «трудности».
