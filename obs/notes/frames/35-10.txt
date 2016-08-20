@@ -8,7 +8,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **Before long** - This can also be translated as, "Soon" or, "After a little while."
-
-
+  * **Вскоре**  - Можно перевести как «в скором времени», «спустя короткое время».
 **[[:ru:obs:notes:frames:35-09|<<]] | [[:ru:obs:notes:35|Up]] | [[:ru:obs:notes:frames:35-11|>>]]**
