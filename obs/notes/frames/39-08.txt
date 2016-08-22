@@ -14,9 +14,9 @@
 
 ===== Translation Notes: =====
 
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
+  * **горько зарыдав​**  - То есть «зарыдав от горя» или «заплакав от сожаления».
+  * **предатель**  - Или «тот, кто предал Иисуса», «тот, кто помог начальникам схватить Иисуса».
+  * **что Иисуса приговорили к смерти**
+ - То есть «Иисуса обвинили и осудили на смерть».
 
 **[[:ru:obs:notes:frames:39-07|<<]] | [[:ru:obs:notes:39|Up]] | [[:ru:obs:notes:frames:39-09|>>]]**
