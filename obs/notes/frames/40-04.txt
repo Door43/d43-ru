@@ -16,13 +16,11 @@
 
 ===== Translation Notes: =====
 
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **между двумя разбойниками​**  - Можно перевести как «два бандита». Речь идет о двух преступниках, применявших силу и жестокость при краже денег.
+  * **Или ты не боишься Бога?​**  - Разбойник не ждал ответа на этот вопрос; таким способом в некоторых языках выражается сильное утверждение. Если в вашем языке вопросительная форма в подобных случаях не употребляется, вы можете перевести это предложение так: «Тебе следовало бы бояться Бога».
+  * **Мы виновны, а этот человек - нет **- Это также можно перевести как «Мы с тобой совершили ужасные вещи и заслуживаем казни, а Он, Иисус, не сделал ничего, заслуживающего смерти». «Мы» относится к двум разбойникам, а не к Иисусу.
+  * **этот человек​**  - Эти слова относятся к Иисусу.
+  * **Пожалуйста, вспомни меня​**  - То есть «Умоляю, прими меня», «Умоляю, встреть меня» или «Прошу, позволь мне быть с Тобою». «Вспомни» не относится к воспоминанию кого-то, когда он был забыт. Переведите фразу как смиренную просьбу.
+  * **в Твоём Царстве​**  - То есть «когда установишь Свое царство» или «когда станешь править как царь».
+  * **Рай​**  - Еще одно название «небес».
 **[[:ru:obs:notes:frames:40-03|<<]] | [[:ru:obs:notes:40|Up]] | [[:ru:obs:notes:frames:40-05|>>]]**
