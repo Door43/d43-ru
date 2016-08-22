@@ -12,7 +12,5 @@
 
 ===== Translation Notes: =====
 
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:ru:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **После каждой молитвы​**  - То есть «Каждый раз после этих слов Иисус...» Речь идет о молитве, которая была произнесена три раза, и которая упоминается в **[[:ru:obs:notes:frames:38-12|[38-12]]]**.
 **[[:ru:obs:notes:frames:38-12|<<]] | [[:ru:obs:notes:38|Up]] | [[:ru:obs:notes:frames:38-14|>>]]**
