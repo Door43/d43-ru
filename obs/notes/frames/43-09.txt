@@ -15,7 +15,5 @@
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
-
+  * **Но знайте​**  - Это также может быть переведено как «Но вы должны знать, что истиной является то, что» или «Но будьте уверены, что».
 **[[:ru:obs:notes:frames:43-08|<<]] | [[:ru:obs:notes:43|Up]] | [[:ru:obs:notes:frames:43-10|>>]]**
