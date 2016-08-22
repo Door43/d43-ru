@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
-
-
+  * **должно исполниться​**  - Можно перевести это как «должно произойти».
+  * **открыл их разум, чтобы они могли понимать​**  - Можно перевести как «сделал так, чтобы они могли уразуметь» или «сделал их способными понимать».
+  * **на третий день​**  - То есть «спустя три дня» или «через три дня».
 **[[:ru:obs:notes:frames:42-06|<<]] | [[:ru:obs:notes:42|Up]] | [[:ru:obs:notes:frames:42-08|>>]]**
