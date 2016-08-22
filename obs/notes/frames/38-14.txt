@@ -14,10 +14,8 @@
 
 ===== Translation Notes: =====
 
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **сошел на​**  - В некоторых языках лучше перевести как «приблизился».
+  * **Приветствую Тебя **- Это также может быть переведено как «Здравствуй», «Мир Тебе», «Добрый вечер».
+  * **знак**  - Или «сигнал».
+  * **Иуда, ты предаёшь Меня поцелуем?​**  - То есть «ты действительно собираешься предать Меня поцелуем?» Иисус не ждал ответа на этот вопрос. Поэтому в некоторых случаях можно перевести эту фразу как утвердительную: «Ты предаешь Меня поцелуем!» или «Твое предательство становится еще хуже из-за поцелуя».
 **[[:ru:obs:notes:frames:38-13|<<]] | [[:ru:obs:notes:38|Up]] | [[:ru:obs:notes:frames:38-15|>>]]**
