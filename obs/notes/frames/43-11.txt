@@ -17,9 +17,7 @@
 
 ===== Translation Notes: =====
 
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ** - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-
-
+  * **во имя​**  - Эта фраза подразумевает оба значения: как «властью», так и «со властью». Рассмотрите возможность буквального перевода слова «имя», если он понятен в вашем языке.
+  * **Христа **- Это слово имеет то же значение, что и «Мессия». Его можно перевести как «Помазанник» или «Избранник». Вместо перевода значения этого слова переводчики могут оставить слово «Христос» и написать его с помощью тех звуков, которые имеются у них в языке.
+  * **Иисуса Христа​**  - Поскольку «Христос» - это титул, некоторые переводчики могут изменить порядок написания: «Христос Иисус». Оба эти словосочетания встречаются в Библии.
 **[[:ru:obs:notes:frames:43-10|<<]] | [[:ru:obs:notes:43|Up]] | [[:ru:obs:notes:frames:43-12|>>]]**
