@@ -13,7 +13,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-
-
+  * **Должно быть, их посадил враг **- Если возможно, приведите такой перевод, чтобы было понятно, что говорящий не видел происходящего.
 **[[:ru:obs:notes:frames:50-05|<<]] | [[:ru:obs:notes:50|Up]] | [[:ru:obs:notes:frames:50-07|>>]]**
