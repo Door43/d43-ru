@@ -14,10 +14,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-
-
+  * **можете повредить пшеницу​**  - То есть «вы случайно можете повыдергивать и пшеницу». Слишком трудно отличить молодую пшеницу от сорняков, так что невозможно избавиться от сорняков, не повредив злаки.
+  * **до жатвы​**  - Или «до тех пор, пока пшеница не будет готова к жатве», «пока пшеница не станет достаточно зрелой для сбора урожая».
+  * **пшеницу **- Или «собранные зерна пшеницы».
+  * **в мои хранилища **- Речь идет о постройках, где хранилось собранное зерно. Их также можно назвать «зернохранилищами».
 **[[:ru:obs:notes:frames:50-06|<<]] | [[:ru:obs:notes:50|Up]] | [[:ru:obs:notes:frames:50-08|>>]]**
