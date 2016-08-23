@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:ru:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **охранявшим одежду людей, побивающих камнями Стефана​**  - См. **[[:ru:obs:notes:frames:45-06|[45-06]]]**.
+  * **в дома​**  - Или «во многие дома».
+  * **Дамаск **- В настоящее время Дамаск является столицей Сирии. Во времена Савла этот город находился под властью Римской Империи. Основное население Дамаска не было еврейским, однако там все-таки проживало некоторое количество евреев, равно как и христиан.
 **[[:ru:obs:notes:frames:45-13|<<]] | [[:ru:obs:notes:46|Up]] | [[:ru:obs:notes:frames:46-02|>>]]**
