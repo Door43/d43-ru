@@ -16,8 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
-
+  * **С этого момента​**  - Можно перевести как «Тот час же» или «Тогда».
+  * **спорил с иудеями​**  - Можно перевести как «приводил иудеям веские аргументы в пользу веры в Иисуса» или «в убедительной манере разговаривал с иудеями».
 **[[:ru:obs:notes:frames:46-05|<<]] | [[:ru:obs:notes:46|Up]] | [[:ru:obs:notes:frames:46-07|>>]]**
