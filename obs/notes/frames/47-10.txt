@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **Тюремный сторож​**  - Или «охранник в тюрьме».
+  * **Мы **- В некоторых языках существует особая форма для слова «мы», исключающая человека, о котором говорят. Здесь в слово «мы» не включен темничный страж, а только Павел и остальные заключенные.
 **[[:ru:obs:notes:frames:47-09|<<]] | [[:ru:obs:notes:47|Up]] | [[:ru:obs:notes:frames:47-11|>>]]**
