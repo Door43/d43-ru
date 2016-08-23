@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
-
+  * **великим учителем​**  - То есть «могущественным учителем», «блестящим учителем».
+  * **так же сильно, как​ **  - Или «не меньше, чем», «в той же мере, что и» или «в той же степени, что и».
 **[[:ru:obs:notes:frames:49-02|<<]] | [[:ru:obs:notes:49|Up]] | [[:ru:obs:notes:frames:49-04|>>]]**
