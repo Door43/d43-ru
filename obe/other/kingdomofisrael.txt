@@ -1,15 +1,13 @@
 ====== царство Израиль ======
 
-===== Facts: =====
+===== Факты: =====
 
-After King Solomon died, the Israelites split into two kingdoms. The kingdom of Israel was the northern kingdom, composed of ten of the tribes of Israel.
+После того, как умер Соломон, Израиль распался на два царства. Царство Израль было северным, состоявшем из десяти колен Израиля.
 
-  * All of the kings of the kingdom of Israel were evil. They convinced the people to stop worshiping God at the Temple in Jerusalem, and to serve idols and false gods instead. So God eventually sent the Assyrians to attack them and to take many of them away as captives.
-  * The Assyrians brought foreigners to live with the few remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.
+  * Все цари израильского царства были вероотступниками. Они склонили народ к тому, чтобы он перестал поклоняться Богу, Который обитал в Храме, и вместо Него стали служить ложным богам. В итоге Бог послал ассириян, которые сокрушили Израиль и увели его народ в плен.
+  * Ассиийцы заселили Израиль иноземцами, которые жили среди немногочисленного остатка. Эти иноземные народы вступали в брак с израильтянами, и их потомки стали называться самарянами.
 
-
-(See also: [[kingdom]], [[israel]], [[kingdomofjudah]], [[assyria]], [[samaria]])
-
+(See also: [[:ru:obe:other:kingdom|kingdom]], [[:ru:obe:other:israel|Israel, Israelites, nation of Israel]], [[:ru:obe:other:kingdomofjudah|Judah, kingdom of Judah]], [[:ru:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]], [[:ru:obe:other:samaria|Samaria, Samaritan]])
 
 ===== Bible References: =====
 
