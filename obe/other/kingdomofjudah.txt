@@ -1,16 +1,15 @@
 ====== царство Иуды ======
 
-===== Facts: =====
+===== Факты: =====
 
-Judah was the largest of the twelve tribes of Israel. After King Solomon died, the Israelites split into two kingdoms: Israel and Judah. The kingdom of Judah was the southern kingdom, composed of the tribes of Judah and Benjamin.
+Колено Иудино было самым крупным из двенадцати колен Израиля. После того, как умер Соломон, Израиль распался на два царства: Иудею и Израиль. Иудея была южным царством, состоящим из колен Иуды и Вениамина.
 
-  * The capital city of the kingdom of Judah was Jerusalem.
-  * Some of the kings of the kingdom of Judah obeyed God and led the people to worship him. But many of Judah's kings were evil.
-  * Over 120 years after Assyria defeated Israel (the northern kingdom), Judah was conquered by the nation of Babylon. The Babylonians destroyed the city and the temple, and took most of the people from the kingdom of Judah away to Babylon as captives.
+  * Столицей Иудейского царства был Иерусалим.
+  * Некоторые иудейские цари чтили Бога и вели народ к поклонению Господу. Но большинство иудейских царей было отступниками.
+  * Спустя 120 лет после победы Ассирии над Израилем (Северное царство), Иудея была захвачена народом Вавилона. Вавилоняне разрушили город и храм, и увели большинство людей из царства Иуды в
+вавилонский плен.
 
-
-(See also: [[kingdom]], [[kingdomofisrael]], [[babylon]])
-
+(See also: [[:ru:obe:other:kingdom|kingdom]], [[:ru:obe:other:kingdomofisrael|царство Израиль]], [[:ru:obe:other:babylon|Babylon, Babylonian]])
 
 ===== Bible References: =====
 
