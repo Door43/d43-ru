@@ -1,18 +1,17 @@
 ====== Иоанн (Апостол) ======
 
-===== Facts: =====
+===== Факты: =====
 
-John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
+Иоанн был одним из двенадцати Апостолов Иисуса Христа и близким другом Иисуса.
 
-  * John's and his brother were the sons of Zebedee. 
-  * John was a different person than John the Baptist.
-  * After Jesus went back to heaven, John (the apostle) taught people about Jesus. 
-  * John also wrote two books and some letters about Jesus that are included in the Bible. 
+  * Иоанн и его брат были сыновьями Зеведея.
+  * Это другой Иоанн, а не Иоанн Креститель.
+  * После того, как Иисус вознесся на небеса, Иоанн (Апостол) учил народ об Иисусе.
+  * Иоанн также написал две книги и несколько посланий об Иисусе, которые включены в Библию.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[johnthebaptist]], [[en:obe:kt:apostle]])
-
+(See also: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]], [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: =====
 
