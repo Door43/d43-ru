@@ -20,12 +20,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ru:obs:notes:frames:22-02|[22-02]]]** The angel said to Zechariah, "Your wife will have a son. You will name him **John**. He will be filled with the Holy Spirit, and will prepare the people for Messiah!"
-  ***[[:ru:obs:notes:frames:22-07|[22-07]]]** After Elizabeth gave birth to her baby boy, Zechariah and Elizabeth named the baby **John**, as the angel had commanded. 
-  ***[[:ru:obs:notes:frames:24-01|[24-01]]]** **John**, the son of Zechariah and Elizabeth, grew up and became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.
-  ***[[:ru:obs:notes:frames:24-02|[24-02]]]** Many people came out to the wilderness to listen to **John**. He preached to them, saying, "Repent, for the kingdom of God is near!"
-  ***[[:ru:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by **John**. When **John** saw him, he said, "Look! There is the Lamb of God who will take away the sin of the world."
-
+  * **[[:ru:obs:notes:frames:22-02|[22-02]]]** Ангел сказал Захарии: «У твоей жены родится сын. Ты назовешь его **Иоанном**. Он будет исполнен Святым Духом и приготовит народ к пришествию Мессии!»
+  * **[[:ru:obs:notes:frames:22-07|[22-07]]]** После того, как Елисавета родила сына, родители, повинуясь словам ангела, назвали ребенка **Иоанном**.
+  * **[[:ru:obs:notes:frames:24-01|[24-01]]]****Иоанн**, сын Захарии и Елисаветы, вырос и стал пророком. Он жил в пустыне, ел дикий мёд и саранчу и носил одежды, сделанные из верблюжьей шерсти.
+  * **[[:ru:obs:notes:frames:24-02|[24-02]]]** Много людей приходило в пустыню послушать **Иоанна**. Он проповедовал им, говоря: «Покайтесь, ибо приблизилось Царство Небесное!»
+  * **[[:ru:obs:notes:frames:24-06|[24-06]]]** На другой день Иисус пришёл креститься у **Иоанна**. Когда **Иоанн ** увидел Его, он сказал: «Смотрите! Вот Агнец Божий, Который берет на Себя грех мира!»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
