@@ -16,16 +16,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ru:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  ***[[:ru:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:ru:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  ***[[:ru:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
-  ***[[:ru:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel** was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  ***[[:ru:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:18-08|[18-08]]]** Десять колен Израиля, восставшие против Ровоама, избрали себе в цари человека по имени Иеровоам. Они создали собственное царство в северной части области и были названы **Израильским царством**.
+  * **[[:ru:obs:notes:frames:18-10|[18-10]]]****Иудея и Израиль**  враждовали между собой и часто вели войны друг против друга.
+  * **[[:ru:obs:notes:frames:18-11|[18-11]]]** В новом **израильском царстве**  все цари были вероотступниками.
+  * **[[:ru:obs:notes:frames:20-01|[20-01]]]****Оба царства - Иудея и Израиль**  - отпали от Бога.
+  * **[[:ru:obs:notes:frames:20-02|[20-02]]]****Израильское царство**  было сокрушено Ассирийской Империей, могущественной и жестокой. Ассирийцы убили большое количество людей **израильского царства**, захватили все ценности и сожгли почти всю страну.
+  * **[[:ru:obs:notes:frames:20-04|[20-04]]]** Потом ассирийцы заселили место, где раньше было **Израильское царство**  людьми из других стран. Новые народы восстанавливали разрушенные города и вступали в брак с оставшимися израильтянами. Потомки израильтян, родившиеся от иноземцев, были названы самарянами.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
