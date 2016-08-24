@@ -1,21 +1,19 @@
 ====== Иоанн (Креститель) ======
 
-===== Facts: =====
+===== Факты =====
 
-John was the son of Zechariah and Elizabeth. Since "John" was a common name, he is often called "John the Baptist" to distinguish him from the other people named John, such as the Apostle John.
+Иоанн был сыном Захарии и Елисаветы. Поскольку имя «Иоанн» было распространенным, этого человека еще называют «Иоанном Крестителем», чтобы отличить его от других людей с аналогичным именем, например, от Апостола Иоанна.
 
-  * John was the prophet whom God sent to prepare people to believe in and follow the Messiah.\\ 
-  * John told people to confess their sins, turn to God, and stop sinning, so that they would be ready to receive the Messiah.\\ 
-  * John baptized many people in water as a sign that they were sorry for their sins and were turning away from them. \\ 
-  * John was called "John the Baptist" because he baptized many people.\\ 
-  * Make sure that people will understand that "the Baptist" does not refer to the church by this name. It may be necessary to say instead, "John the Baptizer" or, "John who baptizes."
+  * Иоанн был пророком, которого Бог послал для того, чтобы приготовить людей к принятию Мессии и следованию за Ним.
+  * Иоанн проповедовал людям о том, чтобы они исповедовали свои грехи, обратились к Богу, перестали грешить и приготовились к принятию Мессии.
+  * Иоанн крестил многих людей в воде в знак их раскаяния в грехах и отказа от них.
+  * Иоанна назвали «Иоанном Крестителем», потому что он крестил многих людей.
+  * Удостоверьтесь, что читатели понимают слово «креститель» («баптист») не как что-то, имеющее отношение к «баптистской церкви». Возможно, следует сказать не «Иоанн Креститель», а «Иоанн Крестящий».
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[en:obe:kt:baptize]], [[Zechariahnt]])
+(See also: [[:en:obe:kt:baptize|baptize, baptism]], [[:ru:obe:other:zechariahnt|Zechariah (NT)]])
 
-
- 
 ===== Bible References: =====
 
 {{topic>:en:bible?johnthebaptist&nocomments}}
