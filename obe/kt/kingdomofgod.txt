@@ -23,18 +23,18 @@
 
 {{topic>:en:bible?kingdomofgod&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:24-02|[24-02]]]** He (John) preached to them, saying, "Repent, for the **kingdom of God**  is near!"
-  * **[[:ru:obs:notes:frames:28-06|[28-06]]]** Then Jesus said to his disciples, "It is extremely hard for rich people to enter into the **kingdom of God**! Yes, it is easier for a camel to go through the eye of a needle than for a rich man to enter the **kingdom of God**."
-  * **[[:ru:obs:notes:frames:29-02|[29-02]]]** Jesus said, "The **kingdom of God**  is like a king who wanted to settle accounts with his servants."
-  * **[[:ru:obs:notes:frames:34-01|[34-01]]]** Jesus told many other stories about the **kingdom of God**. For example, he said, "The **kingdom of God**  is like a mustard seed that someone planted in his field."
-  * **[[:ru:obs:notes:frames:34-03|[34-03]]]** Jesus told another story, "The **kingdom of God**  is like yeast that a woman mixes into some bread dough until it spreads throughout the dough."
-  * **[[:ru:obs:notes:frames:34-04|[34-04]]]**"The **kingdom of God**  is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again."
-  * **[[:ru:obs:notes:frames:34-05|[34-05]]]**"The **kingdom of God**  is also like a perfect pearl of great value."
-  * **[[:ru:obs:notes:frames:42-09|[42-09]]]** He proved to his disciples in many ways that he was alive, and he taught them about the **kingdom of God**.
-  * **[[:ru:obs:notes:frames:49-05|[49-05]]]** Jesus said that the **kingdom of God**  is more valuable than anything else in the world.
-  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will preach the good news about the **kingdom of God**  to people everywhere in the world, and then the end will come."
+  * **[[:ru:obs:notes:frames:24-02|[24-02]]]** Он (Иоанн) проповедовал им, говоря: «Покайтесь, ибо приблизилось **Царство Небесное!**»
+  * **[[:ru:obs:notes:frames:28-06|[28-06]]]** Тогда Иисус сказал Своим ученикам: «Богатым очень трудно войти в **Царство Божье!**! Легче верблюду пройти сквозь игольное ушко, чем богатому человеку войти в **Царство Божье**.»
+  * **[[:ru:obs:notes:frames:29-02|[29-02]]]** Иисус сказал: «**Царство Божье**  подобно царю, который захотел рассчитаться со своими слугами.»
+  * **[[:ru:obs:notes:frames:34-01|[34-01]]]** Иисус рассказал много других притч о **Божьем Царстве**. Например, Он говорил: «**Царство Божье**  подобно горчичному зерну, которое человек посадил на своём поле.»
+  * **[[:ru:obs:notes:frames:34-03|[34-03]]]** Иисус рассказал ещё одну притчу: «**Царство Божье**  подобно дрожжам, которые женщина кладет в тесто и которые расходятся по всему тесту».
+  * **[[:ru:obs:notes:frames:34-04|[34-04]]]** «**Царство Божье**  подобно спрятанному на поле сокровищу. Человек нашёл это сокровище и закопал его обратно.»
+  * **[[:ru:obs:notes:frames:34-05|[34-05]]]** «**Царство Божье**  подобно безупречной жемчужине, имеющей огромную ценность.»
+  * **[[:ru:obs:notes:frames:42-09|[42-09]]]** Так, многими способами Иисус доказывал Своим ученикам, что Он был жив, и учил их о **Царстве Божьем**.
+  * **[[:ru:obs:notes:frames:49-05|[49-05]]]** Иисус сказал, что **Царство Божье**  драгоценнее всего остального в этом мире.
+  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** Когда Иисус еще находился на земле, Он сказал: «И проповедано будет **Евангелие Царства**  по всей вселенной во свидетельство всем народам; и тогда придет конец».
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
