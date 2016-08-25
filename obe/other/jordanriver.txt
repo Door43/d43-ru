@@ -1,15 +1,14 @@
 ====== Река Иордан ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Jordan River is a river that flows from north to south, and forms the eastern boundary of the land that was called Canaan.
+Река Иордан течет с севера на юг и является восточной границей земли Ханаанской.
 
-  * Today, the Jordan River separates Israel on the west from Jordan on the east. 
-  * The Jordan River flows through the Sea of Galilee and then empties into the Dead Sea.
-  * When Joshua led the Israelites into Canaan, they had to cross the Jordan River while it was flooding and very deep. Because it was too deep to wade across, God miraculously stopped the water from flowing so they could go across.
+  * В наши дни река Иордан делит Израиль на две части: восточную и западную.
+  * Река Иордан вытекает из Галилейского моря и впадает в Мертвое море.
+  * Когда Иисус Навин вел израильтян в Ханаан, народ должен был перейти реку Иордан, когда в ней наблюдался подъем воды и когда она была очень глубокой. Поскольку из-за ее глубины невозможно было перейти вброд, Бог чудесным образом остановил воды так, чтобы народ мог ее перейти.
 
-(See also: [[canaan]])
-
+(См. также: [[:ru:obe:other:canaan|Canaan, Canaanite]])
 
 ===== Bible References: =====
 
