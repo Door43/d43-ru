@@ -14,10 +14,9 @@
 
 (Также см: [[:ru:obe:kt:demon|demon, evil spirit, unclean spirit]])
 
-===== Bible References: =====
+===== Отрывки в Библии: =====
 
-
-{{topic>:en:bible?demonpossessed&nocomments}}
+{{topic>:ru:bible?demonpossessed&nocomments}}
 
 ===== Примеры библейских историй: =====
 
