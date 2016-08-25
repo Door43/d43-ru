@@ -9,9 +9,10 @@
   * После того, как Иисус вознесся на небеса, Иоанн (Апостол) учил народ об Иисусе.
   * Иоанн также написал две книги и несколько посланий об Иисусе, которые включены в Библию.
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(
+Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]], [[:en:obe:kt:apostle|apostle, apostleship]])
+(Также см: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]], [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: =====
 
