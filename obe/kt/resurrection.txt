@@ -19,8 +19,8 @@
 
 {{topic>:en:bible?resurrection&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  * **[[:ru:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
+  * **[[:ru:obs:notes:frames:21-14|[21-14]]]** Через смерть и **воскресение**  Мессии Бог совершит Свой план спасения грешников и положит начало Новому Завету.
+  * **[[:ru:obs:notes:frames:37-05|[37-05]]]** Иисус отвечал: «Я есмь **Воскресение**  и Жизнь. Кто верит в Меня, тот будет жить, даже если и умрёт.
 ~~DISCUSSION~~{{tag>publish ktobs}}
