@@ -11,8 +11,7 @@
 
 ===== Bible References: =====
 
-
-{{topic>:en:bible?kingdomofisrael&nocomments}}
+{{topic>:ru:bible?kingdomofisrael&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
