@@ -14,15 +14,11 @@
 
 {{topic>:en:bible?jordanriver&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River** to enter into the Promised Land. 
-  ***[[:ru:obs:notes:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho. 
-  ***[[:ru:obs:notes:frames:19-14|[19-14]]]** Elisha told him (Naaman) to dip himself seven times in the **Jordan River**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:15-02|[15-02]]]** Чтобы войти в обетованную землю, израильтянам нужно было перейти **реку Иордан**.
+  * **[[:ru:obs:notes:frames:15-03|[15-03]]]** После того, как народ перешёл **реку Иордан**, Бог открыл Иисусу Навину, как напасть на укрепленный город Иерихон.
+  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** Елисей повелел ему (Нееману) семь раз окунуться в **реке Иордан**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
