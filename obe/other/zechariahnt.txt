@@ -1,18 +1,17 @@
 ====== Захария (из Нового Завета) ======
 
-===== Facts: =====
+===== Факты: =====
 
-Zechariah was a Jewish priest who became the father of John the Baptist.
+Захария был иудейским священником, ставшим отцом Иоанна Крестителя.
 
-    * Zechariah loved God and obeyed him.
-    * For many years Zechariah and his wife, Elizabeth, prayed earnestly to have a child, but did not have one. Then when they were very old, God answered their prayers and gave them a son.
-    * Zechariah prophesied that his son John would be the prophet who would announce and prepare the way for the Messiah.
+  * Захария любил Бога и повиновался Ему.
+  * Много лет Захария и его жена Елисавета молились о ребенке, но оставались бесплодными. Наконец, когда они состарились, Бог ответил на их молитвы и подарил им сына.
+  * Захария пророчествовал, что их сын Иоанн станет пророком, который возвестит о приходе Мессии и приготовит к этому событию народ.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+Варианты перевода:  [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-
-(See also: [[johnthebaptist]])
-
+(
+Также см: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]])
 
 ===== Bible References: =====
 
