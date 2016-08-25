@@ -15,21 +15,17 @@
 
 {{topic>:en:bible?Jewishleaders&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:24-03|[24-03]]]** Many **religious leaders** also came to be baptized by John, but they did not repent or confess their sins.
-  ***[[:ru:obs:notes:frames:37-11|[37-11]]]** But the **religious leaders of the Jews** were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  ***[[:ru:obs:notes:frames:38-02|[38-02]]]** He (Judas) knew that the **Jewish leaders** denied that Jesus was the Messiah and that they were plotting to kill him.
-  ***[[:ru:obs:notes:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty silver coins to betray Jesus.
-  ***[[:ru:obs:notes:frames:39-05|[39-05]]]** The **Jewish leaders** all answered the high priest, "He (Jesus) deserves to die!"
-  ***[[:ru:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the **Jewish leaders** brought Jesus to Pilate, the Roman governor.
-  ***[[:ru:obs:notes:frames:39-11|[39-11]]]** But the **Jewish leaders** and the crowd shouted, "Crucify him!"
-  ***[[:ru:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two **Jewish leaders** who believed Jesus was the Messiah, asked Pilate for Jesus' body.
-  ***[[:ru:obs:notes:frames:44-07|[44-07]]]** The next day, the **Jewish leaders** brought Peter and John to the high priest and the other **religious leaders**.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:24-03|[24-03]]]** Многие **религиозные лидеры** также приходили к Иоанну креститься, но они не каялись и не исповедовали своих грехов.
+  * **[[:ru:obs:notes:frames:37-11|[37-11]]]** Но **старейшины из иудеев** исполнились зависти и собрались вместе, чтобы составить план, как убить Иисуса и Лазаря.
+  * **[[:ru:obs:notes:frames:38-02|[38-02]]]** Он (Иуда) знал, что **религиозные начальники**  не верили в то, что Иисус был Мессией, и что они задумали Его убить.
+  * **[[:ru:obs:notes:frames:38-03|[38-03]]]****Иудейские начальники**  вместе с первосвященником дали Иуде тридцать сребреников за то, чтобы он выдал им Иисуса.
+  * **[[:ru:obs:notes:frames:39-05|[39-05]]]** Все **иудейские начальники**  отвечали первосвященнику: «Он заслуживает смерти!»
+  * **[[:ru:obs:notes:frames:39-09|[39-09]]]** На следующий день рано утром **иудейские старейшины**  привели Иисуса к римскому правителю Пилату.
+  * **[[:ru:obs:notes:frames:39-11|[39-11]]]** Но **иудейские старейшины**  вместе с толпой кричали: «Распни Его!»
+  * **[[:ru:obs:notes:frames:40-09|[40-09]]]** Иосиф и Никодим - два **иудейских начальника**, верившие, что Иисус - Мессия, попросили у Пилата тело Иисуса.
+  * **[[:ru:obs:notes:frames:44-07|[44-07]]]** На следующий день **иудейские старейшины**  привели Петра и Иоанна к первосвященнику и другим **религиозным начальникам**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
