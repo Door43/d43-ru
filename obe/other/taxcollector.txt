@@ -1,15 +1,14 @@
 ====== сборщик налогов ======
 
-===== Definition: =====
+===== Определение: =====
 
-The job of tax collectors was to receive the money that people owed the government and to deliver it to the government.
+Труд сборщиков налогов заключался в том, чтобы собирать деньги с людей, которые были обязаны платить правительству, и передавать их власть имущим.
 
-  * In the time of Jesus and and the apostles, the Roman government required taxes from the Jews.
-  * The people who collected taxes for the Roman government would often demand more money from the people than the government required. The tax collectors would keep the extra amount for themselves.
-  * The Jews considered tax collectors to be some of the worst sinners because they cheated people, and because they worked for the foreign Roman government. This made the tax collectors traitors to their own people.
+  * Во времена Иисуса и Апостолов иудеи должны были платить налоги римскому правительству.
+  * Люди, взимающие налоги для римского правительства, часто требовали от людей плату больше той, которая устанавливалась правителями. Сборщики налогов удерживали часть суммы у себя.
+  * Иудеи относились к сборщикам налогов как к наихудшим грешникам, потому что они обкрадывали людей и потому что работали на иноземное (римское) правительство. Поэтому в глазах своего народа они были изменниками.
 
-(See also: [[rome]], [[jew]])
-
+(См. также: [[:ru:obe:other:rome|Rome, Roman]], [[:ru:obe:other:jew|Jew, Jewish]])
 
 ===== Bible References: =====
 
