@@ -14,14 +14,11 @@
 
 {{topic>:en:bible?taxcollector&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:34-06|[34-06]]]** He said, "Two men went to the Temple to pray. One of them was a **tax collector**, and the other was a religious leader."
-  ***[[:ru:obs:notes:frames:34-07|[34-07]]]** "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, adulterers, or even like that **tax collector**.'"
-  ***[[:ru:obs:notes:frames:34-09|[34-09]]]** "But the **tax collector** stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be merciful to me because I am a sinner.'"
-  ***[[:ru:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the **tax collector's** prayer and declared him to be righteous."
-  ***[[:ru:obs:notes:frames:35-01|[35-01]]]** One day, Jesus was teaching many **tax collectors** and other sinners who had gathered to hear him. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:34-06|[34-06]]]** Он сказал: «Два человека вошли в храм помолиться». Один из них был **мытарем**, а другой - фарисеем.
+  * **[[:ru:obs:notes:frames:34-07|[34-07]]]** «Фарисей молился так: ‘Благодарю Тебя, Боже, что я не грешник, как другие люди: грабители, неправедные, прелюбодеи, или как, например, этот **сборщик налогов**’».
+  * **[[:ru:obs:notes:frames:34-09|[34-09]]]** «Но **сборщик налогов**  стоял вдалеке от фарисея, не смея даже поднять к небу глаза. Он бил себя в грудь и молил: ‘Боже, будь милостив ко мне грешнику’».
+  * **[[:ru:obs:notes:frames:34-10|[34-10]]]**"Тогда Иисус сказал: «Истинно говорю вам, Бог услышал молитву **мытаря**  и оправдал его.»
+  * **[[:ru:obs:notes:frames:35-01|[35-01]]]** Однажды Иисус учил **мытарей**  и грешников, собравшихся Его послушать.
+~~DISCUSSION~~{{tag>publish ktobs}}
