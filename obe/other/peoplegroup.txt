@@ -1,13 +1,13 @@
 ====== народ ======
 
-===== Definition: =====
+===== Определение: =====
 
-A "people group" usually refers to people who are descended from the same ancestor and who share a common language and culture,
+«Народ» - это люди, произошедшие от одного общего предка и имеющие один язык и культуру,
 
-  * People groups often live together in a particular land or country.
-  * A people group may be made up of a single tribe, or of many tribes.
-  * The term "people group" can sometimes be translated as "nation," but these two terms do not always mean the same thing. Sometimes "nation" means "country" whereas the term "people group" is focused on the people and their culture.
-  * Sometimes the term "people" is used alone to mean "people group." For example "your people" can mean "your people group" or "your family."
+  * Люди одной национальности часто живут вместе на определенной территории или в какой-то стране.
+  * Нация может состоять из одного племени или многих племён.
+  * Слово «народ» иногда может переводиться как «нация», однако эти два понятия не всегда тождественны. Иногда «нация» употребляется в значении «страна», тогда как «народ» - это люди и их культура.
+  * В некоторых случаях слово «народ» используется в значении «группа людей». Например, «твой народ» может означать «твои люди» или «твоя семья».
 
 ===== Translation Suggestions: =====
 
