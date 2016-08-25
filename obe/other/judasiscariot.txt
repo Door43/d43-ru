@@ -1,17 +1,16 @@
 ====== Иуда Искариот ======
 
-===== Facts: =====
+===== Факты: =====
 
-Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
+Иуда был одним из двенадцати Апостолов Иисуса Христа. Однако он предал Иисуса иудейским старейшинам.
 
-  * Judas managed the apostles' money, but he stole some of it for himself.
-  * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
-  * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
+  * Иуда распоряжался апостольской кассой, но крал для себя оттуда.
+  * Иуда предал Иисуса, открыв религиозным начальникам Его местонахождение, чтобы те смогли арестовать Христа.
+  * Когда религиозные начальники приговорили Иисуса к смерти, Иуда, пожалев о своем предательстве, покончил собой.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:apostle]], [[en:obe:kt:betray]], [[jewishleaders]])
-
+(См. также: [[:en:obe:kt:apostle|apostle, apostleship]], [[:en:obe:kt:betray|betray, betrayer]], [[:ru:obe:other:jewishleaders|Иудейские старейшины]])
 
 ===== Bible References: =====
 
