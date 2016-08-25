@@ -18,13 +18,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ru:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain. 
-  ***[[:ru:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting** as a sacrifice to God. 
-  ***[[:ru:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**. 
-  ***[[:ru:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:13-08|[13-08]]]** Господь дал израильтянам подробное описание шатра, который они должны были сделать. Он назывался **«скинией собрания»**  и состоял из двух помещений, отделенных друг от друга толстой завесой.
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Человек, нарушивший Божий закон, мог принести жертву на алтаре, стоящем у входа в **скинию собрания**.
+  * **[[:ru:obs:notes:frames:14-08|[14-08]]]** Бог сильно разгневался и пришел к **Скинии Собрания**.
+  * **[[:ru:obs:notes:frames:18-02|[18-02]]]** Теперь народ поклонялся Богу и совершал жертвоприношения в Храме, а не **в скинии собрания**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
