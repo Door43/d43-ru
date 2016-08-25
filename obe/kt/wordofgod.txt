@@ -9,14 +9,14 @@
   * С тех пор, как Божьи слова были записаны, прошло немало времени, но люди все еще читают Писание и познают учение Божье.
   * В Новом Завете Иисус назван «Словом» и «Словом Божьим». Это значит, что Иисус полностью раскрыл Божью природу, потому что Сам является Богом.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, other ways to translate this term could include, "the message of Yahweh" or "God's message" or "the teachings from God."
-  * It may be more natural in some languages to make this term plural and say "God's words" or "the words of Yahweh."
-  * The expression "the word of God (or Yahweh) came" is often used to introduce something that God told his prophet or his people. This could be translated as, "Yahweh spoke these words" or "God spoke this message."
-  * The term "scripture" or "scriptures" could be translated as "the writings" or "the written message from God." This term should be translated differently from the translation of the term "word."
+  * В зависимости от контекста, можно перевести это понятие как «послание Господне», «Божье послание» или «учение Божье».
+  * В некоторых языках оно обычно употребляется во множественном числе: «Божьи слова» или «слова Господни».
+  * Выражение «И было Слово Господне» часто используется для представления сказанного Богом послания, данного пророку или народу. Оно может переводиться как «Господь изрек эти слова» или «Бог дал это послание».
+  * Понятие «Писание» или «Писания» может переводиться как «написанное Божье послание». Его нужно перевести иначе, чем понятие «слово».
 
-(See also: [[:ru:obe:kt:prophet|prophet, prophecy, prophesy]], [[:ru:obe:kt:yahweh|Yahweh]])
+(См. также: [[:ru:obe:kt:prophet|prophet, prophecy, prophesy]], [[:ru:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
