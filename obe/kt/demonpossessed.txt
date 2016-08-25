@@ -19,17 +19,13 @@
 
 {{topic>:en:bible?demonpossessed&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-    * **[[:ru:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-    * **[[:ru:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
-    * **[[:ru:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
-    * **[[:ru:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
-    * **[[:ru:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon** followed them. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:26-09|[26-09]]]** Многие люди, одержимые **злыми духами**, приводились к Иисусу.
+  * **[[:ru:obs:notes:frames:32-02|[32-02]]]** И когда они причалили к берегу, к Иисусу подбежал человек, **одержимый нечистым духом**.
+  * **[[:ru:obs:notes:frames:32-06|[32-06]]]****Бесноватый**  закричал громким голосом: «Что ты хочешь от меня, Иисус, Сын Бога Всевышнего? Умоляю, не мучай меня!».
+  * **[[:ru:obs:notes:frames:32-09|[32-09]]]** Из города прибежал народ, и все увидели того, **в ком были бесы**.
+  * **[[:ru:obs:notes:frames:47-03|[47-03]]]** Каждый день, кода они (Павел и Сила) туда шли, навстречу им попадалась рабыня, **одержимая нечистым духом**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
