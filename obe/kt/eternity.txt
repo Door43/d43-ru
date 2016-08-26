@@ -9,15 +9,14 @@
   * Понятия «вечная жизнь» и «бесконечная жизнь» использованы в Новом Завете как относящиеся к вечной жизни с Богом в наших новых телах на небесах.
   * Фраза «вовеки веков» содержит в себе мысль о никогда не заканчивающемся времени и выражает то, какая это вечность (вечная жизнь).
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
-  * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
-  * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Другие переводы для слов «вечная» или «бесконечная» могут быть такими: «непрекращающаяся», «никогда не перестающая» или «всегда продолжающаяся».
+  * Понятия «вечная жизнь» и «бесконечная жизнь» могут так же переводиться, как «жизнь, которая никогда не кончается», «жизнь, продолжающаяся без остановки» или «воскресение тела для вечной жизни».
+  * В зависимости от контекста, для слова «вечность» могут употребляться разные переводы: «существование вне времени», «непрекращающаяся жизнь» или «жизнь на небесах».
+  * Также смотрите, как данное слово переведено в библейском тексте на местном или национальном языке. ([[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-
-(See also: [[:ru:obe:kt:forever]], [[:ru:obe:kt:life]])
+(See also: [[:ru:obe:kt:forever|forever]], [[:ru:obe:kt:life|life, live, living, alive]])
 
 ===== Bible References: =====
 
