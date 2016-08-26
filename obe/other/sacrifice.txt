@@ -20,14 +20,14 @@
 
 {{topic>:en:bible?sacrifice&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an altar and **sacrificed**  some of each kind of animal which could be used for a **sacrifice**. God was happy with the **sacrifice**  and blessed Noah and his family.
-  * **[[:ru:obs:notes:frames:05-06|[05-06]]]**"Take Isaac, your only son, and kill him as a **sacrifice**  to me." Again Abraham obeyed God and prepared to **sacrifice**  his son.
-  * **[[:ru:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the **sacrifice**  instead of Isaac.
-  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the Tent of Meeting as a **sacrifice**  to God. A priest would kill the animal and burn it on the altar. The blood of the animal that was **sacrificed**  covered the person's sin and made that person clean in God's sight.
-  * **[[:ru:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could worship God and offer him **sacrifices**.
-  * **[[:ru:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great High Priest. Unlike other priests, he offered himself as the only **sacrifice**  that could to take away the sin of all the people in the world.
-  * **[[:ru:obs:notes:frames:48-08|[48-08]]]** But God provided Jesus, the Lamb of God, as a **sacrifice**  to die in our place.
-  * **[[:ru:obs:notes:frames:49-11|[49-11]]]** Because Jesus **sacrificed**  himself, God can forgive any sin, even terrible sins.
+  * **[[:ru:obs:notes:frames:03-14|[03-14]]]** После выхода из ковчега Ной построил жертвенник и **принёс в жертву****чистых**  животных. Это **жертвоприношение**  было приятно Богу, и Он благословил Ноя и его семью.
+  * **[[:ru:obs:notes:frames:05-06|[05-06]]]** «Возьми Исаака - твоего единственного сына - и принеси Мне его **в жертву**». Авраам вновь послушался Бога и приготовился отдать **в жертву**  своего сына.
+  * **[[:ru:obs:notes:frames:05-09|[05-09]]]** Бог послал агнца для **жертвоприношения**  вместо Исаака.
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Человек, нарушивший Божий закон, мог принести **жертву**  на алтаре, стоящем у входа в скинию собрания. Священник должен был заклать животное и сжечь его на алтаре. Кровь принесенного в **жертву**  животного покрывала грех человека, делая согрешившего невинным в очах Божьих.
+  * **[[:ru:obs:notes:frames:17-06|[17-06]]]** Давид хотел построить храм, где все израильтяне могли бы поклоняться Богу и совершать **жертвоприношения**.
+  * **[[:ru:obs:notes:frames:48-06|[48-06]]]** Иисус - великий Первосвященник. Подобно священнику, Он предложил Себя в единократную **жертву**, способную очистить от грехов все человечество.
+  * **[[:ru:obs:notes:frames:48-08|[48-08]]]** Но Бог дал нам Иисуса - Божьего Агнца - в **жертву**  за нас, и Христос умер вместо нас.
+  * **[[:ru:obs:notes:frames:49-11|[49-11]]]** Благодаря **жертве**  Иисуса Бог может простить любой грех, даже самый тяжкий.
 ~~DISCUSSION~~{{tag>publish ktobs}}
