@@ -1,16 +1,15 @@
 ====== гнать, гонение ======
 
-===== Definition: =====
+===== Определение: =====
 
-To persecute someone is to repeatedly attack him or to treat him cruelly.
+Гнать кого-то - значит, постоянно преследовать его или жестоко к нему относиться.
 
-    * It is possible to persecute a single person, a small group of people, or even a large number of people.
-    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
-    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
-    * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+  * Можно гнать одного человека, небольшую группу людей или даже их огромное число.
+  * Иудейские религиозные начальники преследовали Иисуса, потому то им не нравилось то, чему Он учил.
+  * После вознесения Иисуса религиозные начальники и римские правители начали гнать христиан. Однако верующие не переставали проповедовать и учить об Иисусе, и церковь продолжала расти.
+  * Синонимами для слова «гонение» будут «плохое обращение», «надругательство», «притеснение» и «враждебность».
 
-(See also: [[jewishleaders]], [[rome]], [[en:obe:kt:christian]], [[en:obe:kt:church]])
-
+(См. также: [[:ru:obe:other:jewishleaders|Иудейские старейшины]], [[:ru:obe:other:rome|Rome, Roman]], [[:en:obe:kt:christian|Christian]], [[:en:obe:kt:church|church, Church]])
 
 ===== Bible References: =====
 
