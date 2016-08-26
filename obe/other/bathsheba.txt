@@ -17,18 +17,13 @@
 
 {{topic>:en:bible?bathsheba&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-10|[17-10]]]** One day, when all of David's soldiers were away from home fighting battles, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
-  ***[[:ru:obs:notes:frames:17-11|[17-11]]]** A short time later **Bathsheba** sent a message to David saying that she was pregnant.
-  ***[[:ru:obs:notes:frames:17-12|[17-12]]]** **Bathsheba's** husband, a man named Uriah, was one of David's best soldiers.
-  ***[[:ru:obs:notes:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
-  ***[[:ru:obs:notes:frames:17-14|[17-14]]]** Later,  David and **Bathsheba** had another son, and they named him Solomon.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:17-10|[17-10]]]** Однажды, когда все воины Давида были на войне и находились вдали от дома, царь выглянул из своего дворца и увидел красивую купающуюся женщину. Её звали **Вирсавия**.
+  * **[[:ru:obs:notes:frames:17-11|[17-11]]]** Через некоторое время **Вирсавия**  сообщила Давиду новость о том, что она ждет ребенка.
+  * **[[:ru:obs:notes:frames:17-12|[17-12]]]** Муж **Вирсавии**, Урия, Был одним из лучших воинов Давида.
+  * **[[:ru:obs:notes:frames:17-13|[17-13]]]** После того, как Урия был убит, Давид женился на **Вирсавии**.
+  * **[[:ru:obs:notes:frames:17-14|[17-14]]]** Впоследствии у Давида с **Вирсавией**  родился другой сын, и они назвали его Соломоном.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
