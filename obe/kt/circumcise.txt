@@ -17,7 +17,7 @@
   * В культурах, где обрезание не известно, можно объяснить значение этого слова в сноске или глоссарии.
   * Удостоверьтесь, что то слово, которое вы использовали для перевода не относится к женскому обрезанию. Возможно, следует употребить слово или фразу со значением «мужской пол».
 
-(См.: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
 (См. также: [[:ru:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:ru:obe:kt:covenant|covenant]])
 
