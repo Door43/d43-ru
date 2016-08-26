@@ -22,13 +22,13 @@
 
 {{topic>:en:bible?falsegod&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
-  * **[[:ru:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
-  * **[[:ru:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
-  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
-  * **[[:ru:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Через эти казни Бог показал фараону, что Он сильнее фараона и всех **богов**  Египта.
+  * **[[:ru:obs:notes:frames:13-04|[13-04]]]** Бог дал израильтянам завет, сказав: «Я - Господь Бог ваш, спасший вас от рабства в Египте. Не поклоняйтесь **иным богам**».
+  * **[[:ru:obs:notes:frames:14-02|[14-02]]]** Они (хананеи) поклонялись **иным богам**  и творили много зла.
+  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** Израильтяне начали чтить **богов**  хананеев вместо истинного Господа Бога.
+  * **[[:ru:obs:notes:frames:18-13|[18-13]]]** Но большинство царей Иуды были злыми и порочными, чтившими ложных богов. Некоторые из царей даже приносили в жертву **идолам**  своих собственных детей.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
