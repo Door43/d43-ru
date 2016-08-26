@@ -1,13 +1,11 @@
 ====== первосвященник ======
 
-===== Definition: =====
+===== Определение: =====
 
+Первосвященник был главой всех израильских священников.
 
-The high priest was the leader over all of Israel's priests.
-
-
-    * The Israelites had many priests, but only one high priest at a time.
-    * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the temple to offer a special sacrifice once a year.
+  * В Израиле было много священников, но первосвященник был только один.
+  * На первосвященника была возложена особая ответственность. Только ему разрешалось входить во Святое Святых в Храме для принесения Богу ежегодной жертвы.
 
 ===== Translation Suggestions: ======
 
