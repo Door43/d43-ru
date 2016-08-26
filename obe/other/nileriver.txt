@@ -1,15 +1,14 @@
 ====== Река Нил ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Nile is a very big river in northeastern Africa.
+Нил - это большая река на северо-востоке Африки.
 
-  * The Nile River flows north through Egypt and empties into the Mediterranean Sea.
-  * Crops grow well in its fertile valley.
-  * Most Egyptians live near the Nile River since it is an important source of water and food crops. 
+  * Нил течет на север через Египет и впадает в Средиземное море.
+  * Его плодородные долины приносят обильный урожай.
+  * Большинство египтян живет у реки Нил, поскольку река является основным источником воды, а ее берега - источником пищевых культур.
 
-(See: [[Egypt]])
-
+(См.: [[:ru:obe:other:egypt|Egypt, Egyptian]])
 
 ===== Bible References: =====
 
