@@ -9,15 +9,14 @@
   * Мы знаем из Библии, что Божий народ часто отворачивался от Бога и начинал поклоняться идолам.
   * За последними часто стоят духи - обольстители, заставляющие людей верить в то, что идол, которому они поклоняются, наделен силой.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
+  * В языке перевода или родственных ему языках уже может существовать слово для понятия «бог» или «лжебог».
+  * Когда речь идет о лжебогах, можно использовать слово «идол».
+  * В русском языке в отношении ложных богов употребляется прописная буква «б» и заглавная «Б» - когда говорится об одном истинном Боге. В других языках наблюдается аналогичная картина.
+  * Иначе следовало бы использовать какое-либо другое слово для указания на лжебога.
 
-  * There may already be a word for "god" or "false god" in the language or in a nearby language.
-  * The term "idol" could be used to refer to false gods.
-  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
-  * Another option would be to use a different word to refer to the false gods.
-
-(See also: [[:ru:obe:kt:god|God]], [[:ru:obe:other:idol|idol]], [[:ru:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
+(См. также: [[:ru:obe:kt:god|God]], [[:ru:obe:other:idol|idol]], [[:ru:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
 
 ===== Bible References: =====
 
