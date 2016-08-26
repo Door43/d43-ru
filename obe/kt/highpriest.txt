@@ -7,13 +7,12 @@
   * В Израиле было много священников, но первосвященник был только один.
   * На первосвященника была возложена особая ответственность. Только ему разрешалось входить во Святое Святых в Храме для принесения Богу ежегодной жертвы.
 
-===== Translation Suggestions: ======
+===== Варианты перевода: =====
 
-  * "High priest" could be translated as "supreme priest" or "highest ranking priest."
-  * Make sure this term is translated differently from the term "chief priest."
+  * Слово «первосвященник» можно перевести как «верховный священник» или «священник высшего ранга».
+  * Удостоверьтесь, что данное слово переведено иначе, чем «главный священник».
 
-(See also: [[priest]], [[en:obe:other:chiefpriests]],   [[temple]])
-
+(См. также: [[:ru:obe:kt:priest|priest, priesthood]], [[:en:obe:other:chiefpriests|chief priests]], [[:ru:obe:kt:temple|temple]])
 
 ===== Bible References: =====
 
