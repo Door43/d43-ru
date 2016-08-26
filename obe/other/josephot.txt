@@ -16,18 +16,14 @@
 
 {{topic>:en:bible?josephot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-02|[08-02]]]** **Joseph's** brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
-  ***[[:ru:obs:notes:frames:08-04|[08-04]]]** The slave traders took **Joseph** to Egypt.
-  ***[[:ru:obs:notes:frames:08-05|[08-05]]]** Even in prison, **Joseph** remained faithful to God, and God blessed him.
-  ***[[:ru:obs:notes:frames:08-07|[08-07]]]** God had given **Joseph** the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
-  ***[[:ru:obs:notes:frames:08-09|[08-09]]]** **Joseph** told the people to store up large amounts of food during the seven years of good harvests.
-  ***[[:ru:obs:notes:frames:09-02|[09-02]]]** The Egyptians no longer remembered **Joseph** and all he had done to help them.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-02|[08-02]]]** Братья ненавидели **Иосифа**, потому что отец любил его больше всех, а также потому, что Иосиф видел во сне, как он станет господствовать над ними.
+  * **[[:ru:obs:notes:frames:08-04|[08-04]]]** Работорговцы привезли **Иосифа**  в Египет.
+  * **[[:ru:obs:notes:frames:08-05|[08-05]]]** Даже в тюрьме **Иосиф**  оставался верным Богу, и Бог его благословлял.
+  * **[[:ru:obs:notes:frames:08-07|[08-07]]]** Бог дал **Иосифу**  дар истолкования снов, поэтому фараон велел привести юношу из тюрьмы.
+  * [[:ru:obs:notes:frames:08-09|[08-09]]] **Иосиф**  распорядился, чтобы египтяне заготовили огромное количество пищи в семь лет изобилия.
+  * **[[:ru:obs:notes:frames:09-02|[09-02]]]** Египтяне более не помнили **Иосифа**  и всех его благодеяний.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
