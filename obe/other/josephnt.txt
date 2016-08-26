@@ -1,20 +1,18 @@
 ====== Иосиф (из Нового Завета) ======
 
-===== Facts: =====
+===== Факты: =====
 
-Joseph was Jesus' earthly father and raised him as his son.
+Иосиф был земным отцом Иисуса и воспитывал Его как Сына.
 
-  * Joseph was a descendant of King David.
-  * Joseph was engaged to a virgin girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
-  * An angel told Joseph that the Holy Spirit had miraculously made Mary pregnant, and that Mary's baby was the Son of God.
-  * Joseph believed the angel and obeyed God by taking Mary as his wife.
-  * Joseph kept Mary a virgin until after Jesus was born.
+  * Иосиф был потомком царя Давида.
+  * Он был помолвлен с девой, которую звали Мария и которую Бог избрал для того, чтобы стать матерью Мессии Иисуса.
+  * Ангел сказал Иосифу о том, что Святой Дух чудесным образом позволил Марии зачать и что ребенок Марии - Сын Божий.
+  * Иосиф поверил словам Ангела и повиновался Богу, взяв Марию себе в жены.
+  * Он не прикасался к Марии до тех пор, пока она не родила Иисуса.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-
-(See also: [[mary|Mary]], [[david|David]], [[en:obe:kt:jesus|Jesus]], [[en:obe:kt:christ|Christ, Messiah]], [[en:obe:kt:sonofgod|Son of God, the Son]], [[virgin|virgin]])
-
+(См. также: [[:ru:obe:other:mary|Mary]], [[:ru:obe:other:david|David]], [[:en:obe:kt:jesus|Jesus]], [[:en:obe:kt:christ|Christ, Messiah]], [[:en:obe:kt:sonofgod|Son of God, the Son]], [[:ru:obe:other:virgin|virgin]])
 
 ===== Bible References: =====
 
