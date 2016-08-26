@@ -17,13 +17,9 @@
 
 {{topic>:en:bible?saul&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-01|[17-01]]]** **Saul** was the first king of Israel. He was tall and handsome, just like the people wanted. **Saul** was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
-  ***[[:ru:obs:notes:frames:17-04|[17-04]]]** **Saul** became jealous of the people's love for David. **Saul** tried many times to kill him, so David hid from **Saul**. 
-  ***[[:ru:obs:notes:frames:17-05|[17-05]]]** Eventually, **Saul** died in battle, and David became king of Israel.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ru:obs:notes:frames:17-01|[17-01]]]** Первым царем Израиля стал **Саул**. Он был высоким и красивым - именно таким, какого хотел избрать себе народ. **Саул**  успешно правил Израилем в первые годы своего царствования. Но потом он превратился в злобного, непокорного Господу человека, и Божий выбор пал на другого, который однажды займет царский трон.
+  * **[[:ru:obs:notes:frames:17-04|[17-04]]]****Саул**  стал завидовать тому, что народ любил Давида. Много раз **Саул**  пытался убить Давида, поэтому Давид скрывался от **Саула**.
+  * **[[:ru:obs:notes:frames:17-05|[17-05]]]** Наконец, **Саул**  погиб в сражении, и Давид стал царем Израиля.
+~~DISCUSSION~~{{tag>publish ktobs}}
