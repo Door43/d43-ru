@@ -18,21 +18,17 @@
 
 {{topic>:en:bible?highpriest&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
-  ***[[:ru:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest** who would offer himself as a perfect sacrifice to God.
-  ***[[:ru:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
-  ***[[:ru:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest** in order for the **high priest** to question him. 
-  ***[[:ru:obs:notes:frames:39-03|[39-03]]]** Finally, the **high priest** looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
-  ***[[:ru:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and John to the **high priest** and the other religious leaders.
-  ***[[:ru:obs:notes:frames:45-02|[45-02]]]** So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false witnesses lied about Stephen.
-  ***[[:ru:obs:notes:frames:46-01|[46-01]]]** The **high priest** gave Saul permission to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-  ***[[:ru:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great **High Priest**. Unlike other priests, he offered himself as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect **high priest** because he took the punishment for every sin that anyone has ever committed.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:13-08|[13-08]]]** Никто не мог входить в комнату за завесу, кроме **первосвященника**, потому что там присутствовал Бог.
+  * **[[:ru:obs:notes:frames:21-07|[21-07]]]** Грядущий Мессия станет истинным **первосвященником**, который предложит Себя как совершенную жертву Богу.
+  * **[[:ru:obs:notes:frames:38-03|[38-03]]]** Иудейские начальники вместе с **первосвященником**  дали Иуде тридцать сребреников за то, чтобы он выдал им Иисуса.
+  * **[[:ru:obs:notes:frames:39-01|[39-01]]]** Воины повели Иисуса в дом **первосвященника**  для того, чтобы **первосвященник**  мог подвергнуть Его допросу.
+  * **[[:ru:obs:notes:frames:39-03|[39-03]]]** Наконец, **первосвященник**  взглянул на Иисуса и задал Ему прямой вопрос: «Скажи нам, Ты ли Мессия, Сын Бога живого?»
+  * **[[:ru:obs:notes:frames:44-07|[44-07]]]** На следующий день иудейские старейшины привели Петра и Иоанна к **первосвященнику**  и другим религиозным начальникам.
+  * **[[:ru:obs:notes:frames:45-02|[45-02]]]** Тогда по повелению старейшин Стефан был схвачен и приведен к **первосвященнику**  и начальникам, среди которых находились другие лжесвидетели, клеветавшие на Стефана.
+  * **[[:ru:obs:notes:frames:46-01|[46-01]]]****Первосвященник**  дал ему разрешение на то, чтобы Савл отправился в Дамаск, задержал там христиан и доставил их обратно в Иерусалим.
+  * **[[:ru:obs:notes:frames:48-06|[48-06]]]** Иисус - великий **Первосвященник**. Он предложил Себя в единократную жертву, способную очистить от грехов все человечество. Иисус стал совершенным **Первосвященником**, потому что понес на Себе наказание за каждый совершенный грех.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
