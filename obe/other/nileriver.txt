@@ -14,16 +14,12 @@
 
 {{topic>:en:bible?nileriver&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
-  ***[[:ru:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-  ***[[:ru:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
-  ***[[:ru:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-04|[08-04]]]** Египет был крупной и сильной страной, расположенной по берегам **реки Нил**.
+  * **[[:ru:obs:notes:frames:09-04|[09-04]]]** Фараон видел, что у израильтян рождается много детей, и приказал воинам, чтобы они убивали всех израильских младенцев мужского пола, бросая их в **реку Нил**.
+  * **[[:ru:obs:notes:frames:09-06|[09-06]]]** Когда родители мальчика больше не могли прятать ребенка, они положили его в корзину и опустили ее в заросли тростника у берегов **Нила**, чтобы спасти сына от гибели.
+  * **[[:ru:obs:notes:frames:10-03|[10-03]]]** Бог превратил в кровь воду **реки Нил**  - фараон не отпустил израильтян.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
