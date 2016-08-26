@@ -15,15 +15,12 @@
 
 {{topic>:en:bible?persecute&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-    * **[[:ru:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:ru:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:ru:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:ru:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:33-07|[33-07]]]** «Каменистая почва - это человек, который слышит Божье Слово и принимает его с радостью. Но когда приходят испытания или **гонения**, он отпадает».
+  * **[[:ru:obs:notes:frames:45-06|[45-06]]]** В тот день многие в Иерусалиме начали **гнать**  последователей Иисуса, и верующие бежали в другие места.
+  * **[[:ru:obs:notes:frames:46-02|[46-02]]]** Он услышал голос, говоривший к нему: «Савл! Савл! Почему ты **гонишь**  Меня?» Савл спросил: «Кто ты, Господи?» Иисус отвечал: «Я - Иисус. Ты **преследуешь**  Меня!»
+  * **[[:ru:obs:notes:frames:46-04|[46-04]]]** Но Анания возразил: «Господь, я слышал, что этот человек **преследует**  верующих.»
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
