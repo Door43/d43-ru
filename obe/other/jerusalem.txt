@@ -1,20 +1,21 @@
 ====== Иерусалим ======
 
-===== Facts: =====
+===== Факты: =====
 
-Jerusalem was originally an ancient Canaanite city that later became of central political and religious importance in Israel. It is still the capital city of present-day Israel.
+Поначалу Иерусалим был древним ханаанским городом, ставшим впоследствии политическим и религиозным центром в Израиле. По сей день Иерусалим остается столицей Израиля.
 
-  * The Old Testament city of Salem was probably the same as the city of Jerusalem. Both names have the root meaning of "peace."
-  * Abraham offered his son Isaac on Mount Moriah which is part of the city of Jerusalem.
-  * King David captured Jerusalem from the Jebusites and made it his capital city.
-  * David's son Solomon built the first templeon Mount Moriah in Jerusalem.
-  * The Babylonians destroyed Jerusalem, but 70 years later God allowed them to return and rebuild the city.
-  * Because the temple was located there, Jerusalem was the center for celebrating the major Jewish festivals.
-  * In the New Testament, Jesus was dedicated as a baby at the temple in Jerusalem and it was in Jerusalem where he was put on trial and sentenced to die on a cross.
-  * After Jesus came back to life, Jerusalem was one of the main places where Jesus spent time with his disciples before he returned to heaven.
-  * Since Jerusalem was located in the mountains of Israel, people normally referred to going to Jerusalem as "going up to Jerusalem." 
+  * Ветхозаветный город Салим, вероятно, и был Иерусалимом. Оба названия содержат в корне значение «мир».
+  * Авраам хотел принести в жертву Исаака на горе Мориа, которая является частью города Иерусалима.
+  * Царь Давид отвоевал этот город у иевусеев и сделал его своей столицей.
+  * Сын Давида, Соломон, построил первый храм на горе Мориа в Иерусалиме.
+  * Вавилоняне разрушили Иерусалим, но спустя 70 лет Бог позволил Своему народу вернуться и отстроить город.
+  * Поскольку там находился храм, Иерусалим был центром проведения крупных еврейских праздников.
+  * В Новом Завете Младенец Иисус был посвящен Богу в иерусалимском храме, и именно в этом городе Он был осужден и приговорен к смерти на кресте.
+  * После воскресения Христа Иерусалим стал одним из основных мест, где Иисус пребывал со Своими учениками перед вознесение на небеса.
+  * Поскольку этот город был расположен на холмах, обычно люди говорили о своем походе туда как о «восхождении в Иерусалим».
 
-(See also: [[:ru:obe:other:david]], [[:ru:obe:other:solomon]], [[:ru:obe:kt:christ]], [[:ru:obe:kt:jesus]], [[:ru:obe:other:jebusites]], [[:ru:obe:other:zion]])
+(См. также: [[:ru:obe:other:david|David]], [[:ru:obe:other:solomon|Solomon]], [[:ru:obe:kt:christ|Christ, Messiah]], [[:ru:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ru:obe:other:jebusites|Jebusite]], [[:ru:obe:other:zion|Zion, Mount Zion]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?jerusalem&nocomments}}
