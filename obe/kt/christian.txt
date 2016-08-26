@@ -21,15 +21,15 @@
 
 {{topic>:en:bible?christian&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** It was at Antioch that believers in Jesus were first called "**Christians**."
-  * **[[:ru:obs:notes:frames:47-14|[47-14]]]**] Paul and other **Christian**  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
-  * **[[:ru:obs:notes:frames:49-15|[49-15]]]** If you believe in Jesus and what he has done for you, you are a **Christian**!
-  * **[[:ru:obs:notes:frames:49-16|[49-16]]]** If you are a **Christian**, God has forgiven your sins because of what Jesus did.
-  * **[[:ru:obs:notes:frames:49-17|[49-17]]]** Even though you are a **Christian**, you will still be tempted to sin.
-  * **[[:ru:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told **Christians**  to proclaim the good news to people who have never heard it.
-  * **[[:ru:obs:notes:frames:50-11|[50-11]]]** When Jesus returns, every **Christian**  who has died will rise from the dead and meet him in the sky.
+  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** Именно в Антиохии верующие в Иисуса впервые стали называться **христианами**.
+  * **[[:ru:obs:notes:frames:47-14|[47-14]]]**] Павел и другие **ученики Иисуса**  путешествовали по многим городам, проповедуя Евангелие и уча народ.
+  * **[[:ru:obs:notes:frames:49-15|[49-15]]]** Если ты веришь в Иисуса и в то, что Он сделал для тебя, значит, ты **христианин**!
+  * **[[:ru:obs:notes:frames:49-16|[49-16]]]** Если ты **христианин**, значит, Бог простил твои грехи ради того, что сделал Иисус.
+  * **[[:ru:obs:notes:frames:49-17|[49-17]]]** Но, несмотря на то, что ты **христианин**, ты все еще будешь бороться с искушениями.
+  * **[[:ru:obs:notes:frames:50-03|[50-03]]]** Перед Своим вознесением Господь повелел **христианам**  возвещать благую весть людям, которые никогда о ней не слышали.
+  * **[[:ru:obs:notes:frames:50-11|[50-11]]]** Когда Иисус вернётся, все умершие **верующие**  воскреснут и встретятся с Ним в небесах.
 ~~DISCUSSION~~{{tag>publish ktobs k}}
 
 ~~NOCACHE~~
