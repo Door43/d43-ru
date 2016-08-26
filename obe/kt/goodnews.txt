@@ -7,12 +7,12 @@
   * В Библии это понятие обычно относится к посланию о Божьем спасении людей через жертву Иисуса на кресте.
   * В русских переводах «благая весть» может переводиться словом «Евангелие» и употребляться в таких фразах, как «Евангелие Иисуса Христа», «Божье Евангелие» или «Евангелие Царства».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Different ways to translate this term could include, "good message" or "good announcement" or "glad word" or "God's message of salvation" or "the good things God teaches about Jesus."
-  * Depending on the context, ways to translate the phrase, "good news of" could include, "good news/message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
+  * Другими переводами этого понятия могут служить фразы «добрая весть», «благая весть», «благое слово», «Божье послание о спасении» или «благое Божье учение об Иисусе».
+  * В зависимости от контекста, выражение «благая весть о» можно также переводить как «добрая весть/послание о», «благое послание от», «то доброе, что говорит нам Бог о» или «то, что Бог говорит о спасении людей».
 
-(See: [[:ru:obe:kt:salvation]], [[:ru:obe:other:sacrifice]], [[:ru:obe:other:kingdom]])
+(См.: [[:ru:obe:kt:salvation|salvation]], [[:ru:obe:other:sacrifice|sacrifice, offering]], [[:ru:obe:other:kingdom|kingdom]])
 
 ===== Bible References: =====
 
