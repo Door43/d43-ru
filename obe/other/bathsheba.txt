@@ -1,18 +1,17 @@
 ====== Вирсавия ======
 
-===== Facts: =====
+===== Факты: =====
 
-Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
+Вирсавия была женой Урии - воина из армии Давида. Она стала женой Давида и матерью Соломона.
 
-  * David committed adultery with Bathsheba while she was married to Uriah.
-  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba. 
-  * God punished David for his sin by causing the child to die several days after he was born.
-  * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
+  * Давид прелюбодействовал с Вирсавией, когда она была еще замужем за Урией.
+  * Когда Давид узнал, что Вирсавия ждет от него ребенка, он сделал так, чтобы Урия погиб в сражении. После этого царь женился на Вирсавии.
+  * Бог наказал Давида за грех: его новорожденный ребенок умер, прожив всего лишь несколько дней.
+  * Позднее Вирсавия родила другого сына, Соломона, который занял престол после Давида.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[uriah]], [[david]], [[solomon]])
-
+(См. также: [[:ru:obe:other:uriah|Uriah]], [[:ru:obe:other:david|David]], [[:ru:obe:other:solomon|Solomon]])
 
 ===== Bible References: =====
 
