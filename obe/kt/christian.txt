@@ -8,14 +8,14 @@
   * В наше время «христианином» часто называют кого-то, кто исповедует религию, а не того, кто, в действительности, следует за Иисусом. Но это не то, что имелось в виду в Библии.
   * Поскольку слово «христианин» в Библии всегда относится к человеку, который истинно верит в Иисуса, его также можно отнести к «верующему».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term could be translated as "Christ-follower" or "follower of Christ" or perhaps something like, "Christ-person."
-  * Make sure that the translation of this term is distinct from terms used for disciple or apostle.
-  * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
-  * Also consider how this term is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Это слово можно перевести как «последователь Христа», «следующий за Христом» или как, например, «Христов человек».
+  * Удостоверьтесь, что это понятие отлично от слова «апостол».
+  * Будьте внимательны и переведите это слово как обозначающее каждого человека, верующего в Иисуса, а не просто как определенную группу.
+  * Посмотрите, как оно переведено на местный или национальный язык Библии. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[:ru:obe:kt:church|church, Church]], [[:ru:obe:kt:disciple|disciple]], [[:ru:obe:kt:believer|believer]], [[:ru:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ru:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
+(См. также: [[:ru:obe:kt:church|church, Church]], [[:ru:obe:kt:disciple|disciple]], [[:ru:obe:kt:believer|believer]], [[:ru:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ru:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
 
 ===== Bible References: =====
 
