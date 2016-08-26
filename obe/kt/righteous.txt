@@ -21,11 +21,11 @@
 
 {{topic>:en:bible?righteous&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous**  man, living among wicked people.
-  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** God declared that Abram was **righteous**  because he believed in God's promise.
-  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** David was a humble and **righteous**  man who trusted and obeyed God.
-  * **[[:ru:obs:notes:frames:23-01|[23-01]]]** Joseph, the man Mary was engaged to, was a **righteous**  man.
-  * **[[:ru:obs:notes:frames:50-10|[50-10]]]** Then the **righteous**  ones will shine like the sun in the kingdom of God their Father."
+  * **[[:ru:obs:notes:frames:03-02|[03-02]]]** Ной же обрёл благодать в очах Бога. Он был **праведным**  человеком, жившим среди людей, творивших зло.
+  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** Бог провозгласил Авраама **праведным**, потому что патриарх поверил Божьему обещанию.
+  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** Давид был смиренным и **праведным**  человеком, доверяющим и повинующимся Богу.
+  * **[[:ru:obs:notes:frames:23-01|[23-01]]]** Иосиф (человек, с которым была помолвлена Мария) был **праведным**.
+  * **[[:ru:obs:notes:frames:50-10|[50-10]]]** Тогда **праведники**  будут сиять, как солнце в Царстве Бога Отца.
 ~~DISCUSSION~~{{tag>publish review ktobs}}
