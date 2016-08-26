@@ -18,17 +18,17 @@
 
 {{topic>:en:bible?goodnews&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** The angel said, "Do not be afraid, because I have some **good news**  for you. The Messiah, the Master, has been born in Bethlehem!"
-  * **[[:ru:obs:notes:frames:26-03|[26-03]]]** Jesus read, "God has given me his Spirit so that I can proclaim **good news**  to the poor, freedom to captives, recovery of sight for the blind, and release to the oppressed. This is the year of the Lord's favor."
-  * **[[:ru:obs:notes:frames:45-10|[45-10]]]** Philip also used other Scriptures to tell him the **good news of Jesus**.
-  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to preach the **good news about Jesus**  in many other places.
-  * **[[:ru:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of Philippi to proclaim the **good news about Jesus**.
-  * **[[:ru:obs:notes:frames:47-13|[47-13]]]** The **good news about Jesus**  kept spreading, and the Church kept growing.
-  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the **good news about Jesus**  the Messiah.
-  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will preach the **good news**  about the kingdom of God to people everywhere in the world, and then the end will come."
-  * **[[:ru:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told Christians to proclaim the **good news**  to people who have never heard it.
+  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** Ангел провозгласил: «Не страшитесь, ибо я возвещаю вам **великую радость****!**  В Вифлееме рожден Господь Иисус!»
+  * **[[:ru:obs:notes:frames:26-03|[26-03]]]** Иисус прочитал: «Дух Господень на Мне; ибо Он помазал Меня **благовествовать**  нищим, и послал Меня исцелять сокрушенных сердцем, проповедовать пленным освобождение, слепым прозрение, отпустить измученных на свободу. Проповедовать время Господне благоприятное.»
+  * **[[:ru:obs:notes:frames:45-10|[45-10]]]** Филипп привел в пример и другие места Писания, чтобы донести до своего спутника **благую весть**.
+  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Верующие отослали их на проповедь **Евангелия**  в другие места.
+  * **[[:ru:obs:notes:frames:47-01|[47-01]]]** Как-то раз Павел и его товарищ Сила отправились в город Филиппы, чтобы проповедовать там **Евангелие**.
+  * [[:ru:obs:notes:frames:47-13|[47-13]]] **Евангелие**  продолжало распространяться, а церкви - расти.
+  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** Уже более двух тысяч лет люди по всему миру слышат **благую весть об Иисусе**  - Мессии.
+  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** Когда Иисус еще находился на земле, Он сказал: «И проповедано будет **Евангелие Царства**  по всей вселенной во свидетельство всем народам; и тогда придет конец».
+  * **[[:ru:obs:notes:frames:50-03|[50-03]]]** Перед Своим вознесением Господь повелел христианам возвещать **благую весть**  людям, которые никогда о ней не слышали.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
