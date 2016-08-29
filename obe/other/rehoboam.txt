@@ -16,13 +16,9 @@
 
 {{topic>:en:bible?rehoboam&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
-  ***[[:ru:obs:notes:frames:18-06|[18-06]]]** **Rehoboam** answered foolishly and told them, "You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you more harshly than he did."
-  ***[[:ru:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ru:obs:notes:frames:18-05|[18-05]]]** После смерти Соломона на престол взошел его сын **Ровоам**. **Ровоам**  был безрассудным человеком.
+  * **[[:ru:obs:notes:frames:18-06|[18-06]]]****Ровоам**  безрассудно ответил: «Вы думали, что мой отец Соломон заставлял вас тяжело трудиться? Я заставлю вас работать ещё тяжелее, я буду наказывать вас хуже, чем он».
+  * **[[:ru:obs:notes:frames:18-07|[18-07]]]** Десять колен Израиля взбунтовались против **Ровоама**. Только два колена остались ему верны.
+~~DISCUSSION~~{{tag>publish ktobs}}
