@@ -12,14 +12,14 @@
       * «Наследовать обетования» - значит, получить благо, которое было обещано людям от Господа.
       * Это слово также используется в отрицательном значении, когда речь идет о безрассудных или непокорных людях; они «наследуют ветер» или «наследуют глупость». То есть их безрассудные действия будут иметь пагубные последствия: они будут наказаны и станут влачить жалкое существование.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * As always, consider first whether there are already terms in the target language for the concept of an heir or an inheritance and use those terms.
-  * Depending on the context, other ways that the term "inherit" could be translated might include, "receive" or "possess" or "come to possess" or "come into possession of."
-  * Ways to translate "inheritance" could include, "promised gift" or "secure possession" (from God).
-  * The term "heir" could be translated with a word or phrase that means, "privileged child who receives the father's possessions" or "person chosen to receive (God's) spiritual possessions or blessings."
+  * И, как всегда, рассмотрим сначала, есть ли в языке слова для обозначения концепций «наследник» или «наследство», которые можно будет употребить.
+  * В зависимости от контекста, понятие «наследовать» можно перевести как «получать», «обладать», «стать обладателем», «вступить во владение».
+  * Слово «наследство» можно перевести как «обещанный дар», «сбережения» (Божьи).
+  * Слово «наследник» может быть переведено словом или фразой, означающей «привилегированный ребенок, получающий состояние отца» или «человек, избранный для получения духовного имения (от Бога) или благословений».
 
-(See also: [[:ru:obe:other:heir]], [[:ru:obe:other:canaan|Canaan, Canaanite]], [[:ru:obe:kt:promisedland|Promised Land]])
+(См. также: [[:ru:obe:other:heir|heir]], [[:ru:obe:other:canaan|Canaan, Canaanite]], [[:ru:obe:kt:promisedland|Promised Land]])
 
 ===== Bible References: =====
 
