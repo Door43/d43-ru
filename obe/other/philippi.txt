@@ -1,15 +1,14 @@
 ====== Филиппы ======
 
-===== Facts: =====
+===== Факты: =====
 
-Philippi was a city located in the northern part of ancient Greece.
+Филиппы были городом, расположенным в северной части Древней Греции.
 
-    * Paul and Silas traveled to Philippi to preach about Jesus to the people there.
-    * Paul and Silas were arrested in Philippi, but God miraculously freed them.
-    * Paul wrote the letter to the Philippians in the Bible to the Christians in Philippi.
+  * Павел и Сила пришли в Филиппы, чтобы проповедовать его жителям об Иисусе.
+  * Павел и Сила были там арестованы, но Бог освободил их чудесным образом.
+  * Послание к Филиппийцам, вошедшее в библейский канон, Павел адресовал христианам этого города.
 
-(See also: [[paul]], [[silas]], [[en:obe:kt:christian]])
-
+(См. также: [[:ru:obe:other:paul|Paul, Saul]], [[:ru:obe:other:silas|Silas, Silvanus]], [[:en:obe:kt:christian|Christian]])
 
 ===== Bible References: =====
 
