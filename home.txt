@@ -1,16 +1,15 @@
 ===== Door43 (Русский) =====
 
 Добро пожаловать в Door43, открытую платформу сотрудничества для создания, перевода и распространения открытых лицензированных ресурсов ученичества на любом языке.
-==== Resources ====
+==== Ресурсы ====
 
-These are the resources currently available for translation and use:
+Это ресурсы, имеющиеся в настоящее время для перевода и использования:
 
-  * **[[:ru:obs|Истории Открытой Библии]]** – неограниченная наглядная мини-Библия на любом языке  
-  * [[:ru:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
-  * [[:ru:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
-  * [[:ru:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
-  * [[:ru:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators. 
-
+   * ** [[:ru:obs| Истории Открытой Библии]] ** - неограниченная наглядная мини-Библия на любом языке
+   * [[:ru:obs:notes|translationNotes]] - Перевод и экзегетические записки для Открытых библейских рассказов.
+   * [[: RU: лексикон | Открытая Библия Lexicon]] - Библейская лексика, предназначенная для интеграции с Open библейских рассказов и переводов Библии.
+   * [[:ru:library|Open Christian Library]] - Растущий каталог открытых лицензированные библейских ресурсов.
+   * [[:ru:ta|translationAcademy]]- Модульный медиа на основе самостоятельного учебного курса для переводчиков и переводческих кураторов.
 ==== About Door43 ====
 
   * **[[:ru:get-started|How to Get Started]]** – Get started translating!
