@@ -7,12 +7,12 @@
   * Обещания являются важной частью официального соглашения, например, завета.
   * Они часто сопровождаются клятвой или подтверждением, что будут исполнены.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
-  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
+  * Слово «обещание» может быть переведено как «заверять кого-то, в выполнении чего-либо» или «связывать себя обязательством по отношению к чему-то».
+  * Выражение «дать легкомысленное обещание» может быть также переведено как «опрометчиво и необдуманно что-то обещать».
 
-(See also: [[:ru:obe:kt:covenant]], [[:ru:obe:other:oath]], [[:ru:obe:kt:vow]])
+(См. также: [[:ru:obe:kt:covenant|завет]], [[:ru:obe:other:oath|oath, swear]], [[:ru:obe:kt:vow|vow]])
 
 ===== Bible References: =====
 
