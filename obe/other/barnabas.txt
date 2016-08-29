@@ -1,16 +1,16 @@
 ====== Варнава ======
 
-===== Facts: =====
+===== Факты: =====
 
-Barnabas was one of the early Christians who lived during the time of the apostles. His name means "son of encouragement".
+Варнава был одним из ранних христиан, живших во времена Апостолов. Его имя означает «сын утешения».
 
-  * Barnabas was from the Israelite tribe of Levi and was from the island of Cyprus.
-  * When Saul (Paul) became a Christian, Barnabas urged the other believers to accept him as a fellow believer.
-  * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
+  * Варнава происходил из колена Левия и был родом с Кипра.
+  * Когда Савл (Павел) стал христианином, Варнава призвал других верующих принять его как брата по вере.
+  * Варнава путешествовал вместе с Павлом по разным городам, проповедуя благую весть об Иисусе.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[paul]], [[en:obe:kt:christian]])
+(См. также: [[:ru:obe:other:paul|Paul, Saul]], [[:en:obe:kt:christian|Christian]])
 
 ===== Bible References: =====
 
