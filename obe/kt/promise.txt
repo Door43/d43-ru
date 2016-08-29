@@ -18,15 +18,15 @@
 
 {{topic>:en:bible?promise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
-  * **[[:ru:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
-  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
-  * **[[:ru:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
-  * **[[:ru:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
-  * **[[:ru:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
-  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
+  * **[[:ru:obs:notes:frames:03-15|[03-15]]]** Бог сказал: «Я **обещаю**, что больше никогда не прокляну землю из-за людского греха и не истреблю мир потопом, потому что зло человека - от юности его.»
+  * **[[:ru:obs:notes:frames:03-16|[03-16]]]** В знак Своего **обещания**  Бог дал первую радугу. Каждый раз, когда она появлялась на небе, Бог вместе со Своим народом вспоминал о данном **обетовании**.
+  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** Бог **обещал**  дать Авраму сына и произвести от него столько потомков, сколько звезд на небе. Аврам поверил Божьему **обещанию**.
+  * **[[:ru:obs:notes:frames:05-04|[05-04]]]** «Твоя жена Сара родит сына; это будет сын **обетования**.»
+  * **[[:ru:obs:notes:frames:08-15|[08-15]]]****Обетования**  завета, которые Бог дал Аврааму, перешли к Исааку, потом - к Иакову, и, наконец, - к его двенадцати сыновьям и их семьям.
+  * **[[:ru:obs:notes:frames:17-14|[17-14]]]** Хотя Давид не сохранил верность Богу, Господь остался верен Своим **обещаниям**.
+  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** Иисус **обещал**  вернуться в конце времен. И, несмотря на то, что этого пока не произошло, Он сдержит Свое **обещание**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
