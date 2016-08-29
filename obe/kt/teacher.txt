@@ -8,13 +8,12 @@
   * Людей, учащихся у учителя, называют «учениками» или «учащимися».
   * В некоторых переводах Библии это слово написано с заглавной буквы.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The usual word for a teacher can be used to translate this term, unless that word is only used for a school teacher.
-  * Some cultures may have a special title that is used for religious teachers such as "Sir" or "Rabbi" or "Preacher."
- 
+  * Для перевода этого понятия может использоваться обычное слово «учитель» (если только оно не передает значение «школьный учитель»).
+  * В некоторых культурах может существовать особое название, употребляемое в отношении религиозных учителей, к примеру, «сэр», «раввин» или «проповедник».
 
-(See also: [[:ru:obe:kt:disciple|disciple]], [[:ru:obe:other:preach|preach]])
+(См. также: [[:ru:obe:kt:disciple|disciple]], [[:ru:obe:other:preach|preach]])
 
 ===== Bible References: =====
 
