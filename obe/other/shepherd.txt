@@ -13,11 +13,12 @@
 
 ===== Translation Suggestions =====
 
-  * This term could be translated as, "person who takes care of sheep" or "sheep tender" or "sheep caregiver."
-  * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "who is like a shepherd" or "who cares for his people like a shepherd cares for his sheep," depending on the context.
-  * Ways to translate the verb, "to shepherd" (a flock) could include, "to take care of" or "to spiritually nourish" or "to guide and teach like a spiritual shepherd."
+  * Этот термин можно перевести как "человек, который заботится об овцах", "
+ухаживает за овцами" или "пестует овец".
+  * В качестве метафоры этот термин может включать в себя такие переводы как "духовный пастырь", "тот, кто подобен пастуху" или "кто заботится о своем народе, как пастух заботится о своих овцах", в зависимости от контекста.
+  * Переводы глагола "пасти" (стадо) могут включать в себя: "заботиться о", "духовно питать" или "направлять и учить, как духовный пастырь."
 
-(See also: [[:ru:obe:other:sheep|sheep, ram]], [[:ru:obe:kt:pastor|pastor]], [[:ru:obe:kt:believer|believer]])
+(См. также: [[:ru:obe:other:sheep|sheep, ram]], [[:ru:obe:kt:pastor|pastor]], [[:ru:obe:kt:believer|believer]])
 
 ===== Bible References: =====
 
