@@ -16,10 +16,9 @@
 
 {{topic>:en:bible?barnabas&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas** took Saul to the apostles and told them how Saul had preached boldly in Damascus. 
-  ***[[:ru:obs:notes:frames:46-09|[46-09]]]** **Barnabas** and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
-  ***[[:ru:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas** and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas** and Saul and placed their hands on them. 
-
+  * **[[:ru:obs:notes:frames:46-08|[46-08]]]** Затем верующий по имени **Варнава**  отвел Савла к Апостолам и рассказал им о том, как Савл смело проповедовал в Дамаске.
+  * **[[:ru:obs:notes:frames:46-09|[46-09]]]****Варнава**  и Савл отправились туда, чтобы наставить новообращенных в пути Господнем и укрепить их церковь.
+  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Как-то раз, когда христиане в Антиохии постились и молились, Святой Дух сказал им: «Отделите для Меня **Варнаву**  и Савла, чтобы они начали делать то, к чему Я их призвал». Тогда церковь в Антиохии помолилась за **Варнаву**  и Савла, возложив на них руки.
 ~~DISCUSSION~~{{tag>publish ktobs}}
