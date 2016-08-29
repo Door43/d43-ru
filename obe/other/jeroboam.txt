@@ -15,14 +15,10 @@
 
 {{topic>:en:bible?jeroboam&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named **Jeroboam** to be their king.
-  ***[[:ru:obs:notes:frames:18-09|[18-09]]]** **Jeroboam** rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:18-08|[18-08]]]** Десять колен Израиля, восставшие против Ровоама, избрали себе в цари человека по имени **Иеровоам**.
+  * **[[:ru:obs:notes:frames:18-09|[18-09]]]****Иеровоам**  восстал против Бога и ввёл людей в грех. Он поставил для своего народа двух идолов, которым они поклонялись вместо Бога, обитавшего в иудейском Храме.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
