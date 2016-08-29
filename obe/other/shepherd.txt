@@ -1,15 +1,15 @@
 ====== пастух, пасти ======
 
-===== Definition: =====
+===== Определение: =====
 
-A shepherd is a person who takes care of sheep. The verb "to shepherd" means to tend or care for sheep. This term is often used metaphorically in the Bible to refer to taking care of people's needs, both physically and spiritually.
+Пастух - это человек, заботящийся об овцах. «Пасти» - значит, присматривать или ухаживать за овцами. Это слово часто используется в Библии метафорически, когда речь идет о восполнении нужд людей, как физических, так и духовных.
 
-  * The shepherd may be the owner of the sheep, or he may be someone who is hired by their owner.
-  * In Bible times, shepherds often tended the sheep outdoors, leading them to places with good food and water. Shepherds also keep the sheep from getting lost and protect them from wild animals.
-  * In the Old Testament, God is called the shepherd of his people because he takes care of all their needs and protects them.
-  * In the New Testament, Jesus calls himself the "good shepherd" who cares for those who follow him.
-  * Also in the New Testament, the term "shepherd" is used to refer to a spiritual leader over other believers.
-  * The term "pastor" is the same word as "shepherd."
+  * Пастух может быть владельцем овец или наемником.
+  * В библейские времена пастухи часто пасли овец под открытым небом, ведя их к тем местам, где находилась хорошая пища и вода. Пастухи следили за тем, чтобы овцы не терялись, они защищали стада от диких животных.
+  * В Ветхом Завете Бог назван Пастырем овец, потому что Он заботиться о нуждах стада и охраняет его.
+  * В Новом Завете Иисус назвал Себя «добрым пастырем», заботящимся о тех, кто за Ним следует.
+  * В Новом Завете слово «пастырь» употребляется там, где речь идет о духовном руководителе верующих.
+  * Слово «пастырь» является синонимом слова «пастух».
 
 ===== Translation Suggestions =====
 
