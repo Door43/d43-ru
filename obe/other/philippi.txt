@@ -14,14 +14,10 @@
 
 {{topic>:en:bible?philippi&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-    * **[[:ru:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi** to proclaim the good news about Jesus. 
-    * **[[:ru:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and Silas from prison and asked them to leave **Philippi**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:47-01|[47-01]]]** Как-то раз Павел и его товарищ Сила отправились в город **Филиппы**, чтобы проповедовать там Евангелие Иисуса.
+  * **[[:ru:obs:notes:frames:47-13|[47-13]]]** На следующий день власти города освободили Павла и Силу и потребовали, чтобы они покинули **Филиппы**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
