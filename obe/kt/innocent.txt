@@ -22,11 +22,11 @@
 
 {{topic>:en:bible?innocent&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
-  * **[[:ru:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
-  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** Прошло два года, но Иосиф всё ещё находился в тюрьме, несмотря на то, что был **невиновным**.
+  * **[[:ru:obs:notes:frames:40-04|[40-04]]]** Один из них насмехался над Иисусом, другой же говорил: «Или ты не боишься Бога? Мы виновны, а в этом человеке нет **вины**».
+  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** Когда воин, стерёгший Иисуса, увидел всё, что произошло, он сказал: «Истинно, этот человек был **неповинным**! Он был Сыном Божьим!»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
