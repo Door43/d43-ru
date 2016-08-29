@@ -1,17 +1,16 @@
 ====== наследовать, наследство ======
 
-===== Definition: =====
+===== Определение: =====
 
-To inherit means to receive something valuable from a parent or other person, because of a special relationship with that person. The inheritance that is received may be money, land or other kinds of property. 
+Наследовать - значит, получить что-то ценное от родителя или кого-то другого, благодаря особым взаимоотношениям с этим человеком. Можно получить в наследство деньги, землю и другое имущество.
 
-  * God promised to Abraham and his descendants that they would inherit the land of Canaan, that it would belong to them forever.
-  * There is also a figurative or spiritual sense in which people who belong to God are said to "inherit the land." This means that they will prosper and be blessed by God in both physical and spiritual ways.
-  * In the New Testament, God promises that those who trust in Jesus will "inherit salvation" and "inherit eternal life." It is also expressed as, "inherit the kingdom of God." This is a spiritual inheritance that lasts forever.
-  * There are other figurative meanings for these terms:
-      * The Bible says that wise people will "inherit glory" and righteous people will "inherit good things."
-      * To "inherit the promises" means to receive the good things that God has promised to give his people.
-      * This term is also used in a negative sense to refer to foolish or disobedient people who "inherit the wind" or "inherit folly." This means they receive the consequences of their sinful actions, including punishment and worthless living.
-
+  * Бог обещал Аврааму и его потомкам, что они наследуют землю Ханаан, и она будет навсегда им принадлежать.
+  * Когда людям, принадлежащим Богу, сказано «наследовать землю», то в этих словах содержится образный или духовный смысл. Он заключается в том, что они будут преуспевать и получат благословение от Бога в физическом и духовном плане.
+  * В Новом Завете Бог обещает, что люди, доверяющие Иисусу, «наследует спасение и вечную жизнь». По-другому это выражается как «наследовать Божье Царство». Такое духовное наследие будет вечным.
+  * Но есть и другое образное значение для этих понятий:
+      * В Библии говорится, что мудрые «наследуют славу», а праведные «наследуют блага».
+      * «Наследовать обетования» - значит, получить благо, которое было обещано людям от Господа.
+      * Это слово также используется в отрицательном значении, когда речь идет о безрассудных или непокорных людях; они «наследуют ветер» или «наследуют глупость». То есть их безрассудные действия будут иметь пагубные последствия: они будут наказаны и станут влачить жалкое существование.
 
 ===== Translation Suggestions: =====
 
