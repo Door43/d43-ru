@@ -1,11 +1,11 @@
 ====== обещание ======
 
-===== Definition: =====
+===== Определение: =====
 
-A promise is a pledge or commitment to do a certain thing. When someone makes a promise, he assures the people he is speaking to that he will truly do what he has said he will do.
+Обещание - это поручительство или обязательство по выполнению определенных условий. Когда человек дает обещание, он заверяет людей в том, что исполнит все сказанное.
 
-  * Promises are an important part of formal agreements such as covenants.
-  * A promise is often accompanied by an oath or confirmation that it will be done.
+  * Обещания являются важной частью официального соглашения, например, завета.
+  * Они часто сопровождаются клятвой или подтверждением, что будут исполнены.
 
 ===== Translation Suggestions: =====
 
