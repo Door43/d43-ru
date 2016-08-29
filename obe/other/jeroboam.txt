@@ -1,17 +1,15 @@
 ====== Иерововам ======
 
-===== Facts: =====
+===== Факты: =====
 
+Первым царем северного царства (Израиля) был Иеровоам. Он правил десятью коленами Израиля, которые восстали и отделились от колена Иудина и Вениаминова, находившихся на юге.
 
-Jeroboam was the first king of the northern kingdom of Israel. He ruled over the ten tribes of Israel that rebelled and separated from the tribes of Judah and Benjamin in the south.
+  * Иеровоам творил много зла. Он поставил идолов и воодушевлял народ Израиля поклоняться им вместо Господа, обитавшего в иерусалимском храме.
+  * Цари, правящие после Иеровоама, следовали злым путям этого царя.
 
-    * Jeroboam was a very wicked king. He set up idols and encouraged the people of the kingdom of Israel to worship them, instead of worshiping Yahweh at the Temple in Jerusalem.
-    * Future kings of the kingdom of Israel followed Jeroboam's evil example.
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[kingdomofisrael]], [[kingdomofjudah]])
-
+(См. также: [[:ru:obe:other:kingdomofisrael|царство Израиль]], [[:ru:obe:other:kingdomofjudah|царство Иуды]])
 
 ===== Bible References: =====
 
