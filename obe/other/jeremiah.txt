@@ -1,16 +1,15 @@
 ====== Иеремия ======
 
-===== Facts: =====
+===== Факты: =====
 
-Jeremiah was a prophet of God in the kingdom of Judah.
+Иеремия был Божьим пророком в Иудее.
 
-  * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
-  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
+  * Как и большинство пророков, Иеремия часто предупреждал людей о том, что Бог покарает их за грехи.
+  * Иеремия пророчествовал, что Иерусалим будет захвачен вавилонянами, и это приводило иудеев в ярость. Однажды они бросили пророка в пустой колодец и оставили его там умирать. Но царь Иудеи приказал своим слугам вытащить Иеремию из колодца.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:prophet]], [[kingdomofjudah]], [[babylon]])
-
+(См. также: [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:ru:obe:other:kingdomofjudah|царство Иуды]], [[:ru:obe:other:babylon|Babylon, Babylonian]])
 
 ===== Bible References: =====
 
