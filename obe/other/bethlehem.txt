@@ -1,15 +1,15 @@
 ====== Вифлеем ======
 
-===== Facts: =====
+===== Факты: =====
 
-Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
+Вифлеем был небольшим городом в земле Израильской, находившимся неподалеку от города Иерусалима. Он существует и по сей день.
 
-  * King David was born in Bethlehem; for this reason it has been called the "city of David."
-  * The prophet Micah said that the Messiah would come from Bethlehem.
+  * В Вифлееме родился царь Давид, поэтому этот город стали называть «городом Давида».
+  * Пророк Михей говорил, что Мессия родится в Вифлееме.
   * Bethlehem is the city where Jesus was born.
-  * The name means "house of bread" or "house of food."
+  * Слово «Вифлеем» означает «дом хлеба» или «дом пищи».
 
-(See also: [[david]])
+(См. также: [[:ru:obe:other:david|David]])
 
 ===== Bible References: =====
 
