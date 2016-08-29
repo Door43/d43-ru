@@ -1,15 +1,14 @@
 ====== Назарет, Назарянин ======
 
-===== Facts: =====
+===== Факты: =====
 
-Nazareth is a town in the region of Galilee in northern Israel.
+Назарет - это город в Галилее - северной области Израиля.
 
-  * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
-  * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
-  * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+  * Мария и Иосиф были из Назарета; именно там прошло детство Иисуса.
+  * Многие люди из Назарета пренебрежительно отнеслись к учению Иисуса, потому что Иисус вырос среди них, и они считали Его обыкновенным человеком.
+  * Народ Назарета пытался убить Иисуса, когда Он сказал людям, что Он был Мессией.
 
-(See also: [[galilee]], [[josephnt]], [[mary]], [[en:obe:kt:christ]])
-
+(См. также: [[:ru:obe:other:galilee|Galilee, Galilean]], [[:ru:obe:other:josephnt|Иосиф (из Нового Завета)]], [[:ru:obe:other:mary|Mary]], [[:en:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: =====
 
