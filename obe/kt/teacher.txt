@@ -19,13 +19,13 @@
 
 {{topic>:en:bible?teacher&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
-  * **[[:ru:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-  * **[[:ru:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
-  * **[[:ru:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
-  * **[[:ru:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God.
+  * **[[:ru:obs:notes:frames:27-01|[27-01]]]** Однажды к Иисусу пришёл учитель Моисеева закона и, желая испытать Его, спросил: «**Наставник**, что мне делать, чтобы наследовать жизнь вечную?»
+  * **[[:ru:obs:notes:frames:28-01|[28-01]]]** Однажды к Иисусу подошел один богатый юноша и спросил Его: «**Учитель**  Благой, что мне делать, чтобы иметь жизнь вечную?»
+  * **[[:ru:obs:notes:frames:37-02|[37-02]]]** Через два дня Иисус сказал Своим ученикам: «Давайте вернёмся в Иудею». «Но **Учитель**», - возразили ученики, - «совсем недавно иудеи хотели убить Тебя!»
+  * **[[:ru:obs:notes:frames:38-14|[38-14]]]** Иуда подошел к Иисусу и сказал: «Здравствуй, **Учитель**,» - и поцеловал Его.
+  * **[[:ru:obs:notes:frames:49-03|[49-03]]]** Иисус был великим **учителем**, Он говорил со властью, потому что Он - Божий Сын.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
