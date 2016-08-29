@@ -20,14 +20,14 @@
 
 {{topic>:en:bible?fulfill&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:24-04|[24-04]]]** John **fulfilled**  what the prophets said, "See I send my messenger ahead of you, who will prepare your way."
-  * **[[:ru:obs:notes:frames:40-03|[40-03]]]** The soldiers gambled for Jesus' clothing. When they did this, they **fulfilled**  a prophecy that said, "They divided my garments among them, and gambled for my clothing."
-  * **[[:ru:obs:notes:frames:42-07|[42-07]]]** Jesus said, "I told you that everything written about me in God's word must be **fulfilled**."
-  * **[[:ru:obs:notes:frames:43-05|[43-05]]]**"This **fulfills**  the prophecy made by the prophet Joel in which God said, 'In the last days, I will pour out my Spirit.'"
-  * **[[:ru:obs:notes:frames:43-07|[43-07]]]**"This **fulfills**  the prophecy which says, 'You will not let your Holy One rot in the grave.'"
-  * **[[:ru:obs:notes:frames:44-05|[44-05]]]**"Although you did not understand what you were doing, God used your actions to **fulfill**  the prophecies that the Messiah would suffer and die."
+  * **[[:ru:obs:notes:frames:24-04|[24-04]]]** Иоанн **исполнил**  то, что предсказывали пророки: «Вот, Я посылаю Моего посланника перед Тобой, который приготовит Тебе путь».
+  * **[[:ru:obs:notes:frames:40-03|[40-03]]]** Солдаты бросали жребий об одежде Иисуса. Так **исполнилось**  пророчество, в котором было сказано: «Делят ризы Мои между собою и об одежде Моей бросают жребий».
+  * **[[:ru:obs:notes:frames:42-07|[42-07]]]** Иисус сказал: «Сказываю вам, что все, написанное обо Мне в Слове Божьем должно **исполниться**».
+  * **[[:ru:obs:notes:frames:43-05|[43-05]]]** «Но **исполнилось**  пророчество Иоиля, в котором Бог говорит: ‘В последние дни Я изолью Моего Духа’».
+  * **[[:ru:obs:notes:frames:43-07|[43-07]]]** «Так **исполнилось**  пророчество, в котором говорится: “Ты не позволишь Твоему Святому истлеть в могиле”.
+  * **[[:ru:obs:notes:frames:44-05|[44-05]]]** «Хотя вы не понимали, что творили, Бог использовал ваши действия, чтобы **исполнить**  пророчества о том, что Мессия пострадает и умрёт.»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
