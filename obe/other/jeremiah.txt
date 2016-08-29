@@ -15,13 +15,10 @@
 
 {{topic>:en:bible?jeremiah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah** was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull **Jeremiah** out of the well before he died.
-  ***[[:ru:obs:notes:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like the covenant God made with Israel at Sinai. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:19-17|[19-17]]]** Однажды пророка **Иеремию**  бросили в пустой колодец и оставили его там умирать. Он погрузился в грязь, находившуюся на дне колодца, но царь сжалился над ним и приказал слугам вытащить его, пока **Иеремия**  не умер.
+  * **[[:ru:obs:notes:frames:21-05|[21-05]]]** Через пророка **Иеремию**  Бог обещал заключить Новый Завет, не такой как завет Бога с Израилем на горе Синай.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
