@@ -19,14 +19,13 @@
 
 {{topic>:en:bible?believer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
-  * **[[:ru:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
-  * **[[:ru:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
-  * **[[:ru:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * **[[:ru:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
-  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * **[[:ru:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
-
+  * **[[:ru:obs:notes:frames:43-01|[43-01]]]** После того, как Иисус вознёсся на небеса, ученики оставались в Иерусалиме по велению Иисуса. **Верующие**  постоянно собирались вместе для молитвы.
+  * **[[:ru:obs:notes:frames:43-03|[43-03]]]** Все **верующие**  были вместе, когда вдруг дом, в котором они находились, наполнился звуком, похожим на шум сильного ветра. Над их головами появились языки пламени. Все **верующие**  исполнились Святым Духом и начали говорить на иных языках.
+  * **[[:ru:obs:notes:frames:43-13|[43-13]]]** Ежедневно все больше людей становилось **верующими**.
+  * **[[:ru:obs:notes:frames:46-06|[45-06]]]** В тот день многие в Иерусалиме начали гнать последователей Иисуса, и **верующие**  бежали в другие места. Но, несмотря на это, они проповедовали об Иисусе везде, куда ни приходили.
+  * **[[:ru:obs:notes:frames:46-01|[46-01]]]** Савл был молодым человеком, охранявшим одежду людей, побивающих камнями Стефана. Он не верил в Иисуса и преследовал **верующих**.
+  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** Некоторые **верующие**, бежавшие от преследований в Иерусалиме, дошли до Антиохии и проповедовали там об Иисусе. Именно здесь **верующих**  в Иисуса впервые стали назвать «христианами».
+  * **[[:ru:obs:notes:frames:47-14|[47-14]]]** Они написали много посланий для ободрения и наставления **верующих**  в церквях.
 ~~DISCUSSION~~{{tag>publish ktobs}}
