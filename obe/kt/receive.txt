@@ -20,11 +20,11 @@
 
 {{topic>:en:bible?receive&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * **[[:ru:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
-  * **[[:ru:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
-  * **[[:ru:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the cross, he **received**  your punishment.
-  * **[[:ru:obs:notes:frames:49-13|[49-13]]]** God will save everyone who believes in Jesus and **receives**  him as their Master.
+  * **[[:ru:obs:notes:frames:21-13|[21-13]]]** Пророки также предсказывали, что Мессия будет совершенным, безгрешным человеком. Он умрёт, чтобы **принять**  наказание за грехи других людей. Его наказание восстановит мир между Богом и людьми.
+  * **[[:ru:obs:notes:frames:45-05|[45-05]]]** Когда Стефан умирал, он воскликнул: «Иисус, **прими**  мой дух!»
+  * **[[:ru:obs:notes:frames:49-06|[49-06]]]** Он (Иисус) говорил, что одни люди примут Его и спасутся, а другие - нет.
+  * **[[:ru:obs:notes:frames:49-10|[49-10]]]** Когда Иисус умер на кресте, Он **принял**  на Себя твоё наказание.
+  * **[[:ru:obs:notes:frames:49-13|[49-13]]]** Бог спасет каждого, кто верит в Иисуса и **принимает**  Его как Господа.
 ~~DISCUSSION~~{{tag>publish ktobs}}
