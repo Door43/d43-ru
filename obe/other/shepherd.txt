@@ -23,11 +23,11 @@
 
 {{topic>:en:bible?shepherd&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * **[[:ru:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * **[[:ru:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+  * **[[:ru:obs:notes:frames:09-11|[09-11]]]** Моисей стал **пастухом**  в пустыне вдали от Египта.
+  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** Давид был **пастухом**  из Вифлеема. Иногда, когда он пас овец, ему приходилось убивать львов и медведей, нападавших на стадо.
+  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** В ту ночь на поле были **пастухи**, охраняющие свои стада.
+  * **[[:ru:obs:notes:frames:23-08|[23-08]]]****Пастухи**  пошли туда, где был Иисус, и нашли Его лежащим в яслях - именно так, как сказал им ангел.
+  * **[[:ru:obs:notes:frames:30-03|[30-03]]]** Они напоминали Иисусу овец, не имеющих **пастыря**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
