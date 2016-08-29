@@ -1,17 +1,16 @@
 ====== Ровоам ======
 
-===== Facts: =====
+===== Факты: =====
 
-Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
+Ровоам был одним из сыновей царя Соломона и наследовал трон после смерти отца.
 
-  * When Rehoboam spoke too severely to the people of Israel, ten of the tribes rebelled against him. Because of this, the nation of Israel became two kingdoms: the kingdom of Israel in the north and the kingdom of Judah in the south.
-  * Rehoboam continued to be the king of the kingdom of Judah, which consisted of the two tribes who remained loyal to him.
-  * Rehoboam was a wicked king who did not obey Yahweh, but served false gods.
+  * Когда Ровоам дал суровый ответ народу израильскому, против него восстало десять колен. Израиль раскололся на два царства: Израиль - на севере и Иуду - на юге.
+  * Ровоам остался царем над Иудеей, состоявшей из двух колен, которые сохранили верность своему царю.
+  * Ровоам творил много зла, он не повиновался Господу и служил иным богам.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[solomon]], [[kingdomofjudah]])
-
+(См. также: [[:ru:obe:other:solomon|Solomon]], [[:ru:obe:other:kingdomofjudah|царство Иуды]])
 
 ===== Bible References: =====
 
