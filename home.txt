@@ -12,15 +12,16 @@
   * [[:ru:ta|translationAcademy (Академия перевода)]] - Самоучитель для переводчиков и переводческих кураторов.
 ==== Про Door43 ====
 
-  * **[[:ru:get-started|Как начать - начните перевод!
-  * **[[:ru:ta:vol1:intro:statement_of_faith|Заявление Веры - взгляды вероучения, с которым  согласны все участники Door43.
-  * **[[:ru:ta:vol1:intro:translation_guidelines|Руководство по переводу - Принципы и процедуры, которым должны следовать все участник.
-  * **[[:ru:ta:vol1:intro:open_license|Авторские права и лицензии - Все материалы на данном сайте, предоставляется в соответствии с условиями [[https://creativecommons.org/licenses/by-sa/4.0/deed.ru/|Атрибуции-на тех же условиях 4.0 международной лицензии организации Creative Commons.
-  * **[[:ru:technical|Технические подробности - Технология, лежащая в Door43.
-==== Extending Door43 ====
+  * **[[:ru:get-started|Как начать]]** – начните перевод!
+  * **[[:ru:ta:vol1:intro:statement_of_faith|Заявление Веры]]** – взгляды вероучения, с которым  согласны все участники Door43.
+  * **[[:ru:ta:vol1:intro:translation_guidelines|Руководство по переводу]]** – Принципы и процедуры, которым должны следовать все участник.
+  * **[[:ru:ta:vol1:intro:open_license|Авторские права и лицензии]]** – Все материалы на данном сайте, предоставляется в соответствии с условиями [[https://creativecommons.org/licenses/by-sa/4.0/deed.ru/|Атрибуции-на тех же условиях 4.0 международной лицензии организации Creative Commons]].
+  * **[[:ru:technical|Технические подробности]]** – Технология, лежащая в Door43.
 
-Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+==== Развитие Door43 ====
+
+Door43 находится в активной разработке. Поскольку мы расширяем полезность содержания путем разработки способов сделать его доступным в большем количестве форматов и на большем количестве мобильных устройств, предлагаем узнать, как вы можете помочь с **[[:ru:dev|Door43 Разработка]]**.
 
 ----
 
-//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
+//"Молитесь… чтобы Бог открыл нам **дверь** для Слова." —Колоссянам **4**:**3**  // 
