@@ -39,7 +39,7 @@
 === Своевременное обучение Часть 1 ===
 
   * [[:ru:ta:vol1:translate:translate_unknown en:ta:vol1:translate:translate_names]]
-  * [[:ru:ta:vol1:translate:figs_intro]] [[n:ta:vol1:translate:figs_metaphor]] [[:ru:ta:vol1:translate:figs_simile]] [[:ru:ta:vol1:translate:figs_rquestion]] [[:ru:ta:vol1:translate:figs_idiom]] [[:ru:ta:vol1:translate:figs_irony]]
+  * [[:ru:ta:vol1:translate:figs_intro]] [[ru:ta:vol1:translate:figs_metaphor]] [[:ru:ta:vol1:translate:figs_simile]] [[:ru:ta:vol1:translate:figs_rquestion]] [[:ru:ta:vol1:translate:figs_idiom]] [[:ru:ta:vol1:translate:figs_irony]]
   * [[:ru:ta:vol1:translate:figs_order]]
   * [[:ru:ta:vol1:translate:figs_you]] [[:ru:ta:vol1:translate:figs_youdual]] [[:ru:ta:vol1:translate:figs_yousingular]]
   * [[:ru:ta:vol1:translate:figs_explicit]] [[:ru:ta:vol1:translate:figs_explicitinfo]]
