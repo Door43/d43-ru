@@ -1,50 +1,50 @@
 ===== Содержание - Руководство по переводу Том 1 =====
 
-This module answers the question: //Что содержится в первом томе «Руководства по переводу»?//
+Здесь содержится отвечает на вопрос: //Что содержится в первом томе «Руководства по переводу»?//
 
 ==== Руководство по переводу Том 1 ====
 
 === Введение ===
 
-  * ru:ta:vol1:translate:translate_manual
-  * ru:ta:vol1:translate:translate_terms
-  * ru:ta:vol1:translate:translate_whatis
-  * ru:ta:vol1:translate:translate_why
+  * [[:ru:ta:vol1:translate:translate_manual]]
+  * [[:ru:ta:vol1:translate:translate_terms]]
+  * [[:ru:ta:vol1:translate:translate_whatis]]
+  * [[:ru:ta:vol1:translate:translate_why]]
 
 === Определение качественного перевода ===
 
-  * ru:ta:vol1:translate:guidelines_intro en:ta:vol1:translate:guidelines_clear en:ta:vol1:translate:guidelines_natural en:ta:vol1:translate:guidelines_accurate en:ta:vol1:translate:guidelines_church_approved
+  * [[:ru:ta:vol1:translate:guidelines_intro]] [[en:ta:vol1:translate:guidelines_clear]] [[en:ta:vol1:translate:guidelines_natural]] [[en:ta:vol1:translate:guidelines_accurate]] [[en:ta:vol1:translate:guidelines_church_approved]]
 
 === Смысловой перевод ===
 
-  * ru:ta:vol1:translate:translate_process en:ta:vol1:translate:translate_discover en:ta:vol1:translate:translate_retell
-  * ru:ta:vol1:translate:translate_fandm en:ta:vol1:translate:translate_form en:ta:vol1:translate:translate_levels
-  * ru:ta:vol1:translate:translate_literal en:ta:vol1:translate:translate_wforw en:ta:vol1:translate:translate_problem
-  * ru:ta:vol1:translate:translate_dynamic en:ta:vol1:translate:translate_tform
+  * [[:ru:ta:vol1:translate:translate_process]] [[en:ta:vol1:translate:translate_discover]] [[en:ta:vol1:translate:translate_retell]]
+  * [[:ru:ta:vol1:translate:translate_fandm]] [[en:ta:vol1:translate:translate_form]] [[en:ta:vol1:translate:translate_levels]]
+  * [[:ru:ta:vol1:translate:translate_literal]] [[en:ta:vol1:translate:translate_wforw]] [[en:ta:vol1:translate:translate_problem]]
+  * [[:ru:ta:vol1:translate:translate_dynamic]] [[en:ta:vol1:translate:translate_tform]]
 
 === Перед переводом ===
 
-  * ru:ta:vol1:translate:choose_team en:ta:vol1:translate:qualifications
-  * ru:ta:vol1:translate:translate_source_text en:ta:vol1:translate:translate_source_licensing en:ta:vol1:translate:translate_source_version en:ta:vol1:translate:translate_original en:ta:vol1:translate:translate_manuscripts en:ta:vol1:translate:translate_textvariants
-  * ru:ta:vol1:translate:translate_alphabet
-  * ru:ta:vol1:translate:writing_decisions
+  * [[:ru:ta:vol1:translate:choose_team]] [[en:ta:vol1:translate:qualifications]]
+  * [[:ru:ta:vol1:translate:translate_source_text]] [[en:ta:vol1:translate:translate_source_licensing]] [[en:ta:vol1:translate:translate_source_version]] [[en:ta:vol1:translate:translate_original]] [[en:ta:vol1:translate:translate_manuscripts]] [[en:ta:vol1:translate:translate_textvariants]]
+  * [[:ru:ta:vol1:translate:translate_alphabet]]
+  * [[:ru:ta:vol1:translate:writing_decisions]]
 
 === Как приступить к переводу ===
 
-  * ru:ta:vol1:translate:translate_what
-  * ru:ta:vol1:translate:first_draft
-  * ru:ta:vol1:translate:resources_intro
-  * ru:ta:vol1:translate:translate_help en:ta:vol1:translate:resources_types en:ta:vol1:translate:resources_links
+  * [[:ru:ta:vol1:translate:translate_what]]
+  * [[:ru:ta:vol1:translate:first_draft]]
+  * [[:ru:ta:vol1:translate:resources_intro]]
+  * [[:ru:ta:vol1:translate:translate_help]] [[en:ta:vol1:translate:resources_types]] [[en:ta:vol1:translate:resources_links]]
 
 === Своевременное обучение Часть 1 ===
 
-  * ru:ta:vol1:translate:translate_unknown en:ta:vol1:translate:translate_names
-  * ru:ta:vol1:translate:figs_intro en:ta:vol1:translate:figs_metaphor en:ta:vol1:translate:figs_simile en:ta:vol1:translate:figs_rquestion en:ta:vol1:translate:figs_idiom en:ta:vol1:translate:figs_irony
-  * ru:ta:vol1:translate:figs_order
-  * ru:ta:vol1:translate:figs_you en:ta:vol1:translate:figs_youdual en:ta:vol1:translate:figs_yousingular
-  * ru:ta:vol1:translate:figs_explicit en:ta:vol1:translate:figs_explicitinfo
-  * ru:ta:vol1:translate:figs_hypo
-  * ru:ta:vol1:translate:figs_events
-  * ru:ta:vol1:translate:figs_parables
+  * [[:ru:ta:vol1:translate:translate_unknown en:ta:vol1:translate:translate_names]]
+  * [[:ru:ta:vol1:translate:figs_intro]] [[n:ta:vol1:translate:figs_metaphor]] [[en:ta:vol1:translate:figs_simile]] [[en:ta:vol1:translate:figs_rquestion]] [[en:ta:vol1:translate:figs_idiom]] [[en:ta:vol1:translate:figs_irony]]
+  * [[:ru:ta:vol1:translate:figs_order]]
+  * [[:ru:ta:vol1:translate:figs_you]] [[en:ta:vol1:translate:figs_youdual]] [[en:ta:vol1:translate:figs_yousingular]]
+  * [[:ru:ta:vol1:translate:figs_explicit]] [[en:ta:vol1:translate:figs_explicitinfo]]
+  * [[:ru:ta:vol1:translate:figs_hypo]]
+  * [[:ru:ta:vol1:translate:figs_events]]
+  * [[:ru:ta:vol1:translate:figs_parables]]
 
 
