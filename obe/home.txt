@@ -1,9 +1,9 @@
 ====== Полный перечень слов на русском языке для translationWords ======
 
-==== "Key Terms" and "Other Terms" in the OBE Directory: ====
+==== "Ключевые термины" и "Другие термины" в папке OBE: ====
 
-  * [[:ru:obe:kt:home|List of the Key Terms in the OBE Directory]]
-  * [[:ru:obe:other:home|List of the Other Terms in the OBE Directory]]
+  * [[:ru:obe:kt:home|Перечень "Ключевых терминов" в папке OBE]]
+  * [[:ru:obe:other:home|Перечень "Других терминов" в папке OBE]]
 
 
 ==== All Terms in the OBE: ====
