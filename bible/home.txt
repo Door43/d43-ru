@@ -23,6 +23,6 @@
   * [[ru:ulb:ep:home|Russian Unlocked Literal Bible]]
   * [[ru:udb:ep:home|Russian Unlocked Dynamic Bible]]
 
-Смотрите [[:ru:library|Открытую Христианскую Библиотеку)]] для большего количества экземпляров открытой лицензии Библий , такие как Translation for Translators, Plain English Translation and the Plain Indonesian Translation.
+Смотрите [[:ru:library|Открытую Христианскую Библиотеку]] для большего количества экземпляров открытой лицензии Библий , такие как Translation for Translators, Plain English Translation and the Plain Indonesian Translation.
 
 ~~COMPLEX_TABLES~~
