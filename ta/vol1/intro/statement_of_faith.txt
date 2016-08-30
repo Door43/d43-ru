@@ -1,6 +1,6 @@
 ===== Исповедание веры =====
 
-This module answers the question: //Во что мы верим?//
+Здесь содержится отвечает на вопрос: //Во что мы верим?//
 
 Before you start this module have you learned about:
   * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
