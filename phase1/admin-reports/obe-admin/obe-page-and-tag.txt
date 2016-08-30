@@ -1,0 +1,19 @@
+====== OBE: Страницы и теги ======
+
+~~NOCACHE~~
+
+===== Ключевые термины: Ссылки и заголовки =====
+[[obe-page-and-tag#Other Terms: URL and Title|Перейти к Другим терминам:  Ссылки и заголовки]]
+
+<nspages ru:obe:kt -exclude:home -textpages="" -idAndTitle -nbCol=2>
+
+----
+
+----
+
+===== Другие термины: Ссылки и заголовки =====
+[[obe-page-and-tag#Key Terms: URL and Title|Перейти к Ключевым терминам:  Ссылки и заголовки]]
+
+<nspages ru:obe:other -exclude:home -textpages="" -idAndTitle -nbCol=2>
+
+\\ 
