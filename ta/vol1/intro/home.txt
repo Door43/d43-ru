@@ -1,0 +1,13 @@
+===== Содержание =====
+
+//Здесь содержится отвечает на вопрос:// //Что содержит «translationAcademy»?//
+
+==== Содержание ====
+
+  - [[ru:ta:vol1:intro:ta_intro|Введение к translationAcademy]]
+  - [[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]
+  - [[ru:ta:vol1:intro:statement_of_faith|Исповедание веры]]
+  - [[ru:ta:vol1:intro:translation_guidelines|Рекомендации для перевода]]
+  - [[ru:ta:vol1:intro:open_license|Открытая лицензия]]
+  - [[ru:ta:vol1:intro:gl_strategy|Стратегия ключевых языков]]
+  - [[ru:ta:vol1:intro:finding_answers|Получение ответов]]
