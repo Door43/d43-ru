@@ -1,6 +1,6 @@
 ===== Открытая лицензия =====
 
-This module answers the question: //Какие свободы имеет пользователь относительно содержания unfoldingWord («Раскрывающегося Слова»)?//
+Здесь содержится отвечает на вопрос: //Какие свободы имеет пользователь относительно содержания unfoldingWord («Раскрывающегося Слова»)?//
 
 Before you start this module have you learned about:
   * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
