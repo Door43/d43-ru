@@ -1,9 +1,9 @@
-====== List of the Other Terms in the OBE Directory ======
+====== Перечень "Других терминов" в папке OBE ======
 
 ~~NOCACHE~~
 
-Link to [[:ru:obe:kt:home]] \\ 
-Link to [[:ru:obe:home]]
+Перейти к [[:ru:obe:kt:home]] \\ 
+Перейти к [[:ru:obe:home]]
 
 <nspages ru:obe:other -title -exclude:home -textPages="">
 
