@@ -1,6 +1,7 @@
-====== List of the Key Terms in the OBE Directory ======
-Link to [[:ru:obe:other:home]] \\ 
-Link to [[:ru:obe:home]]
+====== Перечень "Ключевых терминов" в папке OBE ======
+
+Перейти к [[:ru:obe:other:home]] \\ 
+Перейти к [[:ru:obe:home]]
 <nspages ru:obe:kt -title -exclude:home -textPages="">
 
 
