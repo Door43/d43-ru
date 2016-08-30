@@ -1,6 +1,6 @@
 ===== Стратегия ключевых языков =====
 
-This module answers the question: //Как достичь каждый язык?//
+Здесь содержится отвечает на вопрос: //Как достичь каждый язык?//
 
 Before you start this module have you learned about:
   * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
