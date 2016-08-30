@@ -1,4 +1,4 @@
-===== Библия =====
+===== Ведение =====
   * [[ru:bible:rsb]]
   * [[ru:ulb:ep:home| Russian Unlocked Literal Bible]]
   * [[ru:udb:ep:home| Russian Unlocked Dynamic Bible]]
