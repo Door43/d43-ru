@@ -2,7 +2,7 @@
 
 ==== Ветхий Завет ====
 
-  * [[:ru:bible:notes:gru:home]]
+  * [[:ru:bible:notes:gen:home]]
   * [[:ru:bible:notes:exo:home]]
   * [[:ru:bible:notes:lev:home]]
   * [[:ru:bible:notes:num:home]]
