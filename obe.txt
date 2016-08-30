@@ -1,0 +1,11 @@
+====== Полный перечень слов на русском языке для translationWords ======
+
+==== "Ключевые термины" и "Другие термины" в папке OBE: ====
+
+  * [[:ru:obe:kt:home|Перечень "Ключевых терминов" в папке OBE]]
+  * [[:ru:obe:other:home|Перечень "Других терминов" в папке OBE]]
+
+
+==== All Terms in the OBE: ====
+
+<nspages ru:obe -r -title -exclude:home -textPages="">
