@@ -16,11 +16,11 @@ translationAcademy has been created with an introduction and four manuals to hel
 
 ==== Инструмент для визуального проектирования translationAcademy ====
 
-We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
+Нам нужны “Общественные Эксперты”, чтобы приступить к идентификации модулей, которые необходимы в каждой области фокусировки, а затем описывающие содержание и (в ближайшее время) создания записи обучающих видео.
 
-Ready to begin?
+Готовы начать?
 
-  * Go to the [[:ru:ta:workbench|Инструмент для визуального проектирования Translation Academy]] page to read about the status of your materials.
-  * Go to the [[:ru:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
+  * Перейти к странице [[:ru:ta:workbench|Инструмент для визуального проектирования Translation Academy]], чтобы прочитать о состоянии ваших материалов.
+  * Перейти к странице [[:ru:ta:workbench:how-to-use|Как добавить мою информацию]], чтобы узнать, как добавить вашу информацию.
 
-If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond!
+Если вы новичок в translationAcademy, вы также можете взглянуть на руководство по переводу, чтобы изучить основы перевода, проверки, и за его пределами!
