@@ -12,7 +12,7 @@
 ----
 
 ===== Другие термины: Ссылки и заголовки =====
-[[obe-page-and-tag#Key Terms: URL and Title|Перейти к Ключевым терминам:  Ссылки и заголовки]]
+[[obe-page-and-tag#kljuchevye-terminyssylki-i-zagolovki|Перейти к Ключевым терминам:  Ссылки и заголовки]]
 
 <nspages ru:obe:other -exclude:home -textpages="" -idAndTitle -nbCol=2>
 
