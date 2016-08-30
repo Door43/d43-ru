@@ -1,0 +1,1090 @@
+======= List of translationWords in Genesis =======
+
+* [[:ru:obe:other:12tribesofisrael]] is found in:
+ [[:ru:bible:notes:gen:49:28|49:28]]
+
+* [[:ru:obe:other:abimelech]] is found in:
+ [[:ru:bible:notes:gen:26:06|26:06]]
+
+* [[:ru:obe:other:abraham]] is found in:
+ [[:ru:bible:notes:gen:22:04|22:04]], [[:ru:bible:notes:gen:22:09|22:09]], [[:ru:bible:notes:gen:22:13|22:13]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:25:05|25:05]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:49:28|49:28]]
+
+* [[:ru:obe:other:benjamin]] is found in:
+ [[:ru:bible:notes:gen:43:16|43:16]]
+
+* [[:ru:obe:other:eden]] is found in:
+ [[:ru:bible:notes:gen:02:09|02:09]]
+
+* [[:ru:obe:other:egypt]] is found in:
+ [[:ru:bible:notes:gen:46:19|46:19]]
+
+* [[:ru:obe:other:esau]] is found in:
+ [[:ru:bible:notes:gen:27:05|27:05]], [[:ru:bible:notes:gen:27:15|27:15]], [[:ru:bible:notes:gen:27:32|27:32]], [[:ru:bible:notes:gen:27:41|27:41]], [[:ru:bible:notes:gen:36:15|36:15]]
+
+* [[:ru:obe:kt:god]] is found in:
+ [[:ru:bible:notes:gen:01:06|01:06]], [[:ru:bible:notes:gen:01:16|01:16]], [[:ru:bible:notes:gen:01:30|01:30]], [[:ru:bible:notes:gen:24:47|24:47]], [[:ru:bible:notes:gen:30:05|30:05]]
+
+* [[:ru:obe:other:goshen]] is found in:
+ [[:ru:bible:notes:gen:47:05|47:05]]
+
+* [[:ru:obe:other:isaac]] is found in:
+ [[:ru:bible:notes:gen:22:04|22:04]], [[:ru:bible:notes:gen:22:09|22:09]], [[:ru:bible:notes:gen:24:63|24:63]], [[:ru:bible:notes:gen:24:66|24:66]], [[:ru:bible:notes:gen:25:21|25:21]], [[:ru:bible:notes:gen:25:27|25:27]], [[:ru:bible:notes:gen:27:05|27:05]], [[:ru:bible:notes:gen:27:26|27:26]], [[:ru:bible:notes:gen:27:32|27:32]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:35:28|35:28]]
+
+* [[:ru:obe:other:ishmael]] is found in:
+ [[:ru:bible:notes:gen:25:17|25:17]], [[:ru:bible:notes:gen:36:01|36:01]]
+
+* [[:ru:obe:other:jacob]] is found in:
+ [[:ru:bible:notes:gen:27:15|27:15]], [[:ru:bible:notes:gen:30:05|30:05]], [[:ru:bible:notes:gen:31:04|31:04]], [[:ru:bible:notes:gen:47:29|47:29]]
+
+* [[:ru:obe:other:josephot]] is found in:
+ [[:ru:bible:notes:gen:48:17|48:17]]
+
+* [[:ru:obe:other:judah]] is found in:
+ [[:ru:bible:notes:gen:38:12|38:12]]
+
+* [[:ru:obe:other:manasseh]] is found in:
+ [[:ru:bible:notes:gen:48:17|48:17]]
+
+* [[:ru:obe:other:moab]] is found in:
+ [[:ru:bible:notes:gen:19:36|19:36]]
+
+* [[:ru:obe:other:pharaoh]] is found in:
+ [[:ru:bible:notes:gen:47:05|47:05]], [[:ru:bible:notes:gen:47:11|47:11]]
+
+* [[:ru:obe:other:philistines]] is found in:
+ [[:ru:bible:notes:gen:26:06|26:06]]
+
+* [[:ru:obe:other:rachel]] is found in:
+ [[:ru:bible:notes:gen:30:22|30:22]]
+
+* [[:ru:obe:other:rebekah]] is found in:
+ [[:ru:bible:notes:gen:25:21|25:21]]
+
+* [[:ru:obe:other:tamar]] is found in:
+ [[:ru:bible:notes:gen:38:12|38:12]]
+
+* [[:ru:obe:kt:yahweh]] is found in:
+ [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:24:05|24:05]]
+
+* [[:ru:obe:other:abel]] is found in:
+ [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:04:08|04:08]], [[:ru:bible:notes:gen:04:25|04:25]]
+
+* [[:ru:obe:other:abimelech]] is found in:
+ [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:20:04|20:04]], [[:ru:bible:notes:gen:20:08|20:08]], [[:ru:bible:notes:gen:20:10|20:10]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:20:15|20:15]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:22|21:22]], [[:ru:bible:notes:gen:21:25|21:25]], [[:ru:bible:notes:gen:21:28|21:28]], [[:ru:bible:notes:gen:21:31|21:31]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:09|26:09]], [[:ru:bible:notes:gen:26:26|26:26]]
+
+* [[:ru:obe:kt:abomination]] is found in:
+ [[:ru:bible:notes:gen:46:33|46:33]]
+
+* [[:ru:obe:other:abraham]] is found in:
+ [[:ru:bible:notes:gen:11:24|11:24]], [[:ru:bible:notes:gen:11:27|11:27]], [[:ru:bible:notes:gen:11:29|11:29]], [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:12:10|12:10]], [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:13:05|13:05]], [[:ru:bible:notes:gen:13:08|13:08]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:13:14|13:14]], [[:ru:bible:notes:gen:14:10|14:10]], [[:ru:bible:notes:gen:14:13|14:13]], [[:ru:bible:notes:gen:14:15|14:15]], [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:14:21|14:21]], [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:15:09|15:09]], [[:ru:bible:notes:gen:15:12|15:12]], [[:ru:bible:notes:gen:15:17|15:17]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:16:05|16:05]], [[:ru:bible:notes:gen:16:15|16:15]], [[:ru:bible:notes:gen:17:01|17:01]], [[:ru:bible:notes:gen:17:17|17:17]], [[:ru:bible:notes:gen:17:22|17:22]], [[:ru:bible:notes:gen:17:24|17:24]], [[:ru:bible:notes:gen:18:06|18:06]], [[:ru:bible:notes:gen:18:11|18:11]], [[:ru:bible:notes:gen:18:13|18:13]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:18:22|18:22]], [[:ru:bible:notes:gen:18:27|18:27]], [[:ru:bible:notes:gen:18:32|18:32]], [[:ru:bible:notes:gen:19:26|19:26]], [[:ru:bible:notes:gen:19:29|19:29]], [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:20:08|20:08]], [[:ru:bible:notes:gen:20:10|20:10]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:21:05|21:05]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:21:10|21:10]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:21:14|21:14]], [[:ru:bible:notes:gen:21:22|21:22]], [[:ru:bible:notes:gen:21:25|21:25]], [[:ru:bible:notes:gen:21:28|21:28]], [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:22:07|22:07]], [[:ru:bible:notes:gen:22:11|22:11]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:22:20|22:20]], [[:ru:bible:notes:gen:23:01|23:01]], [[:ru:bible:notes:gen:23:03|23:03]], [[:ru:bible:notes:gen:23:05|23:05]], [[:ru:bible:notes:gen:23:07|23:07]], [[:ru:bible:notes:gen:23:10|23:10]], [[:ru:bible:notes:gen:23:12|23:12]], [[:ru:bible:notes:gen:23:14|23:14]], [[:ru:bible:notes:gen:23:17|23:17]], [[:ru:bible:notes:gen:23:19|23:19]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:08|24:08]], [[:ru:bible:notes:gen:24:15|24:15]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:24:42|24:42]], [[:ru:bible:notes:gen:24:52|24:52]], [[:ru:bible:notes:gen:24:59|24:59]], [[:ru:bible:notes:gen:25:01|25:01]], [[:ru:bible:notes:gen:25:07|25:07]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:25:19|25:19]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:18|26:18]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:49:31|49:31]], [[:ru:bible:notes:gen:50:12|50:12]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:adam]] is found in:
+ [[:ru:bible:notes:gen:03:17|03:17]], [[:ru:bible:notes:gen:03:20|03:20]], [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:04:25|04:25]], [[:ru:bible:notes:gen:05:01|05:01]], [[:ru:bible:notes:gen:05:03|05:03]], [[:ru:bible:notes:gen:11:05|11:05]]
+
+* [[:ru:obe:kt:afflict]] is found in:
+ [[:ru:bible:notes:gen:12:17|12:17]], [[:ru:bible:notes:gen:16:11|16:11]], [[:ru:bible:notes:gen:29:31|29:31]], [[:ru:bible:notes:gen:41:50|41:50]]
+
+* [[:ru:obe:other:ai]] is found in:
+ [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:13:03|13:03]]
+
+* [[:ru:obe:kt:almighty]] is found in:
+ [[:ru:bible:notes:gen:17:01|17:01]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:43:13|43:13]], [[:ru:bible:notes:gen:48:03|48:03]]
+
+* [[:ru:obe:other:altar]] is found in:
+ [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:13:03|13:03]], [[:ru:bible:notes:gen:13:16|13:16]], [[:ru:bible:notes:gen:22:09|22:09]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:06|35:06]]
+
+* [[:ru:obe:other:amazed]] is found in:
+ [[:ru:bible:notes:gen:43:32|43:32]], [[:ru:bible:notes:gen:45:24|45:24]]
+
+* [[:ru:obe:other:ammon]] is found in:
+ [[:ru:bible:notes:gen:19:36|19:36]]
+
+* [[:ru:obe:other:amorite]] is found in:
+ [[:ru:bible:notes:gen:10:15|10:15]], [[:ru:bible:notes:gen:14:13|14:13]], [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:48:21|48:21]]
+
+* [[:ru:obe:kt:angel]] is found in:
+ [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:16:09|16:09]], [[:ru:bible:notes:gen:16:11|16:11]], [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:19:14|19:14]], [[:ru:bible:notes:gen:21:17|21:17]], [[:ru:bible:notes:gen:22:11|22:11]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:24:39|24:39]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:31:10|31:10]], [[:ru:bible:notes:gen:32:01|32:01]], [[:ru:bible:notes:gen:48:14|48:14]]
+
+* [[:ru:obe:other:angry]] is found in:
+ [[:ru:bible:notes:gen:31:34|31:34]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:41:09|41:09]], [[:ru:bible:notes:gen:44:18|44:18]], [[:ru:bible:notes:gen:49:05|49:05]], [[:ru:bible:notes:gen:49:07|49:07]]
+
+* [[:ru:obe:kt:anoint]] is found in:
+ [[:ru:bible:notes:gen:31:12|31:12]]
+
+* [[:ru:obe:other:aram]] is found in:
+ [[:ru:bible:notes:gen:25:19|25:19]], [[:ru:bible:notes:gen:28:05|28:05]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:24|31:24]]
+
+* [[:ru:obe:other:ararat]] is found in:
+ [[:ru:bible:notes:gen:08:04|08:04]]
+
+* [[:ru:obe:other:archer]] is found in:
+ [[:ru:bible:notes:gen:21:19|21:19]]
+
+* [[:ru:obe:other:ark]] is found in:
+ [[:ru:bible:notes:gen:06:13|06:13]], [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:07:17|07:17]], [[:ru:bible:notes:gen:08:04|08:04]], [[:ru:bible:notes:gen:08:08|08:08]], [[:ru:bible:notes:gen:08:18|08:18]], [[:ru:bible:notes:gen:09:08|09:08]]
+
+* [[:ru:obe:other:asher]] is found in:
+ [[:ru:bible:notes:gen:30:12|30:12]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:46:16|46:16]], [[:ru:bible:notes:gen:49:19|49:19]]
+
+* [[:ru:obe:kt:assembly]] is found in:
+ [[:ru:bible:notes:gen:49:01|49:01]]
+
+* [[:ru:obe:other:assyria]] is found in:
+ [[:ru:bible:notes:gen:10:11|10:11]], [[:ru:bible:notes:gen:25:17|25:17]]
+
+* [[:ru:obe:kt:authority]] is found in:
+ [[:ru:bible:notes:gen:16:09|16:09]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:42:37|42:37]]
+
+* [[:ru:obe:other:babel]] is found in:
+ [[:ru:bible:notes:gen:10:08|10:08]], [[:ru:bible:notes:gen:11:08|11:08]]
+
+* [[:ru:obe:kt:barren]] is found in:
+ [[:ru:bible:notes:gen:11:29|11:29]]
+
+* [[:ru:obe:other:beersheba]] is found in:
+ [[:ru:bible:notes:gen:21:14|21:14]], [[:ru:bible:notes:gen:21:31|21:31]], [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:26:32|26:32]], [[:ru:bible:notes:gen:28:10|28:10]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:46:05|46:05]]
+
+* [[:ru:obe:kt:believe]] is found in:
+ [[:ru:bible:notes:gen:15:06|15:06]], [[:ru:bible:notes:gen:45:24|45:24]]
+
+* [[:ru:obe:other:benjamin]] is found in:
+ [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:42:01|42:01]], [[:ru:bible:notes:gen:42:35|42:35]], [[:ru:bible:notes:gen:42:37|42:37]], [[:ru:bible:notes:gen:43:28|43:28]], [[:ru:bible:notes:gen:44:11|44:11]], [[:ru:bible:notes:gen:45:12|45:12]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:49:27|49:27]]
+
+* [[:ru:obe:other:bethel]] is found in:
+ [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:13:03|13:03]], [[:ru:bible:notes:gen:28:18|28:18]], [[:ru:bible:notes:gen:31:12|31:12]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:35:14|35:14]], [[:ru:bible:notes:gen:35:16|35:16]]
+
+* [[:ru:obe:other:bethlehem]] is found in:
+ [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:48:05|48:05]]
+
+* [[:ru:obe:other:bethuel]] is found in:
+ [[:ru:bible:notes:gen:28:01|28:01]]
+
+* [[:ru:obe:kt:birthright]] is found in:
+ [[:ru:bible:notes:gen:25:31|25:31]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:43:32|43:32]]
+
+* [[:ru:obe:kt:blameless]] is found in:
+ [[:ru:bible:notes:gen:06:09|06:09]], [[:ru:bible:notes:gen:17:01|17:01]]
+
+* [[:ru:obe:kt:bless]] is found in:
+ [[:ru:bible:notes:gen:01:22|01:22]], [[:ru:bible:notes:gen:01:28|01:28]], [[:ru:bible:notes:gen:02:01|02:01]], [[:ru:bible:notes:gen:05:01|05:01]], [[:ru:bible:notes:gen:09:01|09:01]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:17:15|17:15]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:31|24:31]], [[:ru:bible:notes:gen:24:47|24:47]], [[:ru:bible:notes:gen:24:59|24:59]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:26:02|26:02]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:26:28|26:28]], [[:ru:bible:notes:gen:27:03|27:03]], [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:18|27:18]], [[:ru:bible:notes:gen:27:22|27:22]], [[:ru:bible:notes:gen:27:24|27:24]], [[:ru:bible:notes:gen:27:26|27:26]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:27:30|27:30]], [[:ru:bible:notes:gen:27:32|27:32]], [[:ru:bible:notes:gen:27:34|27:34]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:27:38|27:38]], [[:ru:bible:notes:gen:27:41|27:41]], [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:28:14|28:14]], [[:ru:bible:notes:gen:30:27|30:27]], [[:ru:bible:notes:gen:30:29|30:29]], [[:ru:bible:notes:gen:31:54|31:54]], [[:ru:bible:notes:gen:32:24|32:24]], [[:ru:bible:notes:gen:32:29|32:29]], [[:ru:bible:notes:gen:35:09|35:09]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:47:07|47:07]], [[:ru:bible:notes:gen:48:08|48:08]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:48:19|48:19]], [[:ru:bible:notes:gen:49:25|49:25]], [[:ru:bible:notes:gen:49:26|49:26]], [[:ru:bible:notes:gen:49:28|49:28]]
+
+* [[:ru:obe:kt:blood]] is found in:
+ [[:ru:bible:notes:gen:04:10|04:10]], [[:ru:bible:notes:gen:09:03|09:03]], [[:ru:bible:notes:gen:09:05|09:05]], [[:ru:bible:notes:gen:37:21|37:21]], [[:ru:bible:notes:gen:37:25|37:25]], [[:ru:bible:notes:gen:37:31|37:31]], [[:ru:bible:notes:gen:42:21|42:21]]
+
+* [[:ru:obe:other:bloodshed]] is found in:
+ [[:ru:bible:notes:gen:09:05|09:05]]
+
+* [[:ru:obe:kt:blotout]] is found in:
+ [[:ru:bible:notes:gen:06:07|06:07]], [[:ru:bible:notes:gen:07:23|07:23]]
+
+* [[:ru:obe:kt:bow]] is found in:
+ [[:ru:bible:notes:gen:17:03|17:03]], [[:ru:bible:notes:gen:17:17|17:17]], [[:ru:bible:notes:gen:18:01|18:01]], [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:23:07|23:07]], [[:ru:bible:notes:gen:23:12|23:12]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:47|24:47]], [[:ru:bible:notes:gen:24:52|24:52]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:33:06|33:06]], [[:ru:bible:notes:gen:37:07|37:07]], [[:ru:bible:notes:gen:37:09|37:09]], [[:ru:bible:notes:gen:42:05|42:05]], [[:ru:bible:notes:gen:43:26|43:26]], [[:ru:bible:notes:gen:43:28|43:28]], [[:ru:bible:notes:gen:44:14|44:14]], [[:ru:bible:notes:gen:47:29|47:29]], [[:ru:bible:notes:gen:48:11|48:11]], [[:ru:bible:notes:gen:49:08|49:08]]
+
+* [[:ru:obe:other:bowweapon]] is found in:
+ [[:ru:bible:notes:gen:27:03|27:03]], [[:ru:bible:notes:gen:48:21|48:21]], [[:ru:bible:notes:gen:49:24|49:24]]
+
+* [[:ru:obe:other:bread]] is found in:
+ [[:ru:bible:notes:gen:03:17|03:17]], [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:37:25|37:25]], [[:ru:bible:notes:gen:40:16|40:16]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:47:15|47:15]]
+
+* [[:ru:obe:kt:breath]] is found in:
+ [[:ru:bible:notes:gen:07:21|07:21]]
+
+* [[:ru:obe:other:bronze]] is found in:
+ [[:ru:bible:notes:gen:04:20|04:20]]
+
+* [[:ru:obe:kt:brother]] is found in:
+ [[:ru:bible:notes:gen:09:05|09:05]], [[:ru:bible:notes:gen:09:24|09:24]], [[:ru:bible:notes:gen:16:11|16:11]], [[:ru:bible:notes:gen:19:06|19:06]], [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:29:04|29:04]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:42:26|42:26]], [[:ru:bible:notes:gen:43:06|43:06]], [[:ru:bible:notes:gen:43:13|43:13]], [[:ru:bible:notes:gen:47:01|47:01]]
+
+* [[:ru:obe:other:burden]] is found in:
+ [[:ru:bible:notes:gen:49:14|49:14]]
+
+* [[:ru:obe:other:burntoffering]] is found in:
+ [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:22:04|22:04]], [[:ru:bible:notes:gen:22:07|22:07]], [[:ru:bible:notes:gen:22:13|22:13]]
+
+* [[:ru:obe:other:bury]] is found in:
+ [[:ru:bible:notes:gen:35:04|35:04]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:35:28|35:28]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:49:28|49:28]], [[:ru:bible:notes:gen:49:31|49:31]], [[:ru:bible:notes:gen:50:04|50:04]], [[:ru:bible:notes:gen:50:12|50:12]]
+
+* [[:ru:obe:other:cain]] is found in:
+ [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:04:06|04:06]], [[:ru:bible:notes:gen:04:08|04:08]], [[:ru:bible:notes:gen:04:13|04:13]], [[:ru:bible:notes:gen:04:16|04:16]], [[:ru:bible:notes:gen:04:23|04:23]], [[:ru:bible:notes:gen:04:25|04:25]]
+
+* [[:ru:obe:kt:call]] is found in:
+ [[:ru:bible:notes:gen:04:25|04:25]], [[:ru:bible:notes:gen:41:07|41:07]]
+
+* [[:ru:obe:other:camel]] is found in:
+ [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:24:10|24:10]], [[:ru:bible:notes:gen:24:19|24:19]], [[:ru:bible:notes:gen:30:43|30:43]], [[:ru:bible:notes:gen:31:17|31:17]], [[:ru:bible:notes:gen:31:34|31:34]], [[:ru:bible:notes:gen:32:06|32:06]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:37:25|37:25]]
+
+* [[:ru:obe:other:canaan]] is found in:
+ [[:ru:bible:notes:gen:09:18|09:18]], [[:ru:bible:notes:gen:09:22|09:22]], [[:ru:bible:notes:gen:09:24|09:24]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:10:06|10:06]], [[:ru:bible:notes:gen:10:15|10:15]], [[:ru:bible:notes:gen:10:19|10:19]], [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:13:05|13:05]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:23:01|23:01]], [[:ru:bible:notes:gen:23:19|23:19]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:36|24:36]], [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:28:06|28:06]], [[:ru:bible:notes:gen:28:08|28:08]], [[:ru:bible:notes:gen:31:17|31:17]], [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:36:01|36:01]], [[:ru:bible:notes:gen:36:04|36:04]], [[:ru:bible:notes:gen:36:06|36:06]], [[:ru:bible:notes:gen:37:01|37:01]], [[:ru:bible:notes:gen:38:01|38:01]], [[:ru:bible:notes:gen:42:05|42:05]], [[:ru:bible:notes:gen:42:07|42:07]], [[:ru:bible:notes:gen:42:12|42:12]], [[:ru:bible:notes:gen:42:29|42:29]], [[:ru:bible:notes:gen:44:08|44:08]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:45:24|45:24]], [[:ru:bible:notes:gen:46:05|46:05]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:46:31|46:31]], [[:ru:bible:notes:gen:47:01|47:01]], [[:ru:bible:notes:gen:47:13|47:13]], [[:ru:bible:notes:gen:47:15|47:15]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:49:28|49:28]], [[:ru:bible:notes:gen:50:04|50:04]], [[:ru:bible:notes:gen:50:10|50:10]], [[:ru:bible:notes:gen:50:12|50:12]]
+
+* [[:ru:obe:other:chaldeans]] is found in:
+ [[:ru:bible:notes:gen:11:27|11:27]], [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:15:06|15:06]]
+
+* [[:ru:obe:other:chariot]] is found in:
+ [[:ru:bible:notes:gen:41:42|41:42]], [[:ru:bible:notes:gen:46:28|46:28]], [[:ru:bible:notes:gen:50:07|50:07]]
+
+* [[:ru:obe:other:cherubim]] is found in:
+ [[:ru:bible:notes:gen:03:22|03:22]]
+
+* [[:ru:obe:kt:children]] is found in:
+ [[:ru:bible:notes:gen:45:09|45:09]], [[:ru:bible:notes:gen:46:08|46:08]]
+
+* [[:ru:obe:kt:circumcise]] is found in:
+ [[:ru:bible:notes:gen:17:09|17:09]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:17:22|17:22]], [[:ru:bible:notes:gen:17:24|17:24]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:34:14|34:14]], [[:ru:bible:notes:gen:34:22|34:22]], [[:ru:bible:notes:gen:34:24|34:24]]
+
+* [[:ru:obe:other:clan]] is found in:
+ [[:ru:bible:notes:gen:10:02|10:02]], [[:ru:bible:notes:gen:36:15|36:15]], [[:ru:bible:notes:gen:36:17|36:17]], [[:ru:bible:notes:gen:36:29|36:29]], [[:ru:bible:notes:gen:36:40|36:40]]
+
+* [[:ru:obe:kt:clean]] is found in:
+ [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:07:08|07:08]], [[:ru:bible:notes:gen:08:20|08:20]]
+
+* [[:ru:obe:other:comfort]] is found in:
+ [[:ru:bible:notes:gen:50:18|50:18]]
+
+* [[:ru:obe:other:command]] is found in:
+ [[:ru:bible:notes:gen:06:20|06:20]], [[:ru:bible:notes:gen:07:04|07:04]], [[:ru:bible:notes:gen:07:08|07:08]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:28:06|28:06]], [[:ru:bible:notes:gen:42:23|42:23]], [[:ru:bible:notes:gen:45:19|45:19]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:47:11|47:11]], [[:ru:bible:notes:gen:50:01|50:01]]
+
+* [[:ru:obe:other:conceive]] is found in:
+ [[:ru:bible:notes:gen:29:33|29:33]]
+
+* [[:ru:obe:other:concubine]] is found in:
+ [[:ru:bible:notes:gen:22:23|22:23]], [[:ru:bible:notes:gen:25:05|25:05]], [[:ru:bible:notes:gen:35:21|35:21]], [[:ru:bible:notes:gen:36:09|36:09]]
+
+* [[:ru:obe:kt:corrupt]] is found in:
+ [[:ru:bible:notes:gen:06:11|06:11]]
+
+* [[:ru:obe:other:council]] is found in:
+ [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:kt:covenant]] is found in:
+ [[:ru:bible:notes:gen:06:18|06:18]], [[:ru:bible:notes:gen:09:08|09:08]], [[:ru:bible:notes:gen:09:11|09:11]], [[:ru:bible:notes:gen:09:14|09:14]], [[:ru:bible:notes:gen:09:16|09:16]], [[:ru:bible:notes:gen:15:17|15:17]], [[:ru:bible:notes:gen:17:01|17:01]], [[:ru:bible:notes:gen:17:03|17:03]], [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:17:09|17:09]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:21:25|21:25]], [[:ru:bible:notes:gen:21:31|21:31]], [[:ru:bible:notes:gen:26:28|26:28]], [[:ru:bible:notes:gen:31:43|31:43]]
+
+* [[:ru:obe:kt:covenantfaith]] is found in:
+ [[:ru:bible:notes:gen:24:26|24:26]]
+
+* [[:ru:obe:other:cow]] is found in:
+ [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:41:01|41:01]], [[:ru:bible:notes:gen:41:04|41:04]], [[:ru:bible:notes:gen:41:17|41:17]], [[:ru:bible:notes:gen:41:19|41:19]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:27|41:27]]
+
+* [[:ru:obe:other:creation]] is found in:
+ [[:ru:bible:notes:gen:01:01|01:01]], [[:ru:bible:notes:gen:02:01|02:01]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:14:21|14:21]]
+
+* [[:ru:obe:other:creature]] is found in:
+ [[:ru:bible:notes:gen:06:18|06:18]]
+
+* [[:ru:obe:other:crown]] is found in:
+ [[:ru:bible:notes:gen:49:26|49:26]]
+
+* [[:ru:obe:kt:curse]] is found in:
+ [[:ru:bible:notes:gen:03:14|03:14]], [[:ru:bible:notes:gen:03:17|03:17]], [[:ru:bible:notes:gen:04:10|04:10]], [[:ru:bible:notes:gen:05:28|05:28]], [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:09:24|09:24]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:13|27:13]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:49:07|49:07]]
+
+* [[:ru:obe:other:cush]] is found in:
+ [[:ru:bible:notes:gen:02:13|02:13]], [[:ru:bible:notes:gen:10:06|10:06]]
+
+* [[:ru:obe:kt:cutoff]] is found in:
+ [[:ru:bible:notes:gen:17:12|17:12]]
+
+* [[:ru:obe:other:damascus]] is found in:
+ [[:ru:bible:notes:gen:14:15|14:15]], [[:ru:bible:notes:gen:15:01|15:01]]
+
+* [[:ru:obe:other:dan]] is found in:
+ [[:ru:bible:notes:gen:14:13|14:13]], [[:ru:bible:notes:gen:30:05|30:05]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:23|46:23]], [[:ru:bible:notes:gen:49:16|49:16]]
+
+* [[:ru:obe:kt:death]] is found in:
+ [[:ru:bible:notes:gen:02:15|02:15]], [[:ru:bible:notes:gen:03:01|03:01]], [[:ru:bible:notes:gen:07:21|07:21]], [[:ru:bible:notes:gen:27:01|27:01]], [[:ru:bible:notes:gen:34:27|34:27]]
+
+* [[:ru:obe:kt:deceive]] is found in:
+ [[:ru:bible:notes:gen:03:12|03:12]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:34|27:34]], [[:ru:bible:notes:gen:31:07|31:07]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:26|31:26]], [[:ru:bible:notes:gen:34:11|34:11]]
+
+* [[:ru:obe:other:defile]] is found in:
+ [[:ru:bible:notes:gen:34:04|34:04]], [[:ru:bible:notes:gen:34:11|34:11]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:49:03|49:03]]
+
+* [[:ru:obe:other:descendant]] is found in:
+ [[:ru:bible:notes:gen:09:08|09:08]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:11:05|11:05]], [[:ru:bible:notes:gen:11:10|11:10]], [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:13:14|13:14]], [[:ru:bible:notes:gen:13:16|13:16]], [[:ru:bible:notes:gen:15:04|15:04]], [[:ru:bible:notes:gen:15:12|15:12]], [[:ru:bible:notes:gen:15:17|15:17]], [[:ru:bible:notes:gen:16:09|16:09]], [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:17:09|17:09]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:21:22|21:22]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:24:59|24:59]], [[:ru:bible:notes:gen:25:01|25:01]], [[:ru:bible:notes:gen:25:12|25:12]], [[:ru:bible:notes:gen:26:02|26:02]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:28:14|28:14]], [[:ru:bible:notes:gen:32:11|32:11]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:36:01|36:01]], [[:ru:bible:notes:gen:36:09|36:09]], [[:ru:bible:notes:gen:36:15|36:15]], [[:ru:bible:notes:gen:46:05|46:05]], [[:ru:bible:notes:gen:46:26|46:26]], [[:ru:bible:notes:gen:48:03|48:03]], [[:ru:bible:notes:gen:48:19|48:19]]
+
+* [[:ru:obe:other:desert]] is found in:
+ [[:ru:bible:notes:gen:14:03|14:03]], [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:21:14|21:14]], [[:ru:bible:notes:gen:21:19|21:19]], [[:ru:bible:notes:gen:36:23|36:23]], [[:ru:bible:notes:gen:37:21|37:21]]
+
+* [[:ru:obe:other:desolate]] is found in:
+ [[:ru:bible:notes:gen:47:18|47:18]]
+
+* [[:ru:obe:other:devastated]] is found in:
+ [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:41:35|41:35]]
+
+* [[:ru:obe:other:devour]] is found in:
+ [[:ru:bible:notes:gen:49:27|49:27]]
+
+* [[:ru:obe:other:discernment]] is found in:
+ [[:ru:bible:notes:gen:41:33|41:33]], [[:ru:bible:notes:gen:41:39|41:39]]
+
+* [[:ru:obe:other:divination]] is found in:
+ [[:ru:bible:notes:gen:30:27|30:27]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:44:14|44:14]]
+
+* [[:ru:obe:other:donkey]] is found in:
+ [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:16:11|16:11]], [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:30:43|30:43]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:36:23|36:23]], [[:ru:bible:notes:gen:42:26|42:26]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:43:24|43:24]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:44:11|44:11]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:47:15|47:15]], [[:ru:bible:notes:gen:49:11|49:11]], [[:ru:bible:notes:gen:49:14|49:14]]
+
+* [[:ru:obe:other:dove]] is found in:
+ [[:ru:bible:notes:gen:08:08|08:08]], [[:ru:bible:notes:gen:08:10|08:10]]
+
+* [[:ru:obe:other:dream]] is found in:
+ [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:20:06|20:06]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:31:10|31:10]], [[:ru:bible:notes:gen:31:24|31:24]], [[:ru:bible:notes:gen:37:05|37:05]], [[:ru:bible:notes:gen:37:07|37:07]], [[:ru:bible:notes:gen:37:09|37:09]], [[:ru:bible:notes:gen:37:18|37:18]], [[:ru:bible:notes:gen:40:04|40:04]], [[:ru:bible:notes:gen:40:09|40:09]], [[:ru:bible:notes:gen:40:16|40:16]], [[:ru:bible:notes:gen:41:01|41:01]], [[:ru:bible:notes:gen:41:04|41:04]], [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:41:09|41:09]], [[:ru:bible:notes:gen:41:12|41:12]], [[:ru:bible:notes:gen:41:14|41:14]], [[:ru:bible:notes:gen:41:17|41:17]], [[:ru:bible:notes:gen:41:22|41:22]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:42:09|42:09]]
+
+* [[:ru:obe:other:drinkoffering]] is found in:
+ [[:ru:bible:notes:gen:35:14|35:14]]
+
+* [[:ru:obe:other:eden]] is found in:
+ [[:ru:bible:notes:gen:02:07|02:07]], [[:ru:bible:notes:gen:02:15|02:15]], [[:ru:bible:notes:gen:03:22|03:22]], [[:ru:bible:notes:gen:04:16|04:16]], [[:ru:bible:notes:gen:13:10|13:10]]
+
+* [[:ru:obe:other:edom]] is found in:
+ [[:ru:bible:notes:gen:25:29|25:29]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:33:12|33:12]], [[:ru:bible:notes:gen:33:15|33:15]], [[:ru:bible:notes:gen:36:01|36:01]], [[:ru:bible:notes:gen:36:06|36:06]], [[:ru:bible:notes:gen:36:09|36:09]], [[:ru:bible:notes:gen:36:15|36:15]], [[:ru:bible:notes:gen:36:17|36:17]], [[:ru:bible:notes:gen:36:20|36:20]], [[:ru:bible:notes:gen:36:29|36:29]], [[:ru:bible:notes:gen:36:31|36:31]], [[:ru:bible:notes:gen:36:40|36:40]]
+
+* [[:ru:obe:other:egypt]] is found in:
+ [[:ru:bible:notes:gen:12:10|12:10]], [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:13:01|13:01]], [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:15:17|15:17]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:21:19|21:19]], [[:ru:bible:notes:gen:25:12|25:12]], [[:ru:bible:notes:gen:25:17|25:17]], [[:ru:bible:notes:gen:26:02|26:02]], [[:ru:bible:notes:gen:37:25|37:25]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:37:34|37:34]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:40:01|40:01]], [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:41:19|41:19]], [[:ru:bible:notes:gen:41:27|41:27]], [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:41:33|41:33]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:41:42|41:42]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:41:46|41:46]], [[:ru:bible:notes:gen:41:48|41:48]], [[:ru:bible:notes:gen:41:53|41:53]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:42:01|42:01]], [[:ru:bible:notes:gen:43:01|43:01]], [[:ru:bible:notes:gen:43:32|43:32]], [[:ru:bible:notes:gen:45:01|45:01]], [[:ru:bible:notes:gen:45:04|45:04]], [[:ru:bible:notes:gen:45:07|45:07]], [[:ru:bible:notes:gen:45:12|45:12]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:46:05|46:05]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:46:26|46:26]], [[:ru:bible:notes:gen:47:05|47:05]], [[:ru:bible:notes:gen:47:11|47:11]], [[:ru:bible:notes:gen:47:15|47:15]], [[:ru:bible:notes:gen:47:20|47:20]], [[:ru:bible:notes:gen:47:25|47:25]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:50:01|50:01]], [[:ru:bible:notes:gen:50:10|50:10]], [[:ru:bible:notes:gen:50:12|50:12]], [[:ru:bible:notes:gen:50:22|50:22]]
+
+* [[:ru:obe:other:enoch]] is found in:
+ [[:ru:bible:notes:gen:05:18|05:18]], [[:ru:bible:notes:gen:05:21|05:21]]
+
+* [[:ru:obe:kt:enslave]] is found in:
+ [[:ru:bible:notes:gen:15:12|15:12]]
+
+* [[:ru:obe:other:envy]] is found in:
+ [[:ru:bible:notes:gen:30:01|30:01]]
+
+* [[:ru:obe:other:ephraim]] is found in:
+ [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:48:01|48:01]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:48:17|48:17]], [[:ru:bible:notes:gen:50:22|50:22]]
+
+* [[:ru:obe:other:esau]] is found in:
+ [[:ru:bible:notes:gen:25:24|25:24]], [[:ru:bible:notes:gen:25:27|25:27]], [[:ru:bible:notes:gen:25:29|25:29]], [[:ru:bible:notes:gen:26:34|26:34]], [[:ru:bible:notes:gen:27:01|27:01]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:18|27:18]], [[:ru:bible:notes:gen:27:24|27:24]], [[:ru:bible:notes:gen:27:30|27:30]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:28:05|28:05]], [[:ru:bible:notes:gen:28:06|28:06]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:32:06|32:06]], [[:ru:bible:notes:gen:32:11|32:11]], [[:ru:bible:notes:gen:32:19|32:19]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:33:15|33:15]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:28|35:28]], [[:ru:bible:notes:gen:36:01|36:01]], [[:ru:bible:notes:gen:36:04|36:04]], [[:ru:bible:notes:gen:36:06|36:06]], [[:ru:bible:notes:gen:36:09|36:09]], [[:ru:bible:notes:gen:36:13|36:13]], [[:ru:bible:notes:gen:36:17|36:17]], [[:ru:bible:notes:gen:36:40|36:40]]
+
+* [[:ru:obe:kt:eternity]] is found in:
+ [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:48:03|48:03]], [[:ru:bible:notes:gen:49:26|49:26]]
+
+* [[:ru:obe:other:euphrates]] is found in:
+ [[:ru:bible:notes:gen:02:13|02:13]], [[:ru:bible:notes:gen:15:17|15:17]]
+
+* [[:ru:obe:other:eve]] is found in:
+ [[:ru:bible:notes:gen:03:20|03:20]], [[:ru:bible:notes:gen:04:01|04:01]]
+
+* [[:ru:obe:kt:evil]] is found in:
+ [[:ru:bible:notes:gen:02:15|02:15]], [[:ru:bible:notes:gen:03:04|03:04]], [[:ru:bible:notes:gen:06:05|06:05]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:18:20|18:20]], [[:ru:bible:notes:gen:18:22|18:22]], [[:ru:bible:notes:gen:18:24|18:24]], [[:ru:bible:notes:gen:19:06|19:06]], [[:ru:bible:notes:gen:38:08|38:08]], [[:ru:bible:notes:gen:39:07|39:07]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:44:33|44:33]]
+
+* [[:ru:obe:kt:face]] is found in:
+ [[:ru:bible:notes:gen:30:39|30:39]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:41:55|41:55]]
+
+* [[:ru:obe:kt:faithful]] is found in:
+ [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:24:49|24:49]], [[:ru:bible:notes:gen:47:29|47:29]]
+
+* [[:ru:obe:kt:falsegod]] is found in:
+ [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:31:31|31:31]], [[:ru:bible:notes:gen:31:34|31:34]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:04|35:04]]
+
+* [[:ru:obe:other:famine]] is found in:
+ [[:ru:bible:notes:gen:12:10|12:10]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:41:27|41:27]], [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:41:53|41:53]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:42:05|42:05]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:42:33|42:33]], [[:ru:bible:notes:gen:43:01|43:01]], [[:ru:bible:notes:gen:45:04|45:04]], [[:ru:bible:notes:gen:45:09|45:09]], [[:ru:bible:notes:gen:47:13|47:13]], [[:ru:bible:notes:gen:47:20|47:20]]
+
+* [[:ru:obe:other:father]] is found in:
+ [[:ru:bible:notes:gen:05:06|05:06]], [[:ru:bible:notes:gen:05:09|05:09]], [[:ru:bible:notes:gen:05:12|05:12]], [[:ru:bible:notes:gen:05:15|05:15]], [[:ru:bible:notes:gen:05:18|05:18]], [[:ru:bible:notes:gen:05:21|05:21]], [[:ru:bible:notes:gen:05:25|05:25]], [[:ru:bible:notes:gen:05:28|05:28]], [[:ru:bible:notes:gen:05:30|05:30]], [[:ru:bible:notes:gen:05:32|05:32]], [[:ru:bible:notes:gen:09:18|09:18]], [[:ru:bible:notes:gen:11:12|11:12]], [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:17:03|17:03]], [[:ru:bible:notes:gen:26:15|26:15]], [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:27:18|27:18]], [[:ru:bible:notes:gen:27:32|27:32]], [[:ru:bible:notes:gen:27:38|27:38]], [[:ru:bible:notes:gen:28:08|28:08]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:31:01|31:01]], [[:ru:bible:notes:gen:31:07|31:07]], [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:36:23|36:23]], [[:ru:bible:notes:gen:36:40|36:40]], [[:ru:bible:notes:gen:37:01|37:01]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:42:35|42:35]], [[:ru:bible:notes:gen:43:06|43:06]], [[:ru:bible:notes:gen:43:26|43:26]], [[:ru:bible:notes:gen:45:07|45:07]], [[:ru:bible:notes:gen:46:31|46:31]], [[:ru:bible:notes:gen:46:33|46:33]], [[:ru:bible:notes:gen:47:01|47:01]], [[:ru:bible:notes:gen:47:29|47:29]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:48:21|48:21]], [[:ru:bible:notes:gen:49:25|49:25]], [[:ru:bible:notes:gen:49:28|49:28]]
+
+* [[:ru:obe:kt:favor]] is found in:
+ [[:ru:bible:notes:gen:19:18|19:18]], [[:ru:bible:notes:gen:30:27|30:27]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:39:03|39:03]], [[:ru:bible:notes:gen:39:21|39:21]], [[:ru:bible:notes:gen:40:16|40:16]], [[:ru:bible:notes:gen:41:14|41:14]], [[:ru:bible:notes:gen:47:25|47:25]], [[:ru:bible:notes:gen:50:04|50:04]]
+
+* [[:ru:obe:kt:fear]] is found in:
+ [[:ru:bible:notes:gen:03:09|03:09]], [[:ru:bible:notes:gen:09:01|09:01]], [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:20:10|20:10]], [[:ru:bible:notes:gen:22:11|22:11]], [[:ru:bible:notes:gen:26:06|26:06]], [[:ru:bible:notes:gen:28:16|28:16]], [[:ru:bible:notes:gen:31:31|31:31]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:32:06|32:06]], [[:ru:bible:notes:gen:32:11|32:11]], [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:42:35|42:35]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:43:21|43:21]], [[:ru:bible:notes:gen:44:33|44:33]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:50:18|50:18]]
+
+* [[:ru:obe:other:feast]] is found in:
+ [[:ru:bible:notes:gen:26:30|26:30]], [[:ru:bible:notes:gen:29:21|29:21]], [[:ru:bible:notes:gen:40:20|40:20]]
+
+* [[:ru:obe:other:fig]] is found in:
+ [[:ru:bible:notes:gen:03:07|03:07]]
+
+* [[:ru:obe:kt:firstborn]] is found in:
+ [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:27:18|27:18]], [[:ru:bible:notes:gen:27:32|27:32]], [[:ru:bible:notes:gen:29:26|29:26]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:36:15|36:15]], [[:ru:bible:notes:gen:38:06|38:06]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:43:32|43:32]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:48:17|48:17]], [[:ru:bible:notes:gen:49:03|49:03]]
+
+* [[:ru:obe:kt:flesh]] is found in:
+ [[:ru:bible:notes:gen:02:24|02:24]], [[:ru:bible:notes:gen:06:01|06:01]], [[:ru:bible:notes:gen:06:11|06:11]], [[:ru:bible:notes:gen:06:16|06:16]], [[:ru:bible:notes:gen:08:15|08:15]], [[:ru:bible:notes:gen:09:11|09:11]], [[:ru:bible:notes:gen:09:14|09:14]], [[:ru:bible:notes:gen:09:16|09:16]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:40:18|40:18]]
+
+* [[:ru:obe:other:flock]] is found in:
+ [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:29:01|29:01]], [[:ru:bible:notes:gen:29:09|29:09]], [[:ru:bible:notes:gen:30:31|30:31]], [[:ru:bible:notes:gen:30:39|30:39]], [[:ru:bible:notes:gen:30:43|30:43]], [[:ru:bible:notes:gen:31:38|31:38]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:43|31:43]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:32:06|32:06]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:32:19|32:19]], [[:ru:bible:notes:gen:33:12|33:12]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:37:01|37:01]], [[:ru:bible:notes:gen:37:12|37:12]], [[:ru:bible:notes:gen:37:15|37:15]], [[:ru:bible:notes:gen:38:17|38:17]], [[:ru:bible:notes:gen:38:19|38:19]], [[:ru:bible:notes:gen:45:09|45:09]], [[:ru:bible:notes:gen:46:31|46:31]], [[:ru:bible:notes:gen:47:01|47:01]], [[:ru:bible:notes:gen:47:15|47:15]], [[:ru:bible:notes:gen:47:18|47:18]], [[:ru:bible:notes:gen:50:07|50:07]]
+
+* [[:ru:obe:other:flood]] is found in:
+ [[:ru:bible:notes:gen:06:16|06:16]], [[:ru:bible:notes:gen:07:06|07:06]], [[:ru:bible:notes:gen:07:08|07:08]], [[:ru:bible:notes:gen:07:17|07:17]], [[:ru:bible:notes:gen:09:11|09:11]], [[:ru:bible:notes:gen:09:14|09:14]], [[:ru:bible:notes:gen:09:28|09:28]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:11:10|11:10]]
+
+* [[:ru:obe:kt:foolish]] is found in:
+ [[:ru:bible:notes:gen:31:26|31:26]]
+
+* [[:ru:obe:other:foreigner]] is found in:
+ [[:ru:bible:notes:gen:17:24|17:24]], [[:ru:bible:notes:gen:19:09|19:09]], [[:ru:bible:notes:gen:23:03|23:03]], [[:ru:bible:notes:gen:31:14|31:14]]
+
+* [[:ru:obe:kt:forever]] is found in:
+ [[:ru:bible:notes:gen:43:08|43:08]], [[:ru:bible:notes:gen:44:30|44:30]]
+
+* [[:ru:obe:kt:forgive]] is found in:
+ [[:ru:bible:notes:gen:50:15|50:15]]
+
+* [[:ru:obe:other:fountain]] is found in:
+ [[:ru:bible:notes:gen:07:11|07:11]], [[:ru:bible:notes:gen:08:01|08:01]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:15|24:15]], [[:ru:bible:notes:gen:24:28|24:28]], [[:ru:bible:notes:gen:24:42|24:42]], [[:ru:bible:notes:gen:24:45|24:45]], [[:ru:bible:notes:gen:36:23|36:23]], [[:ru:bible:notes:gen:49:22|49:22]]
+
+* [[:ru:obe:kt:fruit]] is found in:
+ [[:ru:bible:notes:gen:01:11|01:11]], [[:ru:bible:notes:gen:01:22|01:22]], [[:ru:bible:notes:gen:01:28|01:28]], [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:28:03|28:03]]
+
+* [[:ru:obe:other:gad]] is found in:
+ [[:ru:bible:notes:gen:30:09|30:09]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:46:16|46:16]], [[:ru:bible:notes:gen:49:19|49:19]]
+
+* [[:ru:obe:kt:gate]] is found in:
+ [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:23:10|23:10]], [[:ru:bible:notes:gen:23:17|23:17]], [[:ru:bible:notes:gen:24:59|24:59]], [[:ru:bible:notes:gen:28:16|28:16]], [[:ru:bible:notes:gen:34:20|34:20]], [[:ru:bible:notes:gen:38:12|38:12]]
+
+* [[:ru:obe:other:gaza]] is found in:
+ [[:ru:bible:notes:gen:10:19|10:19]]
+
+* [[:ru:obe:other:generation]] is found in:
+ [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:09:11|09:11]], [[:ru:bible:notes:gen:10:32|10:32]], [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:17:09|17:09]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:50:22|50:22]]
+
+* [[:ru:obe:other:gerar]] is found in:
+ [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:06|26:06]], [[:ru:bible:notes:gen:26:26|26:26]]
+
+* [[:ru:obe:other:giant]] is found in:
+ [[:ru:bible:notes:gen:06:04|06:04]]
+
+* [[:ru:obe:kt:gift]] is found in:
+ [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:32:17|32:17]], [[:ru:bible:notes:gen:32:19|32:19]], [[:ru:bible:notes:gen:43:11|43:11]], [[:ru:bible:notes:gen:43:24|43:24]]
+
+* [[:ru:obe:other:gilead]] is found in:
+ [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:22|31:22]], [[:ru:bible:notes:gen:31:24|31:24]], [[:ru:bible:notes:gen:37:25|37:25]]
+
+* [[:ru:obe:other:girgashites]] is found in:
+ [[:ru:bible:notes:gen:10:15|10:15]]
+
+* [[:ru:obe:other:goat]] is found in:
+ [[:ru:bible:notes:gen:15:09|15:09]], [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:27:15|27:15]], [[:ru:bible:notes:gen:30:31|30:31]], [[:ru:bible:notes:gen:30:33|30:33]], [[:ru:bible:notes:gen:31:10|31:10]], [[:ru:bible:notes:gen:31:12|31:12]], [[:ru:bible:notes:gen:31:38|31:38]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:37:31|37:31]], [[:ru:bible:notes:gen:38:17|38:17]], [[:ru:bible:notes:gen:38:19|38:19]]
+
+* [[:ru:obe:kt:god]] is found in:
+ [[:ru:bible:notes:gen:01:01|01:01]], [[:ru:bible:notes:gen:01:09|01:09]], [[:ru:bible:notes:gen:01:11|01:11]], [[:ru:bible:notes:gen:01:20|01:20]], [[:ru:bible:notes:gen:01:22|01:22]], [[:ru:bible:notes:gen:01:26|01:26]], [[:ru:bible:notes:gen:01:28|01:28]], [[:ru:bible:notes:gen:02:01|02:01]], [[:ru:bible:notes:gen:03:04|03:04]], [[:ru:bible:notes:gen:06:11|06:11]], [[:ru:bible:notes:gen:06:13|06:13]], [[:ru:bible:notes:gen:06:20|06:20]], [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:07:15|07:15]], [[:ru:bible:notes:gen:08:01|08:01]], [[:ru:bible:notes:gen:08:15|08:15]], [[:ru:bible:notes:gen:09:01|09:01]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:12:17|12:17]], [[:ru:bible:notes:gen:13:14|13:14]], [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:15:17|15:17]], [[:ru:bible:notes:gen:16:13|16:13]], [[:ru:bible:notes:gen:17:07|17:07]], [[:ru:bible:notes:gen:18:01|18:01]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:18:20|18:20]], [[:ru:bible:notes:gen:18:22|18:22]], [[:ru:bible:notes:gen:18:24|18:24]], [[:ru:bible:notes:gen:18:32|18:32]], [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:20:06|20:06]], [[:ru:bible:notes:gen:20:10|20:10]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:21:05|21:05]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:21:17|21:17]], [[:ru:bible:notes:gen:21:19|21:19]], [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:22:09|22:09]], [[:ru:bible:notes:gen:23:05|23:05]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:42|24:42]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:27:20|27:20]], [[:ru:bible:notes:gen:27:28|27:28]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:30:01|30:01]], [[:ru:bible:notes:gen:30:22|30:22]], [[:ru:bible:notes:gen:31:04|31:04]], [[:ru:bible:notes:gen:31:12|31:12]], [[:ru:bible:notes:gen:31:24|31:24]], [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:48|31:48]], [[:ru:bible:notes:gen:32:01|32:01]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:32:27|32:27]], [[:ru:bible:notes:gen:32:29|32:29]], [[:ru:bible:notes:gen:33:04|33:04]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:39:07|39:07]], [[:ru:bible:notes:gen:40:06|40:06]], [[:ru:bible:notes:gen:41:14|41:14]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:27|41:27]], [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:42:26|42:26]], [[:ru:bible:notes:gen:43:13|43:13]], [[:ru:bible:notes:gen:43:21|43:21]], [[:ru:bible:notes:gen:44:16|44:16]], [[:ru:bible:notes:gen:45:04|45:04]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:48:03|48:03]], [[:ru:bible:notes:gen:49:25|49:25]], [[:ru:bible:notes:gen:50:15|50:15]]
+
+* [[:ru:obe:other:gold]] is found in:
+ [[:ru:bible:notes:gen:41:42|41:42]], [[:ru:bible:notes:gen:44:08|44:08]]
+
+* [[:ru:obe:other:gomorrah]] is found in:
+ [[:ru:bible:notes:gen:10:19|10:19]], [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:14:01|14:01]], [[:ru:bible:notes:gen:14:10|14:10]], [[:ru:bible:notes:gen:18:20|18:20]], [[:ru:bible:notes:gen:19:23|19:23]], [[:ru:bible:notes:gen:19:26|19:26]]
+
+* [[:ru:obe:kt:good]] is found in:
+ [[:ru:bible:notes:gen:01:03|01:03]], [[:ru:bible:notes:gen:01:09|01:09]], [[:ru:bible:notes:gen:01:11|01:11]], [[:ru:bible:notes:gen:01:16|01:16]], [[:ru:bible:notes:gen:01:30|01:30]], [[:ru:bible:notes:gen:02:09|02:09]], [[:ru:bible:notes:gen:02:15|02:15]], [[:ru:bible:notes:gen:03:04|03:04]], [[:ru:bible:notes:gen:41:04|41:04]], [[:ru:bible:notes:gen:41:22|41:22]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:37|41:37]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:50:18|50:18]]
+
+* [[:ru:obe:other:goshen]] is found in:
+ [[:ru:bible:notes:gen:45:09|45:09]], [[:ru:bible:notes:gen:46:28|46:28]], [[:ru:bible:notes:gen:47:01|47:01]], [[:ru:bible:notes:gen:47:27|47:27]], [[:ru:bible:notes:gen:50:07|50:07]]
+
+* [[:ru:obe:other:governor]] is found in:
+ [[:ru:bible:notes:gen:42:05|42:05]]
+
+* [[:ru:obe:kt:grace]] is found in:
+ [[:ru:bible:notes:gen:33:04|33:04]], [[:ru:bible:notes:gen:43:28|43:28]]
+
+* [[:ru:obe:other:grain]] is found in:
+ [[:ru:bible:notes:gen:27:28|27:28]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:41:04|41:04]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:48|41:48]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:42:01|42:01]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:42:23|42:23]], [[:ru:bible:notes:gen:42:26|42:26]], [[:ru:bible:notes:gen:42:33|42:33]], [[:ru:bible:notes:gen:43:01|43:01]], [[:ru:bible:notes:gen:44:01|44:01]], [[:ru:bible:notes:gen:45:21|45:21]]
+
+* [[:ru:obe:other:grape]] is found in:
+ [[:ru:bible:notes:gen:40:09|40:09]]
+
+* [[:ru:obe:kt:guilt]] is found in:
+ [[:ru:bible:notes:gen:26:09|26:09]], [[:ru:bible:notes:gen:42:21|42:21]]
+
+* [[:ru:obe:other:hades]] is found in:
+ [[:ru:bible:notes:gen:37:34|37:34]], [[:ru:bible:notes:gen:42:37|42:37]], [[:ru:bible:notes:gen:44:27|44:27]]
+
+* [[:ru:obe:other:hagar]] is found in:
+ [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:16:15|16:15]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:21:14|21:14]], [[:ru:bible:notes:gen:21:17|21:17]], [[:ru:bible:notes:gen:25:12|25:12]]
+
+* [[:ru:obe:other:ham]] is found in:
+ [[:ru:bible:notes:gen:05:32|05:32]], [[:ru:bible:notes:gen:06:09|06:09]], [[:ru:bible:notes:gen:07:13|07:13]], [[:ru:bible:notes:gen:09:18|09:18]], [[:ru:bible:notes:gen:09:22|09:22]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:10:19|10:19]]
+
+* [[:ru:obe:other:hamor]] is found in:
+ [[:ru:bible:notes:gen:34:01|34:01]], [[:ru:bible:notes:gen:34:04|34:04]], [[:ru:bible:notes:gen:34:06|34:06]], [[:ru:bible:notes:gen:34:08|34:08]], [[:ru:bible:notes:gen:34:18|34:18]], [[:ru:bible:notes:gen:34:20|34:20]], [[:ru:bible:notes:gen:34:24|34:24]]
+
+* [[:ru:obe:other:hand]] is found in:
+ [[:ru:bible:notes:gen:09:01|09:01]], [[:ru:bible:notes:gen:09:05|09:05]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:30:35|30:35]], [[:ru:bible:notes:gen:32:11|32:11]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:37:21|37:21]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:49:24|49:24]]
+
+* [[:ru:obe:other:hang]] is found in:
+ [[:ru:bible:notes:gen:41:12|41:12]]
+
+* [[:ru:obe:other:haran]] is found in:
+ [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:27:43|27:43]], [[:ru:bible:notes:gen:28:10|28:10]], [[:ru:bible:notes:gen:29:04|29:04]]
+
+* [[:ru:obe:other:harp]] is found in:
+ [[:ru:bible:notes:gen:04:20|04:20]], [[:ru:bible:notes:gen:31:26|31:26]]
+
+* [[:ru:obe:kt:harvest]] is found in:
+ [[:ru:bible:notes:gen:30:14|30:14]], [[:ru:bible:notes:gen:45:04|45:04]], [[:ru:bible:notes:gen:47:23|47:23]]
+
+* [[:ru:obe:other:heal]] is found in:
+ [[:ru:bible:notes:gen:20:17|20:17]]
+
+* [[:ru:obe:other:heart]] is found in:
+ [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:20:04|20:04]], [[:ru:bible:notes:gen:20:06|20:06]], [[:ru:bible:notes:gen:24:45|24:45]], [[:ru:bible:notes:gen:27:41|27:41]], [[:ru:bible:notes:gen:42:26|42:26]], [[:ru:bible:notes:gen:45:24|45:24]], [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:kt:heaven]] is found in:
+ [[:ru:bible:notes:gen:01:01|01:01]], [[:ru:bible:notes:gen:02:01|02:01]], [[:ru:bible:notes:gen:06:16|06:16]], [[:ru:bible:notes:gen:07:19|07:19]], [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:15:04|15:04]], [[:ru:bible:notes:gen:21:17|21:17]], [[:ru:bible:notes:gen:22:11|22:11]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:27:28|27:28]], [[:ru:bible:notes:gen:27:39|27:39]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:28:16|28:16]], [[:ru:bible:notes:gen:49:25|49:25]]
+
+* [[:ru:obe:other:hebrew]] is found in:
+ [[:ru:bible:notes:gen:14:13|14:13]], [[:ru:bible:notes:gen:39:13|39:13]], [[:ru:bible:notes:gen:39:16|39:16]], [[:ru:bible:notes:gen:40:14|40:14]], [[:ru:bible:notes:gen:41:12|41:12]], [[:ru:bible:notes:gen:43:32|43:32]]
+
+* [[:ru:obe:other:hebron]] is found in:
+ [[:ru:bible:notes:gen:13:16|13:16]], [[:ru:bible:notes:gen:23:01|23:01]], [[:ru:bible:notes:gen:23:19|23:19]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:37:12|37:12]]
+
+* [[:ru:obe:other:heifer]] is found in:
+ [[:ru:bible:notes:gen:15:09|15:09]]
+
+* [[:ru:obe:other:heir]] is found in:
+ [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:15:04|15:04]], [[:ru:bible:notes:gen:21:10|21:10]]
+
+* [[:ru:obe:other:hittite]] is found in:
+ [[:ru:bible:notes:gen:23:10|23:10]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:26:34|26:34]], [[:ru:bible:notes:gen:36:01|36:01]], [[:ru:bible:notes:gen:49:28|49:28]], [[:ru:bible:notes:gen:50:12|50:12]]
+
+* [[:ru:obe:kt:holyspirit]] is found in:
+ [[:ru:bible:notes:gen:01:01|01:01]], [[:ru:bible:notes:gen:06:01|06:01]], [[:ru:bible:notes:gen:41:37|41:37]]
+
+* [[:ru:obe:other:honey]] is found in:
+ [[:ru:bible:notes:gen:43:11|43:11]]
+
+* [[:ru:obe:other:honor]] is found in:
+ [[:ru:bible:notes:gen:30:19|30:19]], [[:ru:bible:notes:gen:34:18|34:18]]
+
+* [[:ru:obe:other:horse]] is found in:
+ [[:ru:bible:notes:gen:47:15|47:15]], [[:ru:bible:notes:gen:49:11|49:11]]
+
+* [[:ru:obe:other:house]] is found in:
+ [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:39:03|39:03]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:41:09|41:09]], [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:42:33|42:33]], [[:ru:bible:notes:gen:43:16|43:16]], [[:ru:bible:notes:gen:44:01|44:01]], [[:ru:bible:notes:gen:45:01|45:01]], [[:ru:bible:notes:gen:45:07|45:07]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:46:26|46:26]], [[:ru:bible:notes:gen:46:31|46:31]]
+
+* [[:ru:obe:other:household]] is found in:
+ [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:12:17|12:17]], [[:ru:bible:notes:gen:17:12|17:12]], [[:ru:bible:notes:gen:17:24|17:24]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:28|24:28]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:30:29|30:29]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:34|31:34]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:34:18|34:18]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:36:06|36:06]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:45:09|45:09]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:47:11|47:11]], [[:ru:bible:notes:gen:47:23|47:23]]
+
+* [[:ru:obe:kt:houseofgod]] is found in:
+ [[:ru:bible:notes:gen:28:16|28:16]]
+
+* [[:ru:obe:kt:imageofgod]] is found in:
+ [[:ru:bible:notes:gen:01:26|01:26]], [[:ru:bible:notes:gen:09:05|09:05]]
+
+* [[:ru:obe:kt:inherit]] is found in:
+ [[:ru:bible:notes:gen:15:06|15:06]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:31:14|31:14]], [[:ru:bible:notes:gen:48:05|48:05]]
+
+* [[:ru:obe:kt:iniquity]] is found in:
+ [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:44:16|44:16]]
+
+* [[:ru:obe:kt:innocent]] is found in:
+ [[:ru:bible:notes:gen:20:04|20:04]], [[:ru:bible:notes:gen:44:08|44:08]]
+
+* [[:ru:obe:other:isaac]] is found in:
+ [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:21:05|21:05]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:21:10|21:10]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:22:07|22:07]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:61|24:61]], [[:ru:bible:notes:gen:25:05|25:05]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:25:19|25:19]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:06|26:06]], [[:ru:bible:notes:gen:26:09|26:09]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:26:19|26:19]], [[:ru:bible:notes:gen:26:30|26:30]], [[:ru:bible:notes:gen:26:34|26:34]], [[:ru:bible:notes:gen:27:01|27:01]], [[:ru:bible:notes:gen:27:20|27:20]], [[:ru:bible:notes:gen:27:24|27:24]], [[:ru:bible:notes:gen:27:30|27:30]], [[:ru:bible:notes:gen:27:39|27:39]], [[:ru:bible:notes:gen:27:46|27:46]], [[:ru:bible:notes:gen:28:06|28:06]], [[:ru:bible:notes:gen:31:17|31:17]], [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:49:31|49:31]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:ishmael]] is found in:
+ [[:ru:bible:notes:gen:16:11|16:11]], [[:ru:bible:notes:gen:16:15|16:15]], [[:ru:bible:notes:gen:17:17|17:17]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:17:22|17:22]], [[:ru:bible:notes:gen:17:24|17:24]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:25:12|25:12]], [[:ru:bible:notes:gen:25:13|25:13]], [[:ru:bible:notes:gen:28:08|28:08]], [[:ru:bible:notes:gen:37:25|37:25]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:39:01|39:01]]
+
+* [[:ru:obe:other:israel]] is found in:
+ [[:ru:bible:notes:gen:32:27|32:27]], [[:ru:bible:notes:gen:34:06|34:06]], [[:ru:bible:notes:gen:35:09|35:09]], [[:ru:bible:notes:gen:36:31|36:31]], [[:ru:bible:notes:gen:49:07|49:07]], [[:ru:bible:notes:gen:49:16|49:16]], [[:ru:bible:notes:gen:49:24|49:24]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:issachar]] is found in:
+ [[:ru:bible:notes:gen:30:16|30:16]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:49:14|49:14]]
+
+* [[:ru:obe:other:jacob]] is found in:
+ [[:ru:bible:notes:gen:25:24|25:24]], [[:ru:bible:notes:gen:25:27|25:27]], [[:ru:bible:notes:gen:25:29|25:29]], [[:ru:bible:notes:gen:27:05|27:05]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:18|27:18]], [[:ru:bible:notes:gen:27:24|27:24]], [[:ru:bible:notes:gen:27:26|27:26]], [[:ru:bible:notes:gen:27:30|27:30]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:27:41|27:41]], [[:ru:bible:notes:gen:27:46|27:46]], [[:ru:bible:notes:gen:28:06|28:06]], [[:ru:bible:notes:gen:28:16|28:16]], [[:ru:bible:notes:gen:29:01|29:01]], [[:ru:bible:notes:gen:29:09|29:09]], [[:ru:bible:notes:gen:29:19|29:19]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:30:01|30:01]], [[:ru:bible:notes:gen:30:16|30:16]], [[:ru:bible:notes:gen:30:25|30:25]], [[:ru:bible:notes:gen:30:35|30:35]], [[:ru:bible:notes:gen:30:41|30:41]], [[:ru:bible:notes:gen:31:01|31:01]], [[:ru:bible:notes:gen:31:17|31:17]], [[:ru:bible:notes:gen:31:22|31:22]], [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:31:33|31:33]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:32:01|32:01]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:32:19|32:19]], [[:ru:bible:notes:gen:32:27|32:27]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:33:09|33:09]], [[:ru:bible:notes:gen:33:15|33:15]], [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:34:01|34:01]], [[:ru:bible:notes:gen:34:04|34:04]], [[:ru:bible:notes:gen:34:06|34:06]], [[:ru:bible:notes:gen:34:11|34:11]], [[:ru:bible:notes:gen:34:18|34:18]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:01|35:01]], [[:ru:bible:notes:gen:35:04|35:04]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:35:09|35:09]], [[:ru:bible:notes:gen:35:21|35:21]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:35:28|35:28]], [[:ru:bible:notes:gen:36:06|36:06]], [[:ru:bible:notes:gen:37:01|37:01]], [[:ru:bible:notes:gen:37:03|37:03]], [[:ru:bible:notes:gen:37:12|37:12]], [[:ru:bible:notes:gen:37:31|37:31]], [[:ru:bible:notes:gen:42:01|42:01]], [[:ru:bible:notes:gen:42:05|42:05]], [[:ru:bible:notes:gen:42:29|42:29]], [[:ru:bible:notes:gen:42:37|42:37]], [[:ru:bible:notes:gen:43:06|43:06]], [[:ru:bible:notes:gen:43:08|43:08]], [[:ru:bible:notes:gen:43:11|43:11]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:45:27|45:27]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:46:05|46:05]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:46:23|46:23]], [[:ru:bible:notes:gen:46:26|46:26]], [[:ru:bible:notes:gen:46:28|46:28]], [[:ru:bible:notes:gen:47:07|47:07]], [[:ru:bible:notes:gen:47:27|47:27]], [[:ru:bible:notes:gen:48:01|48:01]], [[:ru:bible:notes:gen:48:08|48:08]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:49:01|49:01]], [[:ru:bible:notes:gen:49:24|49:24]], [[:ru:bible:notes:gen:49:31|49:31]], [[:ru:bible:notes:gen:50:01|50:01]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:japheth]] is found in:
+ [[:ru:bible:notes:gen:05:32|05:32]], [[:ru:bible:notes:gen:06:09|06:09]], [[:ru:bible:notes:gen:07:13|07:13]], [[:ru:bible:notes:gen:09:18|09:18]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:10:21|10:21]]
+
+* [[:ru:obe:kt:jealous]] is found in:
+ [[:ru:bible:notes:gen:37:09|37:09]]
+
+* [[:ru:obe:other:jebusites]] is found in:
+ [[:ru:bible:notes:gen:10:15|10:15]]
+
+* [[:ru:obe:other:jordanriver]] is found in:
+ [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:50:10|50:10]]
+
+* [[:ru:obe:other:josephot]] is found in:
+ [[:ru:bible:notes:gen:30:22|30:22]], [[:ru:bible:notes:gen:30:25|30:25]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:37:01|37:01]], [[:ru:bible:notes:gen:37:12|37:12]], [[:ru:bible:notes:gen:37:23|37:23]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:37:31|37:31]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:39:10|39:10]], [[:ru:bible:notes:gen:39:19|39:19]], [[:ru:bible:notes:gen:40:01|40:01]], [[:ru:bible:notes:gen:40:09|40:09]], [[:ru:bible:notes:gen:40:18|40:18]], [[:ru:bible:notes:gen:41:14|41:14]], [[:ru:bible:notes:gen:41:17|41:17]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:41:42|41:42]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:41:46|41:46]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:41:53|41:53]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:42:01|42:01]], [[:ru:bible:notes:gen:42:07|42:07]], [[:ru:bible:notes:gen:42:14|42:14]], [[:ru:bible:notes:gen:42:23|42:23]], [[:ru:bible:notes:gen:42:35|42:35]], [[:ru:bible:notes:gen:43:13|43:13]], [[:ru:bible:notes:gen:43:16|43:16]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:43:32|43:32]], [[:ru:bible:notes:gen:44:01|44:01]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:45:01|45:01]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:45:27|45:27]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:46:26|46:26]], [[:ru:bible:notes:gen:46:28|46:28]], [[:ru:bible:notes:gen:47:01|47:01]], [[:ru:bible:notes:gen:47:11|47:11]], [[:ru:bible:notes:gen:48:01|48:01]], [[:ru:bible:notes:gen:48:08|48:08]], [[:ru:bible:notes:gen:49:22|49:22]], [[:ru:bible:notes:gen:50:01|50:01]]
+
+* [[:ru:obe:other:judah]] is found in:
+ [[:ru:bible:notes:gen:29:35|29:35]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:37:25|37:25]], [[:ru:bible:notes:gen:38:01|38:01]], [[:ru:bible:notes:gen:38:19|38:19]], [[:ru:bible:notes:gen:43:03|43:03]], [[:ru:bible:notes:gen:43:08|43:08]], [[:ru:bible:notes:gen:44:14|44:14]], [[:ru:bible:notes:gen:44:16|44:16]], [[:ru:bible:notes:gen:44:18|44:18]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:46:28|46:28]], [[:ru:bible:notes:gen:49:08|49:08]], [[:ru:bible:notes:gen:49:10|49:10]]
+
+* [[:ru:obe:kt:judge]] is found in:
+ [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:16:05|16:05]], [[:ru:bible:notes:gen:19:09|19:09]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:31:51|31:51]]
+
+* [[:ru:obe:other:judgeposition]] is found in:
+ [[:ru:bible:notes:gen:18:24|18:24]]
+
+* [[:ru:obe:kt:justice]] is found in:
+ [[:ru:bible:notes:gen:18:16|18:16]]
+
+* [[:ru:obe:kt:justify]] is found in:
+ [[:ru:bible:notes:gen:44:16|44:16]]
+
+* [[:ru:obe:other:kadesh]] is found in:
+ [[:ru:bible:notes:gen:14:07|14:07]], [[:ru:bible:notes:gen:16:13|16:13]], [[:ru:bible:notes:gen:20:01|20:01]]
+
+* [[:ru:obe:other:kind]] is found in:
+ [[:ru:bible:notes:gen:01:20|01:20]], [[:ru:bible:notes:gen:01:24|01:24]]
+
+* [[:ru:obe:other:king]] is found in:
+ [[:ru:bible:notes:gen:14:01|14:01]], [[:ru:bible:notes:gen:14:03|14:03]], [[:ru:bible:notes:gen:14:10|14:10]], [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:14:21|14:21]], [[:ru:bible:notes:gen:17:03|17:03]], [[:ru:bible:notes:gen:17:15|17:15]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:06|26:06]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:36:31|36:31]], [[:ru:bible:notes:gen:39:19|39:19]], [[:ru:bible:notes:gen:40:01|40:01]]
+
+* [[:ru:obe:other:kiss]] is found in:
+ [[:ru:bible:notes:gen:27:26|27:26]], [[:ru:bible:notes:gen:29:11|29:11]], [[:ru:bible:notes:gen:29:13|29:13]], [[:ru:bible:notes:gen:31:26|31:26]], [[:ru:bible:notes:gen:31:54|31:54]], [[:ru:bible:notes:gen:33:04|33:04]], [[:ru:bible:notes:gen:45:14|45:14]], [[:ru:bible:notes:gen:48:08|48:08]], [[:ru:bible:notes:gen:50:01|50:01]]
+
+* [[:ru:obe:other:laban]] is found in:
+ [[:ru:bible:notes:gen:24:28|24:28]], [[:ru:bible:notes:gen:24:31|24:31]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:24:50|24:50]], [[:ru:bible:notes:gen:25:19|25:19]], [[:ru:bible:notes:gen:27:43|27:43]], [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:28:05|28:05]], [[:ru:bible:notes:gen:29:04|29:04]], [[:ru:bible:notes:gen:29:09|29:09]], [[:ru:bible:notes:gen:29:13|29:13]], [[:ru:bible:notes:gen:29:19|29:19]], [[:ru:bible:notes:gen:29:21|29:21]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:30:25|30:25]], [[:ru:bible:notes:gen:30:35|30:35]], [[:ru:bible:notes:gen:30:41|30:41]], [[:ru:bible:notes:gen:31:01|31:01]], [[:ru:bible:notes:gen:31:12|31:12]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:22|31:22]], [[:ru:bible:notes:gen:31:33|31:33]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:31:48|31:48]], [[:ru:bible:notes:gen:31:54|31:54]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:46:16|46:16]], [[:ru:bible:notes:gen:46:23|46:23]]
+
+* [[:ru:obe:other:laborpains]] is found in:
+ [[:ru:bible:notes:gen:35:16|35:16]]
+
+* [[:ru:obe:kt:lamb]] is found in:
+ [[:ru:bible:notes:gen:21:28|21:28]], [[:ru:bible:notes:gen:22:07|22:07]]
+
+* [[:ru:obe:other:lamech]] is found in:
+ [[:ru:bible:notes:gen:04:18|04:18]], [[:ru:bible:notes:gen:04:23|04:23]], [[:ru:bible:notes:gen:05:25|05:25]], [[:ru:bible:notes:gen:05:28|05:28]], [[:ru:bible:notes:gen:05:30|05:30]]
+
+* [[:ru:obe:other:leah]] is found in:
+ [[:ru:bible:notes:gen:29:15|29:15]], [[:ru:bible:notes:gen:29:23|29:23]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:30:09|30:09]], [[:ru:bible:notes:gen:30:16|30:16]], [[:ru:bible:notes:gen:31:04|31:04]], [[:ru:bible:notes:gen:31:14|31:14]], [[:ru:bible:notes:gen:31:33|31:33]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:34:01|34:01]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:46:16|46:16]], [[:ru:bible:notes:gen:49:31|49:31]]
+
+* [[:ru:obe:other:levite]] is found in:
+ [[:ru:bible:notes:gen:29:33|29:33]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:08|46:08]]
+
+* [[:ru:obe:kt:life]] is found in:
+ [[:ru:bible:notes:gen:01:30|01:30]], [[:ru:bible:notes:gen:02:07|02:07]], [[:ru:bible:notes:gen:02:09|02:09]], [[:ru:bible:notes:gen:07:04|07:04]], [[:ru:bible:notes:gen:07:21|07:21]], [[:ru:bible:notes:gen:09:03|09:03]], [[:ru:bible:notes:gen:09:05|09:05]], [[:ru:bible:notes:gen:46:28|46:28]]
+
+* [[:ru:obe:other:lion]] is found in:
+ [[:ru:bible:notes:gen:49:09|49:09]]
+
+* [[:ru:obe:other:loins]] is found in:
+ [[:ru:bible:notes:gen:37:34|37:34]]
+
+* [[:ru:obe:kt:lord]] is found in:
+ [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:19:18|19:18]], [[:ru:bible:notes:gen:23:05|23:05]], [[:ru:bible:notes:gen:24:08|24:08]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:17|24:17]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:24:39|24:39]], [[:ru:bible:notes:gen:24:47|24:47]], [[:ru:bible:notes:gen:24:50|24:50]], [[:ru:bible:notes:gen:24:56|24:56]], [[:ru:bible:notes:gen:24:63|24:63]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:31:34|31:34]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:32:17|32:17]], [[:ru:bible:notes:gen:33:06|33:06]], [[:ru:bible:notes:gen:33:12|33:12]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:39:03|39:03]], [[:ru:bible:notes:gen:39:07|39:07]], [[:ru:bible:notes:gen:39:16|39:16]], [[:ru:bible:notes:gen:40:01|40:01]], [[:ru:bible:notes:gen:42:09|42:09]], [[:ru:bible:notes:gen:42:29|42:29]], [[:ru:bible:notes:gen:42:33|42:33]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:44:06|44:06]], [[:ru:bible:notes:gen:44:16|44:16]], [[:ru:bible:notes:gen:44:33|44:33]], [[:ru:bible:notes:gen:47:18|47:18]]
+
+* [[:ru:obe:kt:lordgod]] is found in:
+ [[:ru:bible:notes:gen:18:03|18:03]], [[:ru:bible:notes:gen:18:27|18:27]], [[:ru:bible:notes:gen:18:29|18:29]], [[:ru:bible:notes:gen:18:32|18:32]], [[:ru:bible:notes:gen:20:04|20:04]]
+
+* [[:ru:obe:kt:lordyahweh]] is found in:
+ [[:ru:bible:notes:gen:02:15|02:15]], [[:ru:bible:notes:gen:02:18|02:18]], [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:15:06|15:06]]
+
+* [[:ru:obe:other:lot]] is found in:
+ [[:ru:bible:notes:gen:11:27|11:27]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:13:01|13:01]], [[:ru:bible:notes:gen:13:05|13:05]], [[:ru:bible:notes:gen:13:08|13:08]], [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:13:14|13:14]], [[:ru:bible:notes:gen:14:10|14:10]], [[:ru:bible:notes:gen:14:15|14:15]], [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:19:04|19:04]], [[:ru:bible:notes:gen:19:06|19:06]], [[:ru:bible:notes:gen:19:09|19:09]], [[:ru:bible:notes:gen:19:10|19:10]], [[:ru:bible:notes:gen:19:12|19:12]], [[:ru:bible:notes:gen:19:14|19:14]], [[:ru:bible:notes:gen:19:18|19:18]], [[:ru:bible:notes:gen:19:23|19:23]], [[:ru:bible:notes:gen:19:26|19:26]], [[:ru:bible:notes:gen:19:29|19:29]], [[:ru:bible:notes:gen:19:30|19:30]], [[:ru:bible:notes:gen:19:36|19:36]]
+
+* [[:ru:obe:kt:love]] is found in:
+ [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:25:27|25:27]], [[:ru:bible:notes:gen:29:15|29:15]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:29:31|29:31]], [[:ru:bible:notes:gen:34:08|34:08]], [[:ru:bible:notes:gen:37:03|37:03]], [[:ru:bible:notes:gen:44:20|44:20]]
+
+* [[:ru:obe:other:lust]] is found in:
+ [[:ru:bible:notes:gen:39:07|39:07]]
+
+* [[:ru:obe:other:magic]] is found in:
+ [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:41:22|41:22]]
+
+* [[:ru:obe:other:manager]] is found in:
+ [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:39:03|39:03]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:43:16|43:16]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:43:21|43:21]], [[:ru:bible:notes:gen:43:24|43:24]], [[:ru:bible:notes:gen:44:01|44:01]], [[:ru:bible:notes:gen:44:03|44:03]], [[:ru:bible:notes:gen:44:06|44:06]], [[:ru:bible:notes:gen:44:08|44:08]], [[:ru:bible:notes:gen:44:11|44:11]]
+
+* [[:ru:obe:other:manasseh]] is found in:
+ [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:48:01|48:01]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:50:22|50:22]]
+
+* [[:ru:obe:other:meditate]] is found in:
+ [[:ru:bible:notes:gen:24:63|24:63]]
+
+* [[:ru:obe:other:melchizedek]] is found in:
+ [[:ru:bible:notes:gen:14:17|14:17]]
+
+* [[:ru:obe:kt:mercy]] is found in:
+ [[:ru:bible:notes:gen:19:16|19:16]], [[:ru:bible:notes:gen:43:13|43:13]]
+
+* [[:ru:obe:other:meshech]] is found in:
+ [[:ru:bible:notes:gen:10:02|10:02]]
+
+* [[:ru:obe:other:midian]] is found in:
+ [[:ru:bible:notes:gen:25:01|25:01]], [[:ru:bible:notes:gen:36:34|36:34]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:37:34|37:34]]
+
+* [[:ru:obe:other:mighty]] is found in:
+ [[:ru:bible:notes:gen:06:04|06:04]], [[:ru:bible:notes:gen:49:24|49:24]]
+
+* [[:ru:obe:other:mind]] is found in:
+ [[:ru:bible:notes:gen:37:09|37:09]]
+
+* [[:ru:obe:other:moab]] is found in:
+ [[:ru:bible:notes:gen:36:34|36:34]]
+
+* [[:ru:obe:other:mock]] is found in:
+ [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:39:13|39:13]], [[:ru:bible:notes:gen:39:16|39:16]]
+
+* [[:ru:obe:kt:mosthigh]] is found in:
+ [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:14:19|14:19]]
+
+* [[:ru:obe:other:multiply]] is found in:
+ [[:ru:bible:notes:gen:09:05|09:05]]
+
+* [[:ru:obe:other:myrrh]] is found in:
+ [[:ru:bible:notes:gen:37:25|37:25]]
+
+* [[:ru:obe:kt:name]] is found in:
+ [[:ru:bible:notes:gen:04:25|04:25]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:30:27|30:27]], [[:ru:bible:notes:gen:35:09|35:09]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:49:24|49:24]]
+
+* [[:ru:obe:other:naphtali]] is found in:
+ [[:ru:bible:notes:gen:30:07|30:07]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:23|46:23]], [[:ru:bible:notes:gen:49:19|49:19]]
+
+* [[:ru:obe:other:nation]] is found in:
+ [[:ru:bible:notes:gen:10:02|10:02]], [[:ru:bible:notes:gen:10:19|10:19]], [[:ru:bible:notes:gen:10:30|10:30]], [[:ru:bible:notes:gen:12:01|12:01]], [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:17:03|17:03]], [[:ru:bible:notes:gen:17:15|17:15]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:20:04|20:04]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:21:17|21:17]], [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:25:23|25:23]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:35:11|35:11]], [[:ru:bible:notes:gen:46:01|46:01]], [[:ru:bible:notes:gen:48:03|48:03]], [[:ru:bible:notes:gen:48:19|48:19]], [[:ru:bible:notes:gen:49:10|49:10]]
+
+* [[:ru:obe:other:negev]] is found in:
+ [[:ru:bible:notes:gen:12:08|12:08]], [[:ru:bible:notes:gen:13:01|13:01]], [[:ru:bible:notes:gen:13:03|13:03]], [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:24:61|24:61]]
+
+* [[:ru:obe:other:nileriver]] is found in:
+ [[:ru:bible:notes:gen:41:01|41:01]], [[:ru:bible:notes:gen:41:17|41:17]]
+
+* [[:ru:obe:other:nineveh]] is found in:
+ [[:ru:bible:notes:gen:10:11|10:11]]
+
+* [[:ru:obe:other:noah]] is found in:
+ [[:ru:bible:notes:gen:05:28|05:28]], [[:ru:bible:notes:gen:05:30|05:30]], [[:ru:bible:notes:gen:05:32|05:32]], [[:ru:bible:notes:gen:06:07|06:07]], [[:ru:bible:notes:gen:06:20|06:20]], [[:ru:bible:notes:gen:07:11|07:11]], [[:ru:bible:notes:gen:08:15|08:15]], [[:ru:bible:notes:gen:08:18|08:18]], [[:ru:bible:notes:gen:09:01|09:01]], [[:ru:bible:notes:gen:09:08|09:08]], [[:ru:bible:notes:gen:09:16|09:16]], [[:ru:bible:notes:gen:09:20|09:20]], [[:ru:bible:notes:gen:09:24|09:24]], [[:ru:bible:notes:gen:09:28|09:28]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:10:32|10:32]]
+
+* [[:ru:obe:other:oak]] is found in:
+ [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:13:16|13:16]], [[:ru:bible:notes:gen:14:13|14:13]], [[:ru:bible:notes:gen:18:01|18:01]], [[:ru:bible:notes:gen:35:04|35:04]], [[:ru:bible:notes:gen:35:06|35:06]]
+
+* [[:ru:obe:other:oath]] is found in:
+ [[:ru:bible:notes:gen:21:22|21:22]], [[:ru:bible:notes:gen:21:31|21:31]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:24:08|24:08]], [[:ru:bible:notes:gen:24:39|24:39]], [[:ru:bible:notes:gen:25:31|25:31]], [[:ru:bible:notes:gen:26:02|26:02]], [[:ru:bible:notes:gen:26:28|26:28]], [[:ru:bible:notes:gen:26:30|26:30]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:47:29|47:29]], [[:ru:bible:notes:gen:50:04|50:04]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:obey]] is found in:
+ [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:26:04|26:04]], [[:ru:bible:notes:gen:27:08|27:08]], [[:ru:bible:notes:gen:27:13|27:13]], [[:ru:bible:notes:gen:27:43|27:43]], [[:ru:bible:notes:gen:28:06|28:06]]
+
+* [[:ru:obe:other:offspring]] is found in:
+ [[:ru:bible:notes:gen:22:18|22:18]], [[:ru:bible:notes:gen:24:05|24:05]]
+
+* [[:ru:obe:other:oil]] is found in:
+ [[:ru:bible:notes:gen:28:18|28:18]], [[:ru:bible:notes:gen:35:14|35:14]]
+
+* [[:ru:obe:other:olive]] is found in:
+ [[:ru:bible:notes:gen:08:10|08:10]]
+
+* [[:ru:obe:kt:oppress]] is found in:
+ [[:ru:bible:notes:gen:15:12|15:12]], [[:ru:bible:notes:gen:31:41|31:41]]
+
+* [[:ru:obe:other:overseer]] is found in:
+ [[:ru:bible:notes:gen:41:33|41:33]]
+
+* [[:ru:obe:other:ox]] is found in:
+ [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:other:paddanaram]] is found in:
+ [[:ru:bible:notes:gen:28:01|28:01]], [[:ru:bible:notes:gen:31:17|31:17]], [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:35:09|35:09]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:48:05|48:05]]
+
+* [[:ru:obe:other:paran]] is found in:
+ [[:ru:bible:notes:gen:21:19|21:19]]
+
+* [[:ru:obe:other:peace]] is found in:
+ [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:26:28|26:28]], [[:ru:bible:notes:gen:26:30|26:30]], [[:ru:bible:notes:gen:34:04|34:04]], [[:ru:bible:notes:gen:34:20|34:20]], [[:ru:bible:notes:gen:43:21|43:21]], [[:ru:bible:notes:gen:44:16|44:16]]
+
+* [[:ru:obe:other:peoplegroup]] is found in:
+ [[:ru:bible:notes:gen:25:01|25:01]], [[:ru:bible:notes:gen:25:23|25:23]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:28:03|28:03]], [[:ru:bible:notes:gen:34:14|34:14]], [[:ru:bible:notes:gen:34:22|34:22]], [[:ru:bible:notes:gen:34:27|34:27]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:48:19|48:19]], [[:ru:bible:notes:gen:49:16|49:16]], [[:ru:bible:notes:gen:49:28|49:28]], [[:ru:bible:notes:gen:49:31|49:31]], [[:ru:bible:notes:gen:50:24|50:24]]
+
+* [[:ru:obe:other:perizzite]] is found in:
+ [[:ru:bible:notes:gen:13:05|13:05]], [[:ru:bible:notes:gen:34:30|34:30]]
+
+* [[:ru:obe:other:pharaoh]] is found in:
+ [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:12:17|12:17]], [[:ru:bible:notes:gen:37:34|37:34]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:40:01|40:01]], [[:ru:bible:notes:gen:40:06|40:06]], [[:ru:bible:notes:gen:40:09|40:09]], [[:ru:bible:notes:gen:40:14|40:14]], [[:ru:bible:notes:gen:40:16|40:16]], [[:ru:bible:notes:gen:40:18|40:18]], [[:ru:bible:notes:gen:41:01|41:01]], [[:ru:bible:notes:gen:41:04|41:04]], [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:41:09|41:09]], [[:ru:bible:notes:gen:41:12|41:12]], [[:ru:bible:notes:gen:41:14|41:14]], [[:ru:bible:notes:gen:41:17|41:17]], [[:ru:bible:notes:gen:41:25|41:25]], [[:ru:bible:notes:gen:41:27|41:27]], [[:ru:bible:notes:gen:41:30|41:30]], [[:ru:bible:notes:gen:41:33|41:33]], [[:ru:bible:notes:gen:41:35|41:35]], [[:ru:bible:notes:gen:41:37|41:37]], [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:41:42|41:42]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:41:46|41:46]], [[:ru:bible:notes:gen:41:55|41:55]], [[:ru:bible:notes:gen:42:14|42:14]], [[:ru:bible:notes:gen:44:18|44:18]], [[:ru:bible:notes:gen:45:01|45:01]], [[:ru:bible:notes:gen:45:07|45:07]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:45:21|45:21]], [[:ru:bible:notes:gen:46:05|46:05]], [[:ru:bible:notes:gen:46:31|46:31]], [[:ru:bible:notes:gen:46:33|46:33]], [[:ru:bible:notes:gen:47:18|47:18]], [[:ru:bible:notes:gen:47:20|47:20]], [[:ru:bible:notes:gen:47:25|47:25]], [[:ru:bible:notes:gen:50:04|50:04]]
+
+* [[:ru:obe:other:philistines]] is found in:
+ [[:ru:bible:notes:gen:10:11|10:11]], [[:ru:bible:notes:gen:21:31|21:31]], [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:26:01|26:01]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:26:15|26:15]]
+
+* [[:ru:obe:other:pillar]] is found in:
+ [[:ru:bible:notes:gen:28:18|28:18]], [[:ru:bible:notes:gen:28:20|28:20]], [[:ru:bible:notes:gen:31:12|31:12]], [[:ru:bible:notes:gen:31:45|31:45]], [[:ru:bible:notes:gen:31:51|31:51]], [[:ru:bible:notes:gen:35:14|35:14]], [[:ru:bible:notes:gen:35:16|35:16]]
+
+* [[:ru:obe:other:plague]] is found in:
+ [[:ru:bible:notes:gen:12:17|12:17]]
+
+* [[:ru:obe:other:potiphar]] is found in:
+ [[:ru:bible:notes:gen:37:34|37:34]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:39:13|39:13]]
+
+* [[:ru:obe:kt:power]] is found in:
+ [[:ru:bible:notes:gen:31:29|31:29]], [[:ru:bible:notes:gen:45:12|45:12]]
+
+* [[:ru:obe:other:praise]] is found in:
+ [[:ru:bible:notes:gen:49:08|49:08]]
+
+* [[:ru:obe:other:pray]] is found in:
+ [[:ru:bible:notes:gen:20:06|20:06]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:25:21|25:21]]
+
+* [[:ru:obe:kt:priest]] is found in:
+ [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:41:44|41:44]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:47:20|47:20]], [[:ru:bible:notes:gen:47:25|47:25]]
+
+* [[:ru:obe:other:prince]] is found in:
+ [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:25:13|25:13]], [[:ru:bible:notes:gen:49:26|49:26]]
+
+* [[:ru:obe:other:prison]] is found in:
+ [[:ru:bible:notes:gen:31:26|31:26]], [[:ru:bible:notes:gen:39:19|39:19]], [[:ru:bible:notes:gen:39:21|39:21]], [[:ru:bible:notes:gen:40:01|40:01]], [[:ru:bible:notes:gen:42:18|42:18]]
+
+* [[:ru:obe:kt:promise]] is found in:
+ [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:28:14|28:14]]
+
+* [[:ru:obe:kt:prophet]] is found in:
+ [[:ru:bible:notes:gen:20:06|20:06]]
+
+* [[:ru:obe:other:prostitute]] is found in:
+ [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:38:15|38:15]], [[:ru:bible:notes:gen:38:21|38:21]], [[:ru:bible:notes:gen:38:24|38:24]]
+
+* [[:ru:obe:other:punish]] is found in:
+ [[:ru:bible:notes:gen:04:13|04:13]], [[:ru:bible:notes:gen:19:14|19:14]]
+
+* [[:ru:obe:kt:purify]] is found in:
+ [[:ru:bible:notes:gen:35:01|35:01]]
+
+* [[:ru:obe:other:rachel]] is found in:
+ [[:ru:bible:notes:gen:29:04|29:04]], [[:ru:bible:notes:gen:29:09|29:09]], [[:ru:bible:notes:gen:29:11|29:11]], [[:ru:bible:notes:gen:29:15|29:15]], [[:ru:bible:notes:gen:29:19|29:19]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:30:01|30:01]], [[:ru:bible:notes:gen:30:05|30:05]], [[:ru:bible:notes:gen:30:07|30:07]], [[:ru:bible:notes:gen:30:25|30:25]], [[:ru:bible:notes:gen:31:04|31:04]], [[:ru:bible:notes:gen:31:14|31:14]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:31|31:31]], [[:ru:bible:notes:gen:31:33|31:33]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:19|46:19]], [[:ru:bible:notes:gen:46:23|46:23]], [[:ru:bible:notes:gen:48:05|48:05]]
+
+* [[:ru:obe:other:reap]] is found in:
+ [[:ru:bible:notes:gen:26:12|26:12]]
+
+* [[:ru:obe:other:rebekah]] is found in:
+ [[:ru:bible:notes:gen:22:23|22:23]], [[:ru:bible:notes:gen:24:15|24:15]], [[:ru:bible:notes:gen:24:28|24:28]], [[:ru:bible:notes:gen:24:45|24:45]], [[:ru:bible:notes:gen:24:50|24:50]], [[:ru:bible:notes:gen:24:52|24:52]], [[:ru:bible:notes:gen:24:56|24:56]], [[:ru:bible:notes:gen:24:61|24:61]], [[:ru:bible:notes:gen:24:63|24:63]], [[:ru:bible:notes:gen:25:19|25:19]], [[:ru:bible:notes:gen:25:27|25:27]], [[:ru:bible:notes:gen:26:06|26:06]], [[:ru:bible:notes:gen:26:34|26:34]], [[:ru:bible:notes:gen:27:05|27:05]], [[:ru:bible:notes:gen:27:11|27:11]], [[:ru:bible:notes:gen:27:15|27:15]], [[:ru:bible:notes:gen:27:41|27:41]], [[:ru:bible:notes:gen:28:05|28:05]], [[:ru:bible:notes:gen:29:11|29:11]], [[:ru:bible:notes:gen:35:06|35:06]], [[:ru:bible:notes:gen:49:31|49:31]]
+
+* [[:ru:obe:other:rebel]] is found in:
+ [[:ru:bible:notes:gen:27:39|27:39]]
+
+* [[:ru:obe:other:rebuke]] is found in:
+ [[:ru:bible:notes:gen:31:41|31:41]], [[:ru:bible:notes:gen:37:09|37:09]]
+
+* [[:ru:obe:other:reign]] is found in:
+ [[:ru:bible:notes:gen:36:31|36:31]], [[:ru:bible:notes:gen:36:34|36:34]], [[:ru:bible:notes:gen:36:37|36:37]], [[:ru:bible:notes:gen:37:07|37:07]]
+
+* [[:ru:obe:kt:remnant]] is found in:
+ [[:ru:bible:notes:gen:45:07|45:07]]
+
+* [[:ru:obe:other:renown]] is found in:
+ [[:ru:bible:notes:gen:06:04|06:04]]
+
+* [[:ru:obe:kt:rest]] is found in:
+ [[:ru:bible:notes:gen:02:01|02:01]]
+
+* [[:ru:obe:kt:restore]] is found in:
+ [[:ru:bible:notes:gen:41:12|41:12]]
+
+* [[:ru:obe:other:reuben]] is found in:
+ [[:ru:bible:notes:gen:29:31|29:31]], [[:ru:bible:notes:gen:30:14|30:14]], [[:ru:bible:notes:gen:35:21|35:21]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:37:21|37:21]], [[:ru:bible:notes:gen:37:29|37:29]], [[:ru:bible:notes:gen:42:21|42:21]], [[:ru:bible:notes:gen:42:37|42:37]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:48:05|48:05]]
+
+* [[:ru:obe:kt:reveal]] is found in:
+ [[:ru:bible:notes:gen:41:27|41:27]]
+
+* [[:ru:obe:kt:righteous]] is found in:
+ [[:ru:bible:notes:gen:04:06|04:06]], [[:ru:bible:notes:gen:06:09|06:09]], [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:15:06|15:06]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:18:22|18:22]], [[:ru:bible:notes:gen:18:24|18:24]], [[:ru:bible:notes:gen:18:27|18:27]], [[:ru:bible:notes:gen:20:04|20:04]]
+
+* [[:ru:obe:kt:righthand]] is found in:
+ [[:ru:bible:notes:gen:48:11|48:11]], [[:ru:bible:notes:gen:48:14|48:14]], [[:ru:bible:notes:gen:48:17|48:17]]
+
+* [[:ru:obe:other:royal]] is found in:
+ [[:ru:bible:notes:gen:49:19|49:19]], [[:ru:bible:notes:gen:50:04|50:04]]
+
+* [[:ru:obe:other:ruler]] is found in:
+ [[:ru:bible:notes:gen:41:39|41:39]], [[:ru:bible:notes:gen:45:07|45:07]], [[:ru:bible:notes:gen:45:24|45:24]]
+
+* [[:ru:obe:other:sackcloth]] is found in:
+ [[:ru:bible:notes:gen:37:34|37:34]]
+
+* [[:ru:obe:other:sacred]] is found in:
+ [[:ru:bible:notes:gen:28:20|28:20]]
+
+* [[:ru:obe:other:sacrifice]] is found in:
+ [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:31:54|31:54]], [[:ru:bible:notes:gen:46:01|46:01]]
+
+* [[:ru:obe:kt:salvation]] is found in:
+ [[:ru:bible:notes:gen:49:16|49:16]]
+
+* [[:ru:obe:kt:sanctify]] is found in:
+ [[:ru:bible:notes:gen:02:01|02:01]]
+
+* [[:ru:obe:other:sarah]] is found in:
+ [[:ru:bible:notes:gen:11:29|11:29]], [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:12:04|12:04]], [[:ru:bible:notes:gen:12:10|12:10]], [[:ru:bible:notes:gen:12:17|12:17]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:16:05|16:05]], [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:17:15|17:15]], [[:ru:bible:notes:gen:17:17|17:17]], [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:18:06|18:06]], [[:ru:bible:notes:gen:18:09|18:09]], [[:ru:bible:notes:gen:18:11|18:11]], [[:ru:bible:notes:gen:18:13|18:13]], [[:ru:bible:notes:gen:20:01|20:01]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:20:15|20:15]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:21:05|21:05]], [[:ru:bible:notes:gen:21:08|21:08]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:23:01|23:01]], [[:ru:bible:notes:gen:23:19|23:19]], [[:ru:bible:notes:gen:24:36|24:36]], [[:ru:bible:notes:gen:24:66|24:66]], [[:ru:bible:notes:gen:25:09|25:09]], [[:ru:bible:notes:gen:49:31|49:31]]
+
+* [[:ru:obe:kt:save]] is found in:
+ [[:ru:bible:notes:gen:47:25|47:25]]
+
+* [[:ru:obe:other:seal]] is found in:
+ [[:ru:bible:notes:gen:38:17|38:17]]
+
+* [[:ru:obe:kt:seed]] is found in:
+ [[:ru:bible:notes:gen:01:11|01:11]], [[:ru:bible:notes:gen:03:14|03:14]]
+
+* [[:ru:obe:other:send]] is found in:
+ [[:ru:bible:notes:gen:41:07|41:07]]
+
+* [[:ru:obe:other:serpent]] is found in:
+ [[:ru:bible:notes:gen:03:01|03:01]], [[:ru:bible:notes:gen:03:04|03:04]], [[:ru:bible:notes:gen:03:12|03:12]], [[:ru:bible:notes:gen:03:14|03:14]]
+
+* [[:ru:obe:other:servant]] is found in:
+ [[:ru:bible:notes:gen:09:24|09:24]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:16:05|16:05]], [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:18:03|18:03]], [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:19:18|19:18]], [[:ru:bible:notes:gen:20:08|20:08]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:10|21:10]], [[:ru:bible:notes:gen:21:12|21:12]], [[:ru:bible:notes:gen:21:25|21:25]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:05|24:05]], [[:ru:bible:notes:gen:24:08|24:08]], [[:ru:bible:notes:gen:24:10|24:10]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:17|24:17]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:24:52|24:52]], [[:ru:bible:notes:gen:24:59|24:59]], [[:ru:bible:notes:gen:24:61|24:61]], [[:ru:bible:notes:gen:24:66|24:66]], [[:ru:bible:notes:gen:25:12|25:12]], [[:ru:bible:notes:gen:26:15|26:15]], [[:ru:bible:notes:gen:26:19|26:19]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:26:32|26:32]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:29:15|29:15]], [[:ru:bible:notes:gen:29:23|29:23]], [[:ru:bible:notes:gen:29:28|29:28]], [[:ru:bible:notes:gen:30:03|30:03]], [[:ru:bible:notes:gen:30:07|30:07]], [[:ru:bible:notes:gen:30:09|30:09]], [[:ru:bible:notes:gen:30:16|30:16]], [[:ru:bible:notes:gen:30:43|30:43]], [[:ru:bible:notes:gen:31:33|31:33]], [[:ru:bible:notes:gen:32:03|32:03]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:32:17|32:17]], [[:ru:bible:notes:gen:32:19|32:19]], [[:ru:bible:notes:gen:32:22|32:22]], [[:ru:bible:notes:gen:33:01|33:01]], [[:ru:bible:notes:gen:33:04|33:04]], [[:ru:bible:notes:gen:33:06|33:06]], [[:ru:bible:notes:gen:33:12|33:12]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:35:26|35:26]], [[:ru:bible:notes:gen:39:16|39:16]], [[:ru:bible:notes:gen:40:20|40:20]], [[:ru:bible:notes:gen:41:09|41:09]], [[:ru:bible:notes:gen:41:12|41:12]], [[:ru:bible:notes:gen:41:37|41:37]], [[:ru:bible:notes:gen:42:09|42:09]], [[:ru:bible:notes:gen:42:12|42:12]], [[:ru:bible:notes:gen:42:23|42:23]], [[:ru:bible:notes:gen:43:18|43:18]], [[:ru:bible:notes:gen:43:28|43:28]], [[:ru:bible:notes:gen:43:32|43:32]], [[:ru:bible:notes:gen:44:06|44:06]], [[:ru:bible:notes:gen:44:08|44:08]], [[:ru:bible:notes:gen:44:16|44:16]], [[:ru:bible:notes:gen:44:18|44:18]], [[:ru:bible:notes:gen:44:20|44:20]], [[:ru:bible:notes:gen:44:23|44:23]], [[:ru:bible:notes:gen:44:27|44:27]], [[:ru:bible:notes:gen:44:30|44:30]], [[:ru:bible:notes:gen:44:33|44:33]], [[:ru:bible:notes:gen:45:01|45:01]], [[:ru:bible:notes:gen:45:16|45:16]], [[:ru:bible:notes:gen:47:03|47:03]], [[:ru:bible:notes:gen:47:18|47:18]], [[:ru:bible:notes:gen:47:20|47:20]], [[:ru:bible:notes:gen:47:25|47:25]], [[:ru:bible:notes:gen:49:14|49:14]], [[:ru:bible:notes:gen:50:01|50:01]], [[:ru:bible:notes:gen:50:18|50:18]]
+
+* [[:ru:obe:other:serve]] is found in:
+ [[:ru:bible:notes:gen:15:14|15:14]], [[:ru:bible:notes:gen:25:23|25:23]], [[:ru:bible:notes:gen:27:29|27:29]], [[:ru:bible:notes:gen:27:39|27:39]], [[:ru:bible:notes:gen:30:25|30:25]], [[:ru:bible:notes:gen:30:29|30:29]], [[:ru:bible:notes:gen:31:04|31:04]], [[:ru:bible:notes:gen:43:30|43:30]]
+
+* [[:ru:obe:other:sex]] is found in:
+ [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:19:04|19:04]], [[:ru:bible:notes:gen:19:06|19:06]], [[:ru:bible:notes:gen:19:31|19:31]], [[:ru:bible:notes:gen:19:34|19:34]], [[:ru:bible:notes:gen:24:15|24:15]], [[:ru:bible:notes:gen:26:09|26:09]], [[:ru:bible:notes:gen:29:23|29:23]], [[:ru:bible:notes:gen:30:03|30:03]], [[:ru:bible:notes:gen:30:14|30:14]], [[:ru:bible:notes:gen:30:16|30:16]], [[:ru:bible:notes:gen:34:01|34:01]], [[:ru:bible:notes:gen:35:21|35:21]], [[:ru:bible:notes:gen:38:01|38:01]], [[:ru:bible:notes:gen:38:08|38:08]], [[:ru:bible:notes:gen:38:15|38:15]], [[:ru:bible:notes:gen:38:17|38:17]], [[:ru:bible:notes:gen:38:24|38:24]], [[:ru:bible:notes:gen:39:07|39:07]], [[:ru:bible:notes:gen:39:13|39:13]]
+
+* [[:ru:obe:other:shadow]] is found in:
+ [[:ru:bible:notes:gen:19:06|19:06]]
+
+* [[:ru:obe:other:shame]] is found in:
+ [[:ru:bible:notes:gen:30:22|30:22]], [[:ru:bible:notes:gen:38:21|38:21]]
+
+* [[:ru:obe:other:shechem]] is found in:
+ [[:ru:bible:notes:gen:12:06|12:06]], [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:34:01|34:01]], [[:ru:bible:notes:gen:34:04|34:04]], [[:ru:bible:notes:gen:34:06|34:06]], [[:ru:bible:notes:gen:34:08|34:08]], [[:ru:bible:notes:gen:34:11|34:11]], [[:ru:bible:notes:gen:34:18|34:18]], [[:ru:bible:notes:gen:34:20|34:20]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:04|35:04]], [[:ru:bible:notes:gen:37:12|37:12]]
+
+* [[:ru:obe:other:sheep]] is found in:
+ [[:ru:bible:notes:gen:12:14|12:14]], [[:ru:bible:notes:gen:15:09|15:09]], [[:ru:bible:notes:gen:20:13|20:13]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:29:01|29:01]], [[:ru:bible:notes:gen:29:04|29:04]], [[:ru:bible:notes:gen:29:09|29:09]], [[:ru:bible:notes:gen:30:31|30:31]], [[:ru:bible:notes:gen:30:33|30:33]], [[:ru:bible:notes:gen:30:39|30:39]], [[:ru:bible:notes:gen:31:19|31:19]], [[:ru:bible:notes:gen:31:38|31:38]], [[:ru:bible:notes:gen:32:13|32:13]], [[:ru:bible:notes:gen:38:12|38:12]]
+
+* [[:ru:obe:other:shem]] is found in:
+ [[:ru:bible:notes:gen:05:32|05:32]], [[:ru:bible:notes:gen:06:09|06:09]], [[:ru:bible:notes:gen:07:13|07:13]], [[:ru:bible:notes:gen:09:18|09:18]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:10:01|10:01]], [[:ru:bible:notes:gen:10:21|10:21]], [[:ru:bible:notes:gen:10:30|10:30]], [[:ru:bible:notes:gen:11:10|11:10]]
+
+* [[:ru:obe:other:shepherd]] is found in:
+ [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:46:31|46:31]], [[:ru:bible:notes:gen:46:33|46:33]], [[:ru:bible:notes:gen:47:03|47:03]], [[:ru:bible:notes:gen:49:24|49:24]]
+
+* [[:ru:obe:other:shinar]] is found in:
+ [[:ru:bible:notes:gen:10:08|10:08]], [[:ru:bible:notes:gen:11:01|11:01]], [[:ru:bible:notes:gen:14:01|14:01]], [[:ru:bible:notes:gen:14:07|14:07]]
+
+* [[:ru:obe:other:sidon]] is found in:
+ [[:ru:bible:notes:gen:10:15|10:15]], [[:ru:bible:notes:gen:10:19|10:19]], [[:ru:bible:notes:gen:49:13|49:13]]
+
+* [[:ru:obe:kt:sign]] is found in:
+ [[:ru:bible:notes:gen:01:14|01:14]], [[:ru:bible:notes:gen:09:11|09:11]], [[:ru:bible:notes:gen:17:09|17:09]]
+
+* [[:ru:obe:other:silver]] is found in:
+ [[:ru:bible:notes:gen:33:18|33:18]], [[:ru:bible:notes:gen:37:27|37:27]], [[:ru:bible:notes:gen:44:01|44:01]], [[:ru:bible:notes:gen:44:08|44:08]], [[:ru:bible:notes:gen:45:21|45:21]]
+
+* [[:ru:obe:other:simeon]] is found in:
+ [[:ru:bible:notes:gen:29:33|29:33]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:34:30|34:30]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:42:23|42:23]], [[:ru:bible:notes:gen:42:35|42:35]], [[:ru:bible:notes:gen:43:21|43:21]], [[:ru:bible:notes:gen:46:08|46:08]], [[:ru:bible:notes:gen:48:05|48:05]], [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:kt:sin]] is found in:
+ [[:ru:bible:notes:gen:04:06|04:06]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:18:20|18:20]], [[:ru:bible:notes:gen:20:06|20:06]], [[:ru:bible:notes:gen:20:08|20:08]], [[:ru:bible:notes:gen:31:36|31:36]], [[:ru:bible:notes:gen:39:07|39:07]], [[:ru:bible:notes:gen:42:21|42:21]]
+
+* [[:ru:obe:other:sodom]] is found in:
+ [[:ru:bible:notes:gen:10:19|10:19]], [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:14:01|14:01]], [[:ru:bible:notes:gen:14:10|14:10]], [[:ru:bible:notes:gen:14:21|14:21]], [[:ru:bible:notes:gen:18:16|18:16]], [[:ru:bible:notes:gen:18:20|18:20]], [[:ru:bible:notes:gen:18:22|18:22]], [[:ru:bible:notes:gen:19:01|19:01]], [[:ru:bible:notes:gen:19:04|19:04]], [[:ru:bible:notes:gen:19:23|19:23]], [[:ru:bible:notes:gen:19:26|19:26]]
+
+* [[:ru:obe:kt:son]] is found in:
+ [[:ru:bible:notes:gen:24:36|24:36]], [[:ru:bible:notes:gen:24:42|24:42]], [[:ru:bible:notes:gen:24:50|24:50]], [[:ru:bible:notes:gen:29:04|29:04]], [[:ru:bible:notes:gen:29:11|29:11]], [[:ru:bible:notes:gen:41:50|41:50]], [[:ru:bible:notes:gen:46:12|46:12]]
+
+* [[:ru:obe:kt:sonsofgod]] is found in:
+ [[:ru:bible:notes:gen:06:01|06:01]], [[:ru:bible:notes:gen:06:04|06:04]]
+
+* [[:ru:obe:kt:soul]] is found in:
+ [[:ru:bible:notes:gen:42:21|42:21]], [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:kt:spirit]] is found in:
+ [[:ru:bible:notes:gen:07:21|07:21]], [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:45:27|45:27]]
+
+* [[:ru:obe:other:staff]] is found in:
+ [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:38:17|38:17]]
+
+* [[:ru:obe:other:statute]] is found in:
+ [[:ru:bible:notes:gen:47:25|47:25]]
+
+* [[:ru:obe:other:sulfur]] is found in:
+ [[:ru:bible:notes:gen:19:23|19:23]]
+
+* [[:ru:obe:other:sweep]] is found in:
+ [[:ru:bible:notes:gen:18:24|18:24]], [[:ru:bible:notes:gen:19:14|19:14]], [[:ru:bible:notes:gen:19:16|19:16]]
+
+* [[:ru:obe:other:sword]] is found in:
+ [[:ru:bible:notes:gen:27:39|27:39]], [[:ru:bible:notes:gen:34:24|34:24]], [[:ru:bible:notes:gen:48:21|48:21]], [[:ru:bible:notes:gen:49:05|49:05]]
+
+* [[:ru:obe:other:tamar]] is found in:
+ [[:ru:bible:notes:gen:38:06|38:06]], [[:ru:bible:notes:gen:38:11|38:11]], [[:ru:bible:notes:gen:38:24|38:24]]
+
+* [[:ru:obe:other:tarshish]] is found in:
+ [[:ru:bible:notes:gen:10:02|10:02]]
+
+* [[:ru:obe:other:tent]] is found in:
+ [[:ru:bible:notes:gen:12:08|12:08]]
+
+* [[:ru:obe:other:tenth]] is found in:
+ [[:ru:bible:notes:gen:14:19|14:19]], [[:ru:bible:notes:gen:28:20|28:20]]
+
+* [[:ru:obe:kt:test]] is found in:
+ [[:ru:bible:notes:gen:22:01|22:01]], [[:ru:bible:notes:gen:42:14|42:14]]
+
+* [[:ru:obe:kt:testimony]] is found in:
+ [[:ru:bible:notes:gen:30:33|30:33]]
+
+* [[:ru:obe:other:thresh]] is found in:
+ [[:ru:bible:notes:gen:50:10|50:10]]
+
+* [[:ru:obe:other:throne]] is found in:
+ [[:ru:bible:notes:gen:41:39|41:39]]
+
+* [[:ru:obe:other:tomb]] is found in:
+ [[:ru:bible:notes:gen:23:03|23:03]], [[:ru:bible:notes:gen:23:05|23:05]], [[:ru:bible:notes:gen:23:07|23:07]], [[:ru:bible:notes:gen:23:19|23:19]], [[:ru:bible:notes:gen:35:16|35:16]], [[:ru:bible:notes:gen:50:04|50:04]]
+
+* [[:ru:obe:other:tribe]] is found in:
+ [[:ru:bible:notes:gen:17:19|17:19]], [[:ru:bible:notes:gen:25:13|25:13]], [[:ru:bible:notes:gen:49:16|49:16]]
+
+* [[:ru:obe:kt:trust]] is found in:
+ [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:47:29|47:29]]
+
+* [[:ru:obe:other:tubal]] is found in:
+ [[:ru:bible:notes:gen:10:02|10:02]]
+
+* [[:ru:obe:other:tunic]] is found in:
+ [[:ru:bible:notes:gen:37:31|37:31]]
+
+* [[:ru:obe:kt:uncircumcised]] is found in:
+ [[:ru:bible:notes:gen:34:14|34:14]]
+
+* [[:ru:obe:kt:unclean]] is found in:
+ [[:ru:bible:notes:gen:07:01|07:01]], [[:ru:bible:notes:gen:07:08|07:08]]
+
+* [[:ru:obe:kt:unleavenedbread]] is found in:
+ [[:ru:bible:notes:gen:19:01|19:01]]
+
+* [[:ru:obe:other:ur]] is found in:
+ [[:ru:bible:notes:gen:11:27|11:27]], [[:ru:bible:notes:gen:11:31|11:31]], [[:ru:bible:notes:gen:15:06|15:06]]
+
+* [[:ru:obe:other:vine]] is found in:
+ [[:ru:bible:notes:gen:40:09|40:09]], [[:ru:bible:notes:gen:49:11|49:11]]
+
+* [[:ru:obe:other:vineyard]] is found in:
+ [[:ru:bible:notes:gen:09:20|09:20]]
+
+* [[:ru:obe:other:virgin]] is found in:
+ [[:ru:bible:notes:gen:24:15|24:15]]
+
+* [[:ru:obe:other:vision]] is found in:
+ [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:46:01|46:01]]
+
+* [[:ru:obe:kt:vow]] is found in:
+ [[:ru:bible:notes:gen:28:20|28:20]], [[:ru:bible:notes:gen:31:12|31:12]]
+
+* [[:ru:obe:kt:walk]] is found in:
+ [[:ru:bible:notes:gen:17:01|17:01]], [[:ru:bible:notes:gen:24:39|24:39]], [[:ru:bible:notes:gen:48:14|48:14]]
+
+* [[:ru:obe:other:well]] is found in:
+ [[:ru:bible:notes:gen:16:13|16:13]], [[:ru:bible:notes:gen:21:19|21:19]], [[:ru:bible:notes:gen:21:25|21:25]], [[:ru:bible:notes:gen:26:15|26:15]], [[:ru:bible:notes:gen:26:18|26:18]], [[:ru:bible:notes:gen:26:19|26:19]], [[:ru:bible:notes:gen:26:21|26:21]], [[:ru:bible:notes:gen:26:32|26:32]], [[:ru:bible:notes:gen:29:01|29:01]]
+
+* [[:ru:obe:other:wine]] is found in:
+ [[:ru:bible:notes:gen:09:20|09:20]], [[:ru:bible:notes:gen:14:17|14:17]], [[:ru:bible:notes:gen:19:31|19:31]], [[:ru:bible:notes:gen:19:34|19:34]], [[:ru:bible:notes:gen:27:24|27:24]], [[:ru:bible:notes:gen:27:28|27:28]], [[:ru:bible:notes:gen:27:36|27:36]], [[:ru:bible:notes:gen:49:11|49:11]]
+
+* [[:ru:obe:kt:wise]] is found in:
+ [[:ru:bible:notes:gen:03:04|03:04]], [[:ru:bible:notes:gen:41:07|41:07]], [[:ru:bible:notes:gen:41:33|41:33]], [[:ru:bible:notes:gen:41:39|41:39]]
+
+* [[:ru:obe:kt:witness]] is found in:
+ [[:ru:bible:notes:gen:21:28|21:28]], [[:ru:bible:notes:gen:31:43|31:43]], [[:ru:bible:notes:gen:31:48|31:48]], [[:ru:bible:notes:gen:31:51|31:51]]
+
+* [[:ru:obe:other:womb]] is found in:
+ [[:ru:bible:notes:gen:25:23|25:23]], [[:ru:bible:notes:gen:25:24|25:24]], [[:ru:bible:notes:gen:38:27|38:27]], [[:ru:bible:notes:gen:49:25|49:25]]
+
+* [[:ru:obe:kt:word]] is found in:
+ [[:ru:bible:notes:gen:30:33|30:33]], [[:ru:bible:notes:gen:34:18|34:18]], [[:ru:bible:notes:gen:37:07|37:07]], [[:ru:bible:notes:gen:37:12|37:12]], [[:ru:bible:notes:gen:42:18|42:18]], [[:ru:bible:notes:gen:44:06|44:06]], [[:ru:bible:notes:gen:44:08|44:08]], [[:ru:bible:notes:gen:44:18|44:18]], [[:ru:bible:notes:gen:44:23|44:23]], [[:ru:bible:notes:gen:45:27|45:27]]
+
+* [[:ru:obe:kt:wordofgod]] is found in:
+ [[:ru:bible:notes:gen:15:01|15:01]], [[:ru:bible:notes:gen:15:04|15:04]]
+
+* [[:ru:obe:kt:worship]] is found in:
+ [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:22:04|22:04]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:47|24:47]]
+
+* [[:ru:obe:other:wrong]] is found in:
+ [[:ru:bible:notes:gen:16:05|16:05]]
+
+* [[:ru:obe:kt:yahweh]] is found in:
+ [[:ru:bible:notes:gen:02:04|02:04]], [[:ru:bible:notes:gen:02:07|02:07]], [[:ru:bible:notes:gen:02:09|02:09]], [[:ru:bible:notes:gen:02:21|02:21]], [[:ru:bible:notes:gen:03:01|03:01]], [[:ru:bible:notes:gen:03:07|03:07]], [[:ru:bible:notes:gen:03:09|03:09]], [[:ru:bible:notes:gen:03:12|03:12]], [[:ru:bible:notes:gen:03:14|03:14]], [[:ru:bible:notes:gen:03:20|03:20]], [[:ru:bible:notes:gen:03:22|03:22]], [[:ru:bible:notes:gen:04:01|04:01]], [[:ru:bible:notes:gen:04:03|04:03]], [[:ru:bible:notes:gen:04:06|04:06]], [[:ru:bible:notes:gen:04:08|04:08]], [[:ru:bible:notes:gen:04:13|04:13]], [[:ru:bible:notes:gen:04:16|04:16]], [[:ru:bible:notes:gen:04:25|04:25]], [[:ru:bible:notes:gen:06:01|06:01]], [[:ru:bible:notes:gen:06:05|06:05]], [[:ru:bible:notes:gen:06:07|06:07]], [[:ru:bible:notes:gen:07:04|07:04]], [[:ru:bible:notes:gen:07:15|07:15]], [[:ru:bible:notes:gen:07:23|07:23]], [[:ru:bible:notes:gen:08:20|08:20]], [[:ru:bible:notes:gen:09:26|09:26]], [[:ru:bible:notes:gen:11:05|11:05]], [[:ru:bible:notes:gen:11:08|11:08]], [[:ru:bible:notes:gen:13:03|13:03]], [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:13:12|13:12]], [[:ru:bible:notes:gen:13:16|13:16]], [[:ru:bible:notes:gen:14:21|14:21]], [[:ru:bible:notes:gen:15:06|15:06]], [[:ru:bible:notes:gen:16:01|16:01]], [[:ru:bible:notes:gen:16:05|16:05]], [[:ru:bible:notes:gen:16:07|16:07]], [[:ru:bible:notes:gen:16:09|16:09]], [[:ru:bible:notes:gen:16:13|16:13]], [[:ru:bible:notes:gen:17:01|17:01]], [[:ru:bible:notes:gen:18:13|18:13]], [[:ru:bible:notes:gen:19:12|19:12]], [[:ru:bible:notes:gen:19:14|19:14]], [[:ru:bible:notes:gen:19:16|19:16]], [[:ru:bible:notes:gen:19:23|19:23]], [[:ru:bible:notes:gen:19:26|19:26]], [[:ru:bible:notes:gen:20:17|20:17]], [[:ru:bible:notes:gen:21:01|21:01]], [[:ru:bible:notes:gen:21:33|21:33]], [[:ru:bible:notes:gen:22:11|22:11]], [[:ru:bible:notes:gen:22:13|22:13]], [[:ru:bible:notes:gen:22:15|22:15]], [[:ru:bible:notes:gen:24:01|24:01]], [[:ru:bible:notes:gen:24:12|24:12]], [[:ru:bible:notes:gen:24:21|24:21]], [[:ru:bible:notes:gen:24:26|24:26]], [[:ru:bible:notes:gen:24:31|24:31]], [[:ru:bible:notes:gen:24:33|24:33]], [[:ru:bible:notes:gen:24:39|24:39]], [[:ru:bible:notes:gen:24:42|24:42]], [[:ru:bible:notes:gen:24:47|24:47]], [[:ru:bible:notes:gen:24:50|24:50]], [[:ru:bible:notes:gen:24:52|24:52]], [[:ru:bible:notes:gen:24:56|24:56]], [[:ru:bible:notes:gen:25:21|25:21]], [[:ru:bible:notes:gen:25:23|25:23]], [[:ru:bible:notes:gen:26:02|26:02]], [[:ru:bible:notes:gen:26:12|26:12]], [[:ru:bible:notes:gen:26:23|26:23]], [[:ru:bible:notes:gen:26:28|26:28]], [[:ru:bible:notes:gen:27:05|27:05]], [[:ru:bible:notes:gen:27:20|27:20]], [[:ru:bible:notes:gen:27:26|27:26]], [[:ru:bible:notes:gen:28:12|28:12]], [[:ru:bible:notes:gen:28:16|28:16]], [[:ru:bible:notes:gen:28:20|28:20]], [[:ru:bible:notes:gen:29:31|29:31]], [[:ru:bible:notes:gen:29:35|29:35]], [[:ru:bible:notes:gen:30:22|30:22]], [[:ru:bible:notes:gen:30:27|30:27]], [[:ru:bible:notes:gen:30:29|30:29]], [[:ru:bible:notes:gen:31:01|31:01]], [[:ru:bible:notes:gen:31:48|31:48]], [[:ru:bible:notes:gen:32:09|32:09]], [[:ru:bible:notes:gen:38:06|38:06]], [[:ru:bible:notes:gen:38:08|38:08]], [[:ru:bible:notes:gen:39:01|39:01]], [[:ru:bible:notes:gen:39:03|39:03]], [[:ru:bible:notes:gen:39:05|39:05]], [[:ru:bible:notes:gen:39:21|39:21]], [[:ru:bible:notes:gen:49:16|49:16]]
+
+* [[:ru:obe:other:yoke]] is found in:
+ [[:ru:bible:notes:gen:27:39|27:39]]
+
+* [[:ru:obe:other:zebulun]] is found in:
+ [[:ru:bible:notes:gen:30:19|30:19]], [[:ru:bible:notes:gen:35:23|35:23]], [[:ru:bible:notes:gen:46:12|46:12]], [[:ru:bible:notes:gen:49:13|49:13]]
+
+* [[:ru:obe:other:zoar]] is found in:
+ [[:ru:bible:notes:gen:13:10|13:10]], [[:ru:bible:notes:gen:14:01|14:01]], [[:ru:bible:notes:gen:19:21|19:21]], [[:ru:bible:notes:gen:19:23|19:23]], [[:ru:bible:notes:gen:19:30|19:30]]
