@@ -1,6 +1,6 @@
 ===== Получение ответов =====
 
-This module answers the question: //Как мне получить ответы на свои вопросы?//
+Здесь содержится отвечает на вопрос: //Как мне получить ответы на свои вопросы?//
 
 Before you start this module have you learned about:
   * //[[ru:ta:vol1:intro:ta_intro|Введение в академию перевода.]]//
