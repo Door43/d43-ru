@@ -1,6 +1,6 @@
 ===== Рекомендации для перевода =====
 
-This module answers the question: //Какими принципами мы должны руководствоваться при переводе?//
+Здесь содержится отвечает на вопрос: //Какими принципами мы должны руководствоваться при переводе?//
 
 Before you start this module have you learned about:
   * //[[ru:ta:vol1:intro:uw_intro|Проект unfoldingWord (Раскрывающееся Слово)]]//
