@@ -14,7 +14,7 @@ translationAcademy has been created with an introduction and four manuals to hel
   * [[:ru:ta:vol2:audio:toc_audiovol2|Руководство по работе с аудио]] - How to make high-quality audio recordings without premium gear and a recording studio
   * [[:ru:ta:vol2:gateway:toc_gatewayvol2|Руководство для языков]] - Deals with issues that come up for Gateway Languages that don't occur for other languages
 
-==== translationAcademy Workbench ====
+==== Инструмент для визуального проектирования translationAcademy ====
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
 
