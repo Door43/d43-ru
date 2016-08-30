@@ -13,19 +13,19 @@
 
 === Определение качественного перевода ===
 
-  * [[:ru:ta:vol1:translate:guidelines_intro]] [[en:ta:vol1:translate:guidelines_clear]] [[en:ta:vol1:translate:guidelines_natural]] [[en:ta:vol1:translate:guidelines_accurate]] [[en:ta:vol1:translate:guidelines_church_approved]]
+  * [[:ru:ta:vol1:translate:guidelines_intro]] [[:ru:ta:vol1:translate:guidelines_clear]] [[:ru:ta:vol1:translate:guidelines_natural]] [[:ru:ta:vol1:translate:guidelines_accurate]] [[:ru:ta:vol1:translate:guidelines_church_approved]]
 
 === Смысловой перевод ===
 
-  * [[:ru:ta:vol1:translate:translate_process]] [[en:ta:vol1:translate:translate_discover]] [[en:ta:vol1:translate:translate_retell]]
-  * [[:ru:ta:vol1:translate:translate_fandm]] [[en:ta:vol1:translate:translate_form]] [[en:ta:vol1:translate:translate_levels]]
-  * [[:ru:ta:vol1:translate:translate_literal]] [[en:ta:vol1:translate:translate_wforw]] [[en:ta:vol1:translate:translate_problem]]
-  * [[:ru:ta:vol1:translate:translate_dynamic]] [[en:ta:vol1:translate:translate_tform]]
+  * [[:ru:ta:vol1:translate:translate_process]] [[:ru:ta:vol1:translate:translate_discover]] [[:ru:ta:vol1:translate:translate_retell]]
+  * [[:ru:ta:vol1:translate:translate_fandm]] [[:ru:ta:vol1:translate:translate_form]] [[:ru:ta:vol1:translate:translate_levels]]
+  * [[:ru:ta:vol1:translate:translate_literal]] [[:ru:ta:vol1:translate:translate_wforw]] [[:ru:ta:vol1:translate:translate_problem]]
+  * [[:ru:ta:vol1:translate:translate_dynamic]] [[:ru:ta:vol1:translate:translate_tform]]
 
 === Перед переводом ===
 
-  * [[:ru:ta:vol1:translate:choose_team]] [[en:ta:vol1:translate:qualifications]]
-  * [[:ru:ta:vol1:translate:translate_source_text]] [[en:ta:vol1:translate:translate_source_licensing]] [[en:ta:vol1:translate:translate_source_version]] [[en:ta:vol1:translate:translate_original]] [[en:ta:vol1:translate:translate_manuscripts]] [[en:ta:vol1:translate:translate_textvariants]]
+  * [[:ru:ta:vol1:translate:choose_team]] [[:ru:ta:vol1:translate:qualifications]]
+  * [[:ru:ta:vol1:translate:translate_source_text]] [[:ru:ta:vol1:translate:translate_source_licensing]] [[:ru:ta:vol1:translate:translate_source_version]] [[:ru:ta:vol1:translate:translate_original]] [[:ru:ta:vol1:translate:translate_manuscripts]] [[:ru:ta:vol1:translate:translate_textvariants]]
   * [[:ru:ta:vol1:translate:translate_alphabet]]
   * [[:ru:ta:vol1:translate:writing_decisions]]
 
@@ -34,15 +34,15 @@
   * [[:ru:ta:vol1:translate:translate_what]]
   * [[:ru:ta:vol1:translate:first_draft]]
   * [[:ru:ta:vol1:translate:resources_intro]]
-  * [[:ru:ta:vol1:translate:translate_help]] [[en:ta:vol1:translate:resources_types]] [[en:ta:vol1:translate:resources_links]]
+  * [[:ru:ta:vol1:translate:translate_help]] [[:ru:ta:vol1:translate:resources_types]] [[:ru:ta:vol1:translate:resources_links]]
 
 === Своевременное обучение Часть 1 ===
 
   * [[:ru:ta:vol1:translate:translate_unknown en:ta:vol1:translate:translate_names]]
-  * [[:ru:ta:vol1:translate:figs_intro]] [[n:ta:vol1:translate:figs_metaphor]] [[en:ta:vol1:translate:figs_simile]] [[en:ta:vol1:translate:figs_rquestion]] [[en:ta:vol1:translate:figs_idiom]] [[en:ta:vol1:translate:figs_irony]]
+  * [[:ru:ta:vol1:translate:figs_intro]] [[n:ta:vol1:translate:figs_metaphor]] [[:ru:ta:vol1:translate:figs_simile]] [[:ru:ta:vol1:translate:figs_rquestion]] [[:ru:ta:vol1:translate:figs_idiom]] [[:ru:ta:vol1:translate:figs_irony]]
   * [[:ru:ta:vol1:translate:figs_order]]
-  * [[:ru:ta:vol1:translate:figs_you]] [[en:ta:vol1:translate:figs_youdual]] [[en:ta:vol1:translate:figs_yousingular]]
-  * [[:ru:ta:vol1:translate:figs_explicit]] [[en:ta:vol1:translate:figs_explicitinfo]]
+  * [[:ru:ta:vol1:translate:figs_you]] [[:ru:ta:vol1:translate:figs_youdual]] [[:ru:ta:vol1:translate:figs_yousingular]]
+  * [[:ru:ta:vol1:translate:figs_explicit]] [[:ru:ta:vol1:translate:figs_explicitinfo]]
   * [[:ru:ta:vol1:translate:figs_hypo]]
   * [[:ru:ta:vol1:translate:figs_events]]
   * [[:ru:ta:vol1:translate:figs_parables]]
