@@ -6,41 +6,41 @@ This module answers the question: //Что содержится в первом 
 
 === Введение в процесс редактирования ===
 
-  * ru:ta:vol1:checking:intro_check
-  * ru:ta:vol1:checking:intro_checking
-  * ru:ta:vol1:checking:intro_levels
-  * ru:ta:vol1:checking:goal_checking
-  * ru:ta:vol1:checking:authority_process
+  *[[:ru:ta:vol1:checking:intro_check]]
+  *[[:ru:ta:vol1:checking:intro_checking]]
+  *[[:ru:ta:vol1:checking:intro_levels]]
+  *[[:ru:ta:vol1:checking:goal_checking]]
+  *[[:ru:ta:vol1:checking:authority_process]]
 
 === Определяя церковную власть ===
 
-  * ru:ta:vol1:checking:authority_level1
-  * ru:ta:vol1:checking:authority_level2
-  * ru:ta:vol1:checking:authority_level3
+  *[[:ru:ta:vol1:checking:authority_level1]]
+  *[[:ru:ta:vol1:checking:authority_level2]]
+  *[[:ru:ta:vol1:checking:authority_level3]]
 
 === Типы проверок ===
 
-  * ru:ta:vol1:checking:self_check
-  * ru:ta:vol1:checking:peer_check
-  * ru:ta:vol1:checking:important_term_check
-  * ru:ta:vol1:checking:accuracy_check
-  * ru:ta:vol1:checking:language_community_check
-  * ru:ta:vol1:checking:church_leader_check
-  * ru:ta:vol1:checking:other_methods
+  *[[:ru:ta:vol1:checking:self_check]]
+  *[[:ru:ta:vol1:checking:peer_check]]
+  *[[:ru:ta:vol1:checking:important_term_check]]
+  *[[:ru:ta:vol1:checking:accuracy_check]]
+  *[[:ru:ta:vol1:checking:language_community_check]]
+  *[[:ru:ta:vol1:checking:church_leader_check]]
+  *[[:ru:ta:vol1:checking:other_methods]]
 
 === На что проверять ===
 
-  * ru:ta:vol1:checking:accurate
-  * ru:ta:vol1:checking:clear
-  * ru:ta:vol1:checking:natural
-  * ru:ta:vol1:checking:acceptable
-  * ru:ta:vol1:checking:complete
-  * ru:ta:vol1:checking:self_assessment
+  *[[:ru:ta:vol1:checking:accurate]]
+  *[[:ru:ta:vol1:checking:clear]]
+  *[[:ru:ta:vol1:checking:natural]]
+  *[[:ru:ta:vol1:checking:acceptable]]
+  *[[:ru:ta:vol1:checking:complete]]
+  *[[:ru:ta:vol1:checking:self_assessment]]
 
 === Процесс редактирования ===
 
-  * ru:ta:vol1:checking:level1 en:ta:vol1:checking:level1_affirm
-  * ru:ta:vol1:checking:level2 en:ta:vol1:checking:community_evaluation en:ta:vol1:checking:good
-  * ru:ta:vol1:checking:level3 en:ta:vol1:checking:level3_questions en:ta:vol1:checking:level3_approval
+  *[[:ru:ta:vol1:checking:level1]] [[en:ta:vol1:checking:level1_affirm]]
+  *[[:ru:ta:vol1:checking:level2]] [[en:ta:vol1:checking:community_evaluation]] [[enta:vol1:checking:good]]
+  *[[:ru:ta:vol1:checking:level3]] [[en:ta:vol1:checking:level3_questions]] [[en:ta:vol1:checking:level3_approval]]
 
 
