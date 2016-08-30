@@ -6,7 +6,7 @@ The “translationAcademy” is intended to enable anyone, anywhere to learn the
 
 translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
 
-  * [[:ru:ta:vol1:intro:toc_intro|Введение]] - Introduces unfoldingWord and translationAcademy.
+  * [[:ru:ta:vol1:intro:toc_intro|Содержание]] - Introduces unfoldingWord and translationAcademy.
   * [[:ru:ta:vol1:translate:toc_transvol1|Руководство по переводуl]] - Teaches translation theory and answers many practical translation questions.
   * [[:ru:ta:vol1:checking:toc_checkvol1_2|Руководство по редактированию, проверке]] - Teaches checking theory and answers many practical checking questions.
   * [[:ru:ta:vol1:tech:toc_techvol1_2|Руководство по технологии]] - Contains tutorials on how to use the various technology tools that we have created.
