@@ -6,6 +6,6 @@
   * [[:ru:obe:other:home|Перечень "Других терминов" в папке OBE]]
 
 
-==== All Terms in the OBE: ====
+==== Все термины в OBE: ====
 
 <nspages ru:obe -r -title -exclude:home -textPages="">
