@@ -10,14 +10,13 @@
   * [[:ru:lexicon| Open Bible Lexicon (Лексикон Открытой Библии)]] - Библейский лексикон (словарь), предназначен для Рассказов Открытой Библии и Переводов Библии.
   * [[:ru:library| Open Christian Library (Открытая Христианская Библиотека)]] - Пополняющийся каталог Открытых лицензированные Ресурсов Библии.
   * [[:ru:ta|translationAcademy (Академия перевода)]] - Самоучитель для переводчиков и переводческих кураторов.
-==== About Door43 ====
+==== Про Door43 ====
 
-  * **[[:ru:get-started|How to Get Started]]** – Get started translating!
-  * **[[:ru:ta:vol1:intro:statement_of_faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
-  * **[[:ru:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
-  * **[[:ru:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
-  * **[[:ru:technical|Technical Details]]** – The technology behind Door43.
-
+  * **[[:ru:get-started|Как начать - начните перевод!
+  * **[[:ru:ta:vol1:intro:statement_of_faith|Заявление Веры - взгляды вероучения, с которым  согласны все участники Door43.
+  * **[[:ru:ta:vol1:intro:translation_guidelines|Руководство по переводу - Принципы и процедуры, которым должны следовать все участник.
+  * **[[:ru:ta:vol1:intro:open_license|Авторские права и лицензии - Все материалы на данном сайте, предоставляется в соответствии с условиями [[https://creativecommons.org/licenses/by-sa/4.0/deed.ru/|Атрибуции-на тех же условиях 4.0 международной лицензии организации Creative Commons.
+  * **[[:ru:technical|Технические подробности - Технология, лежащая в Door43.
 ==== Extending Door43 ====
 
 Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
