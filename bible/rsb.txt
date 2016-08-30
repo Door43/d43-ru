@@ -1,3 +1,3 @@
-Russian Synodal Bible
+===== Russian Synodal Bible =====
 ~~NOCACHE~~ 
 <nspages ru:bible:rsb: -title -exclude:home -textPages="Russian Synodal Bible взято из git.door43.org">
