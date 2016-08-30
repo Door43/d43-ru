@@ -2,7 +2,7 @@
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
-===== Overview of translationAcademy =====
+===== Обзор translationAcademy =====
 
 translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
 
