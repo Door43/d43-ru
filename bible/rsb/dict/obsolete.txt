@@ -1,1 +1,2 @@
 ===== Краткий словарь устаревших слов =====
+<nspages ru:bible:rsb:dict:obsolete -title -exclude:home -textPages="">
