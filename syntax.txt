@@ -16,9 +16,9 @@ __подчёркнутый текст__ and ''моноширинный'' тек�
 и <sup>верхний индекс</sup>.
 </code>
 
-You can mark something as <del>deleted</del> as well.
+Вы можете пометить текст как <del>удаление</del>.
 <code>
-You can mark something as <del>deleted</del>  as well.
+Вы можете пометить текст как <del>удаление</del>.
 </code>
 
 **Paragraphs** are created from blank lines. If you want to **force a newline** without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
