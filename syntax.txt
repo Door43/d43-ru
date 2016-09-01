@@ -1,6 +1,5 @@
-====== Formatting Content ======
-
-[[doku>DokuWiki]] supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[playground:playground|playground]] page. The simpler markup is easily accessible via [[doku>toolbar|quickbuttons]], too.
+====== Форматирование содержимого ======
+[[doku>DokuWiki]] поддерживает простой язык разметки, который пытается сделать файлы данных , чтобы быть читаемыми , насколько это возможно. Эта страница содержит все возможные синтаксические конструкции можно использовать при редактировании страниц. Просто посмотрите на исходный код этой страницы, нажав кнопку "Править страницу". Если вы хотите попробовать что - то, просто использовать страницу [[playground:playground|playground]]. Простую разметку легко доступны с помощью [[doku>toolbar|quickbuttons]] тоже.
 
 ===== Basic Text Formatting =====
 
