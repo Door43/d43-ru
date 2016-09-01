@@ -34,13 +34,6 @@ DokuWiki - это язык разметки. В нем используются 
   ===== Заголовок 1 =====
   ==== Заголовок 2 ====
   ==== Заголовок 3 ===
-  
-Markdown also supports links. Links display like this https://unfoldingword.org and are written like this:
-  https://unfoldingword.org
-
-Customized wording for links are also supported, like "[[en:ta|this]]". It is written like this:
-  [this](https://unfoldingword.org)
-
 
 DokuWiki поддерживает ссылки. Внешняя ссылка может выглядеть следующим образом: https://door43.org , но пишется так: https://door43.org
 Внутренняя ссылка автоматически вставляется в название страницы и выглядит как активная ссылка: «Добро пожаловать в Академию перевода«; оформляется она так:
