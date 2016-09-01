@@ -336,7 +336,7 @@ The same is true for %%//__this__ text// with a smiley ;-)%%.
   </nowiki>
   The same is true for %%//__this__ text// with a smiley ;-)%%.
 
-===== Code Blocks =====
+===== Кодировка блоков =====
 
 You can include code blocks into your documents by either indenting them by at least two spaces (like used for the previous examples) or by using the tags ''%%<code>%%'' or ''%%<file>%%''.
 
