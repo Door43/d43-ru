@@ -3,9 +3,9 @@
 
 ===== Основные конструкции форматирования =====
 
-DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__** all these.
+DokuWiki поддерживает **жирный шрифт**, //курсив//, __подчёркнутый текст__ and ''monospaced'' тексты. Конечно же можно использовать **__//''комбинировать'' //__** всё это.
 <code>
-DokuWiki supports **bold**, //italic//, __underlined__
+DokuWiki поддерживает **жирный шрифт**, //курсив//, __подчёркнутый текст__
 and ''monospaced'' texts.
 Of course you can **__//''combine''//__** all these.
 </code>
