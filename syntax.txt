@@ -467,7 +467,7 @@ The refresh period defaults to 4 hours. Any value below 10 minutes will be treat
 {{rss>http://slashdot.org/index.rss 5 author date 1h }}
 
 
-===== Control Macros =====
+===== Управляющие макросы =====
 
 Some syntax influences how DokuWiki renders a page without creating any output it self. The following control macros are availble:
 
