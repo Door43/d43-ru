@@ -1,1 +1,2 @@
 ===== Краткий словарь омонимов и ударений слов =====
+<nspages ru:bible:rsb:dict:homonym -title -exclude:home -textPages="">
