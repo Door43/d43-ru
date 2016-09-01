@@ -49,7 +49,7 @@
 === Как приступить к переводу ===
 
   * [[:ru:ta:vol1:translate:translate_what]]
-  * [[:ru:ta:vol1:translate:first_draft]]
+  * [[:ru:ta:vol1:translate:first_draft|Создание первого наброска]]
   * [[:ru:ta:vol1:translate:resources_intro]]
   * [[:ru:ta:vol1:translate:translate_help]]
   * [[:ru:ta:vol1:translate:resources_types]]
@@ -57,7 +57,8 @@
 
 === Своевременное обучение Часть 1 ===
 
-  * [[:ru:ta:vol1:translate:translate_unknown en:ta:vol1:translate:translate_names]]
+  * [[:ru:ta:vol1:translate:translate_unknown]]
+  * [[:ru:ta:vol1:translate:translate_names]]
   * [[:ru:ta:vol1:translate:figs_intro]]
   * [[ru:ta:vol1:translate:figs_metaphor]]
   * [[:ru:ta:vol1:translate:figs_simile]]
