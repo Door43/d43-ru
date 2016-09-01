@@ -157,7 +157,7 @@ If you specify a filename (external or internal) that is not an image (''gif, jp
 
 For linking an image to another page see [[#Image Links]] above.
 
-===== Lists =====
+===== Списки =====
 
 Dokuwiki supports ordered and unordered lists. To create a list item, indent your text by two spaces and use a ''*'' for unordered lists or a ''-'' for ordered ones.
 
