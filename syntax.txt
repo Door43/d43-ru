@@ -185,7 +185,7 @@ Dokuwiki supports ordered and unordered lists. To create a list item, indent you
 
 Also take a look at the [[doku>faq:lists|FAQ on list items]].
 
-===== Text Conversions =====
+===== Преобразования текста =====
 
 DokuWiki can convert certain pre-defined characters or strings into images or other text or HTML.
 
