@@ -475,7 +475,7 @@ Some syntax influences how DokuWiki renders a page without creating any output i
 | %%~~NOTOC~~%%   | If this macro is found on the page, no table of contents will be created |
 | %%~~NOCACHE~~%% | DokuWiki caches all output by default. Sometimes this might not be wanted (eg. when the %%<php>%% syntax above is used), adding this macro will force DokuWiki to rerender a page on every call |
 
-===== Syntax Plugins =====
+===== Синтаксис плагинов =====
 
 DokuWiki's syntax can be extended by [[doku>plugins|Plugins]]. How the installed plugins are used is described on their appropriate description pages. The following syntax plugins are available in this particular DokuWiki installation:
 
