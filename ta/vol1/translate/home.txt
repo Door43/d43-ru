@@ -8,7 +8,7 @@
 
   * [[:ru:ta:vol1:translate:translate_manual]]
   * [[:ru:ta:vol1:translate:translate_terms]]
-  * [[:ru:ta:vol1:translate:translate_whatis]]
+  * [[:ru:ta:vol1:translate:translate_whatis|Что называется переводом]]
   * [[:ru:ta:vol1:translate:translate_why]]
 
 === Определение качественного перевода ===
