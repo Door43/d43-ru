@@ -191,7 +191,7 @@ DokuWiki can convert certain pre-defined characters or strings into images or ot
 
 The text to image conversion is mainly done for smileys. And the text to HTML conversion is used for typography replacements, but can be configured to use other HTML as well.
 
-==== Text to Image Conversions ====
+==== Преобразование текста в изображение ====
 
 DokuWiki converts commonly used [[wp>emoticon]]s to their graphical equivalents. Those [[doku>Smileys]] and other images can be configured and extended. Here is an overview of Smileys included in DokuWiki:
 
