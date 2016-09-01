@@ -104,7 +104,7 @@ You can add footnotes ((This is a footnote)) by using double parentheses.
 You can use up to five different levels of headlines to structure your content. If you have more than three headlines, a table of contents is generated automatically -- this can be disabled by including the string ''<nowiki>~~NOTOC~~</nowiki>'' in the document.
 
 ===== Заголовки =====
-Они пишутся следующим образом:
+Заголовки пишутся следующим образом:
 ==== Заголовок 3 ====
 === Заголовок 4 ===
 == Заголовок 5 ==
