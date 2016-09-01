@@ -216,7 +216,7 @@ DokuWiki converts commonly used [[wp>emoticon]]s to their graphical equivalents.
   * FIXME %%  FIXME %%
   * DELETEME %% DELETEME %%
 
-==== Text to HTML Conversions ====
+==== Преобразование текста в HTML ====
 
 Typography: [[DokuWiki]] can convert simple text characters to their typographically correct entities. Here is an example of recognized characters.
 
