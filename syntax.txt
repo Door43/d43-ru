@@ -322,7 +322,7 @@ This is how it looks in the source:
 
 Note: Vertical alignment is not supported.
 
-===== No Formatting =====
+===== Без форматирования =====
 
 If you need to display text exactly like it is typed (without any formatting), enclose the area either with ''%%<nowiki>%%'' tags or even simpler, with double percent signs ''<nowiki>%%</nowiki>''.
 
