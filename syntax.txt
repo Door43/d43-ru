@@ -397,7 +397,7 @@ When you use the ''%%<code>%%'' or ''%%<file>%%'' syntax as above, you might wan
 If you don't want any highlighting but want a downloadable file, specify a dash (''-'') as the language code: ''%%<code - myfile.foo>%%''.
 
 
-===== Embedding HTML and PHP =====
+===== Встраивание HTML и PHP =====
 
 You can embed raw HTML or PHP code into your documents by using the ''%%<html>%%'' or ''%%<php>%%'' tags. (Use uppercase tags if you need to enclose block level elements.)
 
