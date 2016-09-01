@@ -1,7 +1,7 @@
 ====== Форматирование содержимого ======
 [[doku>DokuWiki]] поддерживает простой язык разметки, который пытается сделать файлы данных , чтобы быть читаемыми , насколько это возможно. Эта страница содержит все возможные синтаксические конструкции можно использовать при редактировании страниц. Просто посмотрите на исходный код этой страницы, нажав кнопку "Править страницу". Если вы хотите попробовать что - то, просто использовать страницу [[playground:playground|playground]]. Простую разметку легко доступны с помощью [[doku>toolbar|quickbuttons]] тоже.
 
-===== Basic Text Formatting =====
+===== Основные конструкции форматирования =====
 
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__** all these.
 <code>
@@ -38,7 +38,7 @@ a whitespace \\this happens without it.
 
 You should use forced newlines only if really needed.
 
-===== Links =====
+===== Ссылки =====
 
 DokuWiki supports multiple ways of creating links.
 
@@ -70,7 +70,7 @@ Linking to a specific section is possible, too. Just add the section name behind
 
   This links to [[syntax#internal|this Section]].
 
-Notes:
+Примечание:
 
   * Links to [[syntax|existing pages]] are shown in a different style from [[nonexisting]] ones.
   * DokuWiki does not use [[wp>CamelCase]] to automatically create links by default, but this behavior can be enabled in the [[doku>config]] file. Hint: If DokuWiki is a link, then it's enabled.
@@ -83,7 +83,7 @@ DokuWiki supports [[doku>Interwiki]] links. These are quick links to other Wikis
   DokuWiki supports [[doku>Interwiki]] links. These are quick links to other Wikis.
   For example this is a link to Wikipedia's page about Wikis: [[wp>Wiki]].
 
-==== Image Links ====
+==== Ссылки изображений ====
 
 You can also use an image to link to another internal or external page by combining the syntax for links and [[#images_and_other_files|images]] (see below) like this:
 
@@ -95,7 +95,7 @@ Please note: The image formatting is the only formatting syntax accepted in link
 
 The whole [[#images_and_other_files|image]] and [[#links|link]] syntax is supported (including image resizing, internal and external images and URLs and interwiki links).
 
-===== Footnotes =====
+===== Сноски =====
 
 You can add footnotes ((This is a footnote)) by using double parentheses.
 
@@ -117,7 +117,7 @@ By using four or more dashes, you can make a horizontal line:
 
 ----
 
-===== Images and Other Files =====
+===== Изображения и другие файлы =====
 
 You can include external and internal [[doku>images]] with curly brackets. Optionally you can specify the size of them.
 
