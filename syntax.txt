@@ -260,7 +260,7 @@ I think we should do it
 
 >>> Then lets do it!
 
-===== Tables =====
+===== Таблицы =====
 
 DokuWiki supports a simple syntax to create tables.
 
