@@ -445,7 +445,7 @@ echo '<td><img src="' . $_SERVER['PHP_SELF'] . '?=' . php_logo_guid() . '" alt="
 echo '</tr></table>';
 </PHP>
 
-**Please Note**: HTML and PHP embedding is disabled by default in the configuration. If disabled, the code is displayed instead of executed.
+**Пожалуйста, заметьте**: HTML and PHP embedding is disabled by default in the configuration. If disabled, the code is displayed instead of executed.
 
 ===== RSS/ATOM Feed Aggregation =====
 [[DokuWiki]] can integrate data from external XML feeds. For parsing the XML feeds, [[http://simplepie.org/|SimplePie]] is used. All formats understood by SimplePie can be used in DokuWiki as well. You can influence the rendering by multiple additional space separated parameters:
