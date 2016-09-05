@@ -11,14 +11,10 @@
 
 {{topic>:en:bible?chariot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots** to get stuck. 
-  ***[[:ru:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:12-10|[12-10]]]** Они погнались за израильтянами по дороге через море, но Бог поразил войско паникой, когда их **колесницы**  увязли в грязи.
+  * **[[:ru:obs:notes:frames:45-07|[45-07]]]** Когда Филипп шёл по дороге, он увидел высокопоставленного служащего из Эфиопии, ехавшего в своей **колеснице**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
