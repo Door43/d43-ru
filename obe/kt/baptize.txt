@@ -23,15 +23,15 @@
 
 {{topic>:en:bible?baptize&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * **[[:ru:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be **baptized**  by John.
-  * **[[:ru:obs:notes:frames:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
-  * **[[:ru:obs:notes:frames:42-10|[42-10]]]** So go, make disciples of all people groups by **baptizing**  them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:ru:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be **baptized**  in the name of Jesus Christ so that God will forgive your sins."
-  * **[[:ru:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were **baptized**  and became part of the church at Jerusalem.
-  * **[[:ru:obs:notes:frames:45-11|[45-11]]]** As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be **baptized**?"
-  * **[[:ru:obs:notes:frames:46-05|[46-05]]]** Saul immediately was able to see again, and Ananias **baptized**  him.
-  * **[[:ru:obs:notes:frames:49-14|[49-14]]]** Jesus invites you to believe in him and be **baptized**.
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:24-03|[24-03]]]** Когда люди слышали проповедь Иоанна, они каялись в своих грехах, и Иоанн их **крестил**. Многие религиозные лидеры также приходили к Иоанну **креститься**, но они не каялись и не исповедовали своих грехов.
+  * **[[:ru:obs:notes:frames:24-06|[24-06]]]** На другой день Иисус пришёл **креститься**  у Иоанна.
+  * **[[:ru:obs:notes:frames:24-07|[24-07]]]** Иоанн сказал Иисусу: «Я не достоин **крестить**  Тебя. Это Тебе следует **крестить**  меня».
+  * **[[:ru:obs:notes:frames:42-10|[42-10]]]** «Итак, идите и научите все народы, **крестя**  их во имя Отца, и Сына и Святого Духа и уча их исполнять всё, что Я повелел вам.»
+  * **[[:ru:obs:notes:frames:43-11|[43-11]]]** Пётр ответил: «Каждый из вас должен покаяться и **креститься**  во имя Иисуса Христа, чтобы Бог простил вам ваши грехи.»
+  * **[[:ru:obs:notes:frames:43-12|[43-12]]]** Около трех тысяч человек поверили в то, что сказал им Пётр, и стали учениками Иисуса. Они были **крещены**  и присоединились к церкви в Иерусалиме.
+  * **[[:ru:obs:notes:frames:45-11|[45-11]]]** Путники проезжали мимо воды. Эфиоплянин воскликнул: «Смотри! Вот вода! Можно мне принять **крещение**?»** **
+  * ******[[:ru:obs:notes:frames:46-05|[46-05]]]** И тотчас зрение вернулось к Савлу, и Анания **крестил**  его.** **
+  * ******[[:ru:obs:notes:frames:49-14|[49-14]]]** Иисус призывает тебя принять Его и **креститься**.** **
+****~~DISCUSSION~~{{tag>publish ktobs}}** **
