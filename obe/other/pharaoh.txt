@@ -1,17 +1,17 @@
 ====== фараон, царь Египта ======
 
-===== Facts: =====
+===== Факты: =====
 
-In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
+В древние времена царей, правивших над Египтом, называли фараонами.
 
-  * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
-  * These Egyptians kings were very powerful and wealthy.
-  * Several of these pharaohs are mentioned in the Bible.
-  * Often this title is used as a name rather than as a title. In these cases, it is capitalized as "Pharaoh."
+  * В течение 2 000 лет более 300 фараонов правило Египтом.
+  * Фараоны Египта были могущественными и богатыми.
+  * Несколько из них упомянуто в Библии.
+  * Часто данный титул использовался как имя, а не как звание. В подобных случаях он писался с заглавной буквы: «Фараон».
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:egypt|Egypt, Egyptian]], [[:ru:obe:other:king|king]])
+(См. также: [[:ru:obe:other:egypt|Egypt, Egyptian]], [[:ru:obe:other:king|king]])
 
 ===== Bible References: =====
 
