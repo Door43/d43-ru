@@ -22,11 +22,11 @@
 
 {{topic>:en:bible?deliverer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
-  * **[[:ru:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.
-  * **[[:ru:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers**  who saved the Israelites from their enemies.
+  * **[[:ru:obs:notes:frames:16-03|[16-03]]]** Тогда Бог давал им **освободителей**, которые избавляли народ и восстанавливали на земле мир.
+  * **[[:ru:obs:notes:frames:16-16|[16-16]]]** Наконец, израильтяне снова попросили Бога о помощи, и Он послал им другого **избавителя**.
+  * **[[:ru:obs:notes:frames:16-17|[16-17]]]** На протяжении многих лет Бог посылал **избавителей**, спасавших израильтян от врагов.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
