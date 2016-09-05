@@ -7,17 +7,17 @@
   * В Библии говорится не только о водном крещении, но и о крещении Святым Духом и огнем.
   * Слово «крещение» употребляется также в Библии, когда речь идет об огромных страданиях.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Christians have different views about how a person should be baptized with water. It is probably best to translate this term in a general way that allows for different ways of applying the water.
-  * Depending on the context, the term “baptize” could be translated as “pour out on” or “completely overwhelm” or “spiritually cleanse.” For example, "baptize you with water" could be translated as, "pour out water on you."
-  * The term “baptism” could be translated as, “a pouring out on” or “a covering over” or “a spiritual washing.”
-  * When it refers to suffering, "baptism" could also be translated as "an overwhelming time of suffering" or "a pouring out of terrible suffering."
-  * Also consider how this term is translated in a Bible translation in a local or national language.
+  * Христиане расходятся во мнениях относительно того, как нужно крестить человека в воде. Возможно, лучше всего перевести это слово основным термином, допускающим разные способы использования воды.
+  * В зависимости от контекста, слово «крестить» может переводиться как «выливать на», «полностью погружать» или «духовно очищать». Например, «крещу тебя водой» можно перевести как «выливаю на тебя воду».
+  * Тогда «крещение» будет переводиться как «выливание на», «покрытие водой» или «духовное очищение».
+  * Когда речь идет о страданиях, «крещение» может переводиться как «непреодолимый период страданий» или «излитие огромных страданий».
+  * Посмотрите, как оно переведено на местный или национальный язык Библии.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[:ru:obe:other:johnthebaptist|John (the Baptist)]], [[:ru:obe:kt:repent|repent, repentance]], [[:ru:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]])
+(См. также: [[:ru:obe:other:johnthebaptist|John (the Baptist)]], [[:ru:obe:kt:repent|repent, repentance]], [[:ru:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]])
 
 ===== Bible References: =====
 
