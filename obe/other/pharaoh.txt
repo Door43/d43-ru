@@ -17,13 +17,14 @@
 
 {{topic>:en:bible?pharaoh&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  * **[[:ru:obs:notes:frames:08-08|[08-08]]]****Pharaoh**  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
-  * **[[:ru:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh**  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
-  * **[[:ru:obs:notes:frames:09-13|[09-13]]]**"I will send you to **Pharaoh**  so that you can bring the Israelites out of their slavery in Egypt."
-  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh **  that he is more powerful than **Pharaoh**  and all of Egypt's gods.
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** Однажды ночью **фараону**  (так египтяне называли своих правителей) приснилось два сна, которые сильно его встревожили.
+  * **[[:ru:obs:notes:frames:08-08|[08-08]]]** Иосиф настолько впечатлил **фараона**, что властелин поставил юношу вторым самым могущественным правителем в Египте!
+  * **[[:ru:obs:notes:frames:09-02|[09-02]]]****Фараон**, правивший в то время над Египтом, сделал израильтян рабами египтян.
+  * **[[:ru:obs:notes:frames:09-13|[09-13]]]** «Я пошлю тебя к **фараону**, чтобы ты вывел израильтян из Египта, где они ныне находятся в рабстве.»
+  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Через эти казни Бог показал **фараону**, что Он сильнее **фараона**  и всех богов Египта.** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
