@@ -15,15 +15,11 @@
 
 {{topic>:en:bible?assyria&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:20-02|[20-02]]]** So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the **Assyrian Empire**, a powerful, cruel nation. The **Assyrians** killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.
-  ***[[:ru:obs:notes:frames:20-03|[20-03]]]** The **Assyrians** gathered all the leaders, the rich people, and the people with skills and took them to **Assyria**.
-  ***[[:ru:obs:notes:frames:20-04|[20-04]]]** Then the **Assyrians** brought foreigners to live in the land where the kingdom of Israel had been. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:20-02|[20-02]]]** Тогда Бог покарал оба царства, позволив врагам их уничтожить. **Ассирийская Империя**, могущественная и жестокая, разрушила израильское царство. **Ассирийцы**  убили большое количество людей, захватили все ценности и сожгли почти всю страну.
+  * **[[:ru:obs:notes:frames:20-03|[20-03]]]****Ассирийцы**  увели в плен в **Ассирию**  всех правителей, богатых людей и искусных мастеров.
+  * **[[:ru:obs:notes:frames:20-04|[20-04]]]** Потом **ассирийцы**  заселили место, где раньше было Израильское царство людьми из других стран.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
