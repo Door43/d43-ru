@@ -12,15 +12,11 @@
 
 {{topic>:en:bible?jericho&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:15-01|[15-01]]]** Joshua sent two spies to the Canaanite city of **Jericho**.
-  ***[[:ru:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told Joshua how to attack the powerful city of **Jericho**.
-  ***[[:ru:obs:notes:frames:15-05|[15-05]]]** Then the walls around **Jericho** fell down! The Israelites destroyed everything in the city as God had commanded.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:15-01|[15-01]]]** Иисус Навин отправил двух соглядатаев в хананейский город **Иерихон**.
+  * **[[:ru:obs:notes:frames:15-03|[15-03]]]** После того, как народ перешёл реку Иордан, Бог открыл Иисусу Навину, как напасть на укрепленный город **Иерихон**.
+  * **[[:ru:obs:notes:frames:15-05|[15-05]]]** И внезапно стены **Иерихона**  рухнули! Следуя Божьему повелению, Израильтяне истребили в городе абсолютно всех.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
