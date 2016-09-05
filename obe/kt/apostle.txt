@@ -17,7 +17,7 @@
   * Важно по-разному перевести слова «Апостол» и «ученик».
   * Посмотрите, как они переводятся в национальной Библии. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(См. также:[[:ru:ta:vol1:translate:translate_unknown|]][[:ru:obe:kt:disciple|disciple]], [[:ru:obe:kt:thetwelve|the twelve, the eleven]], [[:ru:obe:kt:authority|authority]])
+(См. также: [[:ru:obe:kt:disciple|disciple]], [[:ru:obe:kt:thetwelve|the twelve, the eleven]], [[:ru:obe:kt:authority|authority]])
 
 ===== Bible References: =====
 
