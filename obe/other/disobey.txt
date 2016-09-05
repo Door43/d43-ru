@@ -16,12 +16,12 @@
 
 {{topic>:en:bible?disobey&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
-  * **[[:ru:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
-  * **[[:ru:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
-  * **[[:ru:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** Бог сказал мужчине: «Ты послушал свою жену и **ослушался**  Меня.»
+  * **[[:ru:obs:notes:frames:13-07|[13-07]]]** Он обещал, что благословит и защитит людей, если они будут исполнять Его заповеди. Если же они **не будут им следовать**, их постигнет Его наказание.
+  * **[[:ru:obs:notes:frames:16-02|[16-02]]]** Из-за того, что израильтяне продолжали упорствовать в **непослушании**, Бог допускал, чтобы их враги одерживали над ними победу.
+  * **[[:ru:obs:notes:frames:35-12|[35-12]]]** «Старший сын упрекнул отца: “Все эти годы я верно трудился на тебя. Я никогда **не перечил**  тебе, но ты не дал мне даже козлёнка, чтобы я мог повеселиться с моими друзьями.“»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
