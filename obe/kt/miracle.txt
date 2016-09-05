@@ -23,13 +23,13 @@
 
 {{topic>:en:bible?miracle&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:16-08|[16-08]]]** Gideon asked God for two **signs**  so he could be sure that God would use him to save Israel.
-  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** God did many **miracles**  through Elisha.
-  * **[[:ru:obs:notes:frames:37-10|[37-10]]]** Many of the Jews believed in Jesus because of this **miracle**.
-  * **[[:ru:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty **signs**  and **wonders**  by the power of God, as you have seen and already know."
-  * **[[:ru:obs:notes:frames:49-02|[49-02]]]** Jesus did many **miracles**  that prove he is God. He walked on water, calmed storms, healed many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  * **[[:ru:obs:notes:frames:16-08|[16-08]]]** Гедеон попросил у Бога два **знамения**, чтобы быть уверенным в том, что Бог действительно призывает его спасти Израиль от врагов.
+  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** Бог совершал много **чудес**  через Елисея.
+  * **[[:ru:obs:notes:frames:37-10|[37-10]]]** Благодаря этому **чуду**, многие иудеи уверовали в Иисуса.
+  * **[[:ru:obs:notes:frames:43-06|[43-06]]]** «Израильтяне! Иисус был человеком, совершавшим много могущественных **знамений**  и **чудес**  силой Бога, как вы уже видели и знаете. Но вы Его распяли!»
+  * **[[:ru:obs:notes:frames:49-02|[49-02]]]** Иисус совершал много **чудес**, доказывая, что Он - Бог. Он ходил по воде, успокаивал бури, исцелял больных, изгонял бесов, воскрешал мёртвых и умножал хлеб и рыбу до такого количества, что могла насытиться многотысячная толпа.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
