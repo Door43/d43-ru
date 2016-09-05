@@ -1,20 +1,19 @@
 ====== Авраам, Аврам ======
 
 
-===== Facts: =====
+===== Факты: =====
 
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites. 
+Авраам был тем, кого избрал Бог быть родоначальником израильского народа.
 
-    * God promised Abraham that he would have many descendants and that they would become a great nation.
-    * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-    * Abraham believed God and obeyed him. 
-    * Abraham's name was originally "Abram," but God changed it to Abraham.
-    * Abram means, "exalted father," and Abraham means, "father of many."
+  * Бог обещал Аврааму произвести от него многочисленных потомков, которые станут великим народом.
+  * Бог заключил с Авраамом завет и обещал навеки сохранить его с потомками Авраама.
+  * Авраам поверил Богу и был Ему послушен.
+  * Первоначально патриарха хвали «Аврамом», но Бог измени его имя на «Авраама».
+  * Имя «Аврам» означает «достойный отец», тогда как имя «Авраам» означает «отец многих».
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names]]) 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[sarah]], [[isaac]])
-
+(См. также: [[:ru:obe:other:sarah|Sarah, Sarai]], [[:ru:obe:other:isaac|Isaac]])
 
 ===== Bible References: =====
  
