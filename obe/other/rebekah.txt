@@ -16,15 +16,11 @@
 
 {{topic>:en:bible?rebekah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:06-02| [06-02]]]** After a very long journey to the land where Abraham's relatives lived, God led the servant to **Rebekah**. She was the granddaughter of Abraham's brother.
-  ***[[:ru:obs:notes:frames:06-06| [06-06]]]** God told **Rebekah**, "There are two nations inside of you."
-  ***[[:ru:obs:notes:frames:07-01| [07-01]]]** As the boys grew up, **Rebekah** loved Jacob, but Isaac loved Esau.
-  ***[[:ru:obs:notes:frames:07-03| [07-03]]]** Isaac wanted to give his blessing to Esau. But before he did, **Rebekah** and Jacob tricked him by having Jacob pretend to be Esau.
-  ***[[:ru:obs:notes:frames:07-06| [07-06]]]** But **Rebekah** heard of Esau's plan. So she sent Jacob far away to live with her relatives.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:06-02|[06-02]]]** Слуга проделал долгий путь в землю, где жили родственники Авраама, и Бог привёл его к **Ревекке**. Ревекка приходилась Аврааму внучатой племянницей.
+  * **[[:ru:obs:notes:frames:06-06|[06-06]]]** Бог сказал **Ревекке**: «Два народа внутри тебя».
+  * **[[:ru:obs:notes:frames:07-01|[07-01]]]** Мальчики росли, и **Ревекка**  была привязана к Иакову, Исаак же любил Исава.
+  * **[[:ru:obs:notes:frames:07-03|[07-03]]]** Исаак хотел благословить Исава. Но **Ревекка**  и Иаков перехитрили Исаака: Иаков пришёл к отцу и выдал себя за Исава.
+  * **[[:ru:obs:notes:frames:07-06|[07-06]]]****Ревекка**  узнала о замысле старшего сына. И они с Исааком решили отправить Иакова к родственникам Ревекки.
+~~DISCUSSION~~{{tag>publish ktobs}}
