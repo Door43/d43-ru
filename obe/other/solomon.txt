@@ -17,16 +17,13 @@
 
 {{topic>:en:bible?solomon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-14|[17-14]]]** Later,  David and Bathsheba had another son, and they named him **Solomon**.
-  ***[[:ru:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his son **Solomon** began to rule. God spoke to **Solomon** and asked him what he wanted most. When **Solomon** asked for wisdom, God was pleased and made him the wisest man in the world. **Solomon** learned many things and was a very wise judge. God also made him very wealthy.
-  ***[[:ru:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, **Solomon** built the Temple for which his father David had planned and gathered materials.
-  ***[[:ru:obs:notes:frames:18-03|[18-03]]]** But **Solomon** loved women from other countries. ... When **Solomon** was old, he also worshiped their gods.
-  ***[[:ru:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon** and, as a punishment for **Solomon's** unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's** death.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:17-14|[17-14]]]** Впоследствии у Давида с Вирсавией родился другой сын, и они назвали его **Соломоном**.
+  * **[[:ru:obs:notes:frames:18-01|[18-01]]]** Прошло много лет, Давид умер, и в Израиле воцарился его сын **Соломон**. Бог обратился к **Соломону**  и спросил, что молодой человек хотел больше всего. **Соломон ** попросил у Бога мудрости. Господу была угодна такая просьба, и Он сделал **Соломона**  самым мудрым человеком на свете. Соломон познал многое и стал мудрым судьёй. Кроме этого, Бог сделал его очень богатым.
+  * **[[:ru:obs:notes:frames:18-02|[18-02]]]** В городе Иерусалиме **Соломон**  воздвиг Храм, для которого его отец Давид разработал план и собрал материалы.
+  * **[[:ru:obs:notes:frames:18-03|[18-03]]]** На беду, **Соломону**  нравились иноземные женщины... Когда **Соломон** состарился, он тоже впал в идолопоклонство.
+  * **[[:ru:obs:notes:frames:18-04|[18-04]]]** Бог разгневался на **Соломона**  и в наказание за неверность **Соломона**  обещал разделить Израиль на два царства после смерти **царя**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
