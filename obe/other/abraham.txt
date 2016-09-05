@@ -15,11 +15,9 @@
 
 (См. также: [[:ru:obe:other:sarah|Sarah, Sarai]], [[:ru:obe:other:isaac|Isaac]])
 
-===== Bible References: =====
- 
- 
-{{topic>:en:bible?abraham&nocomments}}
+===== Ссылки в Библии: =====
 
+{{topic>:en:bible?abraham&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
