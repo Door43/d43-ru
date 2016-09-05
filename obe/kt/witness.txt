@@ -9,12 +9,12 @@
   * Быть свидетелем происшествия - значит, видеть, как что-то случилось.
   * Свидетеля, дающего ложные показания о происшедшем, называют «лжесвидетелем».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "witness" or "eyewitness" could be translated with a word or phrase that means, "person-seeing-it" or "the one who saw it happen" or "those who saw and heard (those things)."
-  * The phrase "you will be my witnesses" could also be translated as, "you will tell other people about me" or "you will teach people the truth that I taught you" or "you will tell people what you have seen me do and heard me teach."
+  * Слово «свидетель» или «очевидец» может переводиться как «человек, увидевший», «тот, кто видел случившееся» или «те, кто видел и слышал (все случившееся)».
+  * Фраза «вы будете Моими свидетелями» может быть переведена как «вы расскажете другим людям обо Мне», «вы научите людей истинам, которым Я вас учу» или «вы расскажете людям о том, что видели Мои дела и слышали Мое учение».
 
-(See also: [[:ru:obe:kt:guilt]], [[:ru:obe:kt:judge]], [[:ru:obe:kt:true]], [[:ru:obe:kt:testimony]])
+(См. также: [[:ru:obe:kt:guilt|guilt, guilty]], [[:ru:obe:kt:judge|judge, judgment]], [[:ru:obe:kt:true|true, truth]], [[:ru:obe:kt:testimony|testimony, testify]])
 
 ===== Bible References: =====
 
