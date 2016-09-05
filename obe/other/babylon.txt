@@ -1,15 +1,15 @@
 ====== Вавилон, Вавилоняне ======
 
-===== Facts: =====
+===== Факты: =====
 
-The ancient city of Babylon was the capital of the Babylonian Empire. It was located in the ancient region of Babylonia, which is now the country of Iraq.
+Древний город Вавилон был столицей Вавилонской империи. Он находился в древневавилонской области, которая располагалась на территории современного Ирака.
 
-  * Babylon was located along the Euphrates River, in the same region where the Tower of Babel had been built hundreds of years before.
-  * Sometimes the word "Babylon" refers to the entire Babylonian Empire. For example, the "king of Babylon" ruled the entire empire, not just the city.
-  * The Babylonians were a powerful people group who attacked the kingdom of Judah and kept them in exile in Babylonia for 70 years.
-  * Part of this region was called "Chaldea" and the people living there were the "Chaldeans." Often "Chaldea" is just another name for "Babylonia."
+  * Вавилон стоял у реки Ефрат - в том же месте, где за много лет до его возникновения начала строиться вавилонская башня.
+  * Иногда слово «Вавилон» относится ко всей Вавилонской империи. Например, «царь Вавилона» правил всей империей, а не одним городом.
+  * Вавилоняне были сильным народом, напавшим на Иудейское царство и уведшим евреев в семидесятилетний вавилонский плен.
+  * Часть этой области называлась «Халдеей», а живущий там народ - «халдеями». Часто «Халдея» - это всего лишь одно из названий «Вавилонии».
 
-(See also: [[:ru:obe:other:kingdomofjudah]], [[:ru:obe:other:nebuchadnezzar]], [[:ru:obe:other:Chaldeans]])
+(См. также: [[:ru:obe:other:kingdomofjudah|царство Иуды]], [[:ru:obe:other:nebuchadnezzar|Навуходоносор]], [[:ru:obe:other:chaldeans|Chaldea, Chaldean]])
 
 ===== Bible References: =====
 
