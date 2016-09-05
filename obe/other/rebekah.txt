@@ -1,17 +1,16 @@
 ====== Ревекка ======
 
-===== Facts: =====
+===== Факты: =====
 
-Rebekah was a daughter of one of Abraham's nephews. Her grandfather was Abraham's brother.
+Ревекка была дочерью одного из племянников Авраама. Ее дед приходился Аврааму братом.
 
-    * God chose Rebekah to be the wife of Abraham's son Isaac. 
-    * Rebekah left her country and went with Abraham's servant to go to Isaac's country, marry Isaac, and live there with his family.
-    * For a long time Rebekah did not have any children, but finally God blessed her with twin boys, Esau and Jacob.
+  * Бог избрал Ревекку в жены для Исаака, сына Авраама.
+  * Ревекка оставила свою страну и отправилась со слугой Авраама в туда, где жил Исаак, чтобы вступить с ним в брак и жить с его семьей.
+  * Долгое время Ревекка была бесплодной, когда, наконец, Бог благословил ее мальчиками-близнецами: Исавом и Иаковом.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:other:abraham]], [[isaac]], [[jacob]], [[esau]])
-
+(См. также: [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:isaac|Isaac]], [[:ru:obe:other:jacob|Jacob, Israel]], [[:ru:obe:other:esau|Esau]])
 
 ===== Bible References: =====
 
