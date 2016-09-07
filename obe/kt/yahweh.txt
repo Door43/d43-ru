@@ -21,11 +21,11 @@
 
 {{topic>:en:bible?yahweh&nocomments&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
-  * **[[:ru:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am **Yahweh**, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:ru:obs:notes:frames:13-05|[13-05]]]**"Do not make idols or worship them, for I, **Yahweh**, am a jealous God."
-  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of **Yahweh**, the true God.
-  * **[[:ru:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O **Yahweh**, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."
+  * **[[:ru:obs:notes:frames:09-14|[09-14]]]** Бог ответил: «Я ЕСМЬ СУЩИЙ. Скажи им: «Сущий послал меня к вам». Также скажи им: «Я - **Иегова**  - Бог отцов ваших: Авраама, Исаака и Иакова. Вот имя Мое навеки.»
+  * **[[:ru:obs:notes:frames:13-04|[13-04]]]** Бог дал израильтянам завет, сказав: «Я - **Господь**  Бог ваш, спасший вас от рабства в Египте. Не поклоняйтесь иным богам.»
+  * **[[:ru:obs:notes:frames:13-05|[13-05]]]** «Не делайте кумиров и не поклоняйтесь им, ибо Я **Господь**  - Бог-ревнитель.»
+  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** Израильтяне начали чтить богов хананеев вместо истинного **Господа**  Бога.
+  * **[[:ru:obs:notes:frames:19-10|[19-10]]]** Затем Илия воззвал к Богу: «О **Господь**, Бог Авраама, Исаака и Иакова, покажи нам сегодня, что Ты - Бог Израиля, а я - Твой слуга.»
 ~~DISCUSSION~~{{tag>publish ktobs review}}
