@@ -8,12 +8,13 @@
   * Результатом покаяния становится человеческое послушание Богу.
   * Это понятие включает изменение сердца, обращение к Богу и отказ от греха.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn the mind away from sin and toward God" or "turn toward God, away from sin."
-  * The meaning includes having a change of heart, not just actions. It shows a change of thinking where sin is rejected and God is pursued.
+  * Слово «каяться» можно перевести как «(вновь) обратиться к Богу», «отвернуть разум от греха и направить его к Богу» или «повернуться к Богу и отвернуться от греха».
+  * В семантику данного слова входит не только перемена в действиях, но и изменение сердца. Когда человек начинает отвергать грех и искать Бога, происходит перемена в мышлении.
 
-(See also: [[:ru:obe:kt:forgive]], [[:ru:obe:kt:sin]])
+(См. также: [[:ru:obe:kt:forgive|прощать, прощение]], [[:ru:obe:kt:sin|sin, sinful, sinner, sinning]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?repent&nocomments}}
