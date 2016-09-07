@@ -1,16 +1,15 @@
 ====== Самария, самарянин ======
 
-===== Facts: =====
+===== Факты: =====
 
-Samaria was a region in the northern part of Israel.
+Самария была областью, располагавшейся в северной части Израиля.
 
-    * When the Assyrians conquered the kingdom of Israel, they took most of the people away to Assyria and brought foreigners to Israel to live in that area.
-    * Some of the Israelites married the foreigners, and their descendants were called Samaritans.
-    * The Samaritans worshiped other gods besides Yahweh.
-    * The Jews and the Samaritans hated each other.
+  * Когда ассирийцы покорили Израильское царство, они увели большую часть населения в Ассирию и заселили Израиль иноземными народами.
+  * Некоторые израильтяне вступали с иноземцами в брак, и их потомков стали называть самарянами.
+  * Самаряне поклонялись не только Господу, но и ложным богам.
+  * Иудеи и самаряне враждовали друг с другом.
 
-(See also: [[assyria]])
-
+(См. также: [[:ru:obe:other:assyria|Ассирия, Ассирийцы, Ассирийская Империя]])
 
 ===== Bible References: =====
 
