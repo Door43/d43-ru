@@ -26,11 +26,10 @@
 
 {{topic>:en:bible?priest&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High"
-  ***[[:ru:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
-  ***[[:ru:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
-  ***[[:ru:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
-
+  * **[[:ru:obs:notes:frames:04-07|[04-07]]]** «Мелхиседек - **священник**  Всевышнего Бога».
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Человек, нарушивший Божий закон, мог принести жертву на алтаре, стоящем у входа в скинию собрания. **Священник**  убивал животное и сжигал его на жертвеннике. Кровь жертвы покрывала грех человека, делая согрешившего невинным в очах Божьих. Бог избрал брата Моисея (Аарона) и его потомков, чтобы они были Его **священниками**.
+  * **[[:ru:obs:notes:frames:19-07|[19-07]]]****Жрецы**  Ваала приготовили жертву, но не зажгли огня.
+  * **[[:ru:obs:notes:frames:21-07|[21-07]]]** Израильские **священники**  приносили пред Богом жертвы за народ, замещавшие собой тех людей, которые должны были понести наказание за грехи. **Священники**  также молились Богу за народ.
 ~~DISCUSSION~~{{tag>publish ktobs}}
