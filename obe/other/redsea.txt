@@ -1,15 +1,14 @@
 ====== Красное море ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
+Красное море - это водоем, отделяющий северную Африку от Аравийского полуострова.
 
-  * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
-  * The Red Sea is long and narrow. It is larger than a lake or river, but smaller than an ocean.
-  * The Israelites had to cross the Red Sea when they were fleeing from Egypt.
+  * Красное море формирует восточную границу Египта, оно расположено на юго-западе от земли обетованной.
+  * Красное море протяженное и узкое. Оно крупнее озера и реки, но меньше океана.
+  * Израильтянам пришлось перейти Красное море, когда они бежали от египтян.
 
-(See also: [[egypt]], [[en:obe:kt:promisedland]])
-
+(См. также: [[:ru:obe:other:egypt|Egypt, Egyptian]], [[:en:obe:kt:promisedland|Promised Land]])
 
 ===== Bible References: =====
 
