@@ -8,14 +8,14 @@
   * Первоначальное значение этого термина: "вызывать, созывать собрание." Имеется в виду сбор или собрание людей для специальных целей.
   * В Библии термин "церковь" не относится к зданию.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
-  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
-  * Make sure that the translation of "church" does not just refer to a building.
-  * Also consider how it is translated in a local or national Bible translation. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
+  * Слово «церковь» может переводиться как «совместное собрание» или «собрание», а также «конгрегация» или «те, кто вместе собирается».
+  * Слово или фраза, употребляемая для перевода этого понятия, должна относиться ко всем верующим, а не только к небольшой их группе.
+  * Удостоверьтесь, что слово «церковь» не относится к строению.
+  * Посмотрите, как оно дано в переводе Библии на национальный язык. ([[:en:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]].)
 
-(See also: [[:ru:obe:kt:christian]], [[:ru:obe:kt:believer]], [[:ru:obe:kt:assembly]])
+(См. также: [[:ru:obe:kt:christian|христианин]], [[:ru:obe:kt:believer|верующий]], [[:ru:obe:kt:assembly|assembly]])
 
 ===== Bible References: =====
 
