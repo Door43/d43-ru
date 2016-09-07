@@ -11,17 +11,12 @@
 
 {{topic>:en:bible?amorite&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:15-07|[15-07]]]** Sometime later, the kings of another people group in Canaan, the **Amorites**, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked Gibeon. 
-  ***[[:ru:obs:notes:frames:15-08|[15-08]]]** In the early morning they surprised the **Amorite** armies and attacked them. 
-  ***[[:ru:obs:notes:frames:15-09|[15-09]]]** God fought for Israel that day. He caused the **Amorites** to be confused and he sent large hailstones that killed many of the **Amorites**.
-  ***[[:ru:obs:notes:frames:15-10|[15-10]]]** God also caused the sun to stay in one place in the sky so that Israel would have enough time to completely defeat the **Amorites**. 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:15-07|[15-07]]]** Через некоторое время цари **аморреев**  (другого народа в Ханаане), услышав, что гаваонитяне заключили с израильтянами мир, объединили войска и все вместе напали на Гаваон.
+  * **[[:ru:obs:notes:frames:15-08|[15-08]]]** Иисус Навин собрал израильские войска, которые шли всю ночь на помощь к гаваонитянам. Ранним утром израильтяне внезапно напали на **аморреев**.
+  * **[[:ru:obs:notes:frames:15-09|[15-09]]]** В тот день Бог сражался за Израиль. Он посеял панику среди **аморреев**, послав крупный град, убивший многих из **аморреев**.
+  * **[[:ru:obs:notes:frames:15-10|[15-10]]]** Бог задерживал солнце на небе, чтобы у Израиля было время для полного поражения **аморреев**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
