@@ -26,12 +26,12 @@
 
 {{topic>:en:bible?spirit&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast.
-  * **[[:ru:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! Father, I give my **spirit**  into your hands." Then he bowed his head and gave up his **spirit**.
-  * **[[:ru:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, receive my **spirit**."
-  * **[[:ru:obs:notes:frames:48-07|[48-07]]]** All the people groups are blessed through him, because everyone who believes in Jesus is saved from sin, and becomes a **spiritual**  descendant of Abraham.
+  * **[[:ru:obs:notes:frames:13-03|[13-03]]]** Через три дня, когда народ приготовился **духовно**, Бог сошёл на вершину горы с громом, молнией, дымом и громким трубным звуком.
+  * **[[:ru:obs:notes:frames:40-07|[40-07]]]** Потом Иисус воскликнул: «Свершилось! Отец, Я отдаю Мой **дух**  в Твои руки». Он склонил голову и испустил Свой **дух**.
+  * **[[:ru:obs:notes:frames:45-05|[45-05]]]** Когда Стефан умирал, он воскликнул: «Иисус, прими мой **дух**!»
+  * **[[:ru:obs:notes:frames:48-07|[48-07]]]** Все народы земли благословляются через Иисуса, потому что тот, кто в Него поверит, спасается от греха и становится **духовным**  потомком Авраама.
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
 ~~NOCACHE~~
