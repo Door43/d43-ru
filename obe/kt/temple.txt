@@ -9,14 +9,14 @@
   * Бог назвал храм местом Своего обитания.
   * В Новом Завете слово «храм Святого Духа» употребляется в отношении верующих в Иисуса, потому что в них живет Святой Дух.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
-  * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
-  * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
-  * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
+  * Обычно, когда говорится, что люди были «в храме», речь идет о внешнем дворе вне здания. В таком случае можно дать перевод «внешний двор храма» или «в храмовом комплексе».
+  * Но когда прямо говорится о строении, то можно перевести слово «храм» как «здание храма», чтобы было понятно, о чем идет речь.
+  * Слову «храм» можно дать перевод «Божий святой дом» или «священное место поклонения».
+  * Часто в Библии о храме говорится как о «доме Господнем» или как о «Божьем доме».
 
-(See also: [[:ru:obe:other:sacrifice]], [[:ru:obe:other:solomon]], [[:ru:obe:other:babylon]], [[:ru:obe:kt:holyspirit]], [[:ru:obe:kt:tabernacle]], [[:ru:obe:other:courtyard]] [[:ru:obe:other:zion]] [[:ru:obe:other:house]])
+(См. также: [[:ru:obe:other:sacrifice|жертва, приношение]], [[:ru:obe:other:solomon|Соломон]], [[:ru:obe:other:babylon|Вавилон, вавилоняне]], [[:ru:obe:kt:holyspirit|Святой Дух, Дух Божий, Дух Господень]], [[:ru:obe:kt:tabernacle|tabernacle]], [[:ru:obe:other:courtyard|courtyard]] [[:ru:obe:other:zion|Zion, Mount Zion]] [[:ru:obe:other:house|house]])
 
 ===== Bible References: =====
 
