@@ -13,15 +13,14 @@
   * Бог называет «священником» всякого, кто верит в Иисуса, потому что такой человек может прямо приходить к Богу в молитве и ходатайствовать как за себя, так и за других людей.
   * В библейские времена были священники, которые приносили жертвы ложным богам, например Ваалу.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "priest" could be translated as "sacrifice person (for God)" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
-  * The translation of "priest" should be different from the translation of "mediator."
-  * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
-  * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
+  * Слово «священник» можно перевести как «человек, совершающий жертвоприношения (Богу)», «Божий посредник», «посредник, приносящий жертвы» или «человек, назначенный Богом в качестве Божьего представителя».
+  * Перевод слова «священник» должен отличаться от перевода слова «ходатай».
+  * В некоторых переводах будет лучше сказать «израильский священник», «иудейский священник» или «священник Господа», чтобы было понятно, что речь не идет о современном типе священника.
+  * Слово, переводимое как «священник», должно отличаться от слов «главный священник», «первосвященник», «левит» и «пророк».
 
-(See also: [[en:obe:other:aaron]], [[en:obe:other:sacrifice]], [[en:obe:other:chiefpriests]], [[:ru:obe:kt:highpriest]], [[:ru:obe:other:mediator]])
-
+(См. также: [[:en:obe:other:aaron|Aaron]], [[:en:obe:other:sacrifice|sacrifice, offering]], [[:en:obe:other:chiefpriests|chief priests]], [[:ru:obe:kt:highpriest|первосвященник]], [[:ru:obe:other:mediator|mediator]])
 
 ===== Bible References: =====
 
