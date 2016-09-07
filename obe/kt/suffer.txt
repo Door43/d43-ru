@@ -17,15 +17,15 @@
 
 {{topic>:en:bible?suffer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-13|[09-13]]]** God said, "I have seen the **suffering**  of my people."
-  * **[[:ru:obs:notes:frames:38-12|[38-12]]]** Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of **suffering**."
-  * **[[:ru:obs:notes:frames:42-03|[42-03]]]** He (Jesus) reminded them that the prophets said the Messiah would **suffer**  and be killed, but would rise again on the third day.
-  * **[[:ru:obs:notes:frames:42-07|[42-07]]]** He (Jesus) said, "It was written long ago that the Messiah would **suffer**, die, and rise from the dead on the third day."
-  * **[[:ru:obs:notes:frames:44-05|[44-05]]]**"Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would **suffer**  and die."
-  * **[[:ru:obs:notes:frames:46-04|[46-04]]]** God said, "I have chosen him (Saul) to declare my name to the unsaved. I will show him how much he must **suffer**  for my sake."
-  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more **suffering**, sadness, crying, evil, pain, or death.
+  * **[[:ru:obs:notes:frames:09-13|[09-13]]]** Бог сказал Моисею: «Я увидел **страдание**  Моего народа.»
+  * **[[:ru:obs:notes:frames:38-12|[38-12]]]** В молитве три раза Он восклицал: «Отец! Да минует Меня эта чаша **страданий**!»
+  * **[[:ru:obs:notes:frames:42-03|[42-03]]]** Он (Иисус) напомнил им слова пророков, говоривших о том, что Мессия **пострадает**, будет убит, но на третий день воскреснет.
+  * **[[:ru:obs:notes:frames:42-07|[42-07]]]** Он сказал: «Еще очень давно было написано о том, что Мессия **пострадает**, умрёт и воскреснет на третий день».
+  * **[[:ru:obs:notes:frames:44-05|[44-05]]]** «Хотя вы не понимали, что творили, Бог использовал ваши действия, чтобы исполнить пророчества о том, что Мессия **пострадает**  и умрёт.»
+  * **[[:ru:obs:notes:frames:46-04|[46-04]]]** Бог ответил ему: «Я избрал его, чтобы он возвещал Моё имя иудеям и людям из других народов. Он будет много **страдать**  ради Моего имени».
+  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** Божий Сын отрёт каждую слезу, и не будет больше ни **страданий**, ни печали, ни плача, ни зла, ни боли, ни смерти.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
