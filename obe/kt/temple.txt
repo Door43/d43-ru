@@ -22,14 +22,14 @@
 
 {{topic>:en:bible?temple&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
-  * **[[:ru:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
-  * **[[:ru:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
-  * **[[:ru:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
-  * **[[:ru:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
-  * **[[:ru:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
+  * **[[:ru:obs:notes:frames:17-06|[17-06]]]** Давид хотел построить **храм**, где все израильтяне могли бы поклоняться Богу и совершать жертвоприношения.
+  * **[[:ru:obs:notes:frames:18-02|[18-02]]]** В городе Иерусалиме Соломон воздвиг **Храм**, для которого его отец Давид разработал план и собрал материалы. Теперь народ поклонялся Богу и совершал жертвоприношения в **Храме**, а не в скинии собрания. Бог приходил в **Храм**  и присутствовал в нем, там Он жил со Своим народом.
+  * **[[:ru:obs:notes:frames:20-07|[20-07]]]** Они (вавилоняне) захватили город Иерусалим, разрушили **Храм**  и унесли все сокровища города и Храма.
+  * **[[:ru:obs:notes:frames:20-13|[20-13]]]** Когда люди прибыли в Иерусалим, они восстановили **Храм**  и починили городские и **храмовые**  стены.
+  * **[[:ru:obs:notes:frames:25-04|[25-04]]]** Затем сатана привёл Иисуса на крыло **Храма**  и сказал: «Если Ты - Сын Бога, бросься вниз, ибо написано: ‘Бог повелит Своим ангелам понести тебя, чтобы твоя нога не споткнулась о камень’».
+  * **[[:ru:obs:notes:frames:40-07|[40-07]]]** Когда Иисус умер, произошло землетрясение, и огромная завеса, отделявшая людей от присутствия Божьего в **Храме**, разодралась сверху донизу.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
