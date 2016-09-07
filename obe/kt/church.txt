@@ -21,13 +21,13 @@
 
 {{topic>:en:bible?church&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the **church**  at Jerusalem.
-  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** Most of the people in Antioch were not Jews, but for the first time, very many of them also became believers. Barnabas and Saul went there to teach these new believers more about Jesus and to strengthen the **church**.
-  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** So the **church**  in Antioch prayed for Barnabas and Saul and placed their hands on them. Then they sent them off to preach the good news of Jesus in many other places.
-  * **[[:ru:obs:notes:frames:47-13|[47-13]]]** The good news of Jesus kept spreading, and the **Church**  kept growing.
-  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the good news about Jesus the Messiah. The **Church**  has been growing.
+  * **[[:ru:obs:notes:frames:43-12|[43-12]]]** Около трех тысяч человек поверили в то, что сказал им Пётр, и стали учениками Иисуса. Они были крещены и присоединились к **церкви**  в Иерусалиме.
+  * **[[:ru:obs:notes:frames:46-09|[46-09]]]** Большая часть жителей Антиохии не была из иудеев, и эти люди впервые слышали о Христе. Варнава и Савл отправились в Антиохию, чтобы больше рассказать новообращенным об Иисусе и укрепить их **церковь**.
+  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Тогда **церковь**  в Антиохии помолилась за Варнаву и Савла, возложив на них руки. Потом верующие отослали их на проповедь Евангелия в другие области.
+  * **[[:ru:obs:notes:frames:47-13|[47-13]]]** Евангелие продолжало распространяться, а **Церковь**  - расти.
+  * **[[:ru:obs:notes:frames:50-01|[50-01]]]** Уже более двух тысяч лет люди по всему миру слышат благую весть об Иисусе - Мессии. **Церковь**  растет.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
