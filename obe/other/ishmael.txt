@@ -1,18 +1,16 @@
 ====== Измаил ======
 
-===== Facts: =====
+===== Факты: =====
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar. 
+Измаил был сыном Авраама и Агари - служанки Сарры.
 
-    * The name "Ishmael" means, "God hears."
-    * Ishmael received the benefit of a divine promise made to Hagar about himself and his future
-    * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
+  * Имя «Измаил» означает «Бог слышит».
+  * Измаил получил часть в том обетовании, которое Бог дал Агари об Измаиле и его будущем.
+  * Однако Измаил был не тем сыном, через которого Бог исполнил обещание, данное Аврааму, когда говорил, что сделает его потомков многочисленными, подобно звёздам.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[en:obe:other:Abraham]], [[:ru:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
-
+(См. также: [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:isaac|Isaac]] )
 
 ===== Bible References: =====
 
