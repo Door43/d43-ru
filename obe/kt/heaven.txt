@@ -20,14 +20,15 @@
 
 {{topic>:en:bible?heaven&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.**
-  * **[[:ru:obs:notes:frames:14-11|[14-11]]]** He (God) gave them bread from **heaven**, called "manna."
-  * **[[:ru:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven**  and peace on earth to the people he favors!"
-  * **[[:ru:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly**  Father will do to every one of you if you do not forgive your brother from your heart."
-  * **[[:ru:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven**  and said, "Father, thank you for hearing me."
-  * **[[:ru:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:04-02|[04-02]]]** Они начали строить высокую башню, чтобы достичь **небес**.** **
+  * ******[[:ru:obs:notes:frames:14-11|[14-11]]]** Он (Бог) дал им хлеб с **небес**, названный «манной».** **
+  * ******[[:ru:obs:notes:frames:23-07|[23-07]]]** Внезапно на **небе**  появилось множество ангелов, которые славили Бога, восклицая: «Слава в вышних Богу, и на земле мир, в человеках благоволение!»** **
+  * ******[[:ru:obs:notes:frames:29-09|[29-09]]]** Потом Иисус сказал: «Так Мой **Небесный**  Отец поступит с каждым из вас, если вы не простите своего брата от всего сердца».** **
+  * ******[[:ru:obs:notes:frames:37-09|[37-09]]]** Потом Иисус взглянул на **небеса**  и сказал: «Отец, благодарю Тебя за то, что Ты слышишь Меня».** **
+  * ******[[:ru:obs:notes:frames:42-11|[42-11]]]** Затем Иисус стал подниматься в **небо**, и облако скрыло Его из вида.** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
