@@ -9,14 +9,14 @@
   * Из-за того, что демоны служат дьяволу, они творят зло. Иногда они живут внутри человека и контролируют его.
   * Демоны намного сильнее человека, но не сильнее Бога.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "demon" could also be translated as "evil spirit."
-  * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
-  * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Слово «демон» можно еще перевести как «злой дух».
+  * Понятию «нечистый дух» можно дать перевод «оскверненный дух», «порочный дух» или «развращенный дух».
+  * Удостоверьтесь, что слово или фраза, которые используются для перевода данного понятия, отличаются от перевода слова «дьявол».
+  * Посмотрите, как слово «демон» переводится на национальный язык. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[:ru:obe:kt:demonpossessed]], [[:ru:obe:kt:satan]], [[:ru:obe:other:idol]], [[:ru:obe:kt:falsegod]], [[:ru:obe:kt:angel]], [[:ru:obe:kt:evil]], [[:ru:obe:kt:unclean]])
+(См. также: [[:ru:obe:kt:demonpossessed|одержимый нечистым духом]], [[:ru:obe:kt:satan|Satan, devil, evil one]], [[:ru:obe:other:idol|idol, idolatrous]], [[:ru:obe:kt:falsegod|ложный бог]], [[:ru:obe:kt:angel|angel]], [[:ru:obe:kt:evil|evil, wicked, wickedness]], [[:ru:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
