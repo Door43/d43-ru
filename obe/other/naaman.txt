@@ -16,13 +16,11 @@
 
 {{topic>:en:bible?naaman&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to **Naaman**, an enemy commander, who had a horrible skin disease.
-  * **[[:ru:obs:notes:frames:19-15|[19-15]]]** At first **Naaman**  was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
-  * **[[:ru:obs:notes:frames:26-06|[26-06]]]**"He (Elisha) only healed the skin disease of **Naaman**, a commander of Israel's enemies."
-
+  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** Удивительный случай произошел с **Нееманом**  - вражеским военачальником, заболевшим тяжелой кожной болезнью.
+  * **[[:ru:obs:notes:frames:19-15|[19-15]]]** Поначалу **Нееман**  пришел в негодование и не желал исполнять повеление пророка, потому что оно показалось ему безрассудным. Но позже он, передумав, семь раз окунулся в реке Иордан.
+  * **[[:ru:obs:notes:frames:26-06|[26-06]]]** «Он (Елисей) исцелил только **Неемана**  - вражеского военачальника.»
 ~~DISCUSSION~~{{tag>publish ktobs}}
-
 
 ~~NOCACHE~~
