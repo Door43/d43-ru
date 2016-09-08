@@ -1,17 +1,16 @@
 ====== Пилат ======
 
-===== Facts: =====
+===== Факты: =====
 
-Pilate was the Roman governor who sentenced Jesus to death.
+Пилат был римским наместником, приговорившим Иисуса к смерти.
 
-  * Because Pilate was the governor, he had the authority to put criminals to death.
-  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+  * Поскольку Пилат был правителем, он имел власть выносить смертный приговор осужденному.
+  * Иудейские религиозные начальники хотели, чтобы Пилат распял Иисуса, поэтому они солгали, сказав, что Иисус был преступником.
+  * Пилат понял, что Иисус был невиновен, но испугался толпы, поэтому отдал своим воинам распоряжение распять Иисуса.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[rome|Rome, Roman]], [[en:obe:kt:crucify|crucify]], [[en:obe:kt:guilt|guilt, guilty]], [[governor]])
-
+(См. также: [[:ru:obe:other:rome|Rome, Roman]], [[:en:obe:kt:crucify|crucify]], [[:en:obe:kt:guilt|guilt, guilty]], [[:ru:obe:other:governor|governor, govern]])
 
 ===== Bible References: =====
 
