@@ -11,16 +11,16 @@
   * Слово «Христос» иногда употребляется как звание, например «Иисус Христос».
   * А иногда оно используется как имя «Иисус Христос».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term could be translated using its meaning, "the Anointed One" or "God's Anointed Savior."
-  * Or a borrowed word that looks or sounds like "Christ" or "Messiah" could be used. (See: tA How to Translate Unknowns)
-  * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One'.".
-  * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
+  * Это понятие может переводиться как «Помазанный», «Божий Помазанный Спаситель».
+  * Может использоваться заимствованное слово, имеющее звучание «Христос», «Мессия». (См.: Перевод слов с неизвестным значением)
+  * Заимствованное слово может соответствовать определению термина как "Христос Помазанник".
+  * Будьте последовательны в выбранном переводе на протяжении всей Библии, чтобы было ясно, что речь идет об одном и том же термине.
 
-(See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(См.: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:sonofgod]], [[:ru:obe:other:david]], [[:ru:obe:kt:jesus]], [[:En:obe:kt:anoint]])
+(См. также: [[:ru:obe:kt:sonofgod|Сын Божий]], [[:ru:obe:other:david|David]], [[:ru:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:anoint|anoint, anointed]])
 
 ===== Bible References: =====
 
