@@ -22,13 +22,13 @@
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
-  * **[[:ru:obs:notes:frames:01-15|[01-15]]]** God made Adam and Eve in his own image. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth."
-  * **[[:ru:obs:notes:frames:01-16|[01-16]]]** So God rested from all he had been doing. He **blessed**  the seventh day and made it holy, because on this day he rested from his work.
-  * **[[:ru:obs:notes:frames:04-04|[04-04]]]**"I will make your name great. I will **bless**  those who **bless**  you and curse those who curse you. All families on earth will be **blessed**  because of you."
-  * **[[:ru:obs:notes:frames:04-07|[04-07]]]** Melchizedek **blessed**  Abram and said, "May God Most High who owns heaven and earth **bless**  Abram."
-  * **[[:ru:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his **blessing**  to Esau.
-  * **[[:ru:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained faithful to God, and God **blessed**  him.
+  * **[[:ru:obs:notes:frames:01-07|[01-07]]]** Бог увидел, что все они были прекрасны, и **благословил**  их.
+  * **[[:ru:obs:notes:frames:01-15|[01-15]]]** Бог сотворил мужчину и женщину по Своему образу. Он **благословил**  их и сказал: “Плодитесь и размножайтесь, наполняйте землю!”
+  * **[[:ru:obs:notes:frames:01-16|[01-16]]]** Бог отдыхал от всего, что сотворил. Бог **благословил**  седьмой день и освятил его, потому что именно в этот день Он почил от Своей работы.
+  * **[[:ru:obs:notes:frames:04-04|[04-04]]]** «Я сделаю твоё имя великим. Я **благословлю****благословляющих**  тебя и прокляну проклинающих тебя. Все народы земли **благословятся**  через тебя.»
+  * **[[:ru:obs:notes:frames:04-07|[04-07]]]** Мелхиседек **благословил**  Аврама и сказал: «Да **благословит**  Аврама Всевышний Бог, Которому принадлежат небеса и земля!»
+  * **[[:ru:obs:notes:frames:07-03|[07-03]]]** Исаак хотел **благословить**  Исава.
+  * **[[:ru:obs:notes:frames:08-05|[08-05]]]** Даже в тюрьме Иосиф оставался верным Богу, и Бог его **благословлял**.
 ~~DISCUSSION~~{{tag>publish discuss ktobs}}
