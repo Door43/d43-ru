@@ -21,11 +21,11 @@
 
 {{topic>:en:bible?tempt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * **[[:ru:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * **[[:ru:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
+  * **[[:ru:obs:notes:frames:25-01|[25-01]]]** Затем к Нему подошел сатана и стал **искушать**  Его.
+  * **[[:ru:obs:notes:frames:25-08|[25-08]]]** Иисус не поддался на **искушения**  сатаны, и сатана оставил Его.
+  * **[[:ru:obs:notes:frames:38-11|[38-11]]]** Иисус велел ученикам молиться, чтобы не впасть в **искушение**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
