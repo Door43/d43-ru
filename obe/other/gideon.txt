@@ -13,16 +13,16 @@
 
 {{topic>:en:bible?gideon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:16-05|[16-05]]]** The angel of Yahweh came to **Gideon**  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
-  * **[[:ru:obs:notes:frames:16-06|[16-06]]]****Gideon's**  father had an altar dedicated to an idol. God told **Gideon**  to tear down that altar.
-  * **[[:ru:obs:notes:frames:16-08|[16-08]]]** There were so many of them (Midianites) that they could not be counted. **Gideon**  called the Israelites together to fight them.
-  * **[[:ru:obs:notes:frames:16-08|[16-08]]]****Gideon**  called the Israelites together to fight them. **Gideon**  asked God for two signs so he could be sure that God would use him to save Israel.
-  * **[[:ru:obs:notes:frames:16-10|[16-10]]]** 32,000 Israelite soldiers came to **Gideon**, but God told him this was too many.
-  * **[[:ru:obs:notes:frames:16-12|[16-12]]]** Then **Gideon**  returned to his soldiers and gave each of them a horn, a clay pot, and a torch.
-  * **[[:ru:obs:notes:frames:16-15|[16-15]]]** The people wanted to make **Gideon**  their king.
-  * **[[:ru:obs:notes:frames:16-16|[16-16]]]** Then **Gideon**  used the gold to make a special garment like the high priest used to wear. But the people started worshiping it as if it were an idol.
+  * **[[:ru:obs:notes:frames:16-05|[16-05]]]** Ангел Господень пришёл к **Гедеону**  и сказал: «Бог с тобою, муж сильный! Иди и спаси Израиль от мадианитян!»
+  * **[[:ru:obs:notes:frames:16-06|[16-06]]]** У отца **Гедеона**  был жертвенник, посвящённый идолу. Бог велел **Гедеону**  разрушить его.
+  * **[[:ru:obs:notes:frames:16-08|[16-08]]]** Их (мадианитян) было так много, что невозможно было счесть. **Гедеон**  собрал израильтян на сражение.
+  * **[[:ru:obs:notes:frames:16-08|[16-08]]]****Гедеон**  собрал израильтян на сражение. **Гедеон**  попросил у Бога два знамения, чтобы быть уверенным в том, что Бог действительно призывает его спасти Израиль от врагов.
+  * **[[:ru:obs:notes:frames:16-10|[16-10]]]** Тридцать две тысячи израильских воинов собрались к **Гедеону**, но Бог сказал, что их было слишком много.
+  * **[[:ru:obs:notes:frames:16-12|[16-12]]]** Потом **Гедеон**  вернулся к своим воинам и дал каждому из них рог, глиняный сосуд и факел.
+  * **[[:ru:obs:notes:frames:16-15|[16-15]]]** Народ хотел поставить **Гедеона**  царём.
+  * **[[:ru:obs:notes:frames:16-16|[16-16]]]** Из этого золота **Гедеон**  сделал одежду, какую носили первосвященники. Народ начал поклоняться ей как идолу.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
