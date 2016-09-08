@@ -1,14 +1,13 @@
 ====== дева ======
 
-===== Definition: =====
+===== Определение: =====
 
-A virgin is a woman who has not had sexual relations.
+Дева - это женщина, не вступавшая в интимную связь.
 
-    * The prophet Isaiah said that the Messiah would be born from a virgin.
-    * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
+  * Пророк Исаия предрек, что Мессия родится от девы.
+  * Мария была девой, когда зачала Иисуса. Иисус родился без участия мужчины.
 
-(See also: [[isaiah]], [[en:obe:kt:christ]], [[mary]], [[en:obe:kt:jesus]])
-
+(См. также: [[:ru:obe:other:isaiah|Isaiah]], [[:en:obe:kt:christ|Christ, Messiah]], [[:ru:obe:other:mary|Mary]], [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]])
 
 ===== Bible References: =====
 
