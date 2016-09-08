@@ -1,15 +1,14 @@
 ====== проповедовать ======
 
-===== Definition: =====
+===== Определение: =====
 
-To speak to a group of people, teaching them about God and urging them to obey him.
+Говорить группе людей, учить их о Боге, убеждая их Ему повиноваться.
 
-    * Usually preaching is done by one person to a large group of people.
-    * "Preaching" and "teaching" are similar, but not the same. "Preaching" mainly refers to public proclamation of spiritual or moral truth, and urging the audience to respond. "Teaching" emphasizes instruction, that is, imparting knowledge or skill to the learner.
-    * John the Baptist, Jesus, and the apostles often preached to people that they should repent and enter the kingdom of God.
+  * Обычно большой группе людей проповедует один человек.
+  * «Проповедь» и «учение» - тождественны, но не идентичны. «Проповедовать», в основном, относится к публичному провозглашению духовных или нравственных истин и к призыву слушателей откликнуться. «Учение» - это дача наставлений, сообщение знаний или передача умений ученику.
+  * Иоанн Креститель, Иисус, Апостолы часто проповедовали людям о том, что народу следует покаяться и войти в Божье Царство.
 
-(See also: [[johnthebaptist)]], [[en:obe:kt:jesus]], [[en:obe:kt:kingdomofgod]])
-
+(См. также: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]], [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]])
 
 ===== Bible References: =====
 
