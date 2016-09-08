@@ -16,18 +16,10 @@
 
 {{topic>:en:bible?nathan&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-07|[17-07]]]** God sent the prophet **Nathan** to David with this message, "Because you are a man of war, you will not build this Temple for me."
-  ***[[:ru:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the prophet **Nathan** to tell David how evil his sin was. 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:17-07|[17-07]]]** Но Бог послал к Давиду пророка **Нафана**  с такими словами: «Не ты построишь Храм для Меня, ибо ты - человек воинственный.»
+  * **[[:ru:obs:notes:frames:17-13|[17-13]]]** Бог весьма разгневался на поступок Давида и послал к нему пророка **Нафана**, который сумел показать Давиду, каким тяжким преступлением был его грех.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
