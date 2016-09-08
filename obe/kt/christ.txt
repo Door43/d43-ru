@@ -26,19 +26,19 @@
 
 {{topic>:en:bible?christ&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:17-07|[17-07]]]** The **Messiah**  was God's Chosen One who would save the people of the world from sin.
-  * **[[:ru:obs:notes:frames:17-08|[17-08]]]** As it happened, the Israelites would have to wait a long time before the **Messiah**  came, almost 1,000 years.
-  * **[[:ru:obs:notes:frames:21-01|[21-01]]]** From the very beginning, God planned to send the **Messiah**.
-  * **[[:ru:obs:notes:frames:21-04|[21-04]]]** God promised King David that the **Messiah**  would be one of David's own descendants.
-  * **[[:ru:obs:notes:frames:21-05|[21-05]]]** The **Messiah**  would start the New Covenant.
-  * **[[:ru:obs:notes:frames:21-06|[21-06]]]** God's prophets also said that the **Messiah**  would be a prophet, a priest, and a king.
-  * **[[:ru:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the **Messiah**  would be born from a virgin.
-  * **[[:ru:obs:notes:frames:43-07|[43-07]]]**"But God raised him to life again to fulfill the prophecy which says, 'You will not let your **Holy One**  rot in the grave.'"
-  * **[[:ru:obs:notes:frames:43-09|[43-09]]]**"But know for certain that God has caused Jesus to become both Lord and **Messiah**!"
-  * **[[:ru:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be baptized in the name of Jesus **Christ**  so that God will forgive your sins."
-  * **[[:ru:obs:notes:frames:46-06|[46-06]]]** Saul reasoned with the Jews, proving that Jesus was the **Messiah**.
+  * **[[:ru:obs:notes:frames:17-07|[17-07]]]****Мессия**  был Божьим избранником, спасшим людей от греха.
+  * **[[:ru:obs:notes:frames:17-08|[17-08]]]** Но случилось так, что израильтянам пришлось ждать прихода **Мессии**  ещё долгое время - почти 1000 лет.
+  * **[[:ru:obs:notes:frames:21-01|[21-01]]]** С самого начала Бог задумал послать **Мессию**.
+  * **[[:ru:obs:notes:frames:21-04|[21-04]]]** Бог обещал царю Давиду, что одним из его потомков станет **Мессия**.
+  * **[[:ru:obs:notes:frames:21-05|[21-05]]]****Мессия**  положит начало Новому Завету.
+  * **[[:ru:obs:notes:frames:21-06|[21-06]]]** Божьи пророки также говорили, что грядущий **Мессия**  будет пророком, священником и царём.
+  * **[[:ru:obs:notes:frames:21-09|[21-09]]]** Пророк Исайя пророчествовал, что **Мессия**  родится от девы.
+  * **[[:ru:obs:notes:frames:43-07|[43-07]]]** «Бог воскресил Его из мёртвых. Так исполнилось пророчество, в котором говорится: “Ты не позволишь Твоему **Святому**  истлеть в могиле.”»
+  * **[[:ru:obs:notes:frames:43-09|[43-09]]]** «Но знайте, что Бог сделал Иисуса Господом и **Мессией**!»
+  * **[[:ru:obs:notes:frames:43-11|[43-11]]]** Пётр ответил: «Каждый из вас должен покаяться и креститься во имя Иисуса **Христа**, чтобы Бог простил вам ваши грехи.»
+  * **[[:ru:obs:notes:frames:46-06|[46-06]]]** Но Савл спорил с иудеями, доказывая, что Иисус был **Мессией**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
