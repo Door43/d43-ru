@@ -13,15 +13,13 @@
 
 {{topic>:en:bible?virgin&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
-  ***[[:ru:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
-  ***[[:ru:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
-  ***[[:ru:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
+  * **[[:ru:obs:notes:frames:21-09|[21-09]]]** Пророк Исайя говорил, что Мессия родится от **девы**.
+  * **[[:ru:obs:notes:frames:22-04|[22-04]]]** Она (Мария) была **девой**, обрученной с человеком, которого звали Иосиф.
+  * **[[:ru:obs:notes:frames:22-05|[22-05]]]** Мария отвечала: «Как это может быть, ведь я же **дева**?»** **
+  * ******[[:ru:obs:notes:frames:49-01|[49-01]]]** Ангел сказал **деве**  Марии, что она родит Божьего Сына. Будучи **непорочной**, она родила Сына и назвала Его Иисусом.** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
