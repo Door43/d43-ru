@@ -1,15 +1,15 @@
 ====== Ханаан, Хананей ======
 
-===== Facts: =====
+===== Факты: =====
 
-Canaan was the son of Noah's son, Ham. His descendants, the Canaanites, were one of several people groups who settled in the area of land from the valley of the Jordan River to the Mediterranean Sea. This area of land became known as the Land of Canaan.
+Ханаан был внуком Ноя и сыном Хама. Его потомки, хананеи, были одним из тех народов, которые расселились от долины реки Иордан до Средиземного моря. Эта территория получила название земли Ханаанской.
 
-  * God promised to give this land to Abraham and his descendants, the Israelites.
-  * Today the countries and territories in that land are Israel, Lebanon, part of Jordan, part of Syria, and Palestine.
+  * Бог обещал отдать эту землю Аврааму и его потомкам - израильтянам.
+  * Современные страны, расположенные на это территории таковы: Израиль, Ливан, часть Иордании, часть Сирии, Палестина.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:promisedland|Promised Land]], [[ham]])
+(См. также: [[:en:obe:kt:promisedland|Promised Land]], [[:ru:obe:other:ham|Ham]])
 
 ===== Bible References: =====
 
