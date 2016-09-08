@@ -17,19 +17,15 @@
 
 {{topic>:en:bible?isaiah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:21-09|[21-09]]]** The prophet **Isaiah** prophesied that the Messiah would be born from a virgin.
-  ***[[:ru:obs:notes:frames:21-10|[21-10]]]** The prophet **Isaiah** said the Messiah would live in Galilee, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners. 
-  ***[[:ru:obs:notes:frames:21-11|[21-11]]]** The prophet **Isaiah** also prophesied that the Messiah would be hated without reason and rejected.
-  ***[[:ru:obs:notes:frames:21-12|[21-12]]]** **Isaiah** prophesied that people would spit on, mock, and beat the Messiah. 
-  ***[[:ru:obs:notes:frames:26-02|[26-02]]]** They handed him (Jesus) the scroll of the prophet **Isaiah** so that he would read from it. Jesus opened up the scroll and read part of it to the people.
-  ***[[:ru:obs:notes:frames:45-08|[45-08]]]** When Philip approached the chariot, he heard the Ethiopian reading from what the prophet **Isaiah** wrote.
-  ***[[:ru:obs:notes:frames:45-10|[45-10]]]** Philip explained to the Ethiopian that **Isaiah** was writing about Jesus. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:21-09|[21-09]]]** Пророк **Исайя**  предрекал, что Мессия родится от девы.
+  * **[[:ru:obs:notes:frames:21-10|[21-10]]]****Исайя**  писал, что Мессия будет жить в Галилее и утешит сокрушённых сердцем, провозгласит свободу пленникам и освобождение узникам.
+  * **[[:ru:obs:notes:frames:21-11|[21-11]]]****Исайя**  пророчествовал, что Мессию без причины возненавидят и отвергнут.
+  * **[[:ru:obs:notes:frames:21-12|[21-12]]]****Исайя**  пророчествовал о том, что люди оплюют Божьего помазанника, будут Его высмеивать и избивать.
+  * **[[:ru:obs:notes:frames:26-02|[26-02]]]** Ему (Иисусу) подали книгу пророка **Исайи**, чтобы Он прочитал оттуда. Иисус развернул свиток и стал читать из него народу.
+  * **[[:ru:obs:notes:frames:45-08|[45-08]]]** Когда Филипп подошёл к колеснице, он услышал, что эфиоплянин читал пророчество **Исаии**.
+  * **[[:ru:obs:notes:frames:45-10|[45-10]]]** Филипп стал объяснять эфиоплянину, что **Исайя**  писал об Иисусе.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
