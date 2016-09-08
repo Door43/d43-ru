@@ -1,16 +1,16 @@
 ====== Нееман ======
 
-===== Facts: =====
+===== Факты: =====
 
-Naaman was the commander of the army of one of Israel's enemies.
+Нееман был военачальником неприятельской армии.
 
-  * Naaman had a terrible skin disease that no one knew how to cure.
-  * Elisha told Naaman to wash in the Jordan River. When Naaman obeyed, God healed him of his disease.
-  * Naaman believed in God because he had healed him of this disease.
+  * Этот человек страдал от тяжкой и неизлечимой кожной болезни.
+  * Елисей повелел Нееману окунуться в реку Иордан. Когда Нееман повиновался, Бог исцелил его болезнь.
+  * Нееман поверил в Бога, потому что Господь дал ему исцеление от болезни.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[jordanriver|Jordan River]])
+(См. также: [[:ru:obe:other:jordanriver|Jordan River]])
 
 ===== Bible References: =====
 
