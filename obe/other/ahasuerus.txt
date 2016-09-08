@@ -15,7 +15,7 @@ Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty yea
  * [[:ru:obe:other:ahab|Prev chunk]]: [[:ru:obe:other:ahab?do=diff&rev2[0]=1412187189&rev2[1]=&difftype=sidebyside|publish-current]]
   * [[:ru:obe:other:ahaz|Next chunk]]: [[:ru:obe:other:ahaz?do=diff&rev2[0]=1433340838&rev2[1]=1433964900&difftype=sidebyside|review-publish]] | [[:ru:obe:other:ahaz?do=diff&rev2[0]=1433964900&rev2[1]=&difftype=sidebyside|publish-current]]
 
-===== Bible References: =====
+===== Ссылки Библии: =====
 
 {{topic>ahasuerus&nocomments}}~~DISCUSSION~~
 
