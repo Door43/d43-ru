@@ -1,18 +1,17 @@
 ====== Исаия ======
 
-===== Facts: =====
+===== Факты: =====
 
-Isaiah was a prophet of God.
+Исаия был Божьим пророком.
 
-  * Isaiah wrote many prophecies about Israel that came true while he was still living.
-  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
-  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
-  * The Book of Isaiah is one of the major books of the Bible.
+  * Он изрек много пророчеств об Израиле, которые исполнились еще при его жизни.
+  * Исаия особенно известен своими пророчествами о Мессии, которое исполнились, спустя 700 лет, когда Иисус пришел на землю.
+  * Иисус и Его ученики цитировали пророчества Исаии, в которых говорилось о Мессии.
+  * Книга пророка Исаии является одной из главных книг Библии.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
-
+(См. также: [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:en:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: =====
 
