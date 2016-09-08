@@ -14,7 +14,7 @@
   * Считайте крестом тот предмет, на котором казнили людей, и используйте фразы «столб для казни» или «древо смерти».
   * Также посмотрите, как это слово дано в переводе Библии на национальный язык. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[:ru:obe:kt:crucify|crucify]], [[:ru:obe:other:rome|Rome, Roman]])
+(См. также: [[:ru:obe:kt:crucify|crucify]], [[:ru:obe:other:rome|Rome, Roman]])
 
 ===== Bible References: =====
 
