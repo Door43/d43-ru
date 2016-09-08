@@ -12,19 +12,15 @@
 
 {{topic>:en:bible?punish&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish** them. 
-  ***[[:ru:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept disobeying God, he **punished** them by allowing their enemies to defeat them. 
-  ***[[:ru:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would **punish** them. 
-  ***[[:ru:obs:notes:frames:48-06|[48-06]]]** Jesus was the perfect high priest because he took the **punishment** for every sin that anyone has ever committed.
-  ***[[:ru:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the blood of Jesus takes away that person's sin, and God's **punishment** passes over him.
-  ***[[:ru:obs:notes:frames:49-09|[49-09]]]** But God loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be **punished** for his sins, but will live with God forever.
-  ***[[:ru:obs:notes:frames:49-11|[49-11]]]** Jesus never sinned, but he chose to be **punished** and die as the perfect sacrifice to take away your sins and the sins of every person in the world. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:13-07|[13-07]]]** Бог также дал много других законов и правил для соблюдения. Он обещал, что благословит и защитит людей, если они будут исполнять Его заповеди. Если же они не будут им следовать, их постигнет Его **наказание**.
+  * **[[:ru:obs:notes:frames:16-02|[16-02]]]** Из-за того, что израильтяне продолжали упорствовать в непослушании, Бог **наказывал**  их, допуская, чтобы их враги одерживали над ними победу.
+  * **[[:ru:obs:notes:frames:19-16|[19-16]]]** Пророки предупреждали народ, что если люди не перестанут делать зло и не начнут повиноваться Богу, Господь совершит над ними Свой суд и пошлет Свое **наказание**.
+  * **[[:ru:obs:notes:frames:48-06|[48-06]]]** Иисус стал совершенным Первосвященником, потому что понес на Себе **наказание**  за каждый совершенный грех.
+  * **[[:ru:obs:notes:frames:48-10|[48-10]]]** Когда человек верит в Иисуса, кровь Сына Божьего очищает грех человека, и Божье **наказание**  проходит мимо него.
+  * **[[:ru:obs:notes:frames:49-09|[49-09]]]** Но Бог так возлюбил мир, что отдал Своего единственного Сына, чтобы каждый верующий в Него не понёс **наказания**  за свои грехи, но вечно жил с Богом.
+  * **[[:ru:obs:notes:frames:49-11|[49-11]]]** Иисус никогда грешил, но Он принял **наказание**  и умер как совершенная жертва, чтобы забрать твои грехи и грехи каждого человека в мире.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
