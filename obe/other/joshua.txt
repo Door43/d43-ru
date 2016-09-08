@@ -19,19 +19,14 @@
 
 {{topic>:en:bible?joshua&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
-  ***[[:ru:obs:notes:frames:14-06|[14-06]]]**  Immediately Caleb and **Joshua**, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:ru:obs:notes:frames:14-08|[14-08]]]** Except for **Joshua** and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
-  ***[[:ru:obs:notes:frames:14-14|[14-14]]]** Moses was now very old, so God chose **Joshua** to help him lead the people.  
-  ***[[:ru:obs:notes:frames:14-15|[14-15]]]** **Joshua** was a good leader because he trusted and obeyed God. 
-  ***[[:ru:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told **Joshua** how to attack the powerful city of Jericho. 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:14-04|[14-04]]]** Когда израильтяне пришли к границе Ханаана, Моисей выбрал двенадцать человек - по одному из каждого колена Израилева. Он повелел им пойти и осмотреть землю, чтобы разведать, какая она.
+  * **[[:ru:obs:notes:frames:14-06|[14-06]]]** Но два других соглядатая, Халев и **Иисус Навин**, тотчас возразили: «Действительно, люди Ханаана высокие и сильные, но мы непременно их победим! Ведь за нас будет сражаться Бог!»
+  * **[[:ru:obs:notes:frames:14-08|[14-08]]]** Все люди от двадцати лет и старше, за исключением **Иисуса Навина**  и Халева, умрут в ней и никогда не войдут в землю обетованную».
+  * **[[:ru:obs:notes:frames:14-14|[14-14]]]** Моисей был уже очень стар, поэтому Бог выбрал **Иисуса Навина**, чтобы он помогал Моисею вести народ.
+  * **[[:ru:obs:notes:frames:14-15|[14-15]]]****Иисус Навин**  был очень хорошим вождем, потому что доверял Богу и повиновался Ему.
+  * **[[:ru:obs:notes:frames:15-03|[15-03]]]** После того, как народ перешёл реку Иордан, Бог открыл **Иисусу Навину**, как напасть на укрепленный город Иерихон.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
