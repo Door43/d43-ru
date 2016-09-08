@@ -1,17 +1,16 @@
 ====== Нафан ======
 
-===== Facts: =====
+===== Факты: =====
 
-Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+Нафан был истинным Божьим пророком, жившим во время правления Давида над Израилем.
 
-  * God sent Nathan to confront David after David sinned grievously against Uriah.
-  * Nathan rebuked David, in spite of the fact that David was the king.
-  * David repented of his sin after Nathan spoke to him.
+  * Бог послал Нафана, чтобы он обличил Давида в тяжком грехе против Урии.
+  * Нафан укорил Давида, несмотря на то, что Давид был царем.
+  * Давид покаялся в грехе после беседы с Нафаном.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[david]], [[uriah]])
-
+(См. также: [[:ru:obe:other:david|David]], [[:ru:obe:other:uriah|Uriah]])
 
 ===== Bible References: =====
 
