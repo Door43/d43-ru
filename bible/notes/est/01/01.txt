@@ -29,11 +29,11 @@
 
 ===== translationNotes: =====
 
-  * **In the days of Ahasuerus** - "In the time of Ahasuerus" or "When Ahasuerus was ruling as king."
-  * **127** - (See: [[:ru:ta:vol2:translate:translate_numbers]])
-  * **provinces** - A "province" is a large area into which some countries are divided for the purposes of government.
-  * **fortress** - A castle, stronghold or fortified camp.
-  * **Susa** - A royal city of Persian Kings. (See: [[:ru:ta:vol1:translate:translate_names]])
+  * **во дни Артаксеркса** - "во время Артаксеркса" или "Когда Артаксеркс управлял как царь."
+  * **127** - (См.: [[:ru:ta:vol2:translate:translate_numbers]])
+  * **областями** - Прови́нция — территориальная, часто административная, единица в пределах страны (государства).
+  * **крепость** - Замок, крепость или укрепленный лагерь.
+  * **Сузы** - Королевский город персидских царей. (См.: [[:ru:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
