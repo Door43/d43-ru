@@ -14,21 +14,17 @@
 
 {{topic>:en:bible?preach&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:24-02|[24-02]]]** He (John) **preached** to them, saying, "Repent, for the Kingdom of God is near!"
-  ***[[:ru:obs:notes:frames:30-01|[30-01]]]** Jesus sent his apostles to **preach** and to teach people in many different villages. 
-  ***[[:ru:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began **preaching** and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:ru:obs:notes:frames:45-06|[45-06]]]** But in spite of this, they **preached** about Jesus everywhere they went.
-  ***[[:ru:obs:notes:frames:45-07|[45-07]]]** He (Philip) went to Samaria where he preached about Jesus and many people were saved. 
-  ***[[:ru:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began **preaching** to the Jews in Damascus, saying, "Jesus is the Son of God!" 
-  ***[[:ru:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to **preach** the good news of Jesus in many other places. 
-  ***[[:ru:obs:notes:frames:47-14|[47-14]]]** Paul and other Christian leaders traveled to many cities, **preaching** and teaching people the good news about Jesus. 
-  ***[[:ru:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will **preach** the good news about the kingdom of God to people everywhere in the world, and then the end will come."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:24-02|[24-02]]]** Он (Иоанн) **проповедовал**  им, говоря: «Покайтесь, ибо приблизилось Царство Небесное!»
+  * **[[:ru:obs:notes:frames:30-01|[30-01]]]** Иисус послал Апостолов **проповедовать**  и учить народ во многих селениях.
+  * **[[:ru:obs:notes:frames:38-01|[38-01]]]** Через три года после того, как Иисус начал **проповедовать**, Он сказал ученикам, что хочет совершить пасху в Иерусалиме и что там Его убьют.
+  * **[[:ru:obs:notes:frames:45-06|[45-06]]]** Но, несмотря на это, они **проповедовали**  об Иисусе везде, куда ни приходили.
+  * **[[:ru:obs:notes:frames:45-07|[45-07]]]** Он (Филипп) пошёл в Самарию, проповедовал там об Иисусе, и многие люди приняли спасение.
+  * **[[:ru:obs:notes:frames:46-06|[46-06]]]** С этого момента Савл начал **проповедовать**  иудеям в Дамаске о том, что Иисус - Сын Божий.
+  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Верующие отослали их на **проповедь**  Евангелия в другие места.
+  * **[[:ru:obs:notes:frames:47-14|[47-14]]]** Павел и другие ученики Иисуса путешествовали по многим городам, **проповедуя**  Евангелие и уча народ.
+  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** Когда Иисус еще находился на земле, Он сказал: «И **проповедано**  будет Евангелие Царства по всей вселенной во свидетельство всем народам; и тогда придет конец».
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
