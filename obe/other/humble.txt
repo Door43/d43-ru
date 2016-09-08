@@ -17,9 +17,8 @@
 
 {{topic>:en:bible?humble&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:ru:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
-
+  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** Давид был **смиренным**  и праведным человеком, доверяющим и повинующимся Богу.
+  * **[[:ru:obs:notes:frames:34-10|[34-10]]]** «Ибо всякий, возвышающий сам себя, **унижен**  будет, а **унижающий**  себя возвысится».
 ~~DISCUSSION~~{{tag>publish ktobs}}
