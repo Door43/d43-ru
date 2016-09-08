@@ -13,19 +13,12 @@
 
 {{topic>:en:bible?midian&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:16-03|[16-03]]]** But then the people forgot about God and started worshiping idols again. So God allowed the **Midianites**, a nearby enemy people group, to defeat them. 
-  ***[[:ru:obs:notes:frames:16-04|[16-04]]]** The Israelites were so scared, they hid in caves so the **Midianites** would not find them. 
-  ***[[:ru:obs:notes:frames:16-11|[16-11]]]** The man's friend said, "This dream means that Gideon's army will defeat the **Midianite** army!" 
-  ***[[:ru:obs:notes:frames:16-14|[16-14]]]** God confused the **Midianites**, so that they started attacking and killing each other. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:16-03|[16-03]]]** Но затем народ снова забывал о Боге и начинал поклоняться идолам. И тогда Бог допускал, чтобы их побеждали враги, например, **мадианитяне**.
+  * **[[:ru:obs:notes:frames:16-04|[16-04]]]** Израильтяне были в таком страхе, что скрывались от **мадианитян**  в пещерах.
+  * **[[:ru:obs:notes:frames:16-11|[16-11]]]** До него донеслись слова: «Этот сон означает, что войско Гедеона разобьет войско **мадианитян**!»
+  * **[[:ru:obs:notes:frames:16-14|[16-14]]]** Бог привёл **мадианитян**  в такое смятение, что они напали друг на друга и поразили один другого.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
