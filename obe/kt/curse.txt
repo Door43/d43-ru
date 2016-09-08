@@ -24,11 +24,11 @@
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:ru:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:ru:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:ru:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * **[[:ru:obs:notes:frames:02-09|[02-09]]]** Бог сказал змею: «**Проклят**  ты!»
+  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** Теперь земля **проклята**, и тебе придётся упорно трудиться, чтобы вырастить пищу.
+  * **[[:ru:obs:notes:frames:04-04|[04-04]]]** «Я благословлю благословляющих тебя и **прокляну****проклинающих**  тебя.»
+  * **[[:ru:obs:notes:frames:39-07|[39-07]]]** Тогда Пётр стал божиться: «Пусть **проклянёт**  меня Бог, если я знаю этого человека!»
+  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** За то, что Адам и Ева ослушались Бога и принесли в мир грех, Бог **проклял**  этот мир и решил уничтожить его.
 ~~DISCUSSION~~{{tag>publish ktobs}}
