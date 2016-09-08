@@ -8,11 +8,11 @@
   * Иисуса обвинили в преступлении, Которое Он не совершал, и римляне убили Его на кресте.
   * Заметьте, что это слово «крест» совершенно отлично от глагола «скрещивать».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term could be translated using a term in the target language that refers to the shape of a cross.
-  * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Это слово можно перевести с помощью имеющегося в языке понятия, указывающего на форму креста.
+  * Считайте крестом тот предмет, на котором казнили людей, и используйте фразы «столб для казни» или «древо смерти».
+  * Также посмотрите, как это слово дано в переводе Библии на национальный язык. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
 (See also: [[:ru:obe:kt:crucify|crucify]], [[:ru:obe:other:rome|Rome, Roman]])
 
