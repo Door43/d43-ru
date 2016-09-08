@@ -16,16 +16,15 @@
 
 {{topic>:en:bible?israel&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-15|[08-15]]]** The descendants of the twelve sons became the twelve tribes of **Israel**.
-  ***[[:ru:obs:notes:frames:09-03|[09-03]]]** The Egyptians forced the **Israelites** to build many buildings and even whole cities.
-  ***[[:ru:obs:notes:frames:09-05|[09-05]]]** A certain **Israelite** woman gave birth to a baby boy.
-  ***[[:ru:obs:notes:frames:10-01|[10-01]]]** They said, "This is what the God of **Israel** says, 'Let my people go!'"
-  ***[[:ru:obs:notes:frames:14-12|[14-12]]]** But despite all this, the people of **Israel ** complained and grumbled against God and against Moses.
-  ***[[:ru:obs:notes:frames:15-09|[15-09]]]** God fought for **Israel** that day. He caused the Amorites to be confused and he sent large hailstones that killed many of the Amorites.
-  ***[[:ru:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of **Israel ** its own section of the Promised Land. Then God gave **Israel** peace along all its borders.
-  ***[[:ru:obs:notes:frames:16-16|[16-16]]]** So God punished **Israel ** again for worshiping idols.
-  ***[[:ru:obs:notes:frames:43-06|[43-06]]]** "Men of **Israel**, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know."
-
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-15|[08-15]]]** Потомки двенадцати сыновей Иакова стали двенадцатью коленами **Израиля**.
+  * **[[:ru:obs:notes:frames:09-03|[09-03]]]** Египтяне заставляли **израильтян**  строить многочисленные дома и даже целые города.
+  * **[[:ru:obs:notes:frames:09-05|[09-05]]]** Одна женщина - **израильтянка**  родила мальчика.
+  * **[[:ru:obs:notes:frames:10-01|[10-01]]]** Они сказали: «Так говорит Бог **Израиля**: “Отпусти народ Мой!”»
+  * **[[:ru:obs:notes:frames:14-12|[14-12]]]** Но, несмотря на всё это, народ **израильский ** роптал на Бога и Моисея.** **
+  * ******[[:ru:obs:notes:frames:15-09|[15-09]]]** В тот день Бог сражался за **Израиль**. Он посеял панику среди аморреев, послав крупный град, убивший многих из аморреев.** **
+  * ******[[:ru:obs:notes:frames:15-12|[15-12]]]** После этой битвы Бог дал каждому колену **Израиля ** свою собственную часть обетованной земли. Он даровал **Израилю**  мир вдоль всех его границ.** ** ** **
+  * **********[[:ru:obs:notes:frames:16-16|[16-16]]]** Тогда Бог снова покарал **Израиль ** за то, что он стал чтить иного бога.** ** ** ** ** **
+  * **************[[:ru:obs:notes:frames:43-06|[43-06]]]** «**Израильтяне**! Иисус был человеком, совершавшим много могущественных знамений и чудес силой Бога, как вы уже видели и знаете.»** ** ** ** ** **
+****~~DISCUSSION~~{{tag>publish ktobs}}** **
