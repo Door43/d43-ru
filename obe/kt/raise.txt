@@ -23,14 +23,14 @@
 
 {{topic>:en:bible?raise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:21-14|[21-14]]]** The prophets foretold that the Messiah would die and that God would also **raise**  him from the dead.
-  * **[[:ru:obs:notes:frames:41-05|[41-05]]]**"Jesus is not here. He has **risen**  from the dead, just like he said he would!"
-  * **[[:ru:obs:notes:frames:43-07|[43-07]]]**"Although Jesus died, God **raised**  him from the dead. This fulfills the prophecy which says, 'You will not let your Holy One rot in the grave.' We are witnesses to the fact that God **raised**  Jesus to life again."
-  * **[[:ru:obs:notes:frames:44-05|[44-05]]]**" You killed the author of life, but God **raised**  him from the dead. "
-  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God **raised**  him to life again!"
-  * **[[:ru:obs:notes:frames:48-04|[48-04]]]** This meant that Satan would kill the Messiah, but God would **raise**  him to life again, and then the Messiah will crush the power of Satan forever.
-  * **[[:ru:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out demons, **raised**  the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-  * **[[:ru:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the cross instead of you, and that God **raised**  him to life again.
+  * **[[:ru:obs:notes:frames:21-14|[21-14]]]** Пророки провозгласили, что Мессия умрёт, но Бог **воскресит**  Его.
+  * **[[:ru:obs:notes:frames:41-05|[41-05]]]** «Иисуса здесь нет. Он **воскрес**  из мёртвых, как и предсказывал!»
+  * **[[:ru:obs:notes:frames:43-07|[43-07]]]** «И, хотя Иисус умер, Бог **воскресил**  Его из мёртвых. Так исполнилось пророчество, в котором говорится: “Ты не позволишь Твоему Святому истлеть в могиле”. Мы свидетели того, что Бог снова **вернул к жизни**  Иисуса.»
+  * **[[:ru:obs:notes:frames:44-05|[44-05]]]** Вы убили Начальника жизни, но Бог **воскресил**  Его из мёртвых.
+  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** Пётр ответил им: «Он был исцелён властью Иисуса - Мессии. Вы распяли Иисуса, но Бог снова **вернул Его к жизни**!»
+  * **[[:ru:obs:notes:frames:48-04|[48-04]]]** Это означало, что сатана убьёт Мессию, но Бог **воскресит**  Своего Сына, и тогда Мессия навсегда сокрушит власть сатаны.
+  * **[[:ru:obs:notes:frames:49-02|[49-02]]]** Он (Иисус) ходил по воде, успокаивал бури, исцелял больных, изгонял бесов,**воскрешал**  мёртвых и умножал хлеб и рыбу до такого количества, что могла насытиться многотысячная толпа.
+  * **[[:ru:obs:notes:frames:49-12|[49-12]]]** Ты должен верить в то, что Иисус - Божий Сын, что Он умер на кресте вместо тебя и что Бог Его **воскресил**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
