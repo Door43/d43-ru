@@ -10,15 +10,15 @@
   * Иногда слово «вера» относится ко всему учению Иисуса как к «истинам веры».
   * Фразы, подобные «хранить веру», «оставить веру» относятся к состоянию или положению веры по отношению ко всему учению об Иисусе.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * In some contexts, "faith" can be translated as "belief" or "conviction" or "confidence" or "trust."
-  * Some languages may prefer to translate the terms "faith," "faithful," and "faithfulness" using some form of the verb "believe" since all these concepts come from that verb.
-  * The idiom, "keep the faith" could be translated by, "keep believing in Jesus" or "continue to believe in Jesus."
-  * The sentence, "they must keep hold of the deep truths of the faith" could be translated by, "they must keep believing all the true things about Jesus that they have been taught."
-  * The phrase, "my true son in the faith" could be translated by something like, "who is like a son to me because I taught him to believe in Jesus" or "my true spiritual son, who believes in Jesus."
+  * В некоторых контекстах слово «вера» может переводиться как «верование», «убеждение», «уверенность» или «доверие».
+  * В некоторых языках перевод будет звучать лучше, если «вера», «верный» или «верность» перевести глагольной формой «веровать», поскольку все эти понятия происходят от этого глагола.
+  * Устойчивое выражение «хранить веру» можно перевести как «хранить веру в Иисуса» или «продолжать верить в Иисуса».
+  * Предложение «они должны держаться исповедания упования» можно перевести как «они должны верить в истину об Иисусе, которой они были научены».
+  * Выражение «истинный сын в вере» можно перевести как «который для меня, как сын, потому что я учил его верить в Иисуса» или «мой истинный духовный сын, верующий в Иисуса».
 
-(See also: [[:ru:obe:kt:believe|believe, believe in]], [[:ru:obe:kt:faithful|faithful, faithfulness]])
+(См. также: [[:ru:obe:kt:believe|believe, believe in]], [[:ru:obe:kt:faithful|faithful, faithfulness]])
 
 ===== Bible References: =====
 
