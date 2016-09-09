@@ -16,7 +16,7 @@
 
 (См. также: [[:ru:obe:kt:faith|вера]], [[:ru:obe:kt:believe|верить, веровать, вера]], [[:ru:obe:kt:confidence|confidence, confident]], [[:en:obe:kt:faithful|faithful, faithfulness]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?trust&nocomments}}
 
