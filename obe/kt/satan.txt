@@ -10,16 +10,16 @@
   * «Сатана» означает «противник» или «враг».
   * Слово «дьявол» означает «клеветник».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
-  * "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
-  * These terms should be translated differently from demon and evil spirit.
-  * Consider how these terms are translated in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Слово «дьявол» может переводиться как «обвинитель», «нечистый», «глава злых духов» или «правитель зла».
+  * «Сатана» может переводиться как «противник», «враг» или другими именами, указывающими то, что он дьявол.
+  * Это слово нужно переводить иначе, чем слова «демон» и «злой дух».
+  * Посмотрите, как онипереводятся на национальный язык. ([[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:kingdomofgod]], [[:ru:obe:kt:evil]], [[:ru:obe:kt:tempt]], [[:En:obe:kt:demon]])
+(См. также: [[:ru:obe:kt:kingdomofgod|Царство Божье, Царство Небесное]], [[:ru:obe:kt:evil|evil, wicked, wickedness]], [[:ru:obe:kt:tempt|искушать, искушение]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
 
 ===== Bible References: =====
 
