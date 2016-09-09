@@ -24,10 +24,10 @@
 
 {{topic>:en:bible?faith&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested Abraham's **faith**  by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
-  * **[[:ru:obs:notes:frames:31-07|[31-07]]]** Then he (Jesus) said to Peter, "You man of little **faith**, why did you doubt?"
-  * **[[:ru:obs:notes:frames:32-16|[32-16]]]** Jesus said to her, "Your **faith**  has healed you. Go in peace."
-  * **[[:ru:obs:notes:frames:38-09|[38-09]]]** Then Jesus said to Peter, "Satan wants to have all of you, but I have prayed for you, Peter, that your **faith**  will not fail.
+  * **[[:ru:obs:notes:frames:05-06|[05-06]]]** Когда Исаак был ещё ребёнком, Бог испытал **веру**  Авраама, сказав: «Возьми Исаака - твоего единственного сына - и принеси Мне его в жертву».
+  * **[[:ru:obs:notes:frames:31-07|[31-07]]]** Он (Иисус) сказал Петру: «**Маловерный**! Зачем ты усомнился?»
+  * **[[:ru:obs:notes:frames:32-16|[32-16]]]** Иисус сказал ей: «Твоя **вера**  исцелила тебя. Иди с миром».
+  * **[[:ru:obs:notes:frames:38-09|[38-09]]]** Иисус ответил: «Сатана хочет получить власть над всеми вами, но Я молился за тебя, Пётр, чтобы твоя **вера**  не ослабла.»
 ~~DISCUSSION~~{{tag>publish ktobs}}
