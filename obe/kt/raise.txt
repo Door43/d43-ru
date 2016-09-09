@@ -11,13 +11,13 @@
   * Это можно выразить двумя способами: «Иисус восстал из мертвых» и «Бог воскресил Иисуса из мертвых». Обе фразы передают значение «Он снова ожил после того, как умер», «Бог вновь вернул Его к жизни».
   * В будущем Иисус воскресит из мертвых всех, кто доверял Ему - эти люди никогда не больше не умрут.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "raise" can be translated as "to lift up" or "to make higher."
-  * To "raise up" could be translated as, "to cause to appear" or "to appoint" or "to bring into existence."
-  * When used figuratively, "raise" means "to return from death to life."
+  * Слово «восстать» может быть переведено как «подняться» или «сделать выше».
+  * «Воскрешать» может переводиться как «сделать так, чтобы появилось», «назначать», «привести к существованию».
+  * В переносном смысле «восстать» может означать «вернуться к жизни».
 
-(See also: [[:ru:obe:kt:resurrection]], [[:En:obe:kt:appoint]])
+(См. также: [[:ru:obe:kt:resurrection|воскресение]], [[:en:obe:kt:appoint|appoint, appointed]])
 
 ===== Bible References: =====
 
