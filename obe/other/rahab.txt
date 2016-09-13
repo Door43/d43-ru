@@ -1,16 +1,15 @@
 ====== Раав ======
 
-===== Facts: =====
+===== Факты: =====
 
-Rahab was a woman who lived in Jericho when Israel attacked the city. She was a prostitute.
+Раав жила в Иерихоне в те времена, когда Израиль напал на этот город. Она была блудницей.
 
-  * Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.
-  * Rahab became a believer in Yahweh and she and her family were saved when Jericho was destroyed. They came to live with the Israelites.
+  * Раав спрятала двух израильтян, приходивших осмотреть Иерихон перед нападением израильтян. Она помогла соглядатаем бежать в их лагерь.
+  * Раав поверила в Господа и была спасена вместе со своей семьей, когда Иерихон был разрушен. Раав с семьей стала жить среди израильтян.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+Ссылки в Библии: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[jericho]], [[israel]])
-
+(См. также: [[:ru:obe:other:jericho|Иерихон]], [[:ru:obe:other:israel|Израиль, израильтяне, народ Израиля]])
 
 ===== Bible References: =====
 
