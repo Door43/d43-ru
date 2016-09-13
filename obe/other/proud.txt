@@ -17,14 +17,10 @@
 
 {{topic>:en:bible?proud&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:04-02|[04-02]]]** They were very **proud**, and they did not care about what God said.
-  ***[[:ru:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is **proud**, and he will lift up whoever humbles himself."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:04-02|[04-02]]]** Люди стали очень **гордыми**  и не заботились о том, что Бог им говорил.
+  * **[[:ru:obs:notes:frames:34-10|[34-10]]]** Тогда Иисус сказал: «Истинно говорю вам, Бог услышал молитву мытаря и оправдал его. А молитва фарисея не была Ему угодной. Ибо всякий, **возвышающий**  сам себя, унижен будет, а унижающий себя возвысится».
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
