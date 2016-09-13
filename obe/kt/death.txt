@@ -30,16 +30,16 @@
 
 {{topic>:en:bible?death&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
-  * **[[:ru:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
-  * **[[:ru:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
-  * **[[:ru:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
-  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
-  * **[[:ru:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
-  * **[[:ru:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
-  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
+  * **[[:ru:obs:notes:frames:01-11|[01-11]]]** Бог сказал Адаму, что можно есть плоды с любого дерева в саду, кроме плодов с дерева познания добра и зла. Если он вкусит плодов с этого дерева, то **умрёт**.
+  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** «Потом ты **умрёшь**, и твоё тело возвратится в прах».
+  * **[[:ru:obs:notes:frames:07-10|[07-10]]]** Когда **умер**  Исаак, и Иаков с Исавом его похоронили.
+  * **[[:ru:obs:notes:frames:37-05|[37-05]]]** Иисус отвечал: «Я есмь Воскресение и Жизнь. Кто верит в Меня, тот будет жить, даже если и **умрёт**. Всякий верующий в Меня никогда не **умрёт**.»
+  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** Своей **смертью**  Иисус открыл людям путь к Богу.
+  * **[[:ru:obs:notes:frames:43-07|[43-07]]]** «Хотя Иисус **умер**, Бог воскресил Его из мертвых.»
+  * **[[:ru:obs:notes:frames:48-02|[48-02]]]** Из-за их греха люди стали болеть и **умирать**.
+  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** Божий Сын отрёт каждую слезу, и не будет больше ни страданий, ни печали, ни плача, ни зла, ни боли, ни **смерти**.
   *
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
