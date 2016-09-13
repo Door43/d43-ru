@@ -17,14 +17,13 @@
 
 {{topic>:en:bible?aaron&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-15|[09-15]]]** God warned Moses and **Aaron**  that Pharaoh would be stubborn.
-  * **[[:ru:obs:notes:frames:10-05|[10-05]]]** Pharaoh called Moses and **Aaron**  and told them that if they stopped the plague, the Israelites could leave Egypt.
-  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** God chose Moses' brother, **Aaron**, and Aaron's descendants to be his priests.
-  * **[[:ru:obs:notes:frames:13-11|[13-11]]]** So they (the Israelites) brought gold to **Aaron**  and asked him to form it into an idol for them!
-  * **[[:ru:obs:notes:frames:14-07|[14-07]]]** They (the Israelites) became angry with Moses and **Aaron**  and said, "Oh, why did you bring us to this horrible place?"
-
+  * **[[:ru:obs:notes:frames:09-15|[09-15]]]** Бог предупредил Моисея и **Аарона**, что фараон ожесточит свое сердце.
+  * **[[:ru:obs:notes:frames:10-05|[10-05]]]** Фараон призвал Моисея и **Аарона**  и сказал им, что они смогут уйти из Египта, если казнь прекратится.
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Бог избрал брата Моисея (**Аарона**) и его потомков, чтобы они были Его священниками.
+  * **[[:ru:obs:notes:frames:13-11|[13-11]]]** Они (израильтяне) принесли **Аарону**  золото и стали просить его сделать им бога.
+  * **[[:ru:obs:notes:frames:14-07|[14-07]]]** Люди негодовали на Моисея и **Аарона**, говоря: «Зачем вы привели нас в это гибельное место»?
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
