@@ -1,17 +1,18 @@
 ====== Аарон ======
 
-===== Facts: =====
+===== Факты: =====
 
-God chose Aaron to be the first high priest for the people of Israel.
+Бог избрал Аарона в качестве первосвященника для израильского народа.
 
-  * Aaron was Moses' older brother.
-  * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  * God also appointed Aaron and his descendants to be the priests for the people of Israel.
+  * Аарон был старшим братом Моисея.
+  * Аарон вместо Моисея обращался к фараону с требованием, чтобы правитель отпустил израильтян на свободу.
+  * Во время блуждания израильтян по пустыне, Аарон согрешил, сделав людям золотого идола для поклонения.
+  * Бог поставил Аарона и его потомков священниками для народа израильского.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:priest]], [[moses]], [[israel]])
+(См. также: [[:en:obe:kt:priest|priest, priesthood]], [[:ru:obe:other:moses|Моисей]], [[:ru:obe:other:israel|Израиль, израильтяне, народ Израиля]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
