@@ -14,17 +14,14 @@
 
 {{topic>:en:bible?egypt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-04|[08-04]]]** The slave traders took Joseph to **Egypt.** **Egypt** was a large, powerful country located along the Nile River.
-  ***[[:ru:obs:notes:frames:08-08|[08-08]]]** Pharaoh was so impressed with Joseph that he appointed him to be the second most powerful man in all of **Egypt**!
-  ***[[:ru:obs:notes:frames:08-11|[08-11]]]** So Jacob sent his older sons to **Egypt ** to buy food.
-  ***[[:ru:obs:notes:frames:08-14|[08-14]]]** Even though Jacob was an old man, he moved to **Egypt** with all of his family, and they all lived there.
-  ***[[:ru:obs:notes:frames:09-01|[09-01]]]** After Joseph died, all of his relatives stayed in **Egypt**.
+  * **[[:ru:obs:notes:frames:08-04|[08-04]]]** Работорговцы отвели Иосифа в **Египет**. **Египет**  был крупной и могущественной державой, расположенной вдоль побережья реки Нил.** **
+  * ******[[:ru:obs:notes:frames:08-08|[08-08]]]** Иосиф настолько впечатлил фараона, что властелин поставил юношу вторым самым могущественным правителем в **Египте**!** **
+  * ******[[:ru:obs:notes:frames:08-11|[08-11]]]** Иаков отправил в **Египет** своих старших сыновей, чтобы они купили пищи.** ** ** **
+  * **********[[:ru:obs:notes:frames:08-14|[08-14]]]** И хотя Иаков был очень стар, он вместе со всей своей семьей отправился в **Египет**  и поселился там.** ** ** **
+  * **********[[:ru:obs:notes:frames:09-01|[09-01]]]** После того, как Иосиф умер, все его родственники остались в **Египте**.** ** ** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
