@@ -23,15 +23,14 @@
 
 {{topic>:en:bible?blood&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
-  * **[[:ru:obs:notes:frames:10-03|[10-03]]]** God turned the Nile River into **blood**, but Pharaoh still would not let the Israelites go.
-  * **[[:ru:obs:notes:frames:11-05|[11-05]]]** All the houses of the Israelites had **blood**  around the doors, so God passed over those houses and everyone inside was safe. They were saved because of the lamb's **blood**.
-  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
-  * **[[:ru:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
-  * **[[:ru:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
-
+  * **[[:ru:obs:notes:frames:08-03|[08-03]]]** Перед своим возвращением братья Иосифа порвали халат Иосифа и вымазали его козлиной **кровью**.
+  * **[[:ru:obs:notes:frames:10-03|[10-03]]]** Бог превратил в **кровь**  воду реки Нил - фараон не отпустил израильтян.
+  * **[[:ru:obs:notes:frames:11-05|[11-05]]]** Бог проходил мимо тех домов, на косяках которых видел **кровь**. Израильтяне были спасены благодаря **крови**  агнца.
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]****Кровь**  принесенного в жертву животного покрывала грех человека, делая согрешившего невинным в очах Божьих.
+  * **[[:ru:obs:notes:frames:38-05|[38-05]]]** Потом Иисус взял чашу и произнес: «Пейте из неё. Это - Моя **кровь**  - кровь Нового Завета, проливаемая за прощение грехов.
+  * **[[:ru:obs:notes:frames:48-10|[48-10]]]** Когда человек верит в Иисуса, **Кровь**  Сына Божьего очищает грех человека, и Божье наказание проходит мимо него.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
