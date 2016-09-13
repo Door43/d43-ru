@@ -1,15 +1,15 @@
 ====== овца, овен ======
 
-===== Definition: =====
+===== Определение: =====
 
-A sheep is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a ram. A young sheep is called a lamb.
+Овца - это животное среднего размера с четырьмя конечностями и телом, покрытым шерстью. Овцу мужского пола называют овном. Молодую овцу называют агнцем.
 
-  * The Israelites often used rams and lambs for sacrifices.
-  * People eat meat from sheep and use their wool to make clothing and other things.
-  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction, to protect them, and to provide them with food, water, and shelter.
-  * In the Bible, people are compared to sheep who have God as their shepherd.
+  * Израильтяне использовали овнов и агнцев для жертвоприношений.
+  * Люди употребляли в пищу мясо овец, а из шерсти изготавливали одежду и разные вещи.
+  * Овцы - очень доверчивые, слабые и робкие животные. Их легко куда-то увести. Овцам нужен пастух, который будет вести их в правильном направлении, станет их защищать, поможет им найти пищу, воду и укрытие.
+  * В Библии люди сравниваются с овцами, чьим Пастырем является Бог.
 
-(See also: [[:ru:obe:other:shepherd|shepherd]], [[:ru:obe:kt:lamb|lamb, Lamb of God]])
+(См. также: [[:ru:obe:other:shepherd|shepherd]], [[:ru:obe:kt:lamb|lamb, Lamb of God]])
 
 ===== Bible References: =====
 
