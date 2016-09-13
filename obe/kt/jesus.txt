@@ -23,19 +23,19 @@
 
 {{topic>:en:bible?jesus&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:bn:obs:notes:frames:22-04|[22-04]]]** The angel said, "You will become pregnant and give birth to a son. You are to name him **Jesus**  and he will be the Messiah."
-  * **[[:bn:obs:notes:frames:23-02|[23-02]]]**"Name him **Jesus**  (which means, 'Yahweh saves'), because he will save the people from their sins."
-  * **[[:bn:obs:notes:frames:24-07|[24-07]]]** So John baptized him (Jesus), even though **Jesus**  had never sinned.
-  * **[[:bn:obs:notes:frames:24-09|[24-09]]]** There is only one God. But John heard God the Father speak, and saw **Jesus**  the Son and the Holy Spirit when he baptized **Jesus**.
-  * **[[:ru:obs:notes:frames:25-08|[25-08]]]****Jesus**  did not give in to Satan's temptations, so Satan left him.
-  * **[[:ru:obs:notes:frames:26-08|[26-08]]]** Then **Jesus**  went throughout the region of Galilee, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and **Jesus**  healed them.
-  * **[[:ru:obs:notes:frames:31-03|[31-03]]]** Then **Jesus**  finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
-  * **[[:ru:obs:notes:frames:38-02|[38-02]]]** He (Judas) knew that the Jewish leaders denied that **Jesus**  was the Messiah and that they were plotting to kill him.
-  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** Through his death, **Jesus**  opened a way for people to come to God.
-  * **[[:ru:obs:notes:frames:42-11|[42-11]]]** Then **Jesus**  was taken up to heaven, and a cloud hid him from their sight. **Jesus**  sat down at the right hand of God to rule over all things.
-  * **[[:ru:obs:notes:frames:50-17|[50-17]]]****Jesus**  and his people will live on the new earth, and he will reign forever over everything that exists. He will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or death. **Jesus**  will rule his kingdom with peace and justice, and he will be with his people forever.
+  * **[[:bn:obs:notes:frames:22-04|[22-04]]]** Ангел сказал: «Ты зачнешь и родишь сына. И назовешь Его **Иисусом**, и Он будет Мессией».
+  * **[[:bn:obs:notes:frames:23-02|[23-02]]]** «Вы назовете его **Иисусом**  (что означает “Господь спасает”), потому что Он спасёт людей от их грехов».
+  * **[[:bn:obs:notes:frames:24-07|[24-07]]]** Тогда Иоанн крестил Его (Иисуса), несмотря на то, что **Иисус**  не имел греха.
+  * **[[:bn:obs:notes:frames:24-09|[24-09]]]** Существует только Один Бог. Но Иоанн слышал, как говорит Бог Отец, видел Сына **Иисуса**  и Святого духа, в момент крещения **Иисуса**.
+  * **[[:ru:obs:notes:frames:25-08|[25-08]]]****Иисус**  не поддался на искушения сатаны, и сатана оставил Его.
+  * **[[:ru:obs:notes:frames:26-08|[26-08]]]****Иисус**  стал ходить по области Галилейской, и большие толпы приходили к Нему. К Иисусу приводили больных людей, среди которых были слепые, хромые, глухие и немые, и **Иисус**  исцелял их.
+  * **[[:ru:obs:notes:frames:31-03|[31-03]]]****Иисус**  закончил молиться и пошёл к ученикам. Он пошел по воде прямо к лодке!
+  * **[[:ru:obs:notes:frames:38-02|[38-02]]]** Он (Иуда) знал, что религиозные начальники не верили в то, что **Иисус**  был Мессией, и что они задумали Его убить.
+  * **[[:ru:obs:notes:frames:40-08|[40-08]]]** Своей смертью **Иисус**  открыл людям путь к Богу.
+  * **[[:ru:obs:notes:frames:42-11|[42-11]]]** Затем **Иисус**  стал подниматься в небо, и облако скрыло Его из вида. **Он**  сел по правую руку от Бога, чтобы править над всем.
+  * **[[:ru:obs:notes:frames:50-17|[50-17]]]****Иисус**  и Его народ будут жить на новой земле, и Господь примет вечное царство над всем Своим творением. Божий Сын отрёт каждую слезу, и не будет больше ни страданий, ни печали, ни плача, ни зла, ни боли, ни смерти. **Христос**  станет править Своим Царством в мире и справедливости и вечно пребудет со Своим народом.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
