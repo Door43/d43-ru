@@ -18,12 +18,12 @@
 
 {{topic>:en:bible?guilt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-  * **[[:ru:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-  * **[[:ru:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-  * **[[:ru:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+  * **[[:ru:obs:notes:frames:39-02|[39-02]]]** Старейшины собрали много лжесвидетелей, клеветавших на Него. Но их показания не совпадали, поэтому первосвященники не могли доказать **вину**  Иисуса.
+  * **[[:ru:obs:notes:frames:39-11|[39-11]]]** После разговора с Иисусом, Пилат вышел к толпе и сказал: «Я не нахожу **вины**  в этом человеке». Но иудейские старейшины вместе с толпой стали кричать: «Распни Его!» Пилат отвечал: «Он не **виновен**!» Но они закричали ещё громче. Тогда Пилат в третий раз произнес: «Он не **виновен**!»
+  * **[[:ru:obs:notes:frames:40-04|[40-04]]]** Иисус был распят между двумя разбойниками. Один из них насмехался над Иисусом, другой же говорил: «Или ты не боишься Бога? Мы **виновны**, а этот человек - нет».
+  * **[[:ru:obs:notes:frames:49-10|[49-10]]]** Ты **виновен**  в своем грехе и заслуживаешь смерти.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
