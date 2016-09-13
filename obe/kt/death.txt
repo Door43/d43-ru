@@ -24,7 +24,7 @@
   * Очень важно использовать в переводе одно и то же слово (фразу), указывающее как на физическую смерть, так и на духовную.
   * В некоторых языках лучше всего сказать «духовная смерть», когда в контексте требуется уточнить значение. Некоторые переводчики в определенном контексте могут использовать понятие «физическая смерть», когда она противопоставлена духовной смерти.
 
-(See also: [[:ru:obe:kt:life|life, live, living, alive]], [[:ru:obe:kt:believe|believe, believe in, belief]], [[:ru:obe:kt:faith|faith]])
+(См. также: [[:ru:obe:kt:life|life, live, living, alive]], [[:ru:obe:kt:believe|believe, believe in, belief]], [[:ru:obe:kt:faith|faith]])
 
 ===== Bible References: =====
 
