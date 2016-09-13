@@ -1,20 +1,19 @@
 ====== Давид ======
 
-===== Facts: =====
+===== Факты: =====
 
-David was the second king of Israel and he served God faithfully.
+Давид был вторым царем Израиля; он верно служил Богу.
 
-  * God chose David to become king when he was still a young boy caring for his family's sheep.
-  * David became a great fighter and led the Israelite army in battles against their enemies.
-  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
-  * David sinned against God, but he repented and God forgave him.
-  * David's son, King Solomon, built the temple for God that David had planned.
-  * Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
+  * Бог избрал Давида на царство, когда Давид был еще юношей, пасшим овец своего отца.
+  * Давид стал великим воином и вел израильскую армию в сражения против их врагов.
+  * Саул пытался убить Давида, но Бог хранил его и, после смерти Саула, сделал Давида царем.
+  * Давид согрешил пред Богом, но раскаялся, и Господь его простил.
+  * Сын Давида, Соломон, построил Божий Храм, который был задуман еще Давидом.
+  * Иисус - Мессия является потомком Давида, поэтому назван «Сыном Давида».
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[saul]], [[solomon]])
-
+(См. также: [[:ru:obe:other:saul|Саул (из Ветхого Завета)]], [[:ru:obe:other:solomon|Соломон]])
 
 ===== Bible References: =====
 
