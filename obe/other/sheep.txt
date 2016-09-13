@@ -15,10 +15,10 @@
 
 {{topic>:en:bible?sheep&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * **[[:ru:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
-  * **[[:ru:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+  * **[[:ru:obs:notes:frames:09-12|[09-12]]]** Однажды, когда **Моисей**  пас овец, он увидел объятый огнем куст.
+  * **[[:ru:obs:notes:frames:17-02|[17-02]]]** Давид был пастухом из Вифлеема. Иногда, когда он пас **овец**, ему приходилось убивать львов и медведей, нападавших на **овец**.
+  * **[[:ru:obs:notes:frames:30-03|[30-03]]]** Они напоминали Иисусу **овец**, не имеющих пастыря.
+  * **[[:ru:obs:notes:frames:38-08|[38-08]]]** Иисус промолвил: «Все вы этой ночью оставите Меня. Написано: ‘Поражу пастыря, и рассеются **овцы**’».
 ~~DISCUSSION~~{{tag>publish ktobs}}
