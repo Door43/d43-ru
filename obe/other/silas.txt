@@ -1,17 +1,16 @@
 ====== Сила ======
 
-===== Facts: =====
+===== Факты: =====
 
-Silas was a leader among the believers in Jerusalem.
+Сила был руководителем у иерусалимских верующих.
 
-    * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
-    * Silas later traveled with Paul to other cities to teach people about Jesus.
-    * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+  * Церковь в Иерусалиме поручила Силе сопровождать Павла и Варнаву в Антиохию.
+  * Впоследствии Сила ходил вместе с Павлом и в другие города, чтобы проповедовать людям об Иисусе.
+  * В Филиппах Павла и Силу бросили в тюрьму. Но они доверились Богу и стали петь и хвалить Господа в темнице. Бог освободил их из тюрьмы, и через них был спасен темничный страж.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[jerusalem]], [[paul]], [[philippi]])
-
+(См. также: [[:ru:obe:other:jerusalem|Иерусалим]], [[:ru:obe:other:paul|Paul, Saul]], [[:ru:obe:other:philippi|Филиппы]])
 
 ===== Bible References: =====
 
