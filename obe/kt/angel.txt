@@ -18,15 +18,15 @@
 
 {{topic>:en:bible?angel&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:02-12|[02-12]]]** God placed large, powerful **angels**  at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
-  * **[[:ru:obs:notes:frames:22-03|[22-03]]]** The **angel**  responded to Zechariah,"I was sent by God to bring you this good news."
-  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** Suddenly, a shining **angel**  appeared to them (the shepherds), and they were terrified. The **angel**  said, "Do not be afraid, because I have some good news for you."
-  * **[[:ru:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with **angels**  praising God…
-  * **[[:ru:obs:notes:frames:25-08|[25-08]]]** Then **angels**  came and took care of Jesus.
-  * **[[:ru:obs:notes:frames:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
-  * **[[:ru:obs:notes:frames:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
+  * **[[:ru:obs:notes:frames:02-12|[02-12]]]** Бог поставил могучих **Ангелов**  у входа в сад, чтобы никто не мог съесть плодов с дерева жизни.
+  * [[:ru:obs:notes:frames:22-03|[22-03]]] **Ангел**  ответил Захарии: «Я был послан Богом, чтобы принести тебе благую весть.
+  * **[[:ru:obs:notes:frames:23-06|[23-06]]]** Вдруг им (пастухам) явился сияющий **Ангел**, и они устрашились. **Ангел**  сказал: «Не бойтесь, у меня есть для вас добрая весть.»
+  * **[[:ru:obs:notes:frames:23-07|[23-07]]]** Внезапно на небе появилось множество **Ангелов**, которые славили Бога...
+  * [[:ru:obs:notes:frames:25-08|[25-08]]] **Ангелы**  приступили к Иисусу и служили Ему.
+  * **[[:ru:obs:notes:frames:38-12|[38-12]]]** Иисус был сильно встревожен, Его пот был как капли крови. Бог послал **Ангела**, чтобы укрепить Его.
+  * **[[:ru:obs:notes:frames:38-15|[38-15]]]** Я могу попросить у Отца войско **Ангелов**  Себе в защиту.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
