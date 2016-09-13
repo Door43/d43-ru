@@ -15,13 +15,8 @@
 
 {{topic>:en:bible?rahab&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:15-01|[15-01]]]** In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect **Rahab** and her family when the Israelites would destroy Jericho. 
-  ***[[:ru:obs:notes:frames:15-05|[15-05]]]** The Israelites destroyed everything in the city as God had commanded. **Rahab** and her family were the only people in the city that they did not kill. They became part of the Israelites. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
+  * **[[:ru:obs:notes:frames:15-01|[15-01]]]** В том городе жила блудница по имени **Раав**. Она укрыла соглядатаев, а позже помогла им бежать, потому что поверила в Бога. Соглядатаи пообещали защитить **Раав**  и её семью, когда израильтяне разрушат Иерихон.
+  * **[[:ru:obs:notes:frames:15-05|[15-05]]]** Израильтяне истребили в городе абсолютно всех. Они пощадили только **Раав**  и её семью, которая вошла в израильский народ.
+~~DISCUSSION~~{{tag>publish ktobs}}
