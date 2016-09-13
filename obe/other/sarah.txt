@@ -1,15 +1,14 @@
 ====== Сарра, Сара ======
 
-===== Facts: =====
+===== Факты: =====
 
-    * Sarah was Abraham's wife.
-    * Sarah's name was originally "Sarai," but God changed it to Sarah.
-    * Sarah gave birth to the son God had promised to her and Abraham.
- 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-   
-(See also: [[en:obe:other:abraham]], [[isaac]])
+  * Сарра была женой Авраама.
+  * Сначала ее звали «Сарой», но Бог изменил ее имя на «Сарра».
+  * Сарра родила Аврааму сына, которого обещал им Бог.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
+
+(См. также: [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:isaac|Isaac]])
 
 ===== Bible References: =====
 
