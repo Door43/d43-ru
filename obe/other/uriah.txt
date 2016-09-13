@@ -16,13 +16,10 @@
 
 {{topic>:en:bible?uriah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:ru:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:17-12|[17-12]]]** Муж Вирсавии, **Урия**, был одним из лучших воинов Давида. Давид вызвал **Урию**  с поля сражения и отослал его к жене. Но **Урия**  отказался идти домой, в то время, когда остальные солдаты находились в бою. Тогда Давид отправил **Урию**  обратно на войну и велел главнокомандующему поставить его туда, где битва велась особенно горячо, чтобы враги могли поразить Урию.
+  * **[[:ru:obs:notes:frames:17-13|[17-13]]]** После того, как **Урия**  был убит, Давид женился на Вирсавии.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
