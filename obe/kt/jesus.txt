@@ -8,16 +8,16 @@
   * Чудесным образом Святой Дух сделал возможным рождение вечного Божьего Сына в человеческом облике. Ангел дал повеление земным родителям назвать ребенка «Иисус», потому что Его предназначение заключалось в том, чтобы спасти людей от греха.
   * Иисус совершил много чудес, которые открывали Его как Бога и как Христа - Мессию.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Many languages spell Jesus and Christ in a way that keeps the sounds or spelling as close to the original as possible. For example, "Jesucristo," "Jezus Christus," "Yesus Kristus", and "Hesukristo" are some of the ways that these names are translated into different languages.
-  * Some languages may prefer to use some form of the term "Messiah" throughout.
-  * Other languages may prefer to use a word or phrase that means "anointed (one)."
-  * Also consider how these names are spelled in a nearby local or national language.
+  * Во многих языках произнесение слов «Иисус» и «Христос» остаются близкими по звучанию к оригиналу. Например, «Jesucristo», «Jezus Christus», «Yesus Kristus» и «Hesukristo» - вот некоторые из способов перевода этого имени на другие языки.
+  * В некоторых языках отдается предпочтение слову «Мессия».
+  * Другие языки могут использовать слово или фразу, означающие «помазанный (Помазанник)».
+  * Посмотрите, как произношение этих слов будет соотноситься с национальным.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:sonofgod|Son of God, the Son]], [[:ru:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ru:obe:kt:god|God]], [[:ru:obe:other:mary|Mary]], [[:ru:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]], [[:ru:obe:kt:highpriest|high priest]], [[:ru:obe:kt:christ|Christ, Messiah]], [[:ru:obe:kt:savior|Savior]])
+(См. также: [[:ru:obe:kt:sonofgod|Son of God, the Son]], [[:ru:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ru:obe:kt:god|God]], [[:ru:obe:other:mary|Mary]], [[:ru:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]], [[:ru:obe:kt:highpriest|high priest]], [[:ru:obe:kt:christ|Christ, Messiah]], [[:ru:obe:kt:savior|Savior]])
 
 ===== Bible References: =====
 
