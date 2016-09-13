@@ -1,16 +1,16 @@
 ====== Агарь ======
 
-===== Facts: =====
+===== Факты: =====
 
-Hagar was Sarai's personal slave.
+Агарь была личной служанкой Сары.
 
-  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
-  * Sarai wanted Hagar to bear children for her and Abram.
-  * Hagar gave birth to Abram's son, Ishmael.
+  * Сара, которую потом стали звать Саррой, отдала Агарь в наложницы Авраму.
+  * Сара хотела, чтобы Агарь родила детей ей и Авраму.
+  * Агарь родила Авраму сына Измаила.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[sarah]], [[en:obe:other:abraham]], [[servant]])
+(См. также: [[:ru:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:servant|слуга, раб, рабство]])
 
 ===== Bible References: =====
 
