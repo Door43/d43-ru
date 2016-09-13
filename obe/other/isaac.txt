@@ -1,20 +1,17 @@
 ====== Исаак ======
 
-===== Facts: =====
+===== Факты: =====
 
+Исаак был сыном, которого Бог обещал дать Аврааму и Сарре, несмотря на то, что они уже были в преклонном возрасте.
 
-Isaac was the son that God promised to give Abraham and Sarah even though they were very old.
+  * Бог обещал, что вечный завет, который Он заключил с Авраамом, распространится на Исаака и его потомков.
+  * Бог испытал веру Авраама, повелев патриарху принести в жертву своего сына.
+  * У Иакова (сына Исаака) было двенадцать сыновей. Их потомки впоследствии стали двенадцатью коленами израильской нации.
+  * Имя «Исаак» означает «смех». Когда Бог сообщил Аврааму, что у них с Саррой родится ребенок, Сарра засмеялась, потому что они с Авраамом были уже очень пожилыми.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-    * God promised that the covenant that he had made with Abraham would extend to Isaac and to all of Isaac's descendants forever.
-    * God tested Abraham's faith by telling him to sacrifice Isaac.
-    * Isaac's son Jacob had twelve sons. Their descendants later became the twelve tribes of the nation of Israel.
-    * Isaac means "he laughs." When God told Abraham that he and Sarah would have a child, he laughed because they were both very old.
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[en:obe:other:abraham]], [[sarah]], [[jacob]])
-
+(См. также: [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:sarah|Сарра, Сара]], [[:ru:obe:other:jacob|Иаков, Израиль]])
 
 ===== Bible References: =====
 
