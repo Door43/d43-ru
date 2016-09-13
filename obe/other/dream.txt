@@ -11,17 +11,13 @@
 
 {{topic>:en:bible?dream&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-02|[08-02]]]** Joseph's brothers hated him because their father loved him most and because Joseph had **dreamed** that he would be their ruler.
-  ***[[:ru:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two **dreams** that disturbed him greatly. None of his advisors could tell him the meaning of the **dreams**.
-  ***[[:ru:obs:notes:frames:08-07|[08-07]]]** God had given Joseph the ability to interpret **dreams**, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the **dreams** for him and said, "God is going to send seven years of plentiful harvests followed by seven years of famine."
-  ***[[:ru:obs:notes:frames:16-11|[16-11]]]** So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about something he had **dreamed**. The man's friend said, "This **dream** means that Gideon's army will defeat the Midianite army!"
-  ***[[:ru:obs:notes:frames:23-01|[23-01]]]** He (Joseph) did not want to shame her (Mary), so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a **dream**.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-02|[08-02]]]** Братья ненавидели Иосифа, потому что отец любил его больше всех их, а также потому что Иосиф видел во **сне**, что он станет господствовать над ними.
+  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** Однажды ночью фараону (так египтяне называли своих правителей) приснилось два **сна**, которые сильно его встревожили. Никто из его советников не мог объяснить значение **снов**.
+  * **[[:ru:obs:notes:frames:08-07|[08-07]]]** Бог дал Иосифу дар истолкования **снов**, поэтому фараон велел привести юношу из тюрьмы. Иосиф истолковал **сны**  фараону и сказал: «Бог пошлет семь урожайных лет, а за ними последуют семь лет голода».
+  * **[[:ru:obs:notes:frames:16-11|[16-11]]]** В ту ночь Бог сказал Гедеону: «Сойди к лагерю мадианитян, послушай, что они говорят, и тогда ты не будешь страшиться». Ночью Гедеон прокрался во вражеский стан и подслушал, как воин-мадианитянин рассказывал свой **сон**  товарищу. До него донеслись слова: «Этот **сон**  означает, что войско Гедеона разобьет войско мадианитян!» Услышав это, Гедеон проославил Бога.
+  * **[[:ru:obs:notes:frames:23-01|[23-01]]]** Не желая опозорить Марию, он (Иосиф) намеревался тайно с ней развестись. Но прежде чем он это сделал, к нему во **сне**  явился Ангел.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
