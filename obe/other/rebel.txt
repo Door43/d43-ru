@@ -12,16 +12,12 @@
 
 {{topic>:en:bible?rebel&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:14-14|[14-14]]]** After the Israelites had wandered in the wilderness for forty years, all of them who had **rebelled** against God were dead. 
-  ***[[:ru:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel **rebelled** against Rehoboam. 
-  ***[[:ru:obs:notes:frames:18-09|[18-09]]]** Jeroboam **rebelled** against God and caused the people to sin. 
-  ***[[:ru:obs:notes:frames:18-13|[18-13]]]** Most of the people of Judah also **rebelled** against God and worshiped other gods. 
-  ***[[:ru:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah **rebelled** against Babylon. 
-  ***[[:ru:obs:notes:frames:45-03|[45-03]]]** Then he (Stephen) said, "You stubborn and **rebellious** people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:14-14|[14-14]]]** За сорок лет блуждания по пустыне умерли все, кто **восставал**  против Бога.
+  * **[[:ru:obs:notes:frames:18-07|[18-07]]]** Десять колен Израиля **взбунтовались**  против Ровоама.
+  * **[[:ru:obs:notes:frames:18-09|[18-09]]]** Иеровоам **восстал**  против Бога и ввёл людей в грех.
+  * **[[:ru:obs:notes:frames:18-13|[18-13]]]** Большая часть иудеев тоже **бунтовала**  против Бога и поклонялась иным богам.
+  * **[[:ru:obs:notes:frames:20-07|[20-07]]]** Однако через несколько лет царь Иудеи **восстал**  против вавилонян.
+  * **[[:ru:obs:notes:frames:45-03|[45-03]]]** Потом он (Стефан) прибавил: «Вы - народ упрямый и **непокорный**  - всегда отвергаете Святого Духа, как и ваши предки всегда отвергали Бога и убивали Его пророков.»
+~~DISCUSSION~~{{tag>publish ktobs}}
