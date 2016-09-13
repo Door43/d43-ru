@@ -13,15 +13,11 @@
 
 {{topic>:en:bible?caleb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:ru:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:ru:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:14-04|[14-04]]]** Когда израильтяне пришли к границе Ханаана, Моисей выбрал двенадцать человек - по одному из каждого колена Израилева. Он повелел им пойти и осмотреть землю, чтобы разведать, какая она.
+  * **[[:ru:obs:notes:frames:14-06|[14-06]]]** Но два других соглядатая, **Халев**  и Иисус Навин, тотчас возразили: «Действительно, люди Ханаана высокие и сильные, но мы непременно их победим! Ведь за нас будет сражаться Бог!»
+  * **[[:ru:obs:notes:frames:14-08|[14-08]]]** «Все люди от двадцати лет и старше, за исключением Иисуса Навина и **Халева**, умрут в ней и никогда не войдут в землю обетованную».
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
