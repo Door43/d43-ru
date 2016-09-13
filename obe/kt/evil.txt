@@ -8,13 +8,13 @@
   * Слово «нечестие» относится к ситуации, когда люди совершают зло.
   * Последствия зла ясно видны в отношении одних людей к другим: дурном обращении, убийствах, воровстве, клевете, суровости и жестокости.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, the terms "evil" and "wicked" can be translated as "bad" or "sinful" or "immoral"
-  * Other ways to translate these could include, "not good" or "not righteous" or "not moral."
-  * Make sure the words or phrases that are used to translate these terms fit the context that is natural in the target language.
+  * В зависимости от контекста, слова «злой» и «нечестивый» можно переводить как «плохой», «грешный», «безнравственный».
+  * Еще можно их перевести как «нехороший», «неправедный», «аморальный».
+  * Удостоверьтесь, что те слова или фразы, которые используются для перевода этих понятий, подходят к контексту языка, на который делается перевод.
 
-(See also: [[:ru:obe:other:disobey|disobey, disobedient]], [[:ru:obe:kt:sin|sin, sinful, sinner]], [[:ru:obe:kt:good|good, goodness]], [[:ru:obe:kt:righteous|righteous]], demon, evil spirit, unclean spirit)
+(См. также: [[:ru:obe:other:disobey|disobey, disobedient]], [[:ru:obe:kt:sin|sin, sinful, sinner]], [[:ru:obe:kt:good|good, goodness]], [[:ru:obe:kt:righteous|righteous]], demon, evil spirit, unclean spirit)
 
 ===== Bible References: =====
 
