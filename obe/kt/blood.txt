@@ -10,14 +10,14 @@
   * Фраза «плоть и кровь» является устойчивым выражением, обозначающим человека.
   * «Плоть и кровь» также указывает на людей, которые состоят в кровном родстве.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term should be translated with the term that is used for blood in the target language
-  * The idiom "flesh and blood" could be translated as "people" or "human beings."
-  * Depending on the context, the idiom "my own flesh and blood" could be translated as "my own family" or "my own relatives" or "my own people."
-  * If there is an idiom in the target language that is used with this meaning, that idiom could be used to translate "flesh and blood."
+  * Это слово должно переводиться понятием, служащим для обозначение крови в языке перевода.
+  * Идиома «плоть и кровь» может переводиться как «люди» или «человеческие существа».
+  * В зависимости от контекста, устойчивое выражение «моя плоть и кровь» может переводиться как «моя семья», «моя родня» или «мои люди».
+  * Если в языке перевода есть идиома с аналогичным значением, используйте ее для перевода выражение «плоть и кровь».
 
-(See: [[:ru:obe:kt:flesh|flesh]])
+(См.: [[:ru:obe:kt:flesh|flesh]])
 
 ===== Bible References: =====
 
