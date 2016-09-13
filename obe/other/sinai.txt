@@ -1,15 +1,14 @@
 ====== Синай, гора Синай ======
 
-===== Facts: =====
+===== Факты: =====
 
-Sinai is the name of a mountain that was probably located in the southern part of what is now called the Sinai Peninsula.
+Синай - это название горы, которая, по-видимому, располагалась в южной части Синайского полуострова.
 
-  * The Israelites came to Mount Sinai as they were traveling from Egypt to the Promised Land.
-  * Mount Sinai is part of a large, rocky desert.
-  * God gave Moses the Ten Commandments on Mount Sinai.
+  * Израильтяне пришли к горе Синай, когда шли из Египта в обетованную землю.
+  * Гора Синай является частью огромной скалистой пустыни.
+  * Именно на этой горе Бог дал Моисею десять заповедей.
 
-(See also: [[en:obe:kt:promisedland]], [[tencommandments]])
-
+(См. также: [[:en:obe:kt:promisedland|Promised Land]], [[:ru:obe:other:tencommandments|Десять Заповедей]])
 
 ===== Bible References: =====
 
