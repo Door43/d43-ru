@@ -9,17 +9,14 @@
   * Это слово также используется в отношении Бога, особенно в выражениях «Господь», «Господь Бог» или «Господь Иисус». Оно указывает на то, что Господь правит и властвует над всеми людьми и творением.
   * Во многих переводах Ветхого Завета слово «Господь» употребляется для обозначения личного Божьего имени «Иегова».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term should be translated as "master" when it refers to a person who owns slaves. It could also be used by a servant to address the person he works for.
-  * When it refers to Jesus, it could be translated as "master" if the context shows it means "religious teacher."
-  * If the person addressing Jesus does not know him, "lord" could be translated as "sir." This translation would also be used for other contexts in which a polite form of address to a man is called for.
-  * When referring to God the Father or to Jesus, this term is written as "Lord" (capitalized). Make sure the translation clearly distinguishes between "lord" that just means "master" and "Lord" that refers to God.
+  * Когда речь идет о рабовладельце, это слово нужно перевести как «хозяин». Оно может использоваться при обращении слуги к тому человеку, на которого он трудится.
+  * Если речь идет об Иисусе, можно дать перевод «Господь», когда контекст сообщает о «религиозном учителе».
+  * Если человек, обращающийся к Иисусу, является незнакомцем, то слово «Господь» может переводиться как «господин». Аналогичный перевод может использоваться и в других контекстах, где требуется вежливая форма обращения к человеку.
+  * Когда речь идет о Боге, нужно использовать слово «Господь». В некоторых языках употребляется слово «Хозяин» или другое слово, указывающее на владение или на верховного правителя.
 
-(See also: [[:ru:obe:kt:lordgod]])
-
-  
-
+(См. также: [[:ru:obe:kt:lordgod|Lord]])
 
 ===== Bible References: =====
 
