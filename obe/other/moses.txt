@@ -16,21 +16,13 @@
 
 {{topic>:en:bible?moses&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:ru:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:ru:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:ru:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:ru:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:09-12|[09-12]]]** Однажды, когда **Моисей**  пас овец, он увидел объятый огнем куст.
+  * **[[:ru:obs:notes:frames:12-05|[12-05]]]** Но **Моисей**  сказал израильтянам: «Не бойтесь! Бог будет сражаться за вас сегодня и спасёт вас».
+  * **[[:ru:obs:notes:frames:12-07|[12-07]]]** Бог повелел **Моисею**  протянуть руку над морем, чтобы разделить воды.
+  * **[[:ru:obs:notes:frames:12-12|[12-12]]]** Когда израильтяне увидели, что египтяне погибли, они уверовали в Бога и поверили в то, что Моисей - Божий пророк.
+  * **[[:ru:obs:notes:frames:13-07|[13-07]]]** Потом Бог написал эти десять заповедей на двух каменных скрижалях и дал их **Моисею**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
