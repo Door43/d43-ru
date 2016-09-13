@@ -14,12 +14,12 @@
 
 {{topic>:en:bible?altar&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
-  * **[[:ru:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
-  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
-  * **[[:ru:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
+  * **[[:ru:obs:notes:frames:03-14|[03-14]]]** После выхода из ковчега Ной построил **жертвенник**  и принёс в жертву чистых животных.
+  * **[[:ru:obs:notes:frames:05-08|[05-08]]]** Когда они дошли до места жертвоприношения, Авраам связал Исаака и положил его на **жертвенник**.
+  * **[[:ru:obs:notes:frames:13-09|[13-09]]]** Священник должен был заклать животное и сжечь его на **алтаре**.
+  * **[[:ru:obs:notes:frames:16-06|[16-06]]]** Рядом с местом, где прежде поклонялись иному богу, Гедеон воздвиг новый **жертвенник**  и принёс на нём всесожжение Господу.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
