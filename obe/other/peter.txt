@@ -18,16 +18,16 @@
 
 {{topic>:en:bible?peter&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:28-09|[28-09]]]** **Peter** said to Jesus, "We have left everything and followed you. What will be our reward?"
-  ***[[:ru:obs:notes:frames:29-01|[29-01]]]** One day **Peter** asked Jesus, "Master, how many times should I forgive my brother when he sins against me? As many as seven times?"
-  ***[[:ru:obs:notes:frames:31-05|[31-05]]]** Then **Peter** said to Jesus, "Master, if it is you, command me to come to you on the water." Jesus told **Peter**, "Come!"
-  ***[[:ru:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, **Peter**, James, and John with him.
-  ***[[:ru:obs:notes:frames:38-09|[38-09]]]** **Peter** replied, "Even if all the others abandon you, I will not!" Then Jesus said to **Peter**, "Satan wants to have all of you, but I have prayed for you, **Peter**, that your faith will not fail. Even so, tonight, before the rooster crows, you will deny that you even know me three times."
-  ***[[:ru:obs:notes:frames:38-15|[38-15]]]** As the soldiers arrested Jesus, **Peter** pulled out his sword and cut off the ear of the servant of the high priest.
-  ***[[:ru:obs:notes:frames:43-11|[43-11]]]** **Peter** answered them, "Every one of you should repent and be baptized in the name of Jesus Christ so that God will forgive your sins."
-  ***[[:ru:obs:notes:frames:44-08|[44-08]]]** **Peter** answered them, "This man stands before you healed by the power of Jesus the Messiah."
+  * [[:ru:obs:notes:frames:28-09|[28-09]]] **Пётр**  сказал Иисусу: «Вот мы оставили всё и последовали за Тобой. Какой будет наша награда?»
+  * **[[:ru:obs:notes:frames:29-01|[29-01]]]** Однажды **Пётр**  спросил Иисуса: «Господи, сколько раз я должен прощать моего брата, когда он грешит против меня? До семи ли раз?»
+  * **[[:ru:obs:notes:frames:31-05|[31-05]]]** Тогда **Пётр**  сказал Иисусу: «Господи, если это Ты, то вели мне прийти к Тебе по воде». Иисус сказал **Петру**: «Иди!»
+  * **[[:ru:obs:notes:frames:36-01|[36-01]]]** Как-то раз Иисус взял троих Своих учеников: **Петра**, Иакова и Иоанна.
+  * [[:ru:obs:notes:frames:38-09|[38-09]]] **Пётр**  отвечал: «Даже если все оставят тебя, я Тебя не оставлю!» Иисус ответил **Петру**: «Сатана хочет получить власть над всеми вами, но Я молился за тебя, **Пётр**, чтобы твоя вера не ослабла. Сегодня ночью, прежде, чем трижды пропоёт петух, ты отречёшься от Меня».
+  * **[[:ru:obs:notes:frames:38-15|[38-15]]]** Когда воины арестовали Иисуса, **Пётр**  выхватил меч и отсёк ухо слуге первосвященника.
+  * [[:ru:obs:notes:frames:43-11|[43-11]]] **Пётр**  ответил: «Каждый из вас должен покаяться и креститься во имя Иисуса Христа, чтобы Бог простил вам ваши грехи.»
+  * [[:ru:obs:notes:frames:44-08|[44-08]]] **Пётр**  ответил им: «Он был исцелён силой Иисуса - Мессии.»
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
