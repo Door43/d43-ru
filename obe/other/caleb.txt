@@ -1,13 +1,13 @@
 ====== Халев ======
 
-===== Facts: =====
+===== Факты: =====
 
-Caleb was one of the twelve Israelite spies whom Moses sent to explore the land of Canaan.
+Халев был одним из двенадцати соглядатаев, которых Моисей послал осмотреть землю обетованную.
 
-  * He and Joshua came back from exploring Canaan and told the people to trust God to help them defeat their enemies so that they could live at peace in that land.
-  * Joshua and Caleb were the only men of their generation who were allowed to enter the Promised Land of Canaan.
+  * Он вместе с Иисусом Навином вернулся после осмотра земли и стал убеждать народ довериться Богу, Который поможет им низложить их врагов, чтобы израильтяне могли мирно жить в той земле.
+  * Иисус Навин и Халев были единственными в своем поколении, кому было позволено войти в землю обетованную - Ханаан.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
