@@ -20,14 +20,14 @@
 
 {{topic>:en:bible?power&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:22-05|[22-05]]]** The angel explained, "The Holy Spirit will come to you, and the **power**  of God will overshadow you. So the baby will be holy, the Son of God."
-  * **[[:ru:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the **power**  of the Holy Spirit to the region of Galilee where he lived.
-  * **[[:ru:obs:notes:frames:32-15|[32-15]]]** Immediately Jesus realized that **power**  had gone out from him.
-  * **[[:ru:obs:notes:frames:42-11|[42-11]]]** Forty days after Jesus rose from the dead, he told his disciples, "Stay in Jerusalem until my Father gives you **power**  when the Holy Spirit comes on you."
-  * **[[:ru:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty signs and wonders by the **power**  of God, as you have seen and already know."
-  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the **power**  of Jesus the Messiah."
+  * **[[:ru:obs:notes:frames:22-05|[22-05]]]** Ангел объяснил: «Дух Святой сойдёт на тебя, и **сила**  Бога покроет тебя. Поэтому младенец будет святым Божьим Сыном».
+  * **[[:ru:obs:notes:frames:26-01|[26-01]]]** Преодолев искушения сатаны, Иисус вернулся в **силе**  Духа Святого в область Галилейскую, где Он жил ранее.
+  * **[[:ru:obs:notes:frames:32-15|[32-15]]]** Иисус мгновенно почувствовал, что из Него вышла **сила**.
+  * **[[:ru:obs:notes:frames:42-11|[42-11]]]** Через сорок дней после воскресения из мёртвых Иисус сказал Своим ученикам: «Оставайтесь в Иерусалиме до тех пор, пока Мой Отец не даст вам **силу**, когда на вас сойдёт Святой Дух».
+  * **[[:ru:obs:notes:frames:43-06|[43-06]]]** «Израильтяне! Иисус был человеком, совершавшим много могущественных знамений и чудес **силой**  Бога, как вы уже видели и знаете.»
+  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** Пётр ответил им: «Он был исцелён **силой**  Иисуса - Мессии.»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
