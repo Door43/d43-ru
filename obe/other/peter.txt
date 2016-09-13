@@ -1,19 +1,18 @@
 ====== Петр, Симон Петр, Кифа ======
 
-===== Facts: =====
+===== Факты: =====
 
-These names are different ways of referring to Peter, who was one of Jesus' twelve apostles. He was an important leader of the early Church.
+Так по-разному Иисус называл Петра - одного из двенадцати Своих учеников. Петр был важным лидером ранней церкви.
 
-  * Before Jesus called him to be his disciple, this man's name was Simon.
-  * Later, Jesus also named him Cephas, which means "stone" or "rock" in the Aramaic language. He was also called Peter, which is a name meaning "stone" or "rock" in the Greek language.
-  * He is most well-known by the names Peter or Simon Peter.
-  * God worked through Peter to heal people and to preach the good news about Jesus.
-  * Two books in the New Testament are letters that Peter wrote to encourage and teach fellow believers.
+  * До того, как Он был призван Иисусом, его звали Симоном.
+  * Позднее Иисус называл его Кифой, что в арамейском языке означает «камень» или «скала». Его также звали Петром, что тоже означало «камень» или «скала», но только в греческом языке.
+  * Самое известное его имя - Петр или Симон Петр.
+  * Бог действовал через Петра, который исцелял людей и проповедовал благую весть об Иисусе.
+  * Две книги Нового Завета - это послания Петра, которые он написал, чтобы ободрить и наставить верующих братьев.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:disciple]], [[en:obe:kt:apostle]])
-
+(См. также: [[:en:obe:kt:disciple|disciple]], [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: =====
 
