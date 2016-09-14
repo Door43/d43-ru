@@ -35,15 +35,16 @@
 
 {{topic>:en:bible?life&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life**  into him.
-  * **[[:ru:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
-  * **[[:ru:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  * **[[:ru:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
-  * **[[:ru:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  * **[[:ru:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  * **[[:ru:obs:notes:frames:44-05|[44-05]]]** "You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:01-10|[01-10]]]** Бог взял прах, создал человека и вдохнул в него **жизнь**.
+  * **[[:ru:obs:notes:frames:03-01|[03-01]]]** По прошествии долгого времени, мир **заселился** людьми.** **
+  * ******[[:ru:obs:notes:frames:08-13|[08-13]]]** Когда братья Иосифа вернулись домой и рассказали отцу, что Иосиф **жив**, радости Иакова не было предела.** **
+  * ******[[:ru:obs:notes:frames:17-09|[17-09]]]** Однако к концу своей **жизни**  он [Давид] совершил пред Богом тяжкий грех.** **
+  * ******[[:ru:obs:notes:frames:27-01|[27-01]]]** Однажды к Иисусу пришёл учитель Моисеева закона и, желая испытать Его, спросил: «Наставник, что мне делать, чтобы наследовать **жизнь** вечную?»** ** ** **
+  * **********[[:ru:obs:notes:frames:35-05|[37-05]]]** Иисус ответил: «Я есмь Воскресение и **Жизнь**.»** ** ** **
+  * **********[[:ru:obs:notes:frames:44-05|[44-05]]]** «Вы требовали от римского правителя распять Иисуса. Вы убили Начальника **жизни**, но Бог воскресил Его из мёртвых.»** ** ** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
