@@ -18,15 +18,15 @@
 
 {{topic>:en:bible?save&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:09-08|[09-08]]]** Moses tried to **save**  his fellow Israelite.
-  * **[[:ru:obs:notes:frames:11-02|[11-02]]]** God provided a way to **save**  the firstborn son of anyone who believed in him.
-  * **[[:ru:obs:notes:frames:12-05|[12-05]]]** Moses told the Israelites, "Stop being afraid! God will fight for you today and **save**  you."
-  * **[[:ru:obs:notes:frames:12-13|[12-13]]]** The Israelites sang many songs to celebrate their new freedom and to praise God because he **saved**  them from the Egyptian army.
-  * **[[:ru:obs:notes:frames:16-17|[16-17]]]** This pattern repeated many times: the Israelites would sin, God would punish them, they would repent, and God would send a deliverer to **save**  them.
-  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** "You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be **saved**  except through the power of Jesus!"
-  * **[[:ru:obs:notes:frames:47-11|[47-11]]]** The jailer trembled as he came to Paul and Silas and asked, "What must I do to be **saved**?" Paul answered, "Believe in Jesus, the Master, and you and your family will be **saved**."
-  * **[[:ru:obs:notes:frames:49-12|[49-12]]]** Good works cannot **save**  you.
-  * **[[:ru:obs:notes:frames:49-13|[49-13]]]** God will **save**  everyone who believes in Jesus and receives him as their Master. But he will not **save**  anyone who does not believe in him.
-~~DISCUSSION~~{{tag>publish knobs}}
+  * **[[:ru:obs:notes:frames:09-08|[09-08]]]** Моисей попытался **спасти**  своего сродника.
+  * **[[:ru:obs:notes:frames:11-02|[11-02]]]** Бог дал возможность **спасти**  первенцев всех тех, кто в Него верил.
+  * **[[:ru:obs:notes:frames:12-05|[12-05]]]** Но Моисей сказал израильтянам: «Не бойтесь! Бог будет сражаться за вас сегодня и **спасёт**  вас».
+  * **[[:ru:obs:notes:frames:12-13|[12-13]]]** Народ пел песни, празднуя свободу, и славил Бога за то, что Господь **избавил**  Своих людей от египетского войска.
+  * **[[:ru:obs:notes:frames:16-17|[16-17]]]** Израиль впадал в грех, Бог наказывал людей, они каялись, и Бог посылал им **избавителя**.
+  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** «Вы распяли Иисуса, но Бог снова вернул Его к жизни! Вы отвергли Его, но нет другого пути ко **спасению**, кроме как через силу Иисуса!»
+  * **[[:ru:obs:notes:frames:47-11|[47-11]]]** Тюремный сторож в трепете подошёл к Павлу и Силе и спросил: «Что мне делать, чтобы **спастись**?» Павел ответил: «Веруй в Господа Иисуса, и **спасешься**  ты и твоя семья».** **
+  * ******[[:ru:obs:notes:frames:49-12|[49-12]]]** Невозможно **спастись**, совершая добрые дела** **
+  * ******[[:ru:obs:notes:frames:49-13|[49-13]]]** Бог **спасает**  каждого, кто верит в Иисуса и принимает Его как своего Господа. Но Бог не **спасает**  тех, кто не верит в Него.** **
+****~~DISCUSSION~~{{tag>publish knobs}}** **
