@@ -21,14 +21,12 @@
 
 {{topic>:en:bible?wise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:02-05|[02-05]]]** She also wanted to be **wise**, so she picked some of the fruit and ate it.
-  * **[[:ru:obs:notes:frames:18-01|[18-01]]]** When Solomon asked for **wisdom**, God was pleased and made him the **wisest**  man in the world.
-  * **[[:ru:obs:notes:frames:23-09|[23-09]]]** Some time later, **wise**  men from countries far to the east saw an unusual star in the sky.
-  * **[[:ru:obs:notes:frames:45-01|[45-01]]]** He (Stephen) had a good reputation and was full of the Holy Spirit and of **wisdom**.
-
-
+  * **[[:ru:obs:notes:frames:02-05|[02-05]]]** Ей захотелось приобрести **мудрость**, поэтому она сорвала плод и ела.
+  * **[[:ru:obs:notes:frames:18-01|[18-01]]]** Соломон попросил у Бога **мудрости**. Господу была угодна такая просьба, и Он сделал Соломона самым **мудрым**  человеком на свете.
+  * **[[:ru:obs:notes:frames:23-09|[23-09]]]** Спустя некоторое время, **мудрецы**  с Востока увидели в небе необычную звезду.
+  * **[[:ru:obs:notes:frames:45-01|[45-01]]]** Он (Стефан) был исполнен Святого Духа и **мудрости**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
