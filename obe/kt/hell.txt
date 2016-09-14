@@ -19,14 +19,10 @@
 
 {{topic>:en:bible?hell&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-    * **[[:ru:obs:notes:frames:50-14|[50-14]]]** He (God) will throw them into **hell**, where they will weep and grind their teeth in anguish forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
-    * **[[:ru:obs:notes:frames:50-15|[50-15]]]** He will throw Satan into **hell** where he will burn forever, along with everyone who chose to follow him rather than to obey God. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:50-14|[50-14]]]** Но Бог будет судить каждого, кто отверг Иисуса. Он бросит беззаконников в **ад**, где они будут вечно рыдать и скрежетать зубами от мучений. Их будет жечь неугасимый огонь, и черви никогда не прекратят их пожирать.
+  * **[[:ru:obs:notes:frames:50-15|[50-15]]]** Когда Иисус вернётся, Он полностью сокрушит сатану и его царство. Иисус низвергнет сатану в **ад**, и лукавый будет вечно гореть вместе с теми, которые предпочли грех вместо обращения к Богу.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
