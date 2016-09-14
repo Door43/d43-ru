@@ -22,14 +22,14 @@
 
 {{topic>:en:bible?truth&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
-  ***[[:ru:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:ru:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
-  ***[[:ru:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God." 
-  ***[[:ru:obs:notes:frames:39-10|[39-10]]]** "I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me." Pilate said, "What is **truth**?"
+  * **[[:ru:obs:notes:frames:02-04|[02-04]]]** Змей возразил: «**Неправда**! Вы не умрёте.»
+  * **[[:ru:obs:notes:frames:14-06|[14-06]]]** Но два других соглядатая, Халев и Иисус Навин, тотчас возразили: «**Действительно**, люди Ханаана высокие и сильные, но мы непременно их победим!»** **
+  * ******[[:ru:obs:notes:frames:16-01|[16-01]]]** Израильтяне начали чтить богов хананеев вместо **истинного** Господа Бога.** ** ** **
+  * **********[[:ru:obs:notes:frames:31-08|[31-08]]]** Они поклонились Иисусу и сказали: «**Истинно**, Ты - Сын Божий».** ** ** **
+  * **********[[:ru:obs:notes:frames:39-10|[39-10]]]** «Я пришёл на землю рассказать **истину**  о Боге. Каждый, кто любит **истину**, слушает Меня». Пилат сказал: «Что есть **истина**?»** ** ** ** ** **
+******~~DISCUSSION~~{{tag>publish ktobs}} ******
+******~~NOCACHE~~** ** **
 
-~~DISCUSSION~~{{tag>publish ktobs}}
-
-~~NOCACHE~~
+****** ** ** **
