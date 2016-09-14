@@ -13,19 +13,15 @@
 
 {{topic>:en:bible?pray&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:ru:obs:notes:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
-  ***[[:ru:obs:notes:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, "Hear us, O Baal!"
-  ***[[:ru:obs:notes:frames:21-07|[21-07]]]**  Priests also **prayed** to God for the people.
-  ***[[:ru:obs:notes:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not enter into temptation.
-  ***[[:ru:obs:notes:frames:43-13|[43-13]]]** The disciples continually listened to the teaching of the apostles, spent time together, ate together, and **prayed** with each other.
-  ***[[:ru:obs:notes:frames:49-18|[49-18]]]**  God tells you to **pray**, to study his word, to worship him with other Christians, and to tell others what he has done for you. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:06-05|[06-05]]]** Исаак **молился**  за Ревекку, и Бог дал ей зачать близнецов.
+  * **[[:ru:obs:notes:frames:13-12|[13-12]]]** Но Моисей **помолился**  за народ, и Бог услышал его **молитву**  и не покарал народ.
+  * **[[:ru:obs:notes:frames:19-08|[19-08]]]** Пророки Ваала стали **молиться**: «Услышь нас, о Ваал!»
+  * **[[:ru:obs:notes:frames:21-07|[21-07]]]** Священники также **молились**  Богу за народ.
+  * **[[:ru:obs:notes:frames:38-11|[38-11]]]** Иисус велел ученикам **молиться**, чтобы не впасть в искушение.
+  * **[[:ru:obs:notes:frames:43-13|[43-13]]]** Верующие постоянно слушали учение Апостолов, и, собираясь вместе, ели и **молились**  друг за друга.
+  * **[[:ru:obs:notes:frames:49-18|[49-18]]]** Бог велит тебе **молиться**, изучать Его Слово, поклоняться Ему вместе с другими христианами и рассказывать людям о том, что Он сделал для тебя.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
