@@ -22,18 +22,15 @@
 
 {{topic>:en:bible?lamb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:05-07|[05-07]]]** As Abraham and Isaac walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
-  ***[[:ru:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect **lamb** or goat and kill it.
-  ***[[:ru:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by John. When John saw him, he said, "Look! There is the **Lamb of God** who will take away the sin of the world."
-  ***[[:ru:obs:notes:frames:45-08|[45-08]]]** He read, "They led him like a **lamb** to be killed, and as a **lamb** is silent, he did not say a word.
-  ***[[:ru:obs:notes:frames:48-08|[48-08]]]** When God told Abraham to offer his son, Isaac, as a sacrifice, God provided a **lamb** for the sacrifice instead of his son, Isaac. We all deserve to die for our sins! But God provided Jesus, the **Lamb** of God, as a sacrifice to die in our place.
-  ***[[:ru:obs:notes:frames:48-09|[48-09]]]** When God sent the last plague on Egypt, he told each Israelite family to kill a perfect **lamb** and spread its blood around the tops and sides of their door frames. 
+  * **[[:ru:obs:notes:frames:05-07|[05-07]]]** Когда Авраам и Исаак шли к месту жертвоприношения, Исаак спросил: «Отец, у нас есть дрова для жертвоприношения, но где же **агнец**?»** **
+  * ******[[:ru:obs:notes:frames:11-02|[11-02]]]** Бог дал возможность спасти первенцев всех тех, кто в Него верил. Каждая семья должна была выбрать непорочного **агнца**  и заклать его.** **
+  * ******[[:ru:obs:notes:frames:24-06|[24-06]]]** На другой день Иисус пришёл креститься у Иоанна. Когда Иоанн увидел Его, он сказал: «Смотрите! Вот **Агнец Божий**, Который берет на Себя грех мира!»** **
+  * ******[[:ru:obs:notes:frames:45-08|[45-08]]]** Он читал: «Как **овца**  веден был Он на заклание, и как **агнец**  пред стригущим Его безгласен.»** **
+  * ******[[:ru:obs:notes:frames:48-08|[48-08]]]** Когда Бог повелел Аврааму принести в жертву Исаака, то Он послал **агнца**  для жертвы вместо Исаака. Мы все заслуживаем смерти за наши грехи! Но Бог дал нам Иисуса - Божьего **Агнца**  - в жертву за нас, и Христос умер вместо нас.** **
+  * ******[[:ru:obs:notes:frames:48-09|[48-09]]]** Когда Бог навел на Египет последнюю казнь, Он повелел каждой израильской семье заклать непорочного **агнца**  и нанести его кровь на косяки дверей.** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
