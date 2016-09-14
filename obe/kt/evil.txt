@@ -20,19 +20,19 @@
 
 {{topic>:en:bible?evil&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand good and **evil**  like he does."
-  * **[[:ru:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were living in the world. They had become very **wicked**  and violent.
-  * **[[:ru:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a righteous man living among **wicked**  people.
-  * **[[:ru:obs:notes:frames:04-02|[04-02]]]** God saw that if they all kept working together to do **evil**, they could do many more sinful things.
-  * **[[:ru:obs:notes:frames:08-12|[08-12]]]**"You tried to do **evil**  when you sold me as a slave, but God used the **evil**  for good!"
-  * **[[:ru:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false gods and did many **evil**  things.
-  * **[[:ru:obs:notes:frames:17-01|[17-01]]]** But then he (Saul) became a **wicked**  man who did not obey God, so God chose a different man who would one day be king in his place.
-  * **[[:ru:obs:notes:frames:18-11|[18-11]]]** In the new kingdom of Israel, all the kings were **evil**.
-  * **[[:ru:obs:notes:frames:29-08|[29-08]]]** The king was so angry that he threw the **wicked**  servant into prison until he could pay back all of his debt.
-  * **[[:ru:obs:notes:frames:45-02|[45-02]]]** They said, "We heard him (Stephen) speak **evil**  things about Moses and God!"
-  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, **evil**, pain, or death.
+  * **[[:ru:obs:notes:frames:02-04|[02-04]]]** «Бог знает, что как только вы вкусите этот плод, вы станете как боги и будете понимать добро и **зло**  точно так же, как Творец».
+  * **[[:ru:obs:notes:frames:03-01|[03-01]]]** По прошествии долгого времени, мир заселился людьми. Они стали очень **злыми**  и жестокими.
+  * **[[:ru:obs:notes:frames:03-02|[03-02]]]** Ной же обрёл благодать в очах Бога. Он был праведным человеком, жившим среди людей, творивших **зло**.
+  * **[[:ru:obs:notes:frames:04-02|[04-02]]]** Бог увидел, что если они продолжат работать вместе, то сделают много **зла**.
+  * **[[:ru:obs:notes:frames:08-12|[08-12]]]** «Вы пытались сделать **зло**, когда продали меня в рабство, но Бог обратил **зло**  во благо!»
+  * **[[:ru:obs:notes:frames:14-02|[14-02]]]** Они (хананеи) поклонялись иным богам и творили много **зла**.
+  * **[[:ru:obs:notes:frames:17-01|[17-01]]]** Но потом он (Саул) превратился в **злобного**, непокорного Господу человека, и Божий выбор пал на другого, который однажды займет царский трон.
+  * **[[:ru:obs:notes:frames:18-11|[18-11]]]** В новом израильском царстве все цари были **вероотступниками**.
+  * **[[:ru:obs:notes:frames:29-08|[29-08]]]** В ярости царь бросил **злого**  слугу в тюрьму, пока он не отдаст всего своего долга».
+  * **[[:ru:obs:notes:frames:45-02|[45-02]]]** Они сказали, что Стефан **хулил**  Моисея и Бога.
+  * **[[:ru:obs:notes:frames:50-17|[50-17]]]** Божий Сын отрёт каждую слезу, и не будет больше ни страданий, ни печали, ни плача, ни **зла**, ни боли, ни смерти.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
