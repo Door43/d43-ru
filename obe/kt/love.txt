@@ -25,18 +25,18 @@
 
 {{topic>:en:bible?love&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:27-02|[27-02]]]** The law expert replied that God's law says, "**Love**  the Lord your God with all your heart, soul, strength, and mind. And **love**  your neighbor as yourself."
-  * **[[:ru:obs:notes:frames:33-08|[33-08]]]**"The thorny ground is a person who hears God's word, but, as time passes, the cares, riches, and pleasures of life choke out his **love**  for God."
-  * **[[:ru:obs:notes:frames:36-05|[36-05]]]** As Peter was talking, a bright cloud came down on top of them and a voice from the cloud said, "This is my Son whom I **love**."
-  * **[[:ru:obs:notes:frames:39-10|[39-10]]]**"Everyone who **loves**  the truth listens to me."
-  * **[[:ru:obs:notes:frames:47-01|[47-01]]]** She (Lydia) **loved**  and worshiped God.
-  * **[[:ru:obs:notes:frames:48-01|[48-01]]]** When God created the world, everything was perfect. There was no sin. Adam and Eve **loved**  each other, and they **loved**  God.
-  * **[[:ru:obs:notes:frames:49-03|[49-03]]]** He (Jesus) taught that you need to **love**  other people the same way you love yourself.
-  * **[[:ru:obs:notes:frames:49-04|[49-04]]]** He (Jesus) also taught that you need to **love**  God more than you **love**  anything else, including your wealth.
-  * **[[:ru:obs:notes:frames:49-07|[49-07]]]** Jesus taught that God **loves**  sinners very much.
-  * **[[:ru:obs:notes:frames:49-09|[49-09]]]** But God **loved**  everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be punished for his sins, but will live with God forever.
-  * **[[:ru:obs:notes:frames:49-13|[49-13]]]** God **loves**  you and wants you to believe in Jesus so he can have a close relationship with you.
-  * 
+  * **[[:ru:obs:notes:frames:27-02|[27-02]]]** Учитель сказал, что в Божьем Законе написано: «**Люби**  Господа, Бога твоего всем сердцем твоим, всей душою твоею, всеми силами твоими и всем разумением твоим. И **люби**  ближнего твоего, как самого себя».
+  * **[[:ru:obs:notes:frames:33-08|[33-08]]]** «Земля, заросшая тернием - это человек, который слышит Божье Слово, но заботы, богатство и удовольствия со временем заглушают его **любовь**  к Богу.»
+  * **[[:ru:obs:notes:frames:36-05|[36-05]]]** Когда Пётр еще произносил эти слова, сверху опустилось светлое облако, и голос из облака провозгласил: «Это - Мой Сын **возлюбленный**.»
+  * **[[:ru:obs:notes:frames:39-10|[39-10]]]** Каждый, кто **любит**  истину, слушает Меня.»
+  * **[[:ru:obs:notes:frames:47-01|[47-01]]]** Лидия **любила**  Бога и чтила Его.
+  * **[[:ru:obs:notes:frames:48-01|[48-01]]]** Когда Бог сотворил мир, всё в нем было совершенным. Греха не существовало. Адам и Ева **любили**  друг друга и **любили**  своего Создателя.
+  * **[[:ru:obs:notes:frames:49-03|[49-03]]]** Иисус был великим учителем, Он говорил со властью, потому что Он - Божий Сын. Он учил тому, что нужно **любить**  других так же сильно, как самих себя.
+  * **[[:ru:obs:notes:frames:49-04|[49-04]]]** Иисус проповедовал о том, что нужно **любить**  Бога больше всего остального, даже больше **любви**  к богатству.
+  * **[[:ru:obs:notes:frames:49-07|[49-07]]]** Иисус учил, что Бог очень **любит**  грешников.
+  * **[[:ru:obs:notes:frames:49-09|[49-09]]]** Но Бог так **возлюбил**  мир, что отдал Своего единственного Сына, чтобы каждый верующий в Него не понёс наказания за свои грехи, но вечно жил с Богом.
+  * **[[:ru:obs:notes:frames:49-13|[49-13]]]** Бог **любит**  тебя и хочет, чтобы ты принял Иисуса, чтобы Бог мог построить с тобой близкие отношения.
+  *
 ~~DISCUSSION~~{{tag>publish ktobs}}
