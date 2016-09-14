@@ -22,12 +22,12 @@
 
 {{topic>:en:bible?holy&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-16|[01-16]]]** He (God) blessed the seventh day and made it **holy**, because on this day he rested from his work.
-  * **[[:ru:obs:notes:frames:09-12|[09-12]]]**"You are standing on **holy**  ground."
-  * **[[:ru:obs:notes:frames:13-01|[13-02]]]**"If you will obey me and keep my covenant, you will be my prized possession, a kingdom of priests, and a **holy**  nation."
-  * **[[:ru:obs:notes:frames:13-05|[13-05]]]**"Always be sure to keep the Sabbath day **holy**."
-  * **[[:ru:obs:notes:frames:22-05|[22-05]]]**"So the baby will be **holy**, the Son of God."
-  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** As we wait for Jesus to return, God wants us to live in a way that is **holy**  and that honors him.
+  * **[[:ru:obs:notes:frames:01-16|[01-16]]]** Бог благословил седьмой день и **освятил**  его, потому что именно в этот день Он почил от Своей работы.
+  * **[[:ru:obs:notes:frames:09-12|[09-12]]]** «Ибо земля, на которой ты стоишь **свята**.»
+  * **[[:ru:obs:notes:frames:13-01|[13-02]]]** «Если вы будете слушаться Меня и хранить Мои заповеди, то станете Моим драгоценным владением, царством священников и **святым**  народом».
+  * **[[:ru:obs:notes:frames:13-05|[13-05]]]** «Помните день субботний, чтобы **святить**  его.»
+  * **[[:ru:obs:notes:frames:22-05|[22-05]]]** «Поэтому младенец будет **святым**  Божьим Сыном».
+  * **[[:ru:obs:notes:frames:50-02|[50-02]]]** Пока мы ждем возвращения Иисуса, Бог желает, чтобы мы жили **свято**  и тем чтили Его.
 ~~DISCUSSION~~{{tag>publish ktobs}}
