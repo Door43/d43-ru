@@ -9,15 +9,14 @@
   * Господь велел Своему народу приносить Ему в жертву непорочных овец и агнцев.
   * Иисус был назван «Агнцем Божьим», принесенным в жертву за грехи людей. Он был совершенной и невинной жертвой, потому что не совершил никакого греха.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * If sheep are known in the language area, the name for their young should be used to translate the terms "lamb" and "Lamb of God."
-  * "Lamb of God" could be translated as "God's (sacrificial) Lamb," or "Lamb sacrificed to God" or "(sacrificial) Lamb from God."
-  * If sheep are not known, this term could be translated as "the young of a sheep" with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, is timid and defenseless, and which often wanders off.
-  * Also consider how this term is translated in a Bible translation of a nearby local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Если в вашей стране известны эти животные, то для перевода понятия «агнец» и «Агнец Божий» используйте слово, обозначающее детёныша овцы.
+  * «Божий Агнец» может переводиться как «Божий (жертвенный) Ягненок», «Агнец, принесенный в жертву Богу» или «жертвенный Агнец от Бога».
+  * Если это животное вам не известно, то вы можете перевести его как «молодая овца» и сделать сноску, в которой должны описать его характерные признаки. Ваша сноска должна содержать сравнение овцы и агнца с каким-либо стадным животным, робким, беззащитным и легко теряющимся.
+  * Посмотрите, как это слово переведено в национальной Библии. ([[:en:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[en:obe:other:sheep]], [[en:obe:other:shepherd]])
-
+(См. также: [[:en:obe:other:sheep|sheep, ram, ewe]], [[:ru:obe:other:shepherd|shepherd, to shepherd]])
 
 ===== Bible References: =====
 
