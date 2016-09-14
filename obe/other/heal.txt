@@ -14,20 +14,16 @@
 
 {{topic>:en:bible?heal&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal** him.
-  ***[[:ru:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal** sick people and those who could not hear, see, speak, or walk.
-  ***[[:ru:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal** any of them. He only **healed** the skin disease of Naaman, a commander of Israel's enemies."
-  ***[[:ru:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-  ***[[:ru:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed** many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
-  ***[[:ru:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed** the lame man, and he began to walk and jump around, and to praise God.
-  ***[[:ru:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed** by the power of Jesus the Messiah."
-  ***[[:ru:obs:notes:frames:49-02|[49-02]]]** ] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed** many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:19-14|[19-14]]]** Удивительный случай произошел с Нееманом - вражеским военачальником, заболевшим тяжелой кожной болезнью. Нееман, услышав о Елисее, пошёл к нему и попросил пророка **исцелить**  его.
+  * **[[:ru:obs:notes:frames:21-10|[21-10]]]** Он (Исаия) также предсказал, что Божий Сын будет **исцелять**  больных людей, даже таких, которые не могут слышать, видеть, говорить или ходить.
+  * **[[:ru:obs:notes:frames:26-06|[26-06]]]** Иисус продолжал: «И во времена пророка Елисея в Израиле было много людей с кожными заболеваниями. Но Елисей не **исцелил**  никого из них. Он **исцелил**  только Неемана - военачальника врагов Израиля».
+  * **[[:ru:obs:notes:frames:26-08|[26-08]]]** К Иисусу приводили больных людей, среди которых были слепые, хромые, глухие и немые, и Иисус **исцелял**  их.
+  * **[[:ru:obs:notes:frames:32-14|[32-14]]]** Услышав о том, что Иисус **исцеляет**  больных, и она подумала: «Если только прикоснусь к Его одежде, то **исцелюсь**!»
+  * **[[:ru:obs:notes:frames:44-03|[44-03]]]** Бог тотчас **исцелил**  хромого, и он начал ходить и прыгать, прославляя Бога.
+  * **[[:ru:obs:notes:frames:44-08|[44-08]]]** Пётр ответил им: «Он был **исцелён**  властью Иисуса - Мессии.»
+  * **[[:ru:obs:notes:frames:49-02|[49-02]]]** Иисус совершал много чудес, доказывая, что Он - Бог. Он ходил по воде, успокаивал бури, **исцелял**  больных, изгонял бесов, воскрешал мёртвых и умножал хлеб и рыбу до такого количества, что могла насытиться многотысячная толпа.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
