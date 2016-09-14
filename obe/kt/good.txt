@@ -13,15 +13,15 @@
   * Слово «благость» обычно относится к чему-то нравственному или праведному в мыслях и поступках.
   * Благость Божья - это то, как Он благословляет людей, давая им добрые и полезные вещи. Она также может касаться Его нравственного совершенства.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
-  * Depending on the context, other ways to translate this term could include, "kind" or "excellent" or "pleasing to God" or "righteous" or "morally upright" or "profitable."
-  * "Good land" could be translated as, "fertile land" or "productive land"; a "good crop" could be translated as a "plentiful harvest" or "large amount of crops."
-  * The phrase "do good to" means to do something that benefits others and could be translated as to "be kind to" someone or to "help" or "benefit" someone.
-  * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
+  * В языке, на который переводится текст, основное слово, обозначающее понятие «хороший», может использоваться при любых случаях, где его главное значение является точным и понятным, особенно в контексте, где ему противопоставляется зло.
+  * В зависимости от контекста, это слово можно переводить и по-другому: «добрый», «великолепный», «богоугодный», «праведный», «нравственный», «полезный».
+  * «Добрая почва» может переводиться как «плодородная почва», «богатая почва»; «хороший урожай» - как «изобильный урожай» или «огромный урожай».
+  * Выражение «делать добро» означает совершать поступки, приносящие благо окружающим; оно может переводиться как «быть добрым к» или «благотворить».
+  * В зависимости от контекста, понятие «благость» можно переводить как «благословение», «доброта», «нравственное совершенство», «праведность» или «чистота».
 
-(See also: [[:ru:obe:kt:holy]], [[:ru:obe:other:profit]], [[:ru:obe:kt:righteous]], [[:ru:obe:kt:evil]])
+(См. также: [[:ru:obe:kt:holy|holy, holiness]], [[:ru:obe:other:profit|profit, profitable]], [[:ru:obe:kt:righteous|праведный, праведность]], [[:ru:obe:kt:evil|злой, нечестивый, нечестие]])
 
 ===== Bible References: =====
 
