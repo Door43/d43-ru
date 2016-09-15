@@ -11,19 +11,14 @@
 
 {{topic>:en:bible?beg&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:10-04|[10-04]]]** God sent frogs all over Egypt. Pharaoh **begged** Moses to take away the frogs.
-  ***[[:ru:obs:notes:frames:29-08|[29-08]]]** "The king called the servant and said, 'You wicked servant! I forgave your debt because you **begged** me."
-  ***[[:ru:obs:notes:frames:32-07|[32-07]]]** The demons **begged** Jesus, "Please do not send us out of this region!" There was a herd of pigs feeding on a nearby hill. So, the demons **begged** Jesus, "Please send us into the pigs instead!"
-  ***[[:ru:obs:notes:frames:32-10|[32-10]]]** The man who used to have the demons **begged** to go along with Jesus.
-  ***[[:ru:obs:notes:frames:35-11|[35-11]]]** His father came out and **begged** him to come and celebrate with them, but he refused."
-  ***[[:ru:obs:notes:frames:44-01|[44-01]]]** One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was **begging** for money.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:10-04|[10-04]]]** Бог поразил Египет лягушками. Фараон **упросил**  Моисея избавить его от них.
+  * **[[:ru:obs:notes:frames:29-08|[29-08]]]** «Царь позвал слугу и сказал: ‘Ты злой слуга! Я простил тебе долг, потому что ты **молил**  меня об этом.»
+  * **[[:ru:obs:notes:frames:32-07|[32-07]]]** Бесы **просили**  Иисуса: «Умоляем, не высылай нас отсюда!» Поблизости на холме паслось стадо свиней. Бесы **просили**  Иисуса: «Пожалуйста, пошли нас в свиней!» Иисус сказал: «Идите!»
+  * **[[:ru:obs:notes:frames:32-10|[32-10]]]** Человек, одержимый ранее бесами, **попросил**  Иисуса о том, чтобы быть с Ним.
+  * **[[:ru:obs:notes:frames:35-11|[35-11]]]** Отец вышел и стал **просить**  его зайти и присоединиться к пирующим, но тот отказался».
+  * **[[:ru:obs:notes:frames:44-01|[44-01]]]** Как-то раз Пётр и Иоанн шли в Храм. Приблизившись к воротам Храма, они увидели хромого человека, **просящего**  милостыню.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
