@@ -16,17 +16,14 @@
 
 {{topic>:en:bible?esau&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:06-07|[06-07]]]** When Rebekah's babies were born, the older son came out red and hairy, and they named him **Esau**.
-  ***[[:ru:obs:notes:frames:07-02|[07-02]]]** So **Esau ** gave Jacob his rights as the oldest son.
-  ***[[:ru:obs:notes:frames:07-04|[07-04]]]** When Isaac felt the goat hair and smelled the clothes, he thought it was **Esau** and blessed him.
-  ***[[:ru:obs:notes:frames:07-05|[07-05]]]** **Esau** hated Jacob because Jacob had stolen his rights as oldest son and also his blessing.
-  ***[[:ru:obs:notes:frames:07-10|[07-10]]]** But **Esau ** had already forgiven Jacob, and they were happy to see each other again.
+  * **[[:ru:obs:notes:frames:06-07|[06-07]]]** Когда Ревекка рождала близнецов, первым появился на свет красный и косматый младенец. Его назвали **Исавом**.
+  * **[[:ru:obs:notes:frames:07-02|[07-02]]]****Исав** передал Иакову свои права старшего сына.** **
+  * ******[[:ru:obs:notes:frames:07-04|[07-04]]]** Прикоснувшись к козлиной шерсти и ощутив запах одежд старшего сына, Исаак подумал, что это **Исав**, и благословил Иакова.** **
+  * ******[[:ru:obs:notes:frames:07-05|[07-05]]]****Исав**  стал ненавидеть брата, потому что Иаков похитил у него не только права старшего сына, но и благословение.** **
+  * ******[[:ru:obs:notes:frames:07-10|[07-10]]]** Но **Исав** уже простил Иакова, и братья были рады снова увидеться.** ** ** **
+******~~DISCUSSION~~{{tag>publish ktobs}} ******
+******~~NOCACHE~~** ** **
 
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
-~~NOCACHE~~
+****** ** ** **
