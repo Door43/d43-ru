@@ -15,15 +15,11 @@
 
 {{topic>:en:bible?fast&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:25-01|[25-01]]]** Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness, where he **fasted** for forty days and forty nights.
-  ***[[:ru:obs:notes:frames:34-08|[34-08]]]** "'For example, I **fast** two times every week and I give you ten percent of all the money and goods that I receive.'"
-  ***[[:ru:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were **fasting** and praying, the Holy Spirit said to them, "Set apart for me Barnabas and Saul to do the work I have called them to do." 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:25-01|[25-01]]]** Сразу же после того, как Иисус крестился, Дух Святой повёл Его в пустыню, где Иисус **постился**  сорок дней и сорок ночей.
+  * **[[:ru:obs:notes:frames:34-08|[34-08]]]** «Я **пощусь**  два раза в неделю и даю Тебе десятую часть из всего того, что приобретаю».
+  * **[[:ru:obs:notes:frames:46-10|[46-10]]]** Как-то раз, когда христиане в Антиохии **постились**  и молились, Святой Дух сказал им: «Отделите для Меня Варнаву и Савла, чтобы они начали делать то, к чему Я их призвал».
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
