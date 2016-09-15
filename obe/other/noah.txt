@@ -1,16 +1,15 @@
 ====== Ной ======
 
-===== Facts: =====
+===== Факты: =====
 
-Noah was a man who lived over 4,000 years ago, at the time when God sent a worldwide flood to destroy all the evil people in the world. God told Noah to build a gigantic boat in which he and his family could live while the flood waters covered the earth.
+Ной был человеком, жившим почти 4 000 лет назад, в те времена, когда Бог послал всемирный потоп, чтобы уничтожить все зло на земле. Бог повелел Ною построить огромный ковчег, где Ной и его семья могли бы укрыться в то время, когда воды потопа покроют землю.
 
-  * Noah was a righteous man who obeyed God in everything.
-  * When God told Noah how to build the gigantic boat, Noah built it exactly the way God told him to.
-  * Inside the boat, Noah and his family were kept safe and later their children and grandchildren filled the earth with people again.
-  * Everyone born since the flood is a descendant of Noah's family.
+  * Ной был праведным человеком, во всем повиновавшимся Богу.
+  * Когда Бог показал Ною, как построить огромный ковчег, Ной построил его в точности, как ему повелел Бог.
+  * Внутри ковчега Ной и его семья находились в безопасности, и именно их дети и внуки впоследствии населили землю.
+  * Все, кто родился после потопа, являлся потомками сыновей Ноя.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
