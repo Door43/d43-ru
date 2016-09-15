@@ -1,17 +1,16 @@
 ====== Исав ======
 
-===== Facts: =====
+===== Факты: =====
 
-Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. His twin brother was Jacob.
+Исав был одним из сыновей - близнецов Исаака и Ревекки. Он родился первым. Его братом был Иаков.
 
-    * Esau sold his birthright to his brother Jacob in exchange for a bowl of food.
-    * Since Esau was born first, his father was supposed to give him a special blessing. But Jacob stole Esau's blessing. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
-    * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
+  * Исав отдал свое первородство Иакову в обмен на порцию еды.
+  * Поскольку Исав родился первым, отец намеревался подарить ему особое благословение. Но Иаков украл благословение Исава. Сначала Исав был в такой ярости, что хотел убить Иакова, но потом он простил брата.
+  * У Исава было много детей и внуков, и его потомки превратились в огромную нацию, живущую в земле Ханаанской.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[isaac]], [[rebekah]], [[jacob]])
-
+(См. также: [[:ru:obe:other:isaac|Исаак]], [[:ru:obe:other:rebekah|Ревекка]], [[:ru:obe:other:jacob|Иаков, Израиль]])
 
 ===== Bible References: =====
 
