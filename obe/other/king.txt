@@ -1,16 +1,15 @@
 ====== король, царь ======
 
 
-===== Definition: =====
+===== Определение: =====
 
-A king is the ruler of an independent city, state, or country.
+Царь - это правитель независимого города, страны или государства.
 
-  * Sometimes someone becomes king because a group of people want him to be their king.
-  * Usually when a king dies, his first son becomes king.
-  * Sometimes someone will kill the king so that he can become king in his place.
+  * Иногда человек становится царем, потому что его избирает народ.
+  * Обычно после смерти царя на престол восходит его старший сын.
+  * Иногда кто-то убивает царя, чтобы занять его трон.
 
-(See also: [[kingdom]])
-
+(См. также: [[:ru:obe:other:kingdom|царство]])
 
 ===== Bible References: =====
 
