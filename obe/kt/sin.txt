@@ -11,18 +11,19 @@
   * Иногда слово «грешники» использовалось религиозными людьми, например, фарисеями, когда они указывали на тех, кто не соблюдал закон, хотя они считали, что сами его соблюдали.
   * «Грешниками» иногда называли людей, которые, как полагалось, совершали более тяжкие грехи, по сравнению с остальными людьми. Например, это «клеймо» ставилось на мытарей и блудниц.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "sin" could be translated with a word or phrase that means, "disobedience to God" or "going against God's will" or "evil behavior or thoughts."
-  * "To sin" could also be translated as "to disobey God" or "to do wrong."
-  * Depending on the context, "sinful" could be translated as "wicked" or "immoral" or "evil."
-  * Depending on the context, the term "sinner" could be translated with a word or phrase that means, "person who sins" or "person who does wrong things" or "person who disobeys God" or "person who disobeys the law."
-  * The term "sinners" could be translated by a word or phrase that means, "very sinful people" or "people considered to be very sinful" or "immoral people."
-  * Ways to translate "tax collectors and sinners" could include, "people who collect money for the government, and other very sinful people" or "very sinful people, including (even) tax collectors."
-  * In expressions like "slaves to sin" or "ruled by sin," the term "sin" could be translated as "disobedience" or "evil desires and actions."
-  * Make sure the translation of this term can include sinful behavior and thoughts, even those that other people don't see or know about.
+  * Слово «грех» может переводиться понятием, означающим «неповиновение Богу», «совершение поступков, не согласующихся с Божьей волей» или «беззаконные поступки и мысли».
+  * «Грешить» может также переводиться как «не слушаться Бога» или «поступать неправильно».
+  * В зависимости от контекста, «грешный» может переводиться как «злой», «безнравственный» или «злобный».
+  * «Грешник» может переводиться, в соответствии с контекстом, понятием, означающим «человек, совершающий грех», «неправильно поступающий человек», «тот, кто не слушается Бога», «непослушный закону».
+  * Слово «грешники» может переводиться словом или фразой, означающими «очень грешные люди», «люди, считающиеся большими грешниками» или «великие грешники, включая и сборщиков налогов».
+  * Способы перевода фразы «мытари и грешники» могут быть следующими: «люди, взимающие деньги в пользу правительства и прочие грешники», «безнравственные люди, а также сборщики налогов».
+  * В выражениях «рабы греха», «водимые грехом» слово «грех» может переводиться как «неповиновение» или как «злые похоти и поступки».
+  * Удостоверьтесь, что перевод этого слова указывает на греховное поведение и мышление, даже если сами люди не знают об этом и не видят этого.
 
-(See also: flesh, [[:ru:obe:kt:evil]], [[:ru:obe:other:disobey]], [[:ru:obe:other:taxcollector]])
+(См. также: flesh, [[:ru:obe:kt:evil|злой, нечестивый, нечестие]], [[:ru:obe:other:disobey|не слушаться, непослушный, непослушание]], [[:ru:obe:other:taxcollector|сборщик налогов]])
+
 ===== Bible References: =====
 
 ===== Examples from the Bible stories: =====
