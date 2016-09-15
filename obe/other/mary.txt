@@ -1,17 +1,16 @@
 ====== Мария ======
 
-===== Facts: =====
+===== Факты: =====
 
-Mary was the mother of Jesus and the wife of Joseph.
+Мария была матерью Иисуса и женой Иосифа.
 
-  * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
-  * Joseph took Mary as his wife, but Mary remained a virgin until after the baby was born.
-  * When the baby was born, Mary and Joseph named him Jesus.
+  * Святой Дух чудесным образом сделал так, чтобы Мария зачала, будучи девой. Ее ребенком был Божий Сын.
+  * Иосиф взял Марию себе в жены, но Мария оставалась девой, пока не родила сына.
+  * Когда ребенок родился, Мария и Иосиф назвали Его Иисусом.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:jesus]], [[josephnt]], [[en:obe:kt:sonofgod]], [[virgin]])
-
+(См. также: [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ru:obe:other:josephnt|Иосиф (из Нового Завета)]], [[:en:obe:kt:sonofgod|Son of God, the Son, Son]], [[:ru:obe:other:virgin|дева]])
 
 ===== Bible References: =====
 
