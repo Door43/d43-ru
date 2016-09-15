@@ -12,15 +12,15 @@
       * ко всем Божьм заповедям и Его воле.
   * Иногда выражение "Закон и Пророки" используется, подразумевая Ветхий Завет.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Since there are many instructions, some translations may prefer to translate this in the plural and say, "laws."
-  * The "Law of Moses" could be translated as "the laws that God told Moses to give to the Israelites".
-  * "God's law(s)" can be translated as "the laws that God gave" or "the laws that God commanded."
-  * Depending on the context, "the Law of Moses" can also be translated as "the law that Moses wrote" or "the books that Moses wrote" or "the laws that God told Moses to give to the Israelites."
-  * The term "the Law" could also be translated as "God's commands" or "everything that God commanded" or "God's rules."
+  * Поскольку в Законе содержалось много постановлений, можно перевести их словом во множественном числе - «законы».
+  * «Закон Моисеев» можно перевести как «законы, которые Бог дал Моисею для израильтян».
+  * «Божьи законы» можно перевести как «данные Богом законы», «постановления, заповеданные Богом».
+  * В зависимости от контекста, «Закон Моисеев» можно перевести как «закон, написанный Моисеем», «книги, написанные Моисеем», «законы, данные Богом для израильтян».
+  * Понятие «Закон» может также переводиться как «Божьи заповеди», «все, что повелел Бог» или «правила Божьи».
 
-(See also: [[:ru:obe:other:moses|Moses]], [[:ru:obe:other:tencommandments|Ten Commandments]], [[:ru:obe:other:lawful|lawful]])
+(См. также: [[:ru:obe:other:moses|Moses]], [[:ru:obe:other:tencommandments|Ten Commandments]], [[:ru:obe:other:lawful|lawful]])
 
 ===== Bible References: =====
 
