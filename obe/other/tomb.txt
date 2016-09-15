@@ -1,14 +1,14 @@
 ====== гробница, могила, место погребения ======
 
-===== Definition: =====
+===== Определение: =====
 
-A tomb is a place where people put the bodies of those who die.
+Могила или гробница - это место, куда люди кладут тела умерших.
 
-  * The Jews sometimes used natural caves as tombs, and sometimes they dug caves out of the rock on the side of a hill.
-  * In New Testament times, it was common to roll a large, heavy, round stone in front of the opening of a tomb in order to close it.
-  * This term can also be translated as, "grave." But if your word for grave can only refer to a hole in which the body is placed below the ground, then it might be better to translate tomb as, "cave" or "hole in a hill."
+  * Иудеи иногда использовали в качестве гробниц природные пещеры, а иногда люди сами проделывали пещеры в склоне горы.
+  * В новозаветные времена обычно к гробнице приваливали большой, тяжелый, круглый камень, чтобы закрыть вход.
+  * «Могила» может еще переводиться как «место захоронения». Но если в вашем языке это слово обозначает лишь углубление в земле, куда помещают тело и зарывают, то лучше перевести его как «пещера» или «грот».
 
-(See also: [[:ru:obe:kt:death]], [[:ru:obe:other:bury]])
+(См. также: [[:ru:obe:kt:death|смерть, умирать, мертвый]], [[:ru:obe:other:bury|закопать, погребен, погребение]])
 
 ===== Bible References: =====
 
