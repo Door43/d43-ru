@@ -12,17 +12,17 @@
   * Бог открыл себя как «Иегова», то есть как «Он есть», «Я есмь» или «Тот, Кто»
   * Библия также учит о ложных «богах», которые являются неживыми идолами, которым люди ошибочно поклоняются.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * "God" could be translated with a word or phrase that means, "Deity" or "Creator" or "Supreme Being."
-  * Other ways to translate "God" might include, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
-  * Consider how God is referred to in a local or national language. There may also already be a word for "God" in the language being translated. If so, it is important to make sure that this word fits the characteristics of the one true God as described above.
-  * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
-  * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
+  * «Бог» может переводиться словом или фразой, означающими «Божество», «Творец» или «Верховное Существо».
+  * Другие способы перевода слова «Бог» могут быть такими: «Верховный Творец», «Бесконечный Владыка и Господь», «Вечное Верховное Существо».
+  * Посмотрите, какое обращение к Богу существует в национальном или местном языке. В нем уже может существовать слово «Бог». Если оно имеется, очень важно убедиться в том, что оно передает Божье качество как единого истинного, описанного выше Господа.
+  * В русском языке ложный бог пишется с маленькой «б», тогда как единый истинный Бог пишется с прописной буквы «Б». В остальных языках можно следовать аналогичному принципу. Другим способом, помогающим отличить истинного Бога от ложного, будет использование разных слов.
+  * Фраза «Я буду их Богом, а они будут Моим народом» можно также перевести как «Я, Бог, буду править над этим народом, он будет Мне принадлежать и станет Мне поклоняться».
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:yahweh|Yahweh]], [[:ru:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ru:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:ru:obe:kt:sonofgod|Son of God, the Son]], [[:ru:obe:kt:falsegod|false god, god]], [[:ru:obe:other:creation|create, creation, Creator]], [[:ru:obe:other:idol|idol]])
+(См. также: [[:ru:obe:kt:yahweh|Yahweh]], [[:ru:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ru:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:ru:obe:kt:sonofgod|Son of God, the Son]], [[:ru:obe:kt:falsegod|false god, god]], [[:ru:obe:other:creation|create, creation, Creator]], [[:ru:obe:other:idol|idol]])
 
 ===== Bible References: =====
 
