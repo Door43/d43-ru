@@ -15,19 +15,14 @@
 
 {{topic>:en:bible?king&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:08-06|[08-06]]]**  One night, the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  ***[[:ru:obs:notes:frames:16-01|[16-01]]]**  The Israelites had no **king**, so everyone did what they thought was right for them.
-  ***[[:ru:obs:notes:frames:16-18|[16-18]]]**  Finally, the people asked God for a **king** like all the other nations had.
-  ***[[:ru:obs:notes:frames:17-05|[17-05]]]**  Eventually, Saul died in battle, and David became **king** of Israel. He was a good **king**, and the people loved him.
-  ***[[:ru:obs:notes:frames:21-06|[21-06]]]**  God's prophets also said that the Messiah would be a prophet, a priest, and a **king**.
-  ***[[:ru:obs:notes:frames:48-14|[48-14]]]**  David was the **king** of Israel, but Jesus is the **king** of the entire universe! 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:08-06|[08-06]]]** Однажды ночью фараону (так египтяне называли своих правителей) приснилось два сна, которые сильно его встревожили.
+  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** У израильтян не было **царя**, и поэтому каждый делал то, что считал правильным.
+  * **[[:ru:obs:notes:frames:16-18|[16-18]]]** Наконец, народ потребовал у Бога **царя**, чтобы походить на иноземцев.
+  * **[[:ru:obs:notes:frames:17-05|[17-05]]]** Наконец, Саул погиб в сражении, и **царём**  Израиля стал Давид. Он был хорошим **правителем**, и народ любил его.
+  * **[[:ru:obs:notes:frames:21-06|[21-06]]]** Божьи пророки также говорили, что грядущий Мессия будет пророком, священником и **царём**.
+  * **[[:ru:obs:notes:frames:48-14|[48-14]]]** Давид был **царём**  Израиля, а Иисус - **Царь**  всей Вселенной!
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
