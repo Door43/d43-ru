@@ -15,14 +15,10 @@
 
 {{topic>:en:bible?rome&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:ru:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:ru:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:ru:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ru:obs:notes:frames:23-04|[23-04]]]** Когда у Марии уже приближалось время родов, от **римского**  правительства вышло повеление, чтобы каждый человек шел в город своих предков для переписи.
+  * **[[:ru:obs:notes:frames:32-06|[32-06]]]** Тогда Иисус спросил беса: «Как твоё имя?» Он отвечал: «Моё имя - Легион, потому что нас много» (легионом называлась часть **римского**  войска, состоящая из нескольких тысяч солдат).
+  * **[[:ru:obs:notes:frames:39-09|[39-09]]]** На следующий день рано утром иудейские старейшины привели Иисуса к **римскому**  правителю Пилату.
+  * **[[:ru:obs:notes:frames:39-12|[39-12]]]****Римские**  воины стали бить Иисуса, надев на Него багряницу и терновый венец. Они насмехались над Ним, говоря: «Смотрите, вот Царь иудейский!»
+~~DISCUSSION~~{{tag>publish ktobs}}
