@@ -12,21 +12,13 @@
 
 {{topic>:en:bible?mock&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  ***[[:ru:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:ru:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:ru:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:ru:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:ru:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:21-12|[21-12]]]** Исайя пророчествовал о том, что люди оплюют Божьего помазанника, будут Его **высмеивать**  и избивать.
+  * **[[:ru:obs:notes:frames:39-05|[39-05]]]** Все иудейские начальники отвечали первосвященнику: «Он заслуживает смерти!» После этих слов они завязали Иисусу глаза, и начали в Него плевать и бить Его, **насмехаясь**  над Ним.
+  * **[[:ru:obs:notes:frames:39-12|[39-12]]]** Римские воины стали бить Иисуса, надев на Него багряницу и терновый венец. Они **насмехались**  над Ним, говоря: «Смотрите, вот Царь иудейский!»
+  * **[[:ru:obs:notes:frames:40-04|[40-04]]]** Иисус был распят между двумя разбойниками. Один из них **насмехался**  над Иисусом, другой же говорил: «Или ты не боишься Бога?»
+  * **[[:ru:obs:notes:frames:40-05|[40-05]]]** Иудейские старейшины и другие люди в толпе **насмехались**  над Иисусом, говоря: «Если Ты Божий Сын, сойди с креста и спаси Себя! Тогда мы поверим в Тебя».
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
