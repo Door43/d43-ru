@@ -14,14 +14,15 @@
 
 {{topic>:en:bible?jew&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:20-11|[20-11]]]** The Israelites were now called **Jews**  and most of them had lived their whole lives in Babylon.
-  * **[[:ru:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of **Jews**  returned to the city of Jerusalem in Judah.
-  * **[[:ru:obs:notes:frames:37-10|[37-10]]]** Many of the **Jews**  believed in Jesus because of this miracle.
-  * **[[:ru:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the **Jews**  were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  * **[[:ru:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "King of the **Jews**" on a sign and put it on the cross above Jesus' head.
-  * **[[:ru:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began preaching to the **Jews**  in Damascus, saying, "Jesus is the Son of God!"
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:20-11|[20-11]]]** Израильтян теперь называли **евреями**, большая часть которых прожила в Вавилоне почти всю свою жизнь.
+  * **[[:ru:obs:notes:frames:20-12|[20-12]]]** После семидесятилетнего плена небольшая группа **иудеев**  вернулась в Иерусалим, находившийся в Иудее.
+  * **[[:ru:obs:notes:frames:37-10|[37-10]]]** Благодаря этому чуду многие **иудеи**  уверовали в Иисуса.
+  * **[[:ru:obs:notes:frames:37-11|[37-11]]]** Но старейшины из **иудеев**  исполнились зависти и собрались вместе, чтобы составить план, как убить Иисуса и Лазаря.
+  * **[[:ru:obs:notes:frames:40-02|[40-02]]]** Пилат распорядился, чтобы над головой Иисуса была прибита надпись «Царь **Иудейский**».** **
+  * ******[[:ru:obs:notes:frames:46-06|[46-06]]]** С этого момента Савл начал проповедовать **иудеям**  в Дамаске о том, что Иисус - Сын Божий.** **
+****~~DISCUSSION~~{{tag>publish ktobs}} ****
 
-~~NOCACHE~~
+****~~NOCACHE~~** **
+**** ** **
