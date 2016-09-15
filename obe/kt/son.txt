@@ -16,16 +16,16 @@
       * «сын мира»
       * «сыны Громовы».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * In most occurrences of this term, it is best to translate "son" using the literal term in the language that is used to refer to a son.
-  * When translating the term "Son of God," the usual, common term for "son" should be used.
-  * When used to refer to a descendant rather than a direct son, the term "descendant" could be used, as in referring to Jesus as the "descendant of David" or in genealogies where sometimes "son" refers to a male descendant.
-  * Sometimes "sons" can be translated as "children" when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
-  * The figurative expression "son of" can be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
+  * В большинстве случаев, важно перевести это слово, используя общее понятие, обозначающее сына в языке.
+  * Когда речь идет о внуке, правнуке и т. д., оно может переводиться как «потомок».
+  * При переводе выражения "Сын Божий," следует использовать обычный, общий термин для "сына".
+  * Для обозначения потомка, а не прямого сына, можно использовать термин "потомок", например, в отношении Иисуса можно сказать - "потомок Давида", или же в родословиях, где иногда под «сыном» подразумевается мужской потомок.
+  * Иногда слово «сыновья» можно перевести как «дети», когда речь идет о представителях обоих полов. Например, «сыны Божьи» можно перевести как «дети Божьи», поскольку сюда входят девочки и женщины.
+  * Когда оно используется в вышеупомянутом переносном смысле, его можно перевести как «тот, кто имеет качества», «тот, кто похож», «тот, у кого есть» или «тот, кто поступает, как».
 
-(See also: [[:ru:obe:kt:sonofgod]], [[:ru:obe:other:father]], [[:ru:obe:other:descendant]])
-
+(См. также: [[:ru:obe:kt:sonofgod|Сын Божий]], [[:ru:obe:other:father|предок, отец, родоначальник]], [[:ru:obe:other:descendant|потомок]])
 
 ===== Bible References: =====
 
