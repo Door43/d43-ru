@@ -20,13 +20,13 @@
 
 {{topic>:en:bible?adam&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
-  * **[[:ru:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam**  could live, and put him there to care for it.
-  * **[[:ru:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's**  helper.
-  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam**  and Eve with animal skins.
-  * **[[:ru:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam**  and Eve away from the beautiful garden.
-  * **[[:ru:obs:notes:frames:49-08|[49-08]]]** When **Adam**  and Eve sinned, it affected all of their descendants.
-  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** Because **Adam**  and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it.
+  * **[[:ru:obs:notes:frames:01-09|[01-09]]]** Затем Бог сказал: «Давайте сотворим человека по образу Нашему и подобию Нашему.»
+  * **[[:ru:obs:notes:frames:01-10|[01-10]]]** Бог назвал человека **Адамом**. Творец насадил сад, где **Адам**  мог жить; Бог поместил Адама в сад, чтобы ​человек возделывал его.
+  * **[[:ru:obs:notes:frames:01-12|[01-12]]]** Потом Бог сказал: «Нехорошо быть человеку одному». Ни одно животное не могло стать помощником для **Адама**.
+  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** Бог одел **Адама**  и Еву в шкуры животных.
+  * **[[:ru:obs:notes:frames:02-12|[02-12]]]** Бог изгнал **Адама**  и Еву из прекрасного сада.
+  * **[[:ru:obs:notes:frames:49-08|[49-08]]]** Когда **Адам**  и Ева согрешили, последствия их греха отразились на всех их потомках.
+  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** За то, что **Адам**  и Ева ослушались Бога и принесли в мир грех, Бог проклял этот мир и решил уничтожить его.
 ~~DISCUSSION~~{{tag>publish ktobs}}
