@@ -16,19 +16,15 @@
 
 {{topic>:en:bible?eve&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-    * **[[:ru:obs:notes:frames:01-13|[01-13]]]** Then God took one of Adam's ribs and made it into a woman and brought her to him.
-    * **[[:ru:obs:notes:frames:02-02|[02-02]]]** But there was a crafty snake in the garden. He asked the woman, "Did God really tell you not to eat the fruit from any of the trees in the garden?"
-    * **[[:ru:obs:notes:frames:02-11|[02-11]]]** The man named his wife **Eve**, which means "life-giver," because she would become the mother of all people.
-    * **[[:ru:obs:notes:frames:21-01|[21-01]]]** God promised that a descendant of **Eve**  would be born who would crush the snake's head.
-    * **[[:ru:obs:notes:frames:48-02|[48-02]]]** Satan spoke through the snake in the garden in order to deceive **Eve**. 
-    * **[[:ru:obs:notes:frames:49-08|[49-08]]]** When Adam and **Eve** sinned, it affected all of their descendants.
-    * **[[:ru:obs:notes:frames:50-16|[50-16]]]** Because Adam and **Eve** disobeyed God and brought sin into this world, God cursed it and decided to destroy it. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:01-13|[01-13]]]** Затем Создатель взял одно из рёбер Адама, сотворил из него женщину и привёл её к человеку.
+  * **[[:ru:obs:notes:frames:02-02|[02-02]]]** Но в саду был лукавый змей. Он спросил женщину: «Правда ли Бог сказал вам не есть плодов ни от какого дерева в раю?»
+  * **[[:ru:obs:notes:frames:02-11|[02-11]]]** Мужчина назвал свою жену **Ева**, что означает «дающая жизнь», потому что ей надлежало стать матерью всех людей.
+  * **[[:ru:obs:notes:frames:21-01|[21-01]]]** Бог обещал, что семя **жены**  сокрушит голову змея.
+  * **[[:ru:obs:notes:frames:48-02|[48-02]]]** Сатана в образе змея стал беседовать с **Евой**  в саду, чтобы обольстить ее.
+  * **[[:ru:obs:notes:frames:49-08|[49-08]]]** Когда Адам и **Ева**  согрешили, последствия их греха отразились на всех их потомках.
+  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** За то, что Адам и **Ева**  ослушались Бога и принесли в мир грех, Бог проклял этот мир и решил уничтожить его.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
