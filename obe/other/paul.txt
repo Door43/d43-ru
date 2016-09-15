@@ -1,21 +1,20 @@
 ====== Павел, Савл ======
 
-===== Facts: =====
+===== Факты: =====
 
-Paul was a leader of the early church who was sent by Jesus to take the good news to many other people groups.
+Павел был лидером ранней церкви, посланным Иисусом к разным народам для проповеди Евангелия.
 
-    * Paul was a Jew who was born in the Roman city of Tarsus, and was therefore also a Roman citizen.
-    * Paul was originally called by his Jewish name, Saul.
-    * Saul became a Jewish religious leader and arrested Jews who became Christians because he did not believe in Jesus.
-    * Jesus came to Saul in a blinding light and told him to stop hurting Christians. Jesus then sent a Christian man to teach Saul, and Saul believed in Jesus.
-    * At first, Saul taught Jews about Jesus.
-    * Later, God sent Saul to teach other people groups about Jesus in many Roman cities. Then he started using the Roman name, Paul.
-    * Paul also wrote letters to encourage and teach Christians in various cities. Some of his letters are in the Bible.
+  * Павел был иудеем, родившемся в римском городе Тарсе, и у него было римское гражданство.
+  * Первоначально Павел носил иудейское имя - Савл.
+  * Он стал религиозным руководителем и задерживал обратившихся в христианство иудеев, поскольку сам не верил в Иисуса.
+  * Иисус явился Савлу в ослепительном свете и запретил ему гнать христиан. Потом Иисус послал к Савлу христианина, который проповедовал Савлу, после чего Савл обратился к Иисусу.
+  * Поначалу Савл говорил об Иисусе Иудеям.
+  * Но впоследствии Бог отправил Савла нести Евангелие другим народам, жившим в разных городах Римской империи. Савла стали звать его римским именем - Павел.
+  * Павел был автором посланий, предназначавшихся для укрепления и наставления христиан в разных городах. Некоторые из его посланий вошли в библейский канон.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[rome|Rome]], [[jewishleaders|Jewish Leaders]], [[en:obe:kt:christian|Christian]])
-
+(См. также: [[:ru:obe:other:rome|Rome]], [[:ru:obe:other:jewishleaders|Jewish Leaders]], [[:en:obe:kt:christian|Christian]])
 
 ===== Bible References: =====
 
