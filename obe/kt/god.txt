@@ -28,18 +28,18 @@
 
 {{topic>:en:bible?god&nocomments&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:01-01|[01-01]]]****God**  created the universe and everything in it in six days.
-  * **[[:ru:obs:notes:frames:01-15|[01-15]]]****God**  made man and woman in his own image.
-  * **[[:ru:obs:notes:frames:05-03|[05-03]]]**"I am **God**  Almighty. I will make a covenant with you."
-  * **[[:ru:obs:notes:frames:09-14|[09-14]]]****God**  said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am Yahweh, the **God**  of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
-  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Through these plagues, **God**  showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
-  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the true **God.**
-  * **[[:ru:obs:notes:frames:22-07|[22-07]]]** You, my son, will be called the prophet of the **Most High God**  who will prepare the people to receive the Messiah!"
-  * **[[:ru:obs:notes:frames:24-09|[24-09]]]** There is only one **God**. But John heard **God**  the Father speak, and saw Jesus the Son and the Holy Spirit when he baptized Jesus.
-  * **[[:ru:obs:notes:frames:25-07|[25-07]]]**"Worship only the Lord your **God**  and only serve him."
-  * **[[:ru:obs:notes:frames:28-01|[28-01]]]**"There is only one who is good, and that is **God**."
-  * **[[:ru:obs:notes:frames:49-09|[49-09]]]** But **God**  loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be punished for his sins, but will live with **God**  forever.
-  * **[[:ru:obs:notes:frames:50-16|[50-16]]]** But some day **God**  will create a new heaven and a new earth that will be perfect.
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:ru:obs:notes:frames:01-01|[01-01]]]** За шесть дней **Бог**  сотворил вселенную и всё, что в ней.
+  * **[[:ru:obs:notes:frames:01-15|[01-15]]]****Бог**  сотворил мужчину и женщину по Своему образу.
+  * **[[:ru:obs:notes:frames:05-03|[05-03]]]** Господь сказал: «Я - **Бог**  Всемогущий. Я заключу с тобой завет».
+  * **[[:ru:obs:notes:frames:09-14|[09-14]]]****Бог**  ответил: «Я ЕСМЬ СУЩИЙ. Скажи им: «Сущий послал меня к вам». Также скажи им: «Я - Иегова - **Бог**  отцов ваших: Авраама, Исаака и Иакова. Вот имя Мое навеки.»
+  * **[[:ru:obs:notes:frames:10-02|[10-02]]]** Через эти казни **Бог**  показал фараону, что Он сильнее фараона и всех богов Египта.
+  * **[[:ru:obs:notes:frames:16-01|[16-01]]]** Израильтяне начали чтить богов хананеев вместо истинного Господа **Бога**.** **
+  * ******[[:ru:obs:notes:frames:22-07|[22-07]]]** Ты, сын мой, будешь назван пророком **Бога Всевышнего**  и приготовишь людей к приходу Мессии!** **
+  * ******[[:ru:obs:notes:frames:24-09|[24-09]]]** Существует только Один **Бог**. Но Иоанн слышал, как говорит **Бог**  Отец, видел Сына Иисуса и Святого духа, в момент крещения Иисуса.** **
+  * ******[[:ru:obs:notes:frames:25-07|[25-07]]]** «Господу **Богу**  твоему поклоняйся и Ему одному служи’.** **
+  * ******[[:ru:obs:notes:frames:28-01|[28-01]]]** «Никто не благ, как только один **Бог**.»** **
+  * ******[[:ru:obs:notes:frames:49-09|[49-09]]]** Но **Бог**  так возлюбил мир, что отдал Своего единственного Сына, чтобы каждый верующий в Него не понёс наказания за свои грехи, но вечно жил с **Богом**.** **
+  * ******[[:ru:obs:notes:frames:50-16|[50-16]]]** Но придет день, когда **Бог**  сотворит новое небо и новую землю - они будут совершенными.** **
+****~~DISCUSSION~~{{tag>publish ktobs}}** **
