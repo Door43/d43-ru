@@ -23,11 +23,11 @@
 
 {{topic>:en:bible?joy&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with **joy**."
-  * **[[:ru:obs:notes:frames:34-04|[34-04]]]**"The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with **joy**, that he went and sold everything he had and used the money to buy that field."
-  * **[[:ru:obs:notes:frames:41-07|[41-07]]]** The women were full of fear and great **joy**. They ran to tell the disciples the good news.
+  * **[[:ru:obs:notes:frames:33-07|[33-07]]]** «Каменистая почва - это человек, который слышит Божье Слово и принимает его с **радостью**.»
+  * **[[:ru:obs:notes:frames:34-04|[34-04]]]** «Царство Божье подобно спрятанному на поле сокровищу. Человек нашёл это сокровище и закопал его обратно. А потом пошёл и от **радости**  продал всё, что имел, чтобы на вырученные деньги купить это поле».
+  * **[[:ru:obs:notes:frames:41-07|[41-07]]]** Женщины исполнились страха и великой **радости**. Они побежали, чтобы рассказать ученикам добрую весть.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
