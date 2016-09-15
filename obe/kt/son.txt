@@ -31,17 +31,16 @@
 
 {{topic>:en:bible?son&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
-  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
-  * **[[:ru:obs:notes:frames:04-09|[04-09]]]** God said, ""I will give you a **son**  from your own body."
-  * **[[:ru:obs:notes:frames:05-05|[05-05]]]** About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's **son**.
-  * **[[:ru:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his **son**  Isaac and laid him on an altar. He was about to kill his **son**  when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only **son**  from me."
-  * **[[:ru:obs:notes:frames:09-07|[09-07]]]** When she saw the baby, she took him as her own **son**.
-  * **[[:ru:obs:notes:frames:11-06|[11-06]]]** God killed every one of the Egyptians' firstborn **sons**.
-  * **[[:ru:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son**  Solomon began to rule.
-  * **[[:ru:obs:notes:frames:26-04|[26-04]]]**"Is this the **son**  of Joseph?‚" they said.
-
+  * **[[:ru:obs:notes:frames:04-08|[04-08]]]** Бог проговорил к Авраму и вновь пообещал, что у него будет **сын**, от которого родится столько потомков, сколько звёзд на небе.
+  * **[[:ru:obs:notes:frames:04-09|[04-09]]]** Бог сказал: «Я дам тебе **сына**, который родится от тебя.»
+  * **[[:ru:obs:notes:frames:05-05|[05-05]]]** Спустя год, когда Аврааму было 100 лет, а Сарре - 90, она родила Аврааму **сына**.
+  * **[[:ru:obs:notes:frames:05-08|[05-08]]]** Когда они дошли до места жертвоприношения, Авраам связал **сына**  и положил его на жертвенник. Он уже вознес над **сыном**  нож, как Бог проговорил: «Остановись! Не причиняй вреда мальчику! Теперь Я знаю, что ты боишься Меня, потому что ты не пожалел для Меня своего единственного **сына**».
+  * **[[:ru:obs:notes:frames:09-07|[09-07]]]** Когда она увидела, что в корзине ребенок, она взяла его себе и **усыновила**.
+  * **[[:ru:obs:notes:frames:11-06|[11-06]]]** Бог поразил всех египетских **первенцев**.
+  * **[[:ru:obs:notes:frames:18-01|[18-01]]]** Прошло много лет, Давид умер, и в Израиле воцарился его **сын**  Соломон.
+  * **[[:ru:obs:notes:frames:26-04|[26-04]]]** Они изумились и начали спрашивать: «Разве это не **сын**  Иосифа?»
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
