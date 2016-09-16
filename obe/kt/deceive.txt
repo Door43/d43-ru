@@ -20,11 +20,9 @@
 
 (См.: [[:ru:obe:kt:true|истинный, истина]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?deceive&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?deceive&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
