@@ -1,17 +1,17 @@
 ====== Едом, едомляне, Идумея, Сеир, Теман ======
 
-===== Facts: =====
+===== Факты: =====
 
-Edom was another name for Esau; the Edomites were his descendants. The country of Edom was also known as "Idumea" or "Seir."
+Едом - это еще одно имя Исава; едомляне были потомками Исава. Едомская страна также была известна как \"Идумея\" или \"Сеир\".
 
-  * Edom was mountainous and was located to the south and east of Israel.
-  * The word for Edom means "red," which may refer to the fact that Esau was covered with red hair when he was born. Or it may refer to the red lentil stew that Esau traded his birthright for.
-  * In the Old Testament, the country of Edom is often mentioned as an enemy of Israel.
-  * God gave the Old Testament prophets many negative prophecies to speak against Edom. The entire book of Obadiah is about the destruction of Edom.
+  * Едом был гористой местностью, расположенной на юго-востоке Израиля.
+  * Слово \"Едом\" означает \"рыжий\" - это, вероятно, относится к тому факту, что новорожденный Исав был покрыт рыжими волосами. Также это может относиться к красной чечевичной похлебке, которую Исав выменял на первородство.
+  * В Ветхом Завете страна едомская часто упоминается как вражески настроенная против Израиля.
+  * Бог давал ветхозаветным пророкам много суровых предсказаний о Едоме. В книге пророка Авдия говорится о разрушении Едома.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:esau]])
+(См. также: [[:ru:obe:other:esau|Исав]])
 
 ===== Bible References: =====
 
