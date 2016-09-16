@@ -1,17 +1,17 @@
 ====== ковчег завета, ковчега постановлений завета, ковчег свидетельства, ковчег Яхве ======
 
-===== Definition: =====
+===== Определение: =====
 
-These terms refer to a special wooden chest, overlaid with gold, that was constructed for the purpose of holding the two stone tablets on which the Ten Commandments were written.
+Эти термины относятся к особому покрытому золотом деревянному ящику, предназначенному для хранения двух каменных скрижалей, на которых были написаны Десять Заповедей.
 
-  * The ark of the covenant also contained Aaron's staff and a jar of manna.
-  * These objects were reminders of God's covenant with his people, the Israelites.
-  * The ark of the covenant was located in the most holy place of the tabernacle, and later, of the temple.
-  * When God desired to speak to Israel through Moses in the tabernacle, God's presence would appear over the ark of the covenant.
-  * The high priest was the only one who could go near the ark of the covenant in the most holy place of the temple, once a year on the Day of Atonement.
-  * The term "ark of the covenant decrees" is literally "ark of the testimony." The "testimony" refers to the Ten Commandments, which bore witness to God's covenant with his people.
+  * В ковчеге завета также находились посох Аарона и сосуд с манной.
+  * Эти предметы служили напоминанием завета Бога с Его народом - израильтянами.
+  * Ковчег завета находился в святом святых скинии, а позже - в храме.
+  * Когда Бог желал говорить с Израилем через Моисея в скинии, над ковчегом завета появлялось Божье присутствие.
+  * Только один первосвященник мог приближаться к ковчегу завета в святом святых скинии, и лишь один раз в году - в День Искупления.
+  * Термин «ковчег постановлений завета» буквально означает «ковчег свидетельства». Этим «свидетельством» являются Десять Заповедей, свидетельствующие о Божьем завете с Его народом.
 
-(See also: [[:ru:obe:other:ark|ark]], [[:ru:obe:kt:covenant]], [[:en;obe:kt:testimony]])
+(См. также: [[:ru:obe:other:ark|ark]], [[:ru:obe:kt:covenant|завет]], [[:en:obe:kt:testimony|testimony, testify]])
 
 ===== Bible References: =====
 
