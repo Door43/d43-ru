@@ -22,7 +22,7 @@
 
 {{topic>:en:bible?adultery&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Примеры библейских историй: =====
 
   * **[[:ru:obs:notes:frames:13-06|[13-06]]]**"Do not commit **adultery**."
   * **[[:ru:obs:notes:frames:28-02|[28-02]]]** Do not commit **adultery**.
