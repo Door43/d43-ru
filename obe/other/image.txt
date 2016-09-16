@@ -8,12 +8,13 @@
   * «Литая металлическая статуя» - это объект или статуя, которые были вылиты из расплавленного метала в форму, напоминающую определенный предмет, животное или определенного человека.
   * Эти деревянные или металлические предметы использовались для поклонения ложным богам.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, the term "image" could also be translated as "statue" or "engraved idol" or "carved religious object."
-  * It may be more clear in some languages to always use the term "carved image," even in places in the text where only the term "image" is used.
+  * В зависимости от контекста термин «изображение» также можно перевести как «статуя», «высеченный идол» или «резной религиозный объект».
+  * В некоторых языках будет понятнее, если использовать термин «резное изображение» даже в тех местах текста, где используется только термин «изображение».
+  * Удостоверьтесь, что данный термин явно отличается от термина, который относится к образу Божьему.
 
-(See also: [[:ru:obe:other:idol|idol]], [[:ru:obe:kt:falsegod|false god, god]], [[:ru:obe:kt:god|God]])
+(См. также: [[:ru:obe:other:idol|idol]], [[:ru:obe:kt:falsegod|false god, god]], [[:ru:obe:kt:god|God]])
 
 ===== Bible References: =====
 
