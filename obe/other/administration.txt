@@ -1,4 +1,4 @@
-====== administration, administrator ======
+====== управление, управляющий ======
 
 ===== Facts: =====
 
