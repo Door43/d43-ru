@@ -1,15 +1,16 @@
 ====== Амон, амонитяне ======
 
-===== Facts: =====
+===== Факты: =====
 
-Ammon was the younger son of Lot by his younger daughter, and his descendants are called the Ammonites.
+«Народ Аммона» или «аммонитяне» - потомки Бена-Амми, сына Лота от его младшей дочери.
 
-  * The Ammonites lived east of the Jordan River and were hostile toward the Israelites.
-  * The Ammonites hired a prophet named Balaam to curse Israel, but God did not allow it.
+  * Термин «аммонитянка» означает женщину из народа Аммона. Этот термин можно также перевести, как «аммонитская женщина».
+  * Аммонитяне обитали на востоке от реки Иордан, они враждебно относились к израильтянам.
+  * Однажды аммонитяне подкупили пророка Валаама, чтобы он проклял Израиль, но Бог не позволил пророку произнести проклятие.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:curse]])
+(См. также: [[:en:obe:kt:curse|curse, cursed]])
 
 ===== Bible References: =====
 
