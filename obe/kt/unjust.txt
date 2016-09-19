@@ -8,15 +8,15 @@
   * Нечестивые люди безнравственны в своих мыслях и действиях.
   * Иногда «нечестивыми» называют людей, которые не верят в Иисуса.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term could simply be translated as "not righteous."
-  * Depending on the context, other ways to translate this could include, "wicked" or "immoral" or "people who rebel against God" or "sinful."
-  * The phrase "the unrighteous" could be translated as "unrighteous people."
-  * The term "unrighteousness" could be translated as "sin" or "evil thoughts and actions."
-  * If possible, it is best to translate this in a way that shows its relationship to "righteous, righteousness."
+  * Это слово можно просто перевести как «неправедный».
+  * В зависимости от контекста, другими способами перевода этого слова могут быть такие: «злой», «безнравственный», «восстающий против Бога» или «грешный».
+  * Слово «нечестивые» можно перевести как «неправедные люди».
+  * «Нечестие» можно заменить словами «грех» или «злые мысли и поступки».
+  * Если возможно, лучше всего перевести это слово так, чтобы показать его противоположность словам «праведный», «праведность».
 
-(See also: [[:ru:obe:kt:righteous]], [[:ru:obe:kt:unlawful]], [[:ru:obe:kt:sin]])
+(См. также: [[:ru:obe:kt:righteous|праведный, праведность]], [[:ru:obe:kt:unlawful|unlawful]], [[:ru:obe:kt:sin|грех, грешный, грешник, грешить]])
 
 ===== Bible References: =====
 
