@@ -8,13 +8,14 @@
   * \"Угнетенный\" - это человек, претерпевающий жестокое обращение.
   * Часто вражеские народы вместе со своими правителями угнетали Израильский народ.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-    * Depending on the context,"oppress" could be translated by, "severely mistreat" or "cause to be heavily burdened" or "put under miserable bondage" or "rule harshly."
-    * Ways to translate "oppression" could include, "heavy suppression and bondage" or "burdensome control."
-    * The phrase "the oppressed" could be translated as "oppressed people" or "people in terrible bondage" or "those who are treated harshly."
+  * В зависимости от контекста, это понятие может переводиться как \"сурово обращаться\", \"налагать непосильное бремя\", «порабощать\" или \"тиранить\".
+  * Слово \"угнетение\" можно перевести как \"тяжкое иго и бремя\" или «обременительный контроль\".
+  * Слово \"угнетенный\" может переводиться как \"угнетенные люди\", \"люди, находящиеся под суровым игом\" или \"те, кто претерпевает жестокое обращение\".
+  * «Угнетатель» можно заменить словами «человек, который угнетает», «народ, который контролирует и жестоко обращается» или «гонитель».
 
-(See also: [[:En:obe:kt:enslave]])
+(См. также: [[:en:obe:kt:enslave|enslave, in bondage]])
 
 ===== Bible References: =====
 
