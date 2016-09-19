@@ -22,7 +22,8 @@
 
 (См. также: [[:ru:obe:kt:christ|Христос, Мессия]], [[:ru:obe:kt:lordgod|Lord]], [[:ru:obe:kt:jesus|Иисус, Иисус Христос, Христос Иисус]], [[:ru:obe:kt:believe|верить, веровать, вера]], [[:ru:obe:kt:faith|вера]])
 
-===== Ссылки в Библии:\\
-=====
+===== Ссылки в Библии: =====
+
+=====   =====
 
 {{topic>:en:bible?inchrist&nocomments}}~~DISCUSSION~~{{tag>publish}}
