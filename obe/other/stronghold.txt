@@ -1,14 +1,16 @@
 ====== крепость, укрепление, укрепленный ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "stronghold" refers to a place that is well protected against an attack by enemy soldiers and can be easily defended.
+Крепость - это легко обороняемое место, надежно защищенное от вражеских атак. То, что «укреплено» имеет толстые стены или постройки, делающий город или крепость более безопасным местом.
 
-  * A stronghold or fortress can be strong buildings, defensive walls, or natural barriers like rocky cliffs or high mountains.
-  * This term is also used figuratively to refer to God as a refuge or fortress for those who trust in him.
-  * In another figurative use, a "stronghold" can be something that a person wrongly trusts in for security, such as a false god.
+  * Крепостью может называться укрепленное здание, оборонительные стены или естественные преграды, такие, как скалы или высокие горы.
+  * Это слово может использоваться в переносном значении, когда речь идет о Боге, Который является крепостью или укрытием для тех, кто Ему доверяет.
+  * «Крепостью» в переносном смысле может быть что-то, на что человек тщетно надеется и считает безопасным, например, на ложного бога.
+  * Слово «укреплять» можно еще перевести как «делать безопасным».
+  * «Крепость» или «укрепление» могут переводиться как «безопасное и неприступное место» или «хорошо защищенное место».
 
-(See also: [[:ru:obe:other:idol]], [[:ru:obe:kt:refuge]], [[:ru:obe:kt:falsegod]])
+(См. также: [[:ru:obe:other:idol|идол, идолопоклоннический]], [[:ru:obe:kt:refuge|refuge]], [[:ru:obe:kt:falsegod|ложный бог, иной бог, бог, богиня]])
 
 ===== Bible References: =====
 
