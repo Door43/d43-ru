@@ -1,14 +1,14 @@
 ====== всесожжение, огненная жертва ======
 
-===== Definition: =====
+===== Определение: =====
 
-A burnt offering is a type of sacrifice to God that was consumed by fire on an altar. It was offered to make atonement for the sins of the people. This was also called an "offering by fire."
+Всесожжение - это вид жертвы, приносимой Богу путем сожжения огнем на жертвеннике. Эту жертву приносили для искупления грехов народа. Ее также называли «огненной жертвой».
 
-  * Animals used for this offering were usually sheep or goats, but oxen and birds were also used.
-  * Except for the skin, the entire animal was burned up in this offering. The skin or hide was given to the priest.
-  * God commanded the Jewish people to offer burnt offerings two times every day.
+  * Для этой жертвы обычно использовали овец или коз, а также волов и птиц.
+  * Во всесожжении животное сжигалось целиком, за исключением шкуры. Шкура отдавалась священнику.
+  * Бог велел иудейскому народу приносить жертвы всесожжения ежедневно по два раза в день.
 
-(See also: [[:ru:obe:other:altar]], [[:ru:obe:kt:priest]], [[:ru:obe:other:sacrifice]])
+(См. также: [[:ru:obe:other:altar|алтарь]], [[:ru:obe:kt:priest|священник, священство]], [[:ru:obe:other:sacrifice|жертва, приношение]])
 
 ===== Bible References: =====
 
