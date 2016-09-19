@@ -7,13 +7,14 @@
   * Хотя повеление и заповедь имеют в общем одно и то же значение, «заповедь» часто употребляется по отношению к некоторым более формальным и вечным повелениям Бога, таким как Десять Заповедей.
   * Заповеди бывают утвердительными («Почитай своих родителей») и отрицательными («Не кради»).
 
-===== Translation Suggestions =====
+===== Варианты перевода: =====
 
-  * It is best to translate this term differently from the term, "law." Also compare with the definitions of "decree" and "statute."
-  * Some translators may prefer to translate "command" and "commandment" with the same word in their language.
-  * Others may prefer to use a special word for commandment that refers to lasting, formal commands that God has made.
+  * Лучше всего переводить этот термин иначе, чем термин «закон». Сравните его также со значением слов «постановление» и «устав».
+  * Некоторые переводчики предпочитают переводить «повеление» и «заповедь» одним и тем же словом.
+  * Другие же предпочитают употреблять для обозначения заповедей особое слово, передающее значение вечного, формального повеления Бога.
 
-(See [[:ru:obe:other:decree]], [[:En:obe:other:statute]], [[:En:obe:other:law]], [[:ru:obe:other:tencommandments]])
+(См.: [[:ru:obe:other:decree|decree]], [[:en:obe:other:statute|statute, statutes]], [[:en:obe:other:law|law, principle]], [[:ru:obe:other:tencommandments|Десять Заповедей]])
+
 ===== Bible References: =====
 
 {{topic>command&nocomments}}~~DISCUSSION~~
