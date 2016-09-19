@@ -8,11 +8,11 @@
   * Выражение \"Яхве сил\" или \"Бог сил\" - это титул, передающий мысль о том, что Бог имеет власть над тысячами ангелов, которые Ему повинуются.
   * Фраза «сил небесные» относится ко всем звездам, планетам и другим небесным телам.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Ways to translate the title "Yahweh of hosts" or "God of hosts" could include, "Yahweh, who rules all the angels" or "God, the ruler over armies of angels."
+  * Способы перевода данного выражения могут быть следующими: \"Яхве сил\", \"Господь сил\", \"Яхве, правящий ангельскими войсками\". Слово \"силы\" может переводиться как \"армия\" или \"большое количество\".
 
-(See also: [[:ru:obe:kt:Yahweh]], [[:ru:obe:kt:angel]], [[:ru:obe:kt:authority]])
+(См. также: [[:ru:obe:kt:yahweh|Сущий, Иегова]], [[:ru:obe:kt:angel|ангел]], [[:ru:obe:kt:authority|authority]])
 
 ===== Bible References: =====
 
