@@ -13,16 +13,15 @@
   * Иногда слово «знание» используется как синоним слова «мудрость», который включает в себя жить жизнью, угодной Богу.
   * «Знание Бога» иногда используется как синоним «страха Яхве».
 
-===== Translation Suggestions =====
+===== Варианты перевода: =====
 
-  * Some languages have two different words to refer to knowing facts and to knowing people. Make sure that the word that is used fits the context.
-  * The term "make known" could be translated as "reveal" or "tell about" or "explain."
-  * To "know about" something could be translated as "be aware of" or "be familiar with."
-  * To know God's will means to be aware of what he has commanded or to understand what he wants a person to do.
-  * To "know the Law" means being aware of what God has commanded or to understand what God has instructed in the laws he gave to Moses.
-  * The phrase "know how to" do something means to understand what the steps are to getting something done.
+  * В зависимости от контекста варианты перевода слова «знать» могут включать в себя «понимать», «быть в курсе о» или «быть осведомленным о», «быть знакомым с» или «иметь взаимоотношения с».
+  * В некоторых языках есть разные слова для описания значения «знать» в зависимости от того, говорится ли здесь о знании фактов или о знании людей. Удостоверьтесь, что вы используете правильное слово в каждом контексте.
+  * Термин «сделать известным» можно перевести как «открыть», «рассказать» или «объяснить».
+  * «Знать о» иногда можно перевести как «быть в курсе» или «быть знакомым с».
+  * Фраза «знать как» означает понимать процесс или способ, которым нужно сделать что-то. Его можно также перевести как «быть способным сделать» или «иметь навыки, чтобы сделать».
 
-(See Also: [[:En:obe:kt:reveal]])
+(См. также: [[:en:obe:kt:reveal|reveal, revelation]])
 
 ===== Bible References: =====
 
