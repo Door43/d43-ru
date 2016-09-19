@@ -12,15 +12,15 @@
 ===== Translation Suggestions: =====
 
   * Depending on the context, different ways to translate "in Christ" and "in the Lord" (etc) could include:
-    * "who belong to Christ"
-    * "because you believe in Christ"
-    * "because Christ has saved us"
-    * "in service to the Lord"
-    * "relying on the Lord"
-    * "because of what the Lord has done."
+      * "who belong to Christ"
+      * "because you believe in Christ"
+      * "because Christ has saved us"
+      * "in service to the Lord"
+      * "relying on the Lord"
+      * "because of what the Lord has done."
   * People who "believe in" Christ or who "have faith in" Christ believe what Jesus taught and are trusting him to save them because of his sacrifice on the cross that paid the penalty for their sins.
 
-(See also: [[:ru:obe:kt:christ]], [[:ru:obe:kt:lordgod]], [[:ru:obe:kt:jesus]], [[:ru:obe:kt:believe]], [[:ru:obe:kt:faith]])
+(See also: [[:ru:obe:kt:christ|Христос, Мессия]], [[:ru:obe:kt:lordgod|Lord]], [[:ru:obe:kt:jesus|Иисус, Иисус Христос, Христос Иисус]], [[:ru:obe:kt:believe|верить, веровать, вера]], [[:ru:obe:kt:faith|вера]])
 
 ===== Bible References: =====
 
