@@ -15,15 +15,8 @@
 
 (См. также: [[:ru:obe:kt:tabernacle|tabernacle]], [[:ru:obe:kt:temple|temple]], [[:ru:obe:kt:peopleofgod|people of God]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?Houseofgod&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?Houseofgod&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
