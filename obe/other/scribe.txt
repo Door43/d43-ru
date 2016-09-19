@@ -1,18 +1,16 @@
 ====== книжник, учитель иудейского закона ======
 
-===== Definition: =====
+===== Определение: =====
 
+Книжники - это служащие, которые были ответственны за написание или копирование важных государственных или религиозных документов.
 
-Scribes were officials who were responsible to write or copy important government or religious documents by hand.
+  * Книжники несли ответственность за переписывание и сохранение книг Ветхого Завета.
+  * Они также переписывали, хранили и толковали религиозные взгляды и комментарии относительно Божьего закона.
+  * Иногда книжники были важными государственными служащими.
+  * Самыми известными книжниками были Варух и Ездра.
 
+(См. также: [[:en:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]])
 
-    * Scribes were responsible for copying and preserving the books of the Old Testament.
-    * Scribes also copied, preserved, and interpreted religions opinions and commentary on the law of God. 
-    * At times, scribes were important government officials.
-    * Important biblical scribes include Baruch and Ezra.
-
-
-(See also: [[en:obe:kt:lawofmoses]])
 ===== Bible References: =====
 
 
