@@ -1,15 +1,14 @@
 ====== Пятидесятница, праздник Седмиц ======
 
-===== Facts: =====
+===== Факты: =====
 
-Pentecost is the Greek name for the Festival of Weeks which was a Jewish festival that took place fifty days after Passover.
+Пятидесятница - это греческое название праздника Седмиц, который праздновался в Израиле, спустя 50 дней после Пасхи.
 
-  * The Day of Pentecost was the first day of the Festival of Weeks.
-  * The Festival of Weeks was held to celebrate the end of the grain harvest. It was also a time to remember when God first gave the Law to the Israelites through Moses.
-  * In the New Testament, the Day of Pentecost is especially significant because it was on this day that God poured out the Holy Spirit on Jesus' followers after Jesus had risen from the dead and gone back to heaven.
+  * День пятидесятницы был первым днем праздника Седмиц.
+  * Этот праздник отмечался в конце урожайного сезона. В эти дни евреи вспоминали, как Бог дал Моисею Закон.
+  * В Новом Завете дань Пятидесятницы имеет особое значение, потому что именно тогда Господь излил Святого Духа на учеников Христа после того, как Иисус воскрес и вознесся на небеса.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
