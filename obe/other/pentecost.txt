@@ -10,7 +10,7 @@
 
 (Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?pentecost&nocomments}}~~DISCUSSION~~
 
