@@ -11,12 +11,13 @@
   * «Святое святых» было второй комнатой, внутренней комнатой, в которой находился ковчег завета.
   * Иногда фраза «святилище» является более общей и относится ко всему комплексу храма или скинии в целом.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "holy place" could also be translated as, "room set apart for God" or "special room for meeting God" or "place reserved for God."
-  * The term, "most holy place" could be translated as, "room that is the most set apart for God" or "most special place for meeting God."
+  * Термин «святилище» также можно перевести как «комната, отделенная для Бога», «специальная комната для встречи с Богом» или «место, отделенное для Бога».
+  * Термин «святилище» также можно перевести как «комната, специально отделенная только для Бога» или «самая особая комната для встречи с Богом».
+  * В то время как «святилище» может в общем означать «святое место», фразу можно также перевести как «освященное место», «место, отделенное Богом» или «святое место в храме», «внутренняя комната в храме» или «внутренняя комната в скинии в зависимости от контекста.
 
-(See also: [[:ru:obe:kt:holy]], [[:ru:obe:kt:setapart]], [[:En:obe:kt:temple]], [[:ru:obe:kt:tabernacle]], [[:En:obe:other:arkofthecovenant]])
+(См. также: [[:ru:obe:kt:holy|святой, святость]], [[:ru:obe:kt:setapart|set apart]], [[:en:obe:kt:temple|temple]], [[:ru:obe:kt:tabernacle|tabernacle]], [[:en:obe:other:arkofthecovenant|ark of the covenant, ark of the covenant decrees, ark of Yahweh]])
 
 ===== Bible References: =====
 
