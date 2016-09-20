@@ -8,14 +8,14 @@
   * В Новом Завете говорится, что Бог освящает людей, верующих в Иисуса. То есть Он делает их святыми и отделяет их для служения Себе.
   * Верующие в Иисуса должны освящаться пред Богом и быть святыми во всех своих поступках.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, the term, "to sanctify" can be translated as "to set apart" or "to make holy" or "to purify."
-  * When people sanctify themselves, it means that they purify themselves and dedicate themselves to God's service. Often the word "consecrate" is used in the Bible with this meaning.
-  * With the meaning of "consecrate" this term could be translated as "dedicate someone (or something) to God's service."
-  * Depending on the context, the phrase, "your sanctification" could be translated as "making you holy" or "setting you apart (for God)" or "what makes you holy."
+  * В зависимости от контекста, слово «освящать» может переводиться как «отделять», «делать святым» или «очищать».
+  * Когда люди освящают себя, это значит, что они очищаются и посвящают себя на служение Богу. Часто в данном значении используется слово «освящать».
+  * Это слово может переводиться не только как «освящать», но и как «посвящать кого-то  (или что-то) на служение Богу».
+  * В зависимости от контекста, выражение «ваше освящение» может переводиться как «то, что делает вас святыми», «то, что отделяет вас (для Бога)» или «то, что освящает вас».
 
-(See also: [[en:obe:kt:holy]], [[:ru:obe:kt:consecrate]])
+(См. также: [[:en:obe:kt:holy|holy, holiness]], [[:ru:obe:kt:consecrate|consecrate]])
 
 ===== Bible References: =====
 
