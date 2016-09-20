@@ -1,4 +1,4 @@
-====== sleep, asleep, fall asleep ======
+====== сон, спящий, заснуть ======
 
 ===== Definition: =====
 
