@@ -8,12 +8,12 @@
   * «Заснуть» - это момент, в который у человека начался сон, а в переносном смысле - момент смерти.
   * Выражение «почить с отцами» означает умереть точно так же, как и предки.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * In some contexts, the term "to sleep" or "to be asleep" could be translated as "to be dead."
-  * To "fall asleep" could be translated as "to suddenly be asleep" or "to start sleeping" or "to die," depending on its meaning.
-  * It is especially important to keep the figurative expression in contexts where the audience did not understand the meaning. For example, when Jesus told his disciples that Lazarus was "sleeping" they thought he meant that Lazarus was just sleeping naturally. In this context, it would not make sense to translate this as "he died."
-  * Some languages may have a different idiom for death or dying which could be used if the idiom "sleep" or "asleep" does not make sense in the language of translation.
+  * В некоторых контекстах слово «спать» или «уснуть» можно перевести как «умереть».
+  * «Уснуть» можно перевести как «внезапно уснуть», «заснуть» или «умереть» - в зависимости от того, в каком значении употреблено слово.
+  * Очень важно сохранить переносное выражение в контексте, который не понятен читателю. Например, когда Иисус сказал ученикам, что Лазарь «уснул», они подумали, что Лазарь уснул обычным сном. В таком контексте нет смысла переводить это слово как «умер».
+  * В разных языках могут существовать устойчивые выражения, обозначающие смерть; вы можете их использовать, если слова «спать», «засыпать» не имеют смысла в целевом языке.
 
 ===== Bible References: =====
 
