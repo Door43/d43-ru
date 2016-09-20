@@ -12,15 +12,8 @@
 
 (См. также: [[:ru:obe:other:martha|Martha]], [[:ru:obe:other:lazarus|Лазарь]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?marysisterofmartha&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?marysisterofmartha&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
