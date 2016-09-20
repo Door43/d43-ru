@@ -8,15 +8,14 @@
   * Пророк Иеремия обвинял Израиль в том, что он - неверный и непослушный Богу.
   * Народ поклонялся идолам и соблюдал другие безбожные обычаи народов, не поклонявшихся Богу и не слушавшихся Его.
 
-===== Translation Suggestions =====
+===== Варианты перевода: =====
 
+  * В зависимости от контекста, термин «неверный» можно перевести, как «вероломный», «неверующий» или «непослушный Богу».
+  * Термин «неверность» можно перевести, как «вероломность», «неверие» или «непокорность Богу».
 
-  * Depending on the context, the term "faithless" could be translated as "unfaithful" or "unbelieving" or "disobedient to God" or "not believing."
-  * The term "faithlessness" could be translated as "unbelief" or "unfaithfulness" or "rebellion against God."
+(См.: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See: [[:ru:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:ru:obe:kt:unbeliever]], [[:ru:obe:kt:unfaithful]], [[:ru:obe:other:disobey]])
+(См. также: [[:ru:obe:kt:unbeliever|unbeliever, unbelief]], [[:ru:obe:kt:unfaithful|unfaithful]], [[:ru:obe:other:disobey|не слушаться, непослушный, непослушание]])
 
 ===== Bible References: =====
 
