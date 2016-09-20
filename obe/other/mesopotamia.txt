@@ -1,16 +1,15 @@
 ====== Месопотамия, Арам - Нахараим ======
 
-===== Facts: =====
+===== Факты: =====
 
-In Bible times, Mesopotamia was the name of the region between the Tigris and Euphrates Rivers. Its location includes the modern day country of Iraq.
+В библейские времена Месопотамией назывался регион, находившийся между реками Тигр и Евфрат. Он находился на территории современного Ирака.
 
-  * The word "Mesopotamia" means "between rivers."
-  * Abraham lived in the Mesopotamian cities of Ur and Haran before moving on toward the land of Canaan.
-  * Babylon was another important city in Mesopotamia.
-  * Aram Naharaim was the ancient name used in Judges 3:8
+  * В Ветхом Завете он назывался «Арам-Нахараим».</li><li>Слово \"Месопотамия\" буквально означает \"междуречье\". А понятие «Арам-Нахараим» означает область «двух рек».
+  * Авраам жил в городах Месопотамии - Уре и Харране - перед тем, как отправиться в землю ханаанскую.
+  * Еще одним важным городом Месопотамии был Вавилон.
+  * Область, называемая \"Халдеей\", являлась частью Месопотамии.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
