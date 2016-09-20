@@ -17,8 +17,6 @@
 
 (См. также: [[:ru:obe:kt:lordgod|Lord]], [[:ru:obe:kt:yahweh|Сущий, Иегова]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?lordyahweh&nocomments&nocomments}}
-
-~~DISCUSSION~~{{tag>publish}}
+{{topic>:en:bible?lordyahweh&nocomments&nocomments}}~~DISCUSSION~~{{tag>publish}}
