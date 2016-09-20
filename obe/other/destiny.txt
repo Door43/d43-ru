@@ -9,14 +9,13 @@
   * Иоанн Креститель был «предназначен» проповедовать о Царстве Божьем, чтобы люди или отвергли Бога, или покаялись и обратились к Нему. Бог определил для Иоанна это дело.
   * Иуда был «предназначен» на погибель, то есть должен был погибнуть в результате своей непокорности. Бог решил, что это будет его наказанием.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "to destine" could be translated as, "to determine" or "to decide."
-  * To "be destined," could be translated using a phrase like, "God decided" or "God determined."
-  * Depending on the context, "destiny" could be translated as "future life" or "what will happen in the end" or "what God has decided will happen."
+  * Термин «предназначать» можно перевести, как «постановить» или «решить».
+  * Выражение «предназначено...» можно перевести фразой «Бог решил...» или «Бог постановил...»
+  * В зависимости от контекста, «предназначение» или «судьба» можно перевести, как «будущая жизнь», «то, что произойдет в конце» или «то, чему Бог предопределил случиться».
 
-
-(See also: [[:ru:obe:other:johnthebaptist]], [[:ru:obe:kt:repent]], [[:ru:obe:kt:eternity]], [[:ru:obe:other:captive]])
+(См. также: [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]], [[:ru:obe:kt:repent|каяться, покаяние]], [[:ru:obe:kt:eternity|вечный, вечность]], [[:ru:obe:other:captive|captive, captivity]])
 
 ===== Bible References: =====
 
