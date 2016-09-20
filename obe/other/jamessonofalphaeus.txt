@@ -1,12 +1,12 @@
 ====== Иаков (сын Алфея) ======
 
-===== Facts: =====
+===== Факты: =====
 
-James, the son of Alphaeus, was one of Jesus' twelve apostles.
+Иаков сын Алфея был одним из двенадцати Апостолов Иисуса.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:apostle]])
+(См. также: [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: =====
 
