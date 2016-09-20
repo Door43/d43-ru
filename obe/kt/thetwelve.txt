@@ -9,13 +9,13 @@
   * Их имена перечислены в евангелиях от Матфея 10, Марка 3 и Луки 6.
   * В период после гибели Иуды и до того, как был избран еще один ученик, чтобы занять место погибшего, этих учеников называли «одиннадцатью».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * For many languages it may be more clear or more natural to add the noun and say, "the twelve apostles" or "Jesus' twelve closest disciples."
-  * "The eleven" could also be translated as "Jesus' eleven remaining disciples."
-  * Some translations may prefer to use a capital letter to show that it was used as a title, as in, "the Twelve" and "the Eleven."
+  * Для многих языков будет понятнее и естественнее, если добавить существительное и сказать «двенадцать апостолов» или «двенадцать самых близких учеников Иисуса».
+  * Слово «одиннадцать» можно перевести как «одиннадцать оставшихся апостолов Иисуса».
+  * В некоторых языках слова «Двенадцать», «Одиннадцать» можно написать с большой буквы, чтобы показать, что это звание.
 
-(See also: [[:ru:obe:kt:apostle]], [[:En:obe:kt:disciple]])
+(См. также: [[:ru:obe:kt:apostle|апостол, апостольство]], [[:en:obe:kt:disciple|disciple]])
 
 ===== Bible References: =====
 
