@@ -1,15 +1,15 @@
 ====== Моав, моавитянин, моавитянка ======
 
-===== Facts: =====
+===== Факты: =====
 
-Moab was the son of Lot's elder daughter. His descendants were called Moabites and the land they settled in also became known as "Moab."
+Моав был сыном старшей дочери Лота. Его потомки стали называться моавитянами, а земля, на которой они расселились, получила название \"Моав\".
 
-  * The country of Moab was located east of Judea, on the opposite side of the Dead Sea. It was southeast of the Judean city of Bethlehem, where Naomi's family was from.
-  * The term "Moabitess" can be translated as, "Moabite woman" or "woman from Moab."
+  * Страна моавитская находилась на востоке от Иудеи, с противоположной стороны Мертвого моря. Она располагалась на юго-востоке от иудейского города Вифлеем, откуда была родом Ноеминь и ее семья.
+  * Слово \"моавитянка\" может переводиться как \"моавская женщина\" или \"женщина из Моава\".
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[lot|Lot]], [[ruth|Ruth]], [[judea|Judea]], [[bethlehem|Bethlehem]] )
+(См. также: [[:ru:obe:other:lot|Lot]], [[:ru:obe:other:ruth|Ruth]], [[:ru:obe:other:judea|Judea]], [[:ru:obe:other:bethlehem|Bethlehem]] )
 
 ===== Bible References: =====
 
