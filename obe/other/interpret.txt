@@ -1,14 +1,16 @@
 ====== толковать, толкование ======
 
-===== Facts: =====
+===== Факты: =====
 
-In many Old Testament references this term refers to the understanding and explaining of dreams.
+Термин «толковать» и «толкование» относится к пониманию и объяснению значения чего-то, что не совсем понятно.
 
-  * When the King of Babylon had dreams God gave Daniel the ability to understand them and to interpret them, thus giving the meaning.
-  * To interpret is the action of explaining the dream or dreams; interpretation refers to that meaning which was discovered and recorderd.
-  * In the Old Testament dream interpretations were often prophetic predictions given by God.
+  * Часто в Библии данные термины используются в контексте объяснения значения снов.
+  * Когда царю Вавилонскому снились сбивающие с толку сны, Бог помогал Даниилу истолковывать их и объяснять их значение.
+  * «Толкование» сна - это «объяснение» значения сна. Иногда толкования записывались.
+  * В Ветхом Завете Бог часто открывал людям, что случится с ними в будущем. Поэтому толкования этих снов были также пророческими.
+  * Термин «толковать» может также использоваться для разъяснения значения других явлений, таких как предсказание погоды на основании того, что и как происходит в естественном мире.
 
-(See also: other)
+(См. также: other)
 
 ===== Bible References: =====
 
