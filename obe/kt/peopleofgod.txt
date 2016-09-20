@@ -9,14 +9,15 @@
   * В Ветхом Завете «Божьим народом» назывался Израиль, который был избран Богом и отделен от других народов мира, чтобы служить Ему и повиноваться.
   * В Новом Завете «народом Божьим» названы все те, кто верит в Иисуса, т. е. - Его Церковь. К ней причисляются как иудеи, так и язычники.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "people of God" could be translated as "God's people" or "the people who worship God" or "people who serve God" or "people belonging to God."
-  * Other ways to translate "my people" when God says it, could include, "the people I have chosen" or "the people who worship me" or “the people who belong to me.”
-  * Similarly, "your people"  could be translated as "the people who belong to you" or "the people you chose to belong to you."
-  * Also “his people” could be translated as “the people who belong to him” or “the people God chose to belong to himself.”
+  * Понятие «народ Божий» может быть переведено как «Божьи люди», «люди, чтущие Бога», «служащие Богу люди» или «люди, принадлежащие Богу».
+  * Когда эти слова произносятся Богом, их можно перевести как «люди, которых Я избрал», «люди, которые Мне поклоняются» или «те, кто Мне принадлежат».
+  * Точно так же «Твой народ» можно перевести как «люди, которые Тебе принадлежат» или «люди, которых Ты избрал, чтобы они были Твоими».
+  * «Его народ» может переводиться как «люди, которые Ему принадлежат» или «народ, который Бог избрал и который Ему принадлежит».
 
-(See also: [[:ru:obe:other:peoplegroup]])
+(См. также: [[:ru:obe:other:peoplegroup|народ]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?peopleofgod&nocomments}}~~DISCUSSION:on~~{{tag>publish}}
