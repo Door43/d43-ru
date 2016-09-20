@@ -9,19 +9,19 @@
   * Иногда слово «творить» используется образно с отвлеченными понятиями, например: творить мир, творить в ком-либо чистое сердце.
   * Иногда «творение» относится ко всему, что создал Бог, а иногда - к началу времени, когда Он создал все. Иногда «творение» означает всех людей мира.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Some languages may have to directly say that God created the world "out of nothing" to make sure this meaning is clear.
-  * The term "creation" can be translated in several different ways, depending on its meaning:
-      * The phrase, "since the creation of the world" means "since the time when the world was created."
-      * A similar phrase, "at the beginning of creation" means "when God created the world at the beginning of time."
-      * To preach the gospel "to all creation" means to preach the gospel "to all people everywhere on earth."
-      * The phrase, "Let all creation rejoice" means "Let everything that God created rejoice."
-  * Depending on the context, "create" could be translated as, "make" or "cause to be" or "make out of nothing."
-  * The term "the Creator" could be translated as, "the One who created everything" or "God, who made the whole world."
-  * Phrases like "your Creator" or "their Creator" could be translated as "God, who created you (them)."
+  * В некоторых языках приходится прямо говорить, что Бог создал мир «из ничего», чтобы этот смысл был ясным.
+  * Термин «творение» (или «сотворение») можно перевести по-разному, в зависимости от его значения:
+      * Фраза «от сотворения мира» означает «с тех пор, как создан мир».
+      * Похожая фраза «в начале творения» означает «когда Бог создал мир в начале времени».
+      * Проповедовать Евангелие «всему творению» означает проповедовать Евангелие «всем людям по всей земле».
+      * Фраза «Да возрадуется все творение!» означает «Пусть радуется все созданное Богом!»
+  * В зависимости от контекста, «творить» можно перевести, как «создавать», «делать существующим» или «создавать из ничего».
+  * Термин «Творец» можно перевести, как «Тот, Кто создал все» или «Бог, Который создал весь мир».
+  * Такие фразы, как «твой Творец» или «их Творец» можно перевести, как «Бог, сотворивший вас (их)».
 
-(See: [[:ru:obe:kt:god]])
+(См.: [[:ru:obe:kt:god|Бог]])
 
 ===== Bible References: =====
 
