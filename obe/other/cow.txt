@@ -1,17 +1,17 @@
 ====== корова, теленок, бык, крупный рогатый скот ======
 
-===== Definition: =====
+===== Определение: =====
 
-A cow is a female, four-legged bovine animal that eats grass and is primarily raised for its meat and milk. A calf is its offspring. These animals are included in the general term, "cattle."
+Корова - самка четвероногого домашнего животного, которая питается травой и используется в основном для мяса и молока. Теленок - детеныш коровы. Эти животные относятся к общему разряду «крупного рогатого скота».
 
-  * Cows and their calves are also used as a trading commodity.
-  * In the Bible, the Jewish people used cows for sacrifices, especially a certain type called the red heifer.
-  * A heifer is a cow that has not yet had a baby.
-  * The male of this type animal is called a "bull." An "ox" is a special type of bull that is used for agricultural work, like pulling a plow.
+  * Коровы и телята также используются в качестве предмета торговли.
+  * В Библии иудейский народ использовал коров для жертвоприношения, особенно так называемых «красных телок».
+  * Телка - это еще не телившаяся корова.
+  * Самец коровы называется «быком». «Вол» - особый вид быка, используемый в сельскохозяйственных работах, таких как вспашка плугом.
 
-(See also: [[:ru:obe:other:ox]], [[:ru:obe:other:yoke]])
+(См. также: [[:ru:obe:other:ox|ox, oxen]], [[:ru:obe:other:yoke|yoke]])
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]]
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
 ===== Bible References: =====
 
