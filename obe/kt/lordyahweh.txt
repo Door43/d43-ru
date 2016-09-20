@@ -7,13 +7,15 @@
   * Термин «Господь» - это титул, а «Яхве» - это личное имя Бога.
   * Личное имя Бога «Яхве» также часто встречается вместе с термином «Бог», что формирует фразу «Бог Яхве».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * If you transliterate "Yahweh" or use a unique phrase for it, you can simply put "Lord" with it. (You will have to decide whether the title "Lord" or the name "Yahweh" comes first.)
-  * If you normally render "Yahweh" as "Lord" you may need to adjust the phrase rather than simply repeat it as "Lord Lord." English sometimes renders "Yahweh" as "LORD." The whole phrase then becomes "Lord LORD." Some readers may not recognize the difference.
-  * You may want to translate "Lord Yahweh" with a similar phrase such as "Lord God" or "God who is the Lord." 
+  * Если вы в качестве личного имени используете некую форму слова «Яхве», вы можете перевести данные термины буквально как «Господь Яхве» или «Бог Яхве».
+  * В некоторых языках титулы ставятся строго после имени, что сформирует данные фразы как «Яхве Господь» или «Яхве Бог». Поразмышляйте, какая фраза будет более естественно звучать в вашем языке: должен ли титул «Господь» писаться до или после имени «Яхве»?
+  * Если же в вашем переводе «Яхве» звучит как «Господь» или «ГОСПОДЬ», то будет лучше написать фразу «Господь Яхве» как «Господь Бог» или «Бог, который Господь».
+  * Однако термин «Господь Яхве» не стоит писать как «Господь ГОСПОДЬ», потому что читатели могут не заметить разницы в размере шрифта, что традиционно использовалось для различения данных слов ранее.
+  * «Яхве Бог» может быть переведено как «Бог, которого называют Яхве» или «Бог, который есть Живой» или «Я есмь, который есть Бог».
 
-(See also: [[:ru:obe:kt:lordgod]], [[:ru:obe:kt:yahweh]])
+(См. также: [[:ru:obe:kt:lordgod|Lord]], [[:ru:obe:kt:yahweh|Сущий, Иегова]])
 
 ===== Bible References: =====
 
