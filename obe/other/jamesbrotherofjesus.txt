@@ -1,16 +1,16 @@
 ====== Иаков (брат Иисуса) ======
 
-===== Facts: =====
+===== Факты: =====
 
-James was a son of Mary and Joseph, and was one of Jesus' half-brothers.
+Иаков был сыном Марии и Иосифа, т.е. сводным братом Иисуса.
 
-  * During Jesus' lifetime, James and his brothers did not believe that Jesus was the Messiah.
-  * Later, after Jesus was raised from the dead, James believed in him and became a leader of the church in Jerusalem.
-  * James wrote a letter to the Christians who were living in other countries. That letter is in the Bible and is called "James."
+  * В период жизни Иисуса ни Иаков, ни его братья не верили, что Иисус был Мессией.
+  * Впоследствии, когда Иисус воскрес из мертвых, Иаков поверил в Него и стал лидером иерусалимской церкви.
+  * Он написал послание, адресованное христианам из других стран. Эта книга Библии получила название \"Послание Иакова\".
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:apostle]])
+(См. также: [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: =====
 
