@@ -1,13 +1,13 @@
 ====== магистрат, суд магистратов ======
 
-===== Definition: =====
+===== Определение: =====
 
-A magistrate is an appointed official who acts as a judge and decides matters of law.
+Магистрат - это назначенное официальное лицо, которое действует как судья и принимает решения относительно закона.
 
-  * In Bible times, a magistrate would also settle disputes between people.
-  * This term could be translated as, "judge" or "legal officer" or "official" or "ruler."
+  * В Библейские времена магистрат также разрешал спорные вопросы между людьми.
+  * Данный термин можно перевести как «судья» или «работник закона», «официальное лицо» или «правитель».
 
-(See also: [[:ru:obe:other:judgeposition]])
+(См. также: [[:ru:obe:other:judgeposition|судья]])
 
 ===== Bible References: =====
 
