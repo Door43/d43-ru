@@ -20,7 +20,6 @@
 
 (См. также: [[:ru:obe:kt:miracle|miracle, wonder, sign]], [[:ru:obe:kt:apostle|apostle, apostleship]], [[:ru:obe:kt:christ|Christ, Messiah]], [[:ru:obe:kt:covenant|covenant]], [[:ru:obe:kt:circumcise|circumcise, circumcision]])
 
-===== Ссылки в Библии:\\
-=====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?sign&nocomments}}~~DISCUSSION~~{{tag>publish}}
