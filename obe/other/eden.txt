@@ -11,8 +11,7 @@
 
 (Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-===== Ссылки в Библии:\\
-=====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?eden&nocomments}}~~DISCUSSION~~
 
