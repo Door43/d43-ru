@@ -2,15 +2,14 @@
 
 ===== Facts: =====
 
-These terms refer to the hard material covering the bottom of the feet of certain animals such as camels, cattle, deer, horses, donkeys, pigs, sheep, and goats.
+Данные термины относятся к уплотнению или затвердевшей коже, покрывающей нижнюю часть ступни определенных видов животных, таких как верблюды, крупный рогатый скот, олени, лошади, ослы, свиньи, овцы и козы.
 
-  * The hooves protect the feet when walking.
-  * God told the Israelites that animals which had split hooves and chewed a cud were considered clean to eat.
-  
+  * Копыто защищает стопы животных во время хождения.
+  * Бог сказал Израильтянам, что животные с раздвоенным копытом и жующие жвачку считаются чистыми для употребления в пищу.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(См.: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ru:obe:other:cow]], [[:ru:obe:other:ox]], [[:ru:obe:other:donkey]], [[:ru:obe:other:pig]], [[:ru:obe:other:sheep]], [[:ru:obe:other:goat]], [[:ru:obe:other:camel]])
+(См. также: [[:ru:obe:other:cow|корова, теленок, бык, крупный рогатый скот]], [[:ru:obe:other:ox|ox, oxen]], [[:ru:obe:other:donkey|donkey, mule]], [[:ru:obe:other:pig|pig, hog]], [[:ru:obe:other:sheep|овцы, овен, овца]], [[:ru:obe:other:goat|goat]], [[:ru:obe:other:camel|camel]])
 
 ===== Bible References: =====
 
