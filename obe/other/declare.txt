@@ -1,19 +1,19 @@
 ====== заявлять, заявление ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "declare" and "declaration" refer to making a formal or public statement, often to emphasize something.
+Термины «заявлять» и «заявление» относятся к формальной или публичной речи, часто произносимой для того, чтобы особо отметить что-либо.
 
-  * Many of the Bible's prophetic messages are recorded as God saying, "I declare," which means, "I emphatically say."
-  * A "declaration" calls attention to the importance of what is being proclaimed.
+  * Многие библейские пророчества начинаются с заявлений или провозглашений Бога: «Я провозглашаю!»
+  * «Заявление» привлекает внимание слушателей к важности того, что провозглашается.
 
-Translation Suggestions:
+Варианты перевода:
 
-  * Depending on the context, "declare" could also be translated as "proclaim" or "publicly state" or "strongly say" or "emphatically state."
-  * The term "declaration" could also be translated as, "statement" or "proclamation."
-  * The phrase, "this is Yahweh's declaration" could be translated as, "this is what Yahweh declares" or "this is what Yahweh says." 
+  * В зависимости от контекста, «заявлять» можно также перевести, как «провозглашать», «публично объявлять», «сильно утверждать» или «подчеркнуто заявлять».
+  * Термин «заявление» можно также перевести, как «объявление» или «провозглашение».
+  * Фразу «так заявляет Яхве» можно перевести, как «так провозглашает Яхве» или «так говорит Яхве».
 
-(See also: [[:En:obe:other:proclaim]])
+(См. также: [[:en:obe:other:proclaim|proclaim, proclamation]])
 
 ===== Bible References: =====
 
