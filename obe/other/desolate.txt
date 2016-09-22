@@ -1,13 +1,15 @@
 ====== опустошенный, опустошение ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "desolate" and "desolation" refer to destroying an inhabited region so that it becomes uninhabited. It also describes a state of loneliness and bereavement.
+Термины «опустошенный» и «опустошение» относятся к разрушению населенного региона до такой степени, что он становится незаселенным.
 
-  * If a field where crops are growing is made desolate, it means that something has destroyed the crops, such as insects or an invading army.
-  * A "desolate region" refers to an area of land where few or no people live, usually because there isn't much food or water there.
-  * If a city is made "desolate" it means that its buildings and goods have been destroyed or stolen, and its people have been killed or captured. The city becomes "empty."
-  * In general this term could be translated as "ruined" or "destroyed" or "laid waste."
+  * Когда этот термин относится к человеку, он означает состояние краха, одиночества и печали.
+  * Опустошение поля, на котором росли зерновые, означает разрушение зерновых какой-то силой, например, вредными насекомыми или вражеским войском.
+  * «Опустошенный регион» означает участок земли, на котором растут мало растений и живут мало людей.
+  * На «опустошенной земле» или в «пустыне» часто жили изгои (такие как прокаженные) и опасные звери.
+  * «Опустошение» города означает, что здания и имущество в данном городе были уничтожены или разграблены, а жители - убиты или взяты в плен. Такой город становится «пустым» или «разрушенным».
+  * В зависимости от контекста, этот термин можно также переводить, как «разрушение», «уничтожение», «запустение» или «изгнание и одиночество».
 
 ===== Bible References: =====
 
