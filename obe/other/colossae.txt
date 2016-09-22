@@ -1,18 +1,18 @@
 ====== Колоссы, колоссяне ======
 
-===== Facts: =====
+===== Факты: =====
 
-In New Testament times, Colossae was a city located in the Roman province of Phrygia, an area of land that is now southwestern Turkey. The Colossians were the people who lived in Colossae.
+В новозаветный период Колоссами назывался город, расположенный во Фригии - римской провинции, которая находилась на юго-западе современной Турции. Колоссянами называли жителей этого города.
 
-  * Located about 100 miles inland from the Mediterranean Sea, Colossae was situated along an important trade route between the city of Ephesus and the Euprates River.
-  * While in prison in Rome, Paul wrote the book called "Colossians," which was a letter to the believers at Colossae to correct false teachings.
-  * When he wrote this letter, Paul had not visited the church at Colossae but had heard about the believers there from his coworker, Epaphras.
-  * Epaphras was probably the Christian worker who started the church at Colossae.
-  * The book of Philemon was a letter by Paul addressed to a slave owner in Colossae.
+  * Расположенный приблизительно в 161км от Средиземного моря, город Колоссы находился вблизи важного торгового пути, пролегавшего между Ефесом и рекой Евфрат.
+  * Находясь в римской тюрьме, Павел написал \"Послание к колоссянам\" и адресовал его верующим в этом городе, чтобы искоренить проникшее в церковь лжеучение.
+  * Павел лично не посещал церковь, к которой обращался в письме, но много слышал о ее верующих от своего соработника Епафраса.
+  * Вероятнее всего, что Епафрас был основателем церкви в Колоссах.
+  * \"Послание к Филимону\" было обращено к рабовладельцу из Колосс.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[paul]], [[philemon]])
+(См. также: [[:ru:obe:other:paul|Павел, Савл]], [[:ru:obe:other:philemon|philemon]])
 
 ===== Bible References: =====
 
