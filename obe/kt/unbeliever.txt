@@ -7,12 +7,12 @@
   * В Библии «неверием» называется отсутствие веры в Иисуса и доверия к Нему как к Спасителю.
   * Человека, который не верит в Христа, называют «неверующим».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Other ways to translate "unbelief" could include, "lack of faith" or "not believing."
-  * The term "unbeliever" could be translated as "person who does not believe in Jesus" or "one who does not trust in Jesus as Savior."
+  * Иначе слово «неверие» можно перевести как «недостаток веры» или «неспособность верить».
+  * «Неверующий» может переводиться как «человек, который не верит в Иисуса» или «тот, кто не верит в Иисуса как в Спасителя».
 
-(See also: [[:ru:obe:kt:believer]], [[:ru:obe:kt:believe]])
+(См. также: [[:ru:obe:kt:believer|верующий]], [[:ru:obe:kt:believe|верить, веровать, вера]])
 
 ===== Bible References: =====
 
