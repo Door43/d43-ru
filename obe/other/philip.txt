@@ -1,16 +1,16 @@
 ====== Филипп (евангелист) ======
 
-===== Facts: =====
+===== Факты: =====
 
-In the early Christian church in Jerusalem, Philip was one of seven leaders chosen to care for the poor and needy Christians, especially the widows.
+В раннехристианской церкви в Иерусалиме Филипп был одним из семи дьяконов, избранных для попечения о бедных и нуждающихся, особенно о вдовах.
 
-  * God used Philip to share the gospel with people in many different towns in the provinces of Judea and Galilee, including an Ethiopian man he met on the desert road to Gaza from Jerusalem.
-  * Years later Philip was living in Caesarea when Paul and his companions stayed at his house on their way back to Jerusalem.
-  * Most Bible scholars think that Philip the evangelist was not the same man as Jesus' apostle by that name. Some languages may prefer to use slightly different spellings for the names of these two men to make it clear they are different men.
+  * Бог послал Филиппа проповедовать Евангелие разным народам, жившим в городах Иудеи и Галилеи; Филипп благовествовал ефиопу, которого встретил на пустынной дороге, ведущей из Газы в Иерусалим.
+  * Впоследствии он жил в Кесарии, и Павел вместе со своими спутниками останавливались у Филиппа, когда шли в Иерусалим.
+  * Большинство исследователей Библии сходятся во мнении, что евангелист Филипп и Апостол Филипп - два разных человека. В некоторых языках их имена могут произноситься по-разному, для того, чтобы было ясно, что речь идет о двух разных людях.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[philiptheapostle|Philip the apostle]])
+(См. также: [[:ru:obe:other:philiptheapostle|Philip the apostle]])
 
 ===== Bible References: =====
 
