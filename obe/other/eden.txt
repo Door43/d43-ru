@@ -1,16 +1,15 @@
 ====== Едем, Едемский сад ======
 
-===== Facts: =====
+===== Факты: =====
 
-Eden was a place that existed in ancient times that had a garden where God placed the first man and woman to live.
+Едем был местом, существовавшим в древние времена, где был расположен сад и куда Бог поместил первых мужчину и женщину.
 
-  * The garden was only part of the region called "Eden".
-  * The exact location of the region of Eden is not certain.
-  * The garden is also called the "garden of Yahweh."
-  * The word "Eden" comes from a Hebrew word meaning "to take great delight in".
+  * Сад был всего лишь частью региона, носившего название Едем.
+  * Его точное местонахождение не ясно.
+  * Этот сад еще назывался \"садом Яхве\".
+  * Слово \"Едем\" происходит от еврейского слова \"наслаждение\".
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
