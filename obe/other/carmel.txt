@@ -1,16 +1,16 @@
 ====== Кармил, гора Кармил ======
 
-===== Facts: =====
+===== Факты: =====
 
-"Mount Carmel" refers to a mountain range that was located in the kingdom of Judah along the coast of the Mediterranean sea. The town of Carmel was located in this mountain range.
+\"Гора Кармил\" - это обозначение цепи гор, расположенных в Иудее вдоль побережья Средиземного моря. Город Кармил находился среди этой горной гряды.
 
-  * The name "Carmel" literally means, "God's vineyard."
-  * This 12-mile long mountain range and its valleys had soil that was very fertile.
-  * On Mount Carmel, Elijah challenged the prophets of Baal to a contest on in order to prove that Yahweh is the only true God.
+  * В буквальном смысле слово \"Кармил\" означает \"Божий виноградник\".
+  * Кармил - это горная гряда, протяженностью 19 км с очень плодородными долинами.
+  * Именно на этой горе пророк Илия бросил вызов пророкам Ваала и доказал, что Яхве есть единственный истинный Бог.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:Elijah]], [[:ru:obe:other:Baal]])
+(См. также: [[:ru:obe:other:elijah|Илия]], [[:ru:obe:other:baal|Ваал]])
 
 ===== Bible References: =====
 
