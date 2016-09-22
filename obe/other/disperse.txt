@@ -1,15 +1,14 @@
 ====== рассеивать, рассеяние ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "disperse" and  "dispersion" refer to people or things that are scattered in many different directions.
+Термины «рассеивать» и «рассеяние» относятся к людям или вещам, разбросанным или размещенным во многих разных направлениях.
 
-  * In the New Testament, this term refers specifically to persecuted Christians who had to leave their homes and move to many different locations.
-  * The phrase "the dispersion" could be translated as "believers in many different places" or "the people who are scattered"
-  * The term "disperse" could be translated as, "send out" or "send away" or "scatter."
-  
+  * В Новом Завете этот термин относится особо к гонимым христианам, которые оставили свои дома и расселились по многим разным местам.
+  * Фразу «рассеяние» можно перевести, как «верующие во многих разных местах» или «люди, которые расселились по разным местам».
+  * Термин «рассеивать» можно перевести, как «разбрасывать», «рассылать» или «размещать».
 
-(See also: [[:ru:obe:other:persecute]], [[:ru:obe:kt:believer]])
+(См. также: [[:ru:obe:other:persecute|преследование, преследовать]], [[:ru:obe:kt:believer|верующий]])
 
 ===== Bible References: =====
 
