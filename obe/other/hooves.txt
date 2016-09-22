@@ -7,7 +7,7 @@
   * Копыто защищает стопы животных во время хождения.
   * Бог сказал Израильтянам, что животные с раздвоенным копытом и жующие жвачку считаются чистыми для употребления в пищу.
 
-(См.: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
 (См. также: [[:ru:obe:other:cow|корова, теленок, бык, крупный рогатый скот]], [[:ru:obe:other:ox|ox, oxen]], [[:ru:obe:other:donkey|donkey, mule]], [[:ru:obe:other:pig|pig, hog]], [[:ru:obe:other:sheep|овцы, овен, овца]], [[:ru:obe:other:goat|goat]], [[:ru:obe:other:camel|camel]])
 
