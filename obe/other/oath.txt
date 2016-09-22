@@ -1,15 +1,16 @@
 ====== клятва, божба, клясться ======
 
-===== Definition: =====
+===== Определение: =====
 
-In the Bible, an oath is a formal promise to do something. It can also be an emphatic promise to tell the truth. The term "swear" means to say an oath.
+В Библии клятвой называется официальное обещание что-то сделать. Давший клятву, обязуется исполнить то, что было обещано.
 
-  * Sometimes these two terms are used together as in, "swear an oath."
-  * Abraham and Abimelech swore an oath, or promise, when they made a covenant together concerning the use of a well.
-  * Abraham told his servant to swear that he would find Isaac a wife from among Abraham's relatives.
-  * God also made oaths in which he made promises to his people.
-  * An oath was binding on the one making the oath.
-  * A modern-day use of the word "swear" means to use foul language. This is not its meaning in the Bible.
+  * В Библии понятие «клясться» означает «произнести клятву».
+  * «Клясться кем-то» - значит использовать имя кого-то или чего-то как принцип или силу, на основании которых совершается данная клятва.
+  * Иногда эти понятия употребляются вместе: «клясться и божиться».
+  * Авраам и Авимелех дали клятву, когда заключали соглашение о пользовании колодцем.
+  * Авраам взял со своего слуги клятву (официальное обещание), чтобы тот выбрал жену для Исаака из рода Авраамова.
+  * Бог тоже давал клятвы народу, в которых что-то обещал израильтянам.
+  * В наши дни слово \"клясть\" употребляется в смысле \"использовать нецензурную речь\". Но в таком значении это понятие в Библии не встречается.
 
 ===== Translation Suggestions: =====
 
