@@ -1,13 +1,12 @@
 ====== Я, Яхве ======
 
-===== Definition: =====
+===== Определение: =====
 
-Many times in the Old Testament, when God is speaking about himself, he uses his name instead of a pronoun.
+Когда Бог говорил о Себе в Ветхом Завете, Он очень часто вместо местоимения использовал Свое имя.
 
-  * For example, instead of saying, "Honor me," he says, "Honor Yahweh." 
-  * To make it clear that God is the one talking about himself, the ULB often translates this by adding a pronoun such as in, "Honor me, Yahweh" or "I, Yahweh say."
-  * By adding the pronoun "I" or "me," the ULB indicates to the reader that God is the speaker.
-
+  * Например, Он не говорил \"чти Меня\", но \"чти Яхве\".
+  * Чтобы было понятно, что Бог говорит о Себе, в \"Открытой дословной Библии\" часто дается перевод, где добавляется местоимение: \"Чти Меня, Яхве...\" или \"Я, Яхве, говорю...\"
+  * Благодаря тому, что в \"Открытой точной Библии\" присутствуют местоимения \"Я\", \"Меня\", читателю становится понятно, что эти слова произносит Сам Бог.
 
 ===== Translation Suggestions: =====
 
