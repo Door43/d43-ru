@@ -1,17 +1,16 @@
 ====== провозглашать, провозглашение ======
 
-===== Definition: =====
+===== Определение: =====
 
-\\
-To proclaim is to announce or declare something publicly and boldly.
+Провозглашать - значит публично и смело что-то объявлять или заявлять о чем-либо.
 
-  * Often in the Bible, "proclaim" means to announce publicly something that God has commanded, or to tell others about God and how great he is.
-  * In the New Testament, the apostles proclaimed the good news about Jesus to many people in many different cities and regions.
-  * The term “proclaim” can also be used for decrees made by kings or for denouncing evil in a public way.
-  * Other ways to translate "proclaim" could include "announce" or "openly preach" or "publicly declare."
-  * The term "proclamation" could also be translated as, "announcement" or "public preaching."
+  * Часто в Библии слово «заявлять» употребляется в смысле «публично заявлять Божье повеление» или «рассказывать окружающим о Боге и о Его величии».
+  * В Новом Завете Апостолы провозглашали добрую весть об Иисусе народам из разных городов и областей.
+  * Понятие «провозглашать» может употребляться еще и тогда, когда речь идет об указах, изданных царями, или о публичном предсказании какого-либо несчастья.
+  * Иначе слово «провозглашать» можно перевести как «объявлять», «открыто проповедовать» или «публично заявлять».
+  * Слово «провозглашение» может быть переведено как «объявление» или «публичное проповедование».
 
-(See: [[:ru:obe:other:preach]])
+(См.: [[:ru:obe:other:preach|проповедовать]])
 
 ===== Bible References: =====
 
