@@ -8,21 +8,20 @@
   * Чтобы было понятно, что Бог говорит о Себе, в \"Открытой дословной Библии\" часто дается перевод, где добавляется местоимение: \"Чти Меня, Яхве...\" или \"Я, Яхве, говорю...\"
   * Благодаря тому, что в \"Открытой точной Библии\" присутствуют местоимения \"Я\", \"Меня\", читателю становится понятно, что эти слова произносит Сам Бог.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Some translators may decide it is natural and clear in their language to simply follow the literal text and use "Yahweh" with no pronoun added.
-  * Some may decide to use a pronoun with Yahweh only a few times at the beginning or occasionally in a particular portion of text, but then omit the pronoun in the rest of that section. An ULB example of this is Deuteronomy 5:9-16.
-  * It is best if possible to keep the name Yahweh where it literally occurs in the text, but some translations may decide to use only a pronoun in some places, to make the text more natural and clear.
-  * This is a summary of possible ways to translate "Yahweh" when God is talking:
-    * "Yahweh" (literal)        
-    * "I, Yahweh" (or "me, Yahweh")
-    * "I" (or "me") 
-    * Introduce the quote with something like, "This is what Yahweh says."
-  * Another option would be to only add the pronoun occasionally, but not at every occurrence. 
-  * Whatever way of translating this is used, the translation of this phrase should sound natural in the language and should make it clear that Yahweh is talking about himself.                     
+  * Некоторые переводчики могут решить, что их перевод будет более понятным и благозвучным, если не добавлять никаких местоимений к слову «Яхве».
+  * Другие же посчитают необходимым использовать местоимения со словом «Яхве» лишь в некоторых случаях: в начале фразы, иногда - в какой-то определенной части текста, а затем опускать эти местоимения в остальной части текста. Подобный пример содержится в \"ОТБ\" во Второзаконии 5:9-16.
+  * Лучше всего оставлять слово «Яхве» в тех местах, где оно встречается в тексте, но, в некоторых случаях, можно заменять его местоимениями для того, чтобы текст стал более понятным и благозвучным.
+  * Там, где Бог говорит о Себе, слово «Яхве» может быть переведено следующими способами:
+      * «Яхве» (буквально).
+      * «Я, Яхве»
+      * «Я»
+      * Снабдите цитату словами: \"Вот, что говорит Яхве\".
+  * Также можно время от времени (но не постоянно) добавлять в текст местоимение.
+  * Данная фраза должна быть благозвучной, также должно быть ясно, что Яхве говорит о Себе Самом.
 
-
-(See also: [[:ru:obe:kt:yahweh]])
+(См. также: [[:ru:obe:kt:yahweh|Сущий, Иегова]])
 
 ===== Bible References: =====
 
