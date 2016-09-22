@@ -1,18 +1,18 @@
 ====== Коринф, коринфяне ======
 
-===== Facts: =====
+===== Факты: =====
 
-Corinth was a city in Greece about 50 miles west of Athens. The Corinthians were the people who lived at Corinth.
+Коринф был греческим городом, находившемся в 80 км западнее Афин. Коринфянами называли жителе Коринфа.
 
-  * Corinth was the location of one of the early Christian churches.
-  * The New Testament books, 1 Corinthians and 2 Corinthians were written to the church at Corinth.
-  * On his first missionary journey, Paul stayed in Corinth for approximately 18 months.
-  * Paul met Aquila and Priscilla while in Corinth.
-  * Other early church leaders associated with Corinth include Timothy, Titus, Apollos, and Silas.
+  * Одна из самых ранних церквей была основана именно в этом городе.
+  * Ей были адресованы первое и второе послания к Коинфянам.
+  * В ходе своего первого миссионерского путешествия Павел пробыл в Коринфе около 18 месяцев.
+  * Там он встретил Акилу и Прискиллу.
+  * Другими лидерами ранней церкви, связанные с Коринфом, были Тимофей, Тит, Аполлос и Сила.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[aquila|Aquila]], [[priscilla|Priscilla]], [[paul|Paul]], other)
+(См. также: [[:ru:obe:other:aquila|Aquila]], [[:ru:obe:other:priscilla|Priscilla]], [[:ru:obe:other:paul|Paul]], other)
 
 ===== Bible References: =====
 
