@@ -1,16 +1,16 @@
 ====== подтверждать, утверждать, подтверждение ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "confirm" and "confirmation" refer to stating or verifying that something is true or sure or trustworthy.
+Термины «подтверждать» и «подтверждение» означают утверждение или удостоверение в том, что что-либо является истинным, верным или надежным.
 
-  * In the Old Testament, God tells his people that he will "confirm" his covenant with them. He will show that he can be trusted to keep the promises he made in that covenant.
-  * To confirm someone as king means to agree with and support that person as king.
-  * To confirm what someone wrote means to say that what was written is true.
-  * The "confirmation" of the gospel means teaching people about the good news of Jesus in such a way that it shows that it is true.
-  * To give an oath "as confirmation" means to solemnly state or swear that something is true or trustworthy.
+  * В Ветхом Завете Бог говорит Своему народу, что Он «подтвердит» Свой завет с ними. Он покажет им, что Ему можно доверять, что Он исполнит обещания, которые Он дал в этом завете.
+  * Утверждать кого-либо как царя означает соглашаться с тем, что он - царь, и поддерживать его.
+  * Подтверждать то, что кто-то написал, означает сказать, что написанное им - правда.
+  * «Подтверждение» Евангелия означает изложение Благой Вести Иисуса таким образом, чтобы было ясно видно, что оно есть истина.
+  * Клясться «в подтверждение» означает торжественно утверждать, что что-то является правдой и истиной.
 
-(See also: [[:ru:obe:kt:trust]], [[:ru:obe:other:oath]], [[:ru:obe:kt:covenant]])
+(См. также: [[:ru:obe:kt:trust|доверять, надежный, надежность]], [[:ru:obe:other:oath|oath, swear]], [[:ru:obe:kt:covenant|завет]])
 
 ===== Bible References: =====
 
