@@ -1,16 +1,17 @@
 ====== властелин, правители, править ======
 
-===== Definition: =====
+===== Определение: =====
 
-A ruler is a general term for someone who has dominion or authority over other people, such as a leader of a country, kingdom, or religious group.
+Властелин - это основное понятие, обозначающее человека, который имеет власть над людьми (например, руководитель страны, царства или религиозной группы).
 
-  * In the Old Testament, a king was often referred to with the term "ruler" as in the phrase, "appointed him ruler over Israel."
-  * God is referred to as the ultimate ruler, who rules over all other rulers.
-  * In the New Testament, the leader of a synagogue was called a "ruler."
-  * A type of government ruler in the New Testament was a "governor."
-  * Depending on the context, "ruler" could be translated as "leader" or "person who has authority over."
+  * В Ветхом Завете царя часто называли «властелином», например, в таком выражении, как «назначил им властелина над Израилем».
+  * О Боге говорится как о верховном Властелине, Который является Господом всех господствующих.
+  * В Новом Завете руководителей синагог называли «начальниками».
+  * Одним из государственных служащих времен Нового Завета был «наместник».
+  * В зависимости от контекста, слово «властелин» может переводиться как «начальник» или «человек, имеющий власть над».
+  * «Править» - значит «руководить» или «иметь власть над». Часто синонимом этого понятия является слово «царствовать», когда речь идет о правлении царя.
 
-(See also: [[:En:obe:other:king]], [[:ru:obe:other:governor]], [[:ru:obe:other:synagogue]] )
+(См. также: [[:en:obe:other:king|king]], [[:ru:obe:other:governor|governor, govern]], [[:ru:obe:other:synagogue|synagogue]] )
 
 ===== Bible References: =====
 
