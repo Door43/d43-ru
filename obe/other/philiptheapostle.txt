@@ -1,17 +1,17 @@
 ====== Филипп (Апостол) ======
 
-===== Facts: =====
+===== Факты: =====
 
-Philip, the apostle, was one of the original twelve disciples of Jesus.
+Филипп (Апостол) был одним из двенадцати учеников Иисуса.
 
-  * Philip was from the town of Bethsaida; he introduced Nathanael to Jesus.
-  * Once Jesus questioned Philip about how to provide food for a crowd of over 5,000 people.
-  * At the last Passover supper that Jesus ate with his disciples, he talked to them about God, his Father. Philip asked Jesus to show them the Father.
-  * Some languages may prefer to spell this Philip's name in a different way from the other Philip (the evangelist) to avoid confusion.
+  * Он родился в Вифсаиде; именно он привел Нафанаила к Иисусу.
+  * Иисус спросил Филиппа, как где взять еды, чтобы накормить пятитысячную толпу.
+  * На последней вечере, когда Иисус ужинал со Своими учениками, Он рассказывал им о Боге - Отце. Филипп попросил Христа показать ученикам Отца.
+  * Чтобы не спутать Апостола Филиппа с другими персонажами Библии, имеющими аналогичное имя (например, с евангелистом Филиппом), их имена могут произноситься по-разному.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[philip|Philip the evangelist]])
+(См. также: [[:ru:obe:other:philip|Philip the evangelist]])
 
 ===== Bible References: =====
 
