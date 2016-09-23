@@ -1,16 +1,16 @@
 ====== Эфиопия, эфиоплянин ======
 
-===== Facts: =====
+===== Факты: =====
 
-Ethiopia was a country in Africa located just south of Egypt, bordered by the Nile River to the west and by the Red Sea to the east.
+Эфиопия - страна в Африке, расположенная на юге от Египта, западная граница которой проходит по реке Нил, а восточная - по Красному морю. Жителей Эфиопии называют «эфиоплянами».
 
-  * Ancient Ethiopia covered an area which included land that is now part of several modern-day African countries.
-  * Ethiopia is sometimes called "Cush" or "Nubia."
-  * The countries of Ethiopia and Egypt were often closely associated in the Bible.
+  * Древняя Эфиопия располагалась на юге от Египта и включала в себя земли, в настоящее время входящие в ряд современных африканских стран, таких как Судан, современная Эфиопия, Сомалия, Кения, Уганда, Центральноафриканская Республика и Чад.
+  * В Библии Эфиопия иногда называется именем «Куш» или «Нубия».
+  * Страны Эфиопии («Куша») и Египта часто упоминаются в Библии вместе, возможно потому, что они были расположены рядом, и у их народов было похожее наследие.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: Cush, Egypt other)
+(См. также: Cush, Egypt other)
 
 ===== Bible References: =====
 
