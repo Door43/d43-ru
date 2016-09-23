@@ -21,8 +21,10 @@
 
 (См.: [[:ru:obe:kt:witness|witness, eyewitness]], [[:ru:obe:other:arkofthecovenant|ark of the covenant, ark of the covenant decrees]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?testimony&nocomments}}~~DISCUSSION~~{{tag>publish discuss}
+{{topic>:en:bible?testimony&nocomments}}~~DISCUSSION~~
+
+{{tag>publish discuss}
 
 ~~NOCACHE~~
