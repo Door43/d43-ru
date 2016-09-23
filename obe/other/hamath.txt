@@ -1,16 +1,19 @@
 ====== Емаф, Имаф, Хамат, Лево-Хамат ======
 
-===== Facts: =====
+===== Факты: =====
 
-Hamath was an Old Testament Hittite city in northern Syria. The city was located in the region of Hamath north of the land of Canaan.
+Емаф или Имаф был важным городом, расположенным в северной Сирии, на севере земли Ханаанской. Современное название города - Хамат.
 
-  * King David had favorable relations with the king of Hamath.
-  * Hamath was said to be one of Solomon's storehouse cities where provisions were kept.
-  * The land of Hamath was where King Nebuchadnezzar of Babylon had King Zedekiah killed.
+  * Название Лево-Хамат вероятно относится к горному проходу близ города Хамата.
+  * В синодальном переводе «Лево-Хамат» иногда переводится, как «вход в Емаф».
+  * «Химареи» были потомками Ноева сына Хама и Ноева внука Ханаана.
+  * Царь Давид поразил врагов Фоя или Тоя, царя Имафа, и это привело к тому, что между ними сложились добрые отношения.
+  * Емаф был одним из городов-хранилищ Соломона, где он хранил запасы продовольствия.
+  * В стране Емафа царь Навуходоносор убил царя Седекию, а египетский фараон взял в плен царя Иоахаза.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:nebuchadnezzar]], [[:ru:obe:other:babylon]], [[:ru:obe:other:canaan]], [[:ru:obe:other:syria]], [[:ru:obe:other:hittite]])
+(См. также: [[:ru:obe:other:nebuchadnezzar|Навуходоносор]], [[:ru:obe:other:babylon|Вавилон, вавилоняне]], [[:ru:obe:other:canaan|Ханаан, Хананей]], [[:ru:obe:other:syria|Syria]], [[:ru:obe:other:hittite|Хеттеянин]])
 
 ===== Bible References: =====
 
