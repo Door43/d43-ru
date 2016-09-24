@@ -10,9 +10,11 @@
   * Иоанна назвали «Иоанном Крестителем», потому что он крестил многих людей.
   * Удостоверьтесь, что читатели понимают слово «креститель» («баптист») не как что-то, имеющее отношение к «баптистской церкви». Возможно, следует сказать не «Иоанн Креститель», а «Иоанн Крестящий».
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода:
+ [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]]
+)
 
-(See also: [[:en:obe:kt:baptize|baptize, baptism]], [[:ru:obe:other:zechariahnt|Zechariah (NT)]])
+(См. также: [[:en:obe:kt:baptize|baptize, baptism]], [[:ru:obe:other:zechariahnt|Zechariah (NT)]])
 
 ===== Bible References: =====
 
