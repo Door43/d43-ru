@@ -7,14 +7,14 @@
   * В Библии термин «превозносить» чаще всего употребляется по отношению к Богу.
   * Когда человек превозносится, это значит, что он думает о себе гордо или надменно.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Ways to translate "exalt" could include, "highly praise," "honor greatly," "extol," or "speak highly of."
-  * In some contexts, it could be translated by a word or phrase that means, "put in a higher position" or "give more honor to" or "talk about proudly."
-  * "Do not exalt yourself" could also be translated as "Do not think of yourself too highly" or "Do not brag about yourself."
-  * "Those that exalt themselves" could also be translated as "Those who think proudly about themselves" or "Those who boast about themselves"
+  * «Превозносить» можно перевести, как «хвалить», «восхвалять», «прославлять», «возвеличивать».
+  * В некоторых контекстах это можно перевести словом или фразой, означающими «ставить в высокое положение», «оказывать больше чести» или «гордо отзываться о...»
+  * «Не превозноситесь» можно также перевести, как «Не будьте о себе слишком высокого мнения» или «Не хвалитесь о себе».
+  * «Превозносящиеся» можно также перевести, как «Гордящиеся собой» или «Хвалящиеся собой».
 
-(See also: [[:ru:obe:other:praise]], [[:ru:obe:kt:worship]], [[:ru:obe:kt:glorify]], [[:ru:obe:kt:boast]], [[:ru:obe:other:proud]])
+(См. также: [[:ru:obe:other:praise|хвала]], [[:ru:obe:kt:worship|поклоняться]], [[:ru:obe:kt:glorify|glorify]], [[:ru:obe:kt:boast|boast, boastful]], [[:ru:obe:other:proud|гордый, гордость, гордиться]])
 
 ===== Bible References: =====
 
