@@ -8,16 +8,16 @@
   * Выражение «отец...» может образно относиться к вождю или зачинателю чего-либо. Например, в 4-й главе книги Бытия «отец всех, живущих в шатрах» может означать «племенного вождя первых людей, живших в шатрах».
   * Апостол Павел образно называл себя «отцом» тех, кому он рассказал Евангелие и привел к христианской вере.
 
-===== Translation Suggestions =====
+===== Варианты перевода: =====
 
-  * When talking about a father and his literal son, this term should be translated using the usual term to refer to a father in the language.
-  * "God the Father" should also be translated using the usual, common word for "father."
-  * When referring to forefathers, this term could be translated as "ancestor" or "ancestral father."
-  * When Paul refers to himself figuratively as a father to believers in Christ, this could be translated as "spiritual father" or "father in Christ."
-  * Sometimes the word "father" can be translated as "clan leader."
-  * The phrase "father of all lies" could be translated as, "source of all lies" or "the one from whom all lies come."
+  * Когда речь идет об отце и сыне в буквальном смысле, этот термин следует переводить с помощью обычного термина, которым обозначается отец в данном языке.
+  * «Бог Отец» тоже нужно переводить с помощью обычного слова «отец».
+  * Когда речь идет о предках, этот термин можно перевести, как «прародитель» или «отец рода».
+  * Когда Павел образно называет себя отцом верующих во Христа, это можно перевести, как «духовный отец» или «отец во Христе».
+  * Иногда слово «отец» можно перевести, как «племенной вождь».
+  * Фразу «отец всей лжи» можно перевести, как «источник всей лжи» или «тот, от которого исходит вся ложь».
 
-(See also: [[en:obe:kt:godthefather]], [[:ru:obe:kt:son]], [[:ru:obe:kt:sonofgod]])
+(См. также: [[:en:obe:kt:godthefather|God the Father, heavenly Father, Father]], [[:ru:obe:kt:son|сын]], [[:ru:obe:kt:sonofgod|Божий Сын, Сын]])
 
 ===== Bible References: =====
 
