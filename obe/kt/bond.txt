@@ -24,11 +24,9 @@
   * «Перевязывать» означает «бинтовать».
   * «Связывать» себя клятвой можно перевести, как «обещать исполнить клятву» или «обязаться исполнить клятву».
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?bond&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?bond&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
