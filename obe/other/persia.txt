@@ -1,15 +1,15 @@
 ====== Персия, персы ======
 
-===== Definition: =====
+===== Определение: =====
 
-Persia was an empire founded by Cyrus the Great in 550 BC. Its center was located in what is now the modern-day country of Iran. The people of Persia are called "Persians."
+Персия была империей, основанной Киром Великим в 550 г. до н. э. Ее центр находился на территории современного Ирана. Жителей этого государства называли \"персами\".
 
-  * The Persian Empire was very large and powerful.
-  * Under King Cyrus' decree, the Jews were liberated from captivity in Babylon, and the temple in Jerusalem was rebuilt, with funds provided by the Persian Empire.
-  * King Artaxerxes was the ruler of the Persian Empire when Ezra and Nehemiah went back to Jerusalem to rebuild the walls of Jerusalem.
-  * Esther became a queen of the Persian empire when she married King Ahasuerus.
+  * Персидская империя была пространным и могущественным государством.
+  * По приказу Кира евреи были освобождены из вавилонского плена, им были выделены средства на восстановление иерусалимского храма.
+  * Когда правителем империи был Артаксеркс, Ездра и Неемия отправились в Иерусалим для восстановления городской стены.
+  * Есфирь стала царицей Персии, когда вышла замуж за царя Артаксеркса (Ахашвероша).
 
-(See also: [[ezra]], [[nehemiah]], [[:ru:bible:notes:key=terms:esther]])
+(См. также: [[:ru:obe:other:ezra|Ezra]], [[:ru:obe:other:nehemiah|Nehemiah]], [[:ru:bible:notes:key-terms:esther|esther]])
 
 ===== Bible References: =====
 
