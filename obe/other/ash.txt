@@ -13,11 +13,9 @@
 
 (См. также: [[:ru:obe:other:sackcloth|sackcloth]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?ash&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?ash&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
