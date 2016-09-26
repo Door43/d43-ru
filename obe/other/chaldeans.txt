@@ -10,7 +10,7 @@
   * Спустя десять лет после захвата Иерусалима, Вавилонский царь Навуходоносор разрушил иерусалимский храм.
   * Людей, которые населяли Вавилонию, до сих пор иногда называют халдеями.
 
-(Варианты перевода: [[:en:ta:vol1:translate:translate_names|Перевод имен собственных]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 (См. также: [[:ru:obe:other:babylon|Babylon]], [[:ru:obe:other:ur|Ur]], [[:en:obe:other:abraham|Abraham]], [[:ru:obe:other:shinar|Shinar]] )
 
