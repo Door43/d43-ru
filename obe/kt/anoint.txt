@@ -21,7 +21,7 @@
 
 (См. также: [[:ru:obe:kt:christ|Христос, Мессия]], [[:ru:obe:kt:prophet|пророк, пророчество, пророчествовать, провидец, пророчица]], [[:ru:obe:kt:kingofthejews|Царь иудейский]], [[:ru:obe:kt:priest|священник, священство]], [[:ru:obe:kt:highpriest|первосвященник]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?anoint&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
