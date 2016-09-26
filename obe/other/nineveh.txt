@@ -1,17 +1,16 @@
 ====== Ниневия, ниневитяне ======
 
-===== Facts: =====
+===== Факты: =====
 
+Ниневия была столицей Ассирии. Ниневитянами называли жителей Ниневии.
 
-Nineveh was the capital city of Assyria.  A Ninevite was a person who lived in Nineveh.
+  * Бог послал для этого города пророка Иону, чтобы он обличил ее жителей во зле. Люди покаялись, и Бог не разрушил Ниневию.
+  * Но впоследствии ассирийцы перестали повиноваться Богу. Они захватили Израиль и увели его жителей в плен.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-    * God sent the prophet Jonah to warn the Ninevites to turn from their wicked ways. They did, and God did not destroy them.
-    * The Assyrians later stopped serving God. They conquered the kingdom of Israel and carried the people away to Nineveh.
+(См. также: [[:ru:obe:other:assyria|Ассирия, ассирийцы, Ассирийская империя, Асур]], [[:ru:obe:other:jonah|Jonah]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[assyria]], [[jonah]])
 ===== Bible References: =====
 
  
