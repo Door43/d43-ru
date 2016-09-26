@@ -8,13 +8,13 @@
   * Согласно Новому Завету, единственно истинное и неизменное искупление за грех произошло посредством смерти Христа на кресте.
   * Когда Иисус умер, Он взял на Себя наказание, которого заслуживали люди за свой грех. Он заплатил цену искупления Своей жертвенной смертью.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "atone" could be translated as "pay for" or "make restitution for."
-  * Ways to translate "atonement" could include, "restitution" or "restoration" or "payment."
-  * Make sure the translation of this term does not refer to payment of money.
+  * Термин «искупать» можно перевести словом или фразой, означающей «заплатить», «обеспечить плату за...», «произвести прощение грехов кого-либо» или «возместить ущерб за преступление».
+  * «Искупление» можно перевести следующими способами: «плата», «жертва для оплаты за грех» или «обеспечение средства прощения».
+  * Удостоверьтесь в том, чтобы перевод этого термина не относился к денежной плате.
 
-(See also: [[:En:obe:kt:propitiation]], [[:En:obe:kt:forgive]], [[:ru:obe:kt:reconcile]], [[atonementlid]], [[:ru:obe:kt:redeem]])
+(См. также: [[:en:obe:kt:propitiation|propitiation]], [[:en:obe:kt:forgive|forgive, forgiveness]], [[:ru:obe:kt:reconcile|примирять, примирение]], [[:ru:obe:kt:atonementlid|atonement lid]], [[:ru:obe:kt:redeem|искупать, искупление, искупитель]])
 
 ===== Bible References: =====
 
