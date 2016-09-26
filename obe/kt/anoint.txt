@@ -12,13 +12,14 @@
   * Титулы «Мессия» (по-еврейски) и «Христос» (по-гречески) означают «Помазанник».
   * Иисус Мессия - избранный и помазанный Пророком, Первосвященником и Царем.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, the term "anoint" could be translated as "pour oil on" or "put oil on" or "consecrate by pouring perfumed oil on."
-  * To "be anointed" could be translated as "be consecrated with oil."
-  * A phrase like "the anointed priest," could be translated as "the priest who was consecrated with oil" or " the priest who was set apart by the pouring on of oil."
+  * В зависимости от контекста, термин «помазывать» можно перевести, как «вылить масло на...», «помазать маслом» или «посвятить, вылив ароматное масло на...».
+  * «Быть помазанным» можно перевести, как «быть посвященным посредством масла», «быть назначенным» или «быть посвященным».
+  * В некоторых контекстах термин «помазывать» можно перевести, как «назначать».
+  * Фразу «помазанный священник» можно перевести, как «священник, посвященный посредством масла» или «священник, отделенный путем возлияния масла».
 
-(See also: [[:ru:obe:kt:christ|]], [[:ru:obe:kt:prophet]], [[:ru:obe:kt:kingofthejews]], [[:ru:obe:kt:priest]], [[:ru:obe:kt:highpriest]])
+(См. также: [[:ru:obe:kt:christ|Христос, Мессия]], [[:ru:obe:kt:prophet|пророк, пророчество, пророчествовать, провидец, пророчица]], [[:ru:obe:kt:kingofthejews|Царь иудейский]], [[:ru:obe:kt:priest|священник, священство]], [[:ru:obe:kt:highpriest|первосвященник]])
 
 ===== Bible References: =====
 
