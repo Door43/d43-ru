@@ -13,12 +13,13 @@
   * Термин «двор» также может обозначать место, где судьи выносят судебные решения, - суд.
 
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "courtyard" could be translated as "enclosed space" or "walled-in land" or "temple grounds" or "temple enclosure."
-  * Sometimes the term "temple" may need to be translated as "temple courtyards" or "temple complex." so that it is clear that the courtyards are being referred to, not the temple building.
+  * Термин «внутренний двор» можно перевести, как «загороженный участок», «земля, огороженная стеной», «храмовая территория» или «храмовое ограждение».
+  * Иногда бывает необходимо переводить термин «храм», как «внутренние дворы храма» или «храмовое сооружение», чтобы было ясно, что речь идет не о самом здании храма, а о дворах.
+  * Выражение «дворы Яхве» можно перевести, как «место, где живет Яхве» или «место, где люди поклоняются Яхве».
 
-(See also: [[:ru:obe:kt:temple]], [[:ru:obe:kt:tabernacle]], [[:ru:obe:other:gentile]])
+(См. также: [[:ru:obe:kt:temple|Храм]], [[:ru:obe:kt:tabernacle|tabernacle]], [[:ru:obe:other:gentile|Gentile]])
 
 ===== Bible References: =====
 
