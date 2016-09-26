@@ -12,15 +12,8 @@
 
 (См. также: [[:en:obe:other:canaan|Canaan, Canaanite]], [[:en:obe:other:noah|Noah]], [[:ru:obe:other:tyre|Tyre]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?Sidon&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?Sidon&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
