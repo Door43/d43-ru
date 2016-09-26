@@ -1,15 +1,16 @@
 ====== молотить, молотьба ======
 
-===== Definition: =====
+===== Определение: =====
 
-Threshing is the process of separating wheat grain from the rest of the wheat plant. 
+«Молотьба» - это процесс отделения пшеничных зерен от стебля и шелухи.
 
-  * Plants to be threshed were first beaten (or trampled by oxen) to separate the straw from the grain and the chaff. Then the grain and chaff were tossed into the air, allowing the wind to blow the chaff away while the grain fell back down on the threshing floor.
-  * A "threshing floor" is large, solid, flat area that is set aside for that purpose. 
-  * In biblical times, threshing floors were made of a large flat rock or packed down dirt, giving a hard, level surface to collect the threshed grain.
+  * Растение, которое подвергается молотьбе, сначала бьют (или оно топчется быками) для отделения от него соломы (мякины). Зерно и мякина подбрасываются в воздухе, а ветер уносит солому тогда, когда зерно падает на ток.
+  * Ток (гумно) - это пространное, твердое, плоское место, используемое для молотьбы пшеницы.
+  * В библейские времена гумно представляло собой большой плоский камень или хорошо утоптанное место с твердой плоской поверхностью, об которую разбивались стебли пшеницы для извлечения из них зерна.
+  * «Молотильная повозка» или «молотильный камень» использовался для дробления колосьев и отделения мякины от зерен.
+  * Для выколачивания зерна использовались также «молотильные сани» или «молотильные доски». Они изготавливались из деревянных досок с металлическими шипами на конце.
 
-(See also: [[chaff]], [[grain]])
-
+(См. также: [[:ru:obe:other:chaff|chaff]], [[:ru:obe:other:grain|grain]])
 
 ===== Bible References: =====
 
