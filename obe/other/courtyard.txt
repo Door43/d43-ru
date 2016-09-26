@@ -1,17 +1,22 @@
 ====== двор, внутренний двор ======
 
-===== Definition: =====
+===== Определение: =====
 
-A courtyard is an enclosed area that is surrounded by a building or walls. It has no roof, but rather is open to the sky.
+Двором называется загороженная территория, окружённая зданием или стенами. Над ней сверху нет крыши, она находится под открытым небом. Термин «двор» также относится ко внутреннему двору.
 
-  * The Old Testament tabernacle was surrounded by one courtyard, enclosed by walls made of thick, cloth curtains rather than stone.
-  * The temple complex in Jerusalem during the time of Jesus had four major courtyards.
-      * The Courtyard of Priests was just outside the temple building and could only be entered by the priests. This was where the basin for washing and the altar for sacrificing were located.
-      * The next court further away from the temple building was the Courtyard of Israel which was where any Jewish man could worship and pray.
-      * The Courtyard of Women was separated from these inner courts and was where Jewish women could worship. They were not permitted to go into the inner courts.
-      * These inner courts were surrounded by a low stone wall that separated them from the larger, outermost court called the Courtyard of the Gentiles. This courtyard was the only place that a nonJew was permitted to be in the Temple complex.
-  * The courtyard of a house was an open area in the middle of the house that could be entered through doors from the house.
-  * Some English Bible versions also use the word 'court' for this term.
+  * Скиния находилась во внутреннем дворе, который был окружен стенами из толстых занавесов.
+  * В храмовом сооружении в Иерусалиме было три внутренних двора: один для священников, один для иудейских мужчин и еще один для иудейских женщин.
+  * Внутренние дворы были окружены низкой каменной стеной, которая отделяла их от внешнего двора, где разрешалось поклоняться язычникам.
+  * Внутренний двор дома представлял собой открытый участок посреди дома, куда можно было войти из дома через двери.
+  * Выражение «дворы Яхве» часто используется образно для обозначения места обитания Бога или места, куда люди приходят поклоняться Яхве.
+  * Под фразой «царский двор» может подразумеваться место во дворце царя, где он выносит судебные решения, или же сам дворец.
+  * Термин «двор» также может обозначать место, где судьи выносят судебные решения, - суд.
+
+===== Варианты перевода: =====
+
+  * Термин «внутренний двор» можно перевести, как «загороженный участок», «земля, огороженная стеной», «храмовая территория» или «храмовое ограждение».
+  * Иногда бывает необходимо переводить термин «храм», как «внутренние дворы храма» или «храмовое сооружение», чтобы было ясно, что речь идет не о самом здании храма, а о дворах.
+  * Выражение «дворы Яхве» можно перевести, как «место, где живет Яхве» или «место, где люди поклоняются Яхве».
 
 ===== Translation Suggestions: =====
 
