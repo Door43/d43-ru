@@ -16,11 +16,9 @@
   * [[:ru:obe:other:altarofincense|Prev chunk]]: [[:ru:obe:other:altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside|publish-current]]
   * [[:ru:obe:other:amazed|Next chunk]]: [[:ru:obe:other:amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside|publish-current]]
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>Amalekite&nocomments}}
-
-~~DISCUSSION~~
+{{topic>Amalekite&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
