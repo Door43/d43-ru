@@ -1,14 +1,13 @@
 ====== сторожевая башня, башня ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "watchtower" refers to a tall structure built as a place from which guards could look out for any danger. These towers were often made of stone.
+Термин \"сторожевая башня\" относится к высокой построенной конструкции в качестве места, откуда стража могла рассмотреть любую опасность. Такие башни чаще всего строились из камня.
 
-  * Landowners sometimes built watchtowers from which they could guard their crops and protect them from being stolen.
-  * The towers often included rooms where the watchmen or family lived, so that they could guard the crops day and night.
-  * Watchtowers for cities were built higher than the city walls so that watchmen could see if any enemies were coming to attack the city.
-  * The watchtower was a symbol of protection from enemies.
-
+  * Иногда землевладельцы строили сторожевые башни, с которых они могли охранять свои посевы и защитить их от кражи.
+  * В башнях часто находились комнаты, в которых могли жить сторожа или семья, и таким образом они могли охранять посевы день и ночь.
+  * Сторожевые башни в городах строились выше чем стены города, чтобы стража могла увидеть, наступает ли враг для атаки города.
+  * Сторожевая башня была символом защиты от врагов.
 
 ===== Bible References: =====
 
