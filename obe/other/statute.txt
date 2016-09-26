@@ -1,14 +1,15 @@
 ====== устав, уставы ======
 
-===== Definition: =====
+===== Определение: =====
 
-A statute is a specific written law that provides guidance for people to live by
+Уставом называется особый написанный закон, которым должны руководствоваться люди.
 
-  * The term "statute" is similar in meaning to "ordinance." or " command" or "law" or "decree." All of these terms involve instructions and requirements that God gives to his people.
-  * King David said that he delighted himself in the Yahweh's statutes.
-  * The term "statute" could also be translated as "specific command" or "special decree."
+  * Синонимами для этого понятия могут служить слова «указ», «повеление», «закон» или «предписание».
+  * В уставах содержались инструкции и требования, которые Бог дал Своему народу.
+  * Царь Давид говорил, что он наслаждается Божьими уставами.
+  * Это слово может еще переводиться как «особые повеления» или «особые предписания».
 
-(See also: [[:ru:obe:other:command]], [[:ru:obe:other:decree]], [[:ru:obe:kt:lawofmoses]], [[:ru:obe:other:ordinance]])
+(См. также: [[:ru:obe:other:command|повеление, повелевать, заповедь]], [[:ru:obe:other:decree|decree]], [[:ru:obe:kt:lawofmoses|Закон, Закон Моисеев, Закон Божий]], [[:ru:obe:other:ordinance|ordinance]])
 
 ===== Bible References: =====
 
