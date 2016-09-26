@@ -7,13 +7,13 @@
   * В библейские времена правители назначались царем или императором.
   * Правители находились под властью царя или императора.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The word "governor" can also be translated as “ruler” or "overseer" or "regional leader" or "one who rules over a small territory."
-  * Depending on the context, the term "govern" could be translated as, "rule over" or "lead" or "manage" or supervise."
-  * Since a governor was under the authority of a king or emperor and had less power and importance than those rulers, this term should be translated differently than those terms.
+  * Термин «правитель» можно также перевести, как «надзиратель», «региональный начальник» или «тот, кто правит над небольшой территорией».
+  * В зависимости от контекста, термин «править» может переводиться, как «управлять», «надзирать» или «руководить».
+  * Так как правитель находился под властью царя или императора и обладал меньшей властью и значением, то и этот термин следует переводить иначе.
 
-(See also: [[:ru:obe:other:king|king]])
+(См. также: [[:ru:obe:other:king|king]])
 
 ===== Bible References: =====
 
