@@ -1,17 +1,16 @@
 ====== Астарта (Ашера, Ашерим) ======
 
-===== Definition: =====
+===== Определение: =====
 
-Asherah was the name of a goddess that was worshiped by Canaanite people groups during Old Testament times.
+Астартой было названо божество женского пола, которому поклонялись ханаанские народы в ветхозаветные времена.
 
-  * This term and the plural form "Asherim" refer to carved wooden images or carved trees that were made to represent this goddess. Sometimes these images are referred to as "Asherah poles."
-  * The Asherim were often set up near altars for the false god Baal, who was thought of as Asherah's husband.
-  * God commanded the Israelites to destroy all the carved images of Asherah.
-  * But some of the Israelite leaders, like King Solomon, King Manasseh, and Queen Jezebel, not only kept many of the Asherim in Israel, but also influenced the people to worship them.
-  * On the other hand, other leaders like Gideon, King Asa, and King Josiah obeyed God and led the people in destroying these idols.
+  * Это имя в единственном и множественном числе обозначало вырезанные из дерева или на дереве изображения богини. Иногда эти образы назвались \"статуями Астарты\".
+  * Астарта часто ставилась рядом с божеством Ваалом, который считался мужем богини.
+  * Бог повелел израильтянам уничтожить все деревянные образы Астарты.
+  * Однако некоторые израильские правители, например, Соломон, Манасия, Иезавель не только не истребили Астарт в Израиле, но и склонили народ к идолопоклонству.
+  * Но были и другие лидеры - Гедеон, Аса, Иосия, которые повиновались Богу и принудили народ ниспровергнуть всех идолов.
 
-
-(See also: [[:ru:obe:other:idol]], [[:ru:obe:other:Baal]], [[:ru:obe:other:image]], [[:ru:obe:other:Solomon]], [[:ru:obe:other:Gideon]])
+(См. также: [[:ru:obe:other:idol|идол, идолопоклоннический]], [[:ru:obe:other:baal|Ваал]], [[:ru:obe:other:image|изображение (образ), резное изображение, резная статуя, литая металлическая статуя]], [[:ru:obe:other:solomon|Соломон]], [[:ru:obe:other:gideon|Гедеон]])
 
 ===== Bible References: =====
 
