@@ -1,15 +1,17 @@
 ====== мед, медовые соты ======
 
-===== Definition: =====
+===== Определение: =====
 
-Honey is the sweet, sticky, edible substance that honeybees make out of flower nectar. Honeycomb is the waxy frame that the bees store the honey in.
+Мед - это сладкое, липкое, съедобное вещество, которое пчелы делают из цветочного нектара. Медовые соты - это каркас из воска, где пчелы собирают мед.
 
-  * Depending on the variety, honey can be yellowish or brownish in color.
-  * Once when the Israelites were fighting against the Philistines, King Saul's son Jonathan found wild honey in the forest and ate it.
-  * Samson once found honey inside the carcass of a dead lion and made up a riddle about it.
-  * When John the Baptist was living out in the desert, he ate only locusts and wild honey.
+  * В зависимости от вида мед может быть желтоватого или коричневатого цвета.
+  * Слово мед иногда используется в переносном смысле для описания чего-то, что сладкое и очень приятное. Иногда слово мед используют для описания чего-то сладкого, например, сладкое «как мед».
+  * Мед можно найти в дикой природе, как например, в дупле дерева или там, где пчелы делают гнезда. Люди также выращивают пчел в ульях для того, чтобы производить мед для еды или на продажу, но скорее всего мед, который упоминается в Библии, - это дикий мед.
+  * Чтобы восстановить силы после сражения Ионафан, сын Саула, поел немного дикого меда, который они смогли найти в лесу.
+  * Самсон однажды нашел мед внутри туши умершего льва.
+  * Иоанн Креститель, живя в пустыне, питался саранчой и диким медом.
 
-(See also: [[:ru:obe:other:jonathan]], [[:ru:obe:other:samson]], [[:ru:obe:other:philistines]], [[:ru:obe:other:johnthebaptist]])
+(См. также: [[:ru:obe:other:jonathan|Jonathan]], [[:ru:obe:other:samson|Samson]], [[:ru:obe:other:philistines|Philistines]], [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]])
 
 ===== Bible References: =====
 
