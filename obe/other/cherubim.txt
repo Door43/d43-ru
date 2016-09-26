@@ -11,14 +11,13 @@
   * В некоторых местах Писания они также описаны как создания с четырьмя лицами: человека, льва, быка и орла.
   * Иногда херувимов считают ангелами, но в Библии нет ясного подтверждения этого.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The term "cherubim" could be translated as "creatures with wings" or "guardians with wings" or "winged spiritual guardians" or "holy, winged guardians."
-  * A "cherub" should be translated as the singular of cherubim, as in, "creature with wings" or "winged spiritual guardian," for example.
-  * Make sure that the translation of this term is different from the translation of "angel."
-  * Also consider how this term is translated or written in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Термин «херувим» можно перевести, как «крылатое создание», «крылатый хранитель», «крылатый духовный хранитель» или «святой крылатый хранитель».
+  * Перевод этого термина обязательно должен отличаться от перевода слова «ангел».
+  * Также посмотрите, как этот термин переведен в переводе Библии на местный или государственный язык. (См.: [[Перевод слов с неизвестным значением]])
 
-(See also: [[en:obe:kt:angel|angel]], other)
+(См. также: [[:en:obe:kt:angel|angel]], other)
 
 ===== Bible References: =====
 
