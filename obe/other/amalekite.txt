@@ -1,17 +1,17 @@
 ====== Амалик, амаликитяне ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Amalekites were a nomadic people group who lived and traveled across the southern part of Canaan, from the Negev desert to the country of Arabia.
+Амаликитяне - это кочевники, обитавшие в южной части Ханаана - от пустыни Негев до Аравии.
 
-  * This people group was probably descended from Amalek, the grandson of Esau.
-  * The Amalekites were bitter enemies with Israel from the time when Israel first came to live in Canaan.
-  * Both Saul and David led military expeditions against the Amalekites. Saul disobeyed God by keeping some of the plunder and by not killing the Amalekite king as God had commanded him.
-  * God eventually destroyed these people who had regularly plundered Israel and other people groups.
+  * Вероятно, они были потомками Амалика - внука Исава.
+  * С тех пор, как израильтяне вошли в землю ханаанскую, амаликитяне жестоко враждовали против народа Божьего.
+  * Саул и Давид вели войны против амаликитян. Саул нарушил повеление Божье: он оставил себе отнятую у врагов добычу и не казнил вражеского царя.
+  * В конце концов, Бог истребил амаликитян, постоянно нападавших на Израиль и соседние народы.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:negev]], [[:ru:obe:other:Arabia]], [[:ru:obe:other:Saul]], [[:ru:obe:other:david]], [[:ru:obe:other:Esau]])
+(См. также: [[:ru:obe:other:negev|Negev]], [[:ru:obe:other:arabia|Arabia]], [[:ru:obe:other:saul|Саул (из Ветхого Завета)]], [[:ru:obe:other:david|Давид]], [[:ru:obe:other:esau|Исав]])
 
   * [[:ru:obe:other:altarofincense|Prev chunk]]: [[:ru:obe:other:altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside|publish-current]]
   * [[:ru:obe:other:amazed|Next chunk]]: [[:ru:obe:other:amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside|publish-current]]
