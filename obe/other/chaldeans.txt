@@ -1,18 +1,18 @@
 ====== Халдея, халдейский ======
 
-===== Facts: =====
+===== Факты: =====
 
-Chaldea was a region in southern Babylonia. The people who lived in this land were called Chaldeans.
+Халдея - это область, простиравшаяся южнее Вавилонии. Люди, проживавшие в ней, назывались халдеями.
 
-  * The city of Ur, where Abraham was from, was located in Chaldea.
-  * Around 600 BC, Chaldea became known as Babylonia.
-  * A few years after that time, Jerusalem was captured and the Israelites were exiled to Babylonia.
-  * Ten years after Jerusalem was captured, the Babylonian King Nebuchadnezzar destroyed the temple there.
-  * The people living in Babylonia were still sometimes referred to as "Chaldeans."
+  * Город Ур, уроженцем которого был Авраам, находился в Халдее.
+  * Приблизительно в 600 г. до н. э. Халдея стала называться Вавилонией.
+  * Через несколько лет после этого Иерусалим был захвачен, и его население отведено в плен в Вавилонию.
+  * Спустя десять лет после захвата Иерусалима, Вавилонский царь Навуходоносор разрушил иерусалимский храм.
+  * Людей, которые населяли Вавилонию, до сих пор иногда называют халдеями.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:en:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[babylon|Babylon]], [[ur|Ur]], [[en:obe:other:abraham|Abraham]], [[shinar|Shinar]] )
+(См. также: [[:ru:obe:other:babylon|Babylon]], [[:ru:obe:other:ur|Ur]], [[:en:obe:other:abraham|Abraham]], [[:ru:obe:other:shinar|Shinar]] )
 
 ===== Bible References: =====
 
