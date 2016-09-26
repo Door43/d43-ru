@@ -1,12 +1,11 @@
 ====== тюрьма, заключенный ======
 
-===== Definition: =====
+===== Определение: =====
 
+Тюрьма - это место, где содержатся узники в наказание за свои преступления. Заключенный - это человек, которого посадили в тюрьму.
 
-The term "prison" refers to a place where criminals are kept as a punishment for their crimes. A prisoner is someone who has been put in the prison.
-
-    * A person may be kept in a prison while waiting to be judged in a trial.
-    * Many prophets and other servants of God were put in prison even though they had not done anything wrong.
+  * Человек может содержаться в тюрьме вплоть до судебного процесса.
+  * Многих пророков и Божьих служителей бросали в тюрьмы, несмотря на их невиновность.
 
 ===== Translation Suggestions: =====
 
