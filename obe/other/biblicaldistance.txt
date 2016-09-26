@@ -24,14 +24,8 @@
 
 \\
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?biblicaldistance&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>publish}}
-
-\\
+{{topic>:en:bible?biblicaldistance&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
