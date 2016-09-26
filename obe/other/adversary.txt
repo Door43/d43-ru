@@ -9,15 +9,8 @@
   * В Библии дьявол назван «противником» и «врагом».
   * Слово «противник» можно перевести, как «соперник» или «враг», - оно означает сильное противостояние.
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?adversary&nocomments&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?adversary&nocomments&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
