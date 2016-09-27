@@ -1,14 +1,17 @@
 ====== столб, колонна ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "pillar" refers to a large vertical structure that is used to hold up a roof or other part of a building.
+«Столбом» называется вертикальная опора, служащая для поддержки крыши или какой-либо другой части строения. Синонимом слова «столб» является слово «колонна».
 
-  * When Samson in the Old Testament was captured by the Philistines, he destroyed their pagan temple by pushing the supporting pillars and causing the structure to collapse.
-  * Sometimes a pillar was used as a memorial to mark a grave or to mark the place where an important event happened.
-  * In Bible times, pillars used as support in buildings were normally carved from a single piece of stone.
-  * Often a memorial pillar was simply a large stone set up on its end.
-  * A "pillar" can also refer to something shaped like a pillar, such as the "pillar of fire" that led the Israelites at night through the desert or the pillar of salt that Lot's wife became after she looked back at the city.
+  * Когда ветхозаветный герой Самсон был схвачен филистимлянами, он разрушил их храм, сдвинув опорные столбы, чтобы обрушилось все здание.
+  * Иногда столбы использовались как памятники или служили для обозначения какого-то места, где произошло важное событие.
+  * В библейские времена столбы использовались как опора для зданий; они делались из цельного куска камня.
+  * Часто памятники представляли собой огромный валун или столб с большим камнем наверху.
+  * Иногда «столбом» назывался идол, который изготавливался для поклонения божеству. Это еще одно название «высеченного изображения», и оно может переводиться словом «статуя».
+  * Столбом может назваться предмет или явление, имеющее схожую со столбом форму, например «столп огненный», который вел израильтян ночью по пустыне или «соляной столп», в который превратилась жена Лота, когда оглянулась на город.
+  * В зависимости от контекста, это слово может переводиться как «статуя», «каменный опорный столб» или «памятник».
+
 ===== Bible References: =====
 
 {{topic>pillar&nocomments}}~~DISCUSSION~~
