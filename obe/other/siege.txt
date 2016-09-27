@@ -1,13 +1,13 @@
 ====== осада, осаждать ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "siege" refers to when an attacking army surrounds a city and keeps it from being able to receive any supplies of food and water. To "besiege" a city means to cause that city to be under a siege.
+Слово «осада» употребляется тогда, когда речь идет о ситуации, при которой нападающая армия окружает город и перерезает поступление в него продовольствия и воды. «Осаждать» город - значит поставить осаду вокруг него.
 
-  * When Babylon came to attack Israel, they used a siege tactic on Jerusalem to weaken the people inside the city.
-  * Often during a siege attack, ramps of dirt are gradually constructed to enable the attacking army to cross over the city walls and invade the city.
-  * The idiom "lay siege" means to perform a siege. It has the same meaning as "besiege."
-  * The idiom "under siege" describes a city that an enemy army is surrounding. The city is said to be "besieged."
+  * Когда на Израиль напали вавилоняне, они осадили Иерусалим, чтобы ослабить народ в городе.
+  * Часто во время осады враги постепенно сооружают вал, чтобы вражеская армия могла пройти через городские стены и захватить город.
+  * Идиома «поставить осаду» означает осаждать. Она имеет то же значение, что и слово «осадить».
+  * Идиома «под осадой» обозначает город, окруженный вражеской армией. О таком городе говорится, что он «осажденный».
 
 ===== Bible References: =====
 
