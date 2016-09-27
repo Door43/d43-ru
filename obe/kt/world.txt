@@ -10,15 +10,14 @@
   * Также апостолы использовали слово \"мир\", чтобы описать эгоистичные действия и порочные ценности людей, живущих в этом мире. Также это может относиться к самоправедным религиозным обрядам, которые основаны на человеческих усилиях.
   * Людей и вещи, которые характеризуются с этими ценностями, называют \"от мира\" или \"мирскими\".
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, "world" could also be translated as, "universe" or "people of this world" or "corrupt things in the world" or "evil attitudes of people in the world."
-  * The phrase "all the world" often means "many people" and refers to the people living in a certain region. For example, "all the world came to Egypt" could be translated as, "many people from the surrounding countries came to Egypt" or "people from all the countries surrounding Egypt came there."
-  * Another way to translate "all the world went to their hometown to be registered in the Roman census" would be, "many of the people living in regions ruled by the Roman empire went..."
-  * Depending on the context, the term "worldly" could be translated as, "evil" or "sinful" or "selfish" or "ungodly" or "corrupt" or "influenced by the corrupt values of people in this world."
+  * В зависимости от контекста, \"мир\" также можно перевести как \"вселенная\", или \"люди этого мира\", или \"порочные вещи\", или \"злое отношение людей этого мира\".
+  * Фраза \"по всей земле\" часто означает \"многие люди\" и относится к людям, живущим в определенном регионе. Например, \"со всей земли пришли в Египет\" можно перевести как \"многие люди из окружающих стран пришли в Египет\" или \"люди со всех стран вокруг Египта пришли туда\".
+  * Другой вариант перевода \"пошли все записываться, каждый в свой город\" может быть следующим \"пришли многие люди, живущие в регионах, которыми управляет Римская империя ...\".
+  * В зависимости от контекста термин \"мирской\" или \"от мира\" можно перевести как \"злой\", или \"грешный\", или \"эгоистичный\", или \"безбожный\", или \"порочный\", или \"под влиянием порочных ценностей людей этого мира\".
 
-
-(See also: [[en:obe:other:rome]], [[en:obe:kt:heaven]], [[:ru:obe:kt:corrupt]], [[:ru:obe:kt:ungodly]])
+(См. также: [[:en:obe:other:rome|Rome, Roman]], [[:en:obe:kt:heaven|heaven, sky, heavens, heavenly]], [[:ru:obe:kt:corrupt|развращать, развращение]], [[:ru:obe:kt:ungodly|нечестивый, безбожный, нечестие, безбожие]])
 
 ===== Bible References: =====
 
