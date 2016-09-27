@@ -1,22 +1,22 @@
 ====== библейские меры веса ======
 
-===== Definition: =====
+===== Определение: =====
 
-The following terms are the most common units of weight in the Bible. The term "shekel" meant "weight" and many other weights are described in terms of the shekel. Some of these weights were used for money. The exact weights are uncertain, but the approximate amounts are:
+Ниже приводятся некоторые из наиболее часто встречающихся в Библии единиц веса. Термин «сикль» (или шекель) означает «вес», и многие другие меры веса указываются в сиклях. Некоторые слитки такого «веса» использовались в качестве денег. Точные меры веса неизвестны, ниже приводятся приблизительные меры веса:
 
-  * Shekel - 11 grams
-  * Bekah - (1/2 shekel)
-  * Pim - (2/3 shekel)
-  * Gerah - (1/20 of a shekel)
-  * Mina - 600 grams (50 shekels)
-  * Talent - 34 kilograms (60 minas,3000 shekels)
+  * Сикль - 11 гр
+  * Бека - (1/2 сикля)
+  * Пим - (2/3 сикля)
+  * Гера - (1/20 сикля)
+  * Мина - 600 гр (50 сиклей)
+  * Талант - 34 кг (60 мин, 3000 сиклей)
 
-How to translate Biblical units for measuring weights:
+Как переводить библейские единицы измерения веса:
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
-  - An important reason for using words that closely resemble the Biblical terms for measuring weights is to show that the Bible is an historical document and that real people used these units of measurement during that time period.
-  - If it doesn't work to use the Bible term, then instead, state the same amount of weight using a unit of measure that is known.
-  - These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+  - Сохраните библейский термин со звучанием или написанием, похожим тому, как он подан в Библии.
+  - Для измерения веса важно использовать слова, близко напоминающие библейские термины, чтобы показать, что Библия является историческим документом, и что в те времена люди действительно использовали эти единицы измерения.
+  - Если не получается использовать библейские термин, то обозначьте тот же вес с помощью знакомой вам единицы измерения.
+  - Эти методы могут сочетаться путем использования библейской терминологии, а потом подачи в тексте или в примечании ее эквивалента в известной единице измерения.
 
 ===== Bible References: =====
 
