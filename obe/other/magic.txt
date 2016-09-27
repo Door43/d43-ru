@@ -1,16 +1,16 @@
 ====== магия, чародей ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "magic" refers to the practice of using supernatural power that does not come from God. A magician is someone who practices magic.
+Термин «магия» относится к практике использования сверхъестественной силы, не исходящей от Бога. Чародей - это человек, который практикует магию.
 
-  * In Egypt, when God did miraculous things through Moses, the Egyptian pharaoh's magicians were able to do some of the same things, but their power did not come from God. They were not able to keep doing the miraculous things that God was doing through Moses.
-  * Magic often involves casting spells or speaking incantations to make something supernatural happen.
-  * Pagan diviners would use different methods of trying to find out information from the spirit world, such as examining animal entrails or throwing animal bones on the ground, looking for patterns.
-  * The diviners would interpret these patterns as signs or guidance from their false gods.
-  * God commands his people to not do any of these practices of magic or divination.
+  * В Египте, когда Бог делал чудеса через Моисея, чародеи, находящиеся при Египетском фараоне были способны повторить некоторые из его чудес, но их сила не исходила от Бога. Однако они не смогли повторить все чудеса, которые Бог делал через Моисея.
+  * Магия часто подразумевает использование заклинаний и проговаривание магических формул, чтобы произошло нечто сверхъестественное.
+  * Языческие прорицатели использовали различные методы для того, чтобы получить информацию из духовного мира, как например, исследование внутренностей животных или бросание костей животных на землю и выискивание определенных образов.
+  * Прорицатели толковали эти образы как знаки или водительство от их лжебогов.
+  * Бог повелел Своему народу не использовать подобные практики или магические гадания.
 
-(See also: [[divination]])
+(См. также: [[:ru:obe:other:divination|гадание, гадатель, прорицание, прорицатель]])
 
 ===== Bible References: =====
 
