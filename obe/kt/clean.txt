@@ -9,13 +9,14 @@
   * Человек, пораженный определенными видами кожных заболеваний, считался нечистым до тех пор, пока его кожа полностью не излечивалась и не была заразной. Такой человек должен был соблюсти правила очищения, чтобы его снова объявили «чистым».
   * Иногда слово «чистый» используется в переносном смысле для обозначения моральной чистоты.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term could be translated with the common word for "clean" or "pure" (in the sense of being not dirty).
-  * "Cleanse" could be translated by "wash" or "purify."
-  * Make sure that the words used for "clean" and "cleanse" can also be understood in a figurative sense.
+  * Этот термин можно перевести общим словом «чистый» (в смысле не грязный).
+  * А также его можно перевести, как «ритуально чистый» или «угодный Богу».
+  * «Очищать» можно перевести, как «омывать» или «освящать».
+  * Удостоверьтесь в том, что слова, использованные для перевода «чистый» и «очищать», можно также понять в переносном смысле.
 
-(See also: [[:ru:obe:kt:holy]], [[:ru:obe:kt:unclean]], [[:ru:obe:other:sacrifice]] )
+(См. также: [[:ru:obe:kt:holy|святой, святость]], [[:ru:obe:kt:unclean|unclean, uncleanness]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]] )
 
 ===== Bible References: =====
 
