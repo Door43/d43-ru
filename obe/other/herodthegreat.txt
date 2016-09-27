@@ -12,15 +12,8 @@
 
 (См. также: [[:ru:obe:other:king|король, царь]], [[:ru:obe:other:judea|Judea]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?herodthegreat&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?herodthegreat&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
