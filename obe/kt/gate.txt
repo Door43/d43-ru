@@ -1,13 +1,12 @@
 ====== ворота, засов ======
 
-===== Definition: =====
+===== Определение: =====
 
-A "gate" is a hinged barrier at an access point in a fence or wall that surrounds a house or city. The "gate bar" refers to a wooden or metal bar that can be moved into place to lock the gate.
+«Ворота» - это запираемое створами сооружение, находящееся в проеме в стене вокруг дома или города. «Засов» - это деревянная или металлическая задвижка, которой запираются ворота.
 
-  * A city gate could be opened to allow people, animals, and cargo to travel in and out of the city.
-  * To protect the city, its walls and gates were thick and strong. Gates were closed and locked with a metal or wooden bar to prevent enemy soldiers from entering the city.
-  * A city gate was often the news and social center of a village. It was also where business transactions occurred and judgments were made.
-
+  * Городские ворота могут быть открытыми для движения людей, животных и груза.
+  * Городские стены и ворота были толстыми и крепкими, чтобы они могли защищать город. Ворота закрывались и запирались металлическими или деревянными засовами, чтобы вражеские воины не могли войти в город.
+  * Из-за того, что городские стены были толстыми, и в местах расположения ворот можно было укрыться от палящего солнца, у ворот часто собирался народ, чтобы делиться новостями, заключать сделки и рассматривать судебные дела.
 
 ===== Translation Suggestions: =====
 
