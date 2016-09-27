@@ -1,17 +1,17 @@
 ====== Озия, Азария ======
 
-===== Facts: =====
+===== Факты: =====
 
-Around 800 BC, Uzziah became king of Judah at the age of 16, and reigned 52 years in Jerusalem, which was an unusually long reign. Uzziah was also known as "Azariah."
+Приблизительно в 800 г. до н.э. царем Иудеи стал Озия; ему было 16 лет, когда он взошел на престол, в Иерусалиме он правил 52 года (необычно длинное царствование). Озия еще известен как \"Азария\".
 
-  * King Uzziah was well-known for his organized and skilled military. He had towers built to protect the city and had specially-designed weapons of war mounted on them to hurl arrows and large stones.
-  * As long as Uzziah served the Lord, he prospered. Toward the end of his reign, however, he became proud and he disobeyed the Lord by burning incense in the temple, which only the priest was supposed to do.
-  * Because of this sin, Uzziah became sick with leprosy and had to live separately from other people until the end of his reign.
+  * Он прославился благодаря организованной и обученной армии. Озия построил башни для охраны города, а также сконструировал орудия для метания стрел и огромных камней.
+  * Когда царь служил Богу, он преуспевал. Однако к концу своей жизни Озия возгордился и проявил неповиновение пред Господом, войдя в храм и принеся курения, что было дозволено исключительно священникам.
+  * Из-за своего греха Озия заболел проказой и вынужден был жить отдельно от людей до конца своей жизни.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(См. также: [[:ru:obe:other:kingdomofjudah|Иудея, иудейское царство]], [[:ru:obe:other:king|король, царь]])
 
-(See also: [[:ru:obe:other:kingdomofjudah]], [[:ru:obe:other:king]])
 ===== Bible References: =====
 
 {{topic>:en:bible?uzziah&nocomments}}~~DISCUSSION~~
