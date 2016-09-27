@@ -1,12 +1,11 @@
 ====== камень, побивать камнями ======
 
-===== Definition: =====
+===== Определение: =====
 
-A stone is a small rock. Stoning means throwing stones at a person in order to kill him.
+Камень - это небольшой кусок твердой породы. «Побивать камнями» - значит закидывать камнями человека, чтобы его убить.
 
-  * In ancient times, stoning was a method of execution for crimes; it is also sometimes performed in modern times.
-  * For the Israelites in the Old Testament, God ordered stoning to be done by the leaders as a punishment for certain sins, such as adultery.
-
+  * В древности преступников побивали камнями; этот вид казни практикуется и в наши дни.
+  * В Ветхом Завете Бог повелел начальникам народа израильского, чтобы они побивали камнями тех, кто совершал определенные грехи, например, прелюбодеяние.
 
 ===== Bible References: =====
 
