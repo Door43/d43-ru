@@ -1,17 +1,15 @@
 ====== Аравия, аравийский ======
 
-===== Facts: =====
+===== Факты: =====
 
-Arabia is the largest peninsula in the world, covering nearly 3,000,000 square kilometers. It is located southeast of Israel, between the Red Sea and the Persian Gulf. 
+Аравия - это самый крупный полуостров мира, простирающийся почти на 3,000,000 кв. км. Он расположен на юго-востоке от Израиля, между Красным морем и Персидским заливом.
 
-  * According to the apostle Paul, Mt Sinai was located in Arabia.
-  * Abraham's son Ishmael and his descendants probably inhabited the northwestern part of Arabia.
-  * After Moses led the Israelites out of Egypt, their 40 years of wandering in the desert was in Arabia.
-  * After becoming a believer in Jesus, Paul spent a few years in the desert of Arabia.
+  * По словам Апостола Павла, гора Синай находилась в Аравии.
+  * Вероятно, сын Авраама, Измаил, и его потомки обитали на северо-западе Аравии.
+  * После того, как Моисей вывел израильский народ из Египта, они блуждали 40 лет по пустыне, находившейся в Аравии.
+  * После того, как Павел принял Иисуса, он провел несколько лет в Аравийской пустыне.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
