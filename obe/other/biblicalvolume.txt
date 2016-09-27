@@ -34,6 +34,6 @@
 
 \\
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?biblicalvolume&nocomments}}~~DISCUSSION~~{{tag>publish}}
