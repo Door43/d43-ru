@@ -1,26 +1,29 @@
 ====== библейские деньги ======
 
-===== Description: =====
+===== Описание: =====
 
-The following terms are some of the most well-known units of money that are used in the Bible. In the Old Testament, the **shekel** referred to a type of weight (made of gold, silver, bronze, brass or iron) that was used for money and trade. In the New Testament, a shekel was a type of silver coin.
+Ниже приводятся некоторые из самых известных денежных единиц, используемых в Библии. Если не указано иначе, эти денежные единицы использовались только еврейским народом.
 
-   * shekel
-      * In the Old Testament (11 grams weight of various materials)
-      * In the New Testament (silver coin = 4 days' wages)
-  * talent
-      * In the Old Testament (33 kilograms weight of various materials)
-      * In the New Testament (money: silver talent = 6,000 days' wages)
-  * denarius (plural denarii; Roman silver coin = one day's wages)
-  * drachma (Greek silver coin = one day's wages)
-  * mite/lepton (copper coin = 1/64 day's wages)
+[Примечание: В Ветхом Завете «сикль» (шекель) означал тип слитка (из золота, серебра, бронзы, меди или железа), используемого в качестве денег и в торговле. В Новом Завете «сикль» (шекель) представлял собой тип серебряной монеты.]
 
-How to translate biblical units of money:
+  * сикль
+      * В Ветхом Завете (11 гр веса различных материалов)
+      * В Новом Завете (иудейская серебряная монета = плата за 4 дня работы)
+  * талант
+      * В Ветхом Завете (33 кг веса различных материалов)
+      * В Новом Завете (римские или греческие деньги: серебряный талант = плата на 6 тысяч дней работы)
+  * дарик (персидская монета из золота или серебра)
+  * динарий (римская серебряная монета = плата за 1 день работы)
+  * драхма (греческая серебряная монета = плата за 1 день работы)
+  * лепта (иудейская медная монета = плата за 1/64 день работы)
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
-  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these types of money during that time period.
-  - If it doesn't work to use the Bible term, then give the same value in terms of what can be earned by a day's work in Bible times or how much weight it represents.
-  - The above methods could be combined by using the Bible term but then also giving the equivalent amount in the text or a note.
-  - For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become outdated.
+Как переводить библейские денежные единицы:
+
+  - Сохраните библейский термин со звучанием или написанием, похожим тому, как он подан в Библии.
+  - Сохранять библейские термины важно для того, чтобы показать, что Библия истинна, и что в те времена люди на самом деле пользовались этими типами денег.
+  - Если не получается использовать библейский термин, то опишите его другими терминами, сохраняя ту же величину в соответствии с дневной платой за работу или тот же вес.
+  - Эти методы могут сочетаться путем использования библейской терминологии, а потом подачи в тексте или в примечании ее эквивалента в известной единице измерения.
+  - В денежных единицах важно НЕ использовать современных величин, так как они из года в год изменяются, и поэтому любой перевод Библии, в котором использованы современные денежные единицы, скоро становится устаревшим.
 
 ===== Bible References: =====
 
