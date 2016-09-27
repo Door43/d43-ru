@@ -1,13 +1,14 @@
 ====== жертва повинности ======
 
-===== Definition: =====
+===== Определение: =====
 
-The guilt offering was one of several kinds of offerings that God required the Israelites to make. It was a penalty for unintentionally damaging another person's property or for some other accidental wrong behavior.
+Жертва повинности была одним из нескольких видов приношений, которых Бог требовал от израильтян. Она приносилась в наказание за неумышленное повреждение имущества другого человека или за какой-либо другой случайно совершенный нехороший поступок.
 
-  * This offering involved the sacrifice of an animal and paying a fine, with silver or gold money.
-  * In addition, the person at fault was responsible to pay for any damage that was done.
+  * В жертву повинности приносили животное, а также платили штраф в серебряных или золотых деньгах.
+  * Кроме того, виновник должен был заплатить за любой нанесенный им ущерб.
+  * Жертвы повинности приносили и некоторые другие народы и культуры, о которых повествуется в Библии.
 
-(See also: [[:ru:obe:other:sinoffering]], [[:ru:obe:other:burntoffering]], [[:En:obe:other:grainoffering]])
+(См. также: [[:ru:obe:other:sinoffering|sin offering]], [[:ru:obe:other:burntoffering|всесожжение, огненная жертва]], [[:en:obe:other:grainoffering|grain offering]])
 
 ===== Bible References: =====
 
