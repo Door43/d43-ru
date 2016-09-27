@@ -1,15 +1,15 @@
 ====== змей, змея ======
 
-===== Facts: =====
+===== Факты: =====
 
-The term "serpent" is another name for a snake. It is also what Satan was called when he spoke to Eve in the garden of Eden.
+«Змей» - это еще одно название змеи. Так назвали сатану, когда он разговаривал с Евой в Едемском саду.
 
-  * After the serpent tempted Eve to sin, God cursed it saying that from then on all snakes would slither along the ground, implying that before that they might have had legs.
-  * The term for a poisonous snake, "viper" also occurs in the Bible.
+  * После того, как змей склонил Еву ко греху, Бог проклял его, сказав, что с этого момента все змеи будут ползать по земле (вероятно до этого у них были ноги).
+  * Аспид - это ядовитая змея; данное слово тоже встречается в Библии.
 
-(Translation suggestions:  [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[en:obe:kt:satan|Satan, devil, evil one]])
+(См. также: [[:en:obe:kt:satan|Satan, devil, evil one]])
 
 ===== Bible References: =====
 
