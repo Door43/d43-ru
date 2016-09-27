@@ -1,14 +1,13 @@
 ====== хлебное приношение ======
 
-===== Definition: =====
+===== Определение: =====
 
-A grain offering was a gift of wheat or barley flour offered to God, often after a burnt offering.
+Хлебное приношение - это было приношение Богу из пшеницы и ячменя, часто совершаемое после всесожжения.
 
-  * The grain used for the grain offering was finely ground and sometimes it was cooked before being offered; other times it was left uncooked.
-  * Oil and salt had to be added to the grain flour, but no yeast or honey was permitted.
+  * Зерно, используемое для хлебного приношения, перемалывали в муку, иногда перед приношением пекли, а иногда приносили в сыром виде.
+  * В муку добавляли масло и соль, но добавлять закваску или мед не разрешалось.
 
-
-(See also: [[:ru:obe:other:burntoffering]], [[:En:obe:other:guiltoffering]], [[:ru:obe:other:sinoffering]], [[:ru:obe:other:sacrifice]])
+(См. также: [[:ru:obe:other:burntoffering|всесожжение, огненная жертва]], [[:en:obe:other:guiltoffering|guilt offering]], [[:ru:obe:other:sinoffering|sin offering]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]])
 
 ===== Bible References: =====
 
