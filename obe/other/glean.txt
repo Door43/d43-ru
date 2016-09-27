@@ -11,6 +11,6 @@
 
 (См. также: [[:ru:obe:other:grain|grain]], [[:en:obe:kt:harvest|harvest]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?glean&nocomments}}~~DISCUSSION~~{{tag>publish}}
