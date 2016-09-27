@@ -1,16 +1,16 @@
 ====== Ашдод, Азот ======
 
-===== Facts: =====
+===== Факты: =====
 
-Ashdod was one of the five most important cities of the Philistines. It was located in southwestern Canaan near the Mediterranean Sea, halfway between the cities of Gaza and Joppa.
+Ашдод был одним из пяти наиболее значимых филистимских городов. Он был расположен на юго-западе Ханаана, вблизи Средиземного моря, на равном расстоянии между Газой и Иоппией.
 
-  * The temple of the Philistine's false god Dagon was located in Ashdod.
-  * One time the Philistines stole the ark of the covenant and took it to the city of Ashdod and placed it in their temple. God severely punished them until they gave it back to the Israelites.
-  * The Greek name for this city was Azotus. It was one of the cities where the evangelist, Philip preached the gospel.
+  * В Азоте (Ашдоде) находился храм главного филистимского божества - Дагона.
+  * Однажды филистимляне захватили ковчег завета, принесли его в Азот и поставили в храме Дагона. Бог сурово покарал филистимлян, и они были вынуждены вернуть израильтянам ковчег завета.
+  * По-гречески этот город назывался Азотом. Азот был одним из городов, в котором евангелист Филипп проповедовал благую весть.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[arkofthecovenant]], [[philistines]], [[gaza]], [[joppa]], [[philip]])
+(См. также: [[:ru:obe:other:arkofthecovenant|ковчег завета, ковчега постановлений завета, ковчег свидетельства, ковчег Яхве]], [[:ru:obe:other:philistines|Philistines]], [[:ru:obe:other:gaza|Gaza]], [[:ru:obe:other:joppa|Joppa]], [[:ru:obe:other:philip|Филипп (евангелист)]])
 
 ===== Bible References: =====
 
