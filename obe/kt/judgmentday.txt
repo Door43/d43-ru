@@ -15,6 +15,6 @@
 
 (См. также: [[:ru:obe:kt:judge|judge, judgment]], [[:ru:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ru:obe:kt:heaven|heaven, sky, heavens, heavenly]], [[:ru:obe:kt:hell|hell, lake of fire]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?judgmentday&nocomments}}{{tag>publish}}
