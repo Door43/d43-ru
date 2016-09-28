@@ -1,16 +1,16 @@
 ====== Арам, арамеяне ======
 
-===== Definition: =====
+===== Определение: =====
 
-"Aram" is the name of a region where Abraham's relatives lived. It was located in what is the modern day country of Syria.
+\"Арам\" - это название региона, в котором жили родственники Авраама. Он был расположен на территории современной Сирии.
 
-  * The people living in Aram became known as "Arameans" and spoke the Aramaic language.
-  * One of Shem's sons was named Aram. Another man named Aram was a cousin of Rebekah. It is probable that the region of Aram was named after one of these two men.
-  * This region was also called "Paddan Aram" and later became known by the Greek name, "Syria."
+  * Жители Арама назвались \"арамеянами\", они говорили по-арамейски.
+  * Одного из сыновей Сима звали Арам. Еще один Арам был двоюродным братом Ревекки. Вероятно, что регион \"Арам\" был назван в честь одного из двух упомянутых людей.
+  * Данный регион также носил название \"Паддан Арам\", но позднее был назван греческим словом \"Сирия\".
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:PaddanAram]], [[:ru:obe:other:Syria]], [[:ru:obe:other:Shem]], [[:ru:obe:other:Rebekah]])
+(См. также: [[:ru:obe:other:paddanaram|Paddan Aram]], [[:ru:obe:other:syria|Syria]], [[:ru:obe:other:shem|Shem]], [[:ru:obe:other:rebekah|Ревекка]])
 
 ===== Bible References: =====
 
