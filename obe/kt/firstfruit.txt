@@ -16,11 +16,9 @@
 
 (См. также: [[:ru:obe:kt:firstborn|firstborn]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?firstfruit&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?firstfruit&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
