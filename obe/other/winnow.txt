@@ -1,15 +1,15 @@
 ====== веять, просеять ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "winnow" and "sift" mean to separate food grain from unwanted materials. In the Bible, both words are also used in a figurative sense to refer to separating or dividing people.
+Термины \"веять\" и \"просеять\" означают отделение съедобного зерна от ненужных веществ. В Библии оба слова также используются в переносном значении, чтобы разделить или отделить людей.
 
-  * To winnow means to separate grain from the unwanted chaff by tossing both the grain and chaff into the air, allowing the wind to blow the chaff away.
-  * The word "sift" refers to shaking the winnowed grain in a sieve to separate any remaining unwanted materials, such as dirt or stones, from the grain.
-  * In the Old Testament, "winnow" and "sift" are used figuratively to describe hardship that separates the righteous people from the unrighteous people.
-  * One time Jesus also used the term "sift" in this figurative way when he was telling Simon Peter about how he and the other disciples would be tested in their faith.
+  * Веять означает отделить зерно от ненужного плевела, подбрасывая зерно с плевелом в воздух и позволяя ветру отделить плевел от зерна.
+  * Слово \"просеять\" относится к встряхиванию провеянного зерна в решете, чтобы отделить любое оставшееся ненужное вещество, например грязь или камни, от зерна.
+  * В Ветхом Завете слова \"веять\" и \"просеять\" используются в переносном значении, чтобы описать трудность отделения праведных людей от неправедных.
+  * Однажды Иисус тоже использовал термин \"просеять\" в таком переносном значении, говоря Симону Петру о том, что он и остальные апостолы будут испытаны в вере.
 
-(See also: [[chaff]], [[grain]])
+(См. также: [[:ru:obe:other:chaff|chaff]], [[:ru:obe:other:grain|grain]])
 
 ===== Bible References: =====
 
