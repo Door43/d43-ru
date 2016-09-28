@@ -11,6 +11,6 @@
 
 (См. также: [[:ru:obe:other:chaff|chaff]], [[:ru:obe:other:grain|grain]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?winnow&nocomments}}~~DISCUSSION~~{{tag>publish}}
