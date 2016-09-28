@@ -9,15 +9,8 @@
   * Часть процесса рождения также описывается как тяжелый труд.
   * Другие варианты перевода слова «работа» это «труд» или «тяжелый труд».
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?labor&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?labor&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
