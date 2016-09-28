@@ -11,15 +11,8 @@
 
 (См. также: [[:ru:obe:other:david|Давид]], [[:ru:obe:other:bethlehem|Вифлеем, Ефрата]], [[:ru:obe:other:jerusalem|Иерусалим]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?cityofdavid&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?cityofdavid&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
