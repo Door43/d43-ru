@@ -1,14 +1,14 @@
 ====== Левит, Левий ======
 
-===== Definition: =====
+===== Определение: =====
 
-A Levite is a person who is a member of the Israelite tribe whose ancestor is Levi.
+Левит - это член израильского общества, принадлежащий колену Левия.
 
-  * The Levites were responsible for the temple and religious ceremony.
-  * All Jewish priests were men who were part of the Levites. (Not all Levites were priests, however.)
-  * The Levite priests were set apart and dedicated for the special work of serving God in the temple.
+  * Левиты должны были трудиться в Храме и проводить там религиозные церемонии.
+  * Все иудейские священники были мужчинами, принадлежавшие колену Левия (однако не все левиты могли быть священниками).
+  * Священники из левитов были отделены для особой работы в храме и посвящены на служение Господу.
 
-(See also: [[:ru:obe:kt:priest]], [[:ru:obe:kt:temple]], [[:ru:obe:other:12tribesofisrael]])
+(См. также: [[:ru:obe:kt:priest|священник, священство]], [[:ru:obe:kt:temple|Храм]], [[:ru:obe:other:12tribesofisrael|двенадцать колен Израиля]])
 
 ===== Bible References: =====
 
