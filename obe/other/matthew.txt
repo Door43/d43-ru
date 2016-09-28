@@ -1,18 +1,15 @@
 ====== Матфей, Левий ======
 
-===== Facts: =====
+===== Факты: =====
 
+Матфей - это имя, которое было дано Левию Алфееву. Матфей был одним из двенадцати избранных Иисусом Апостолов.
 
-Matthew was the name given to Levi, the son of Alpheus. Matthew was one of the twelve men that Jesus chose to be an apostle.
+  * До своей встречи с Иисусом Матфей был сборщиком налогов в Капернауме.
+  * Он является автором Евангелия от Матфея.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-    * Matthew was a tax-collector from Capernaum before he met Jesus.
-    * Matthew wrote the gospel that bears his name.
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[en:obe:kt:apostle]], [[taxcollector]])
-
+(См. также: [[:en:obe:kt:apostle|apostle, apostleship]], [[:ru:obe:other:taxcollector|сборщик налогов]])
 
 ===== Bible References: =====
 
