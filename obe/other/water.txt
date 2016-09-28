@@ -11,13 +11,15 @@
   * В Ветхом Завете Бог называется источником «живых вод» для Своего народа. Это значит, что Он - источник духовной силы и обновления.
   * В Новом Завете Иисус использовал фразу «живая вода» по отношению к Духу Святому, действующему в человек, преобразуя его и неся ему новую жизнь.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
+  * Фразу «черпать воду» можно перевести, как «вытащить ведром из колодца».
+  * «Их них потекут потоки воды живой» можно перевести, как «сила и благословения от Святого Духа будут течь из них, как потоки воды». Вместо «благословений» могут использоваться термины «дары», «плоды» или «благочестивый характер».
+  * В разговоре Иисуса с самарянкой у колодца слова «живая вода» можно перевести, как «вода, дающая жизнь» или «животворящая вода». В этом контексте образ воды следует сохранить в переводе.
+  * Термины «вода» и «большие воды» можно перевести, как «великие страдания (охватывающие тебя, словно воды)» или «огромные трудности (подобные водному потопу)».
 
-  * The phrase, "draw water" could be translated as, "pull water up from a well with a bucket."
-  * "Streams of living water will flow from them" could be translated as, "the power and blessings from the Holy Spirit will flow out of them them like streams of water." Instead of "blessings" the term "gifts" or "fruits" or godly character" could be used.
+(См. также: [[:en:obe:kt:life|life, live, living, alive]], [[:en:obe:kt:spirit|spirit, spiritual]], [[:en:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:en:obe:kt:power|power, powers]])
 
-(See also: [[en:obe:kt:life]], [[en:obe:kt:spirit]], [[en:obe:kt:holyspirit]], [[en:obe:kt:power]])
 ===== Bible References: =====
 
 {{topic>:en:bible?water&nocomments}}~~DISCUSSION~~
