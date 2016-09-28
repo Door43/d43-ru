@@ -1,17 +1,16 @@
 ====== Галилейское море ======
 
-===== Facts: =====
+===== Факты: =====
 
+Галилейское море - это озеро, расположенное в восточном Израиле. Его воды текут на юг, образуя реку Иордан, втекающую в Мертвое море.
 
-The Sea of Galilee is a lake in eastern Israel. Its water flows south through the Jordan River down to  the Dead Sea.
+  * Рядом с Галилейским морем были расположены города Капернаум и Вифсаида.
+  * У этого озера есть и другие названия: Тивериадское море, озеро Кинерет, Генисаретское озеро.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-    * The towns of Capernaum and Bethsaida were next to the Sea of Galilee.
-    * Other names for the Sea of Galilee include: the Sea of Tiberias, the Sea of Chinnereth, and the Lake of Genneseret.
+(См. также: [[:ru:obe:other:jordanriver|Река Иордан]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[jordanriver]])
 ===== Bible References: =====
 
 
