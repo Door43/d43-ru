@@ -1,18 +1,17 @@
 ====== Ирод Антипа ======
 
-===== Facts: =====
+===== Факты: =====
 
-Herod Antipas was the Roman ruler of Judea during the time of Jesus. He was sometimes referred to as "King Herod" even though he was not really a true king.
+Ирод Антипа был римским наместником в Иудее в период жизни Иисуса. Иногда он упомянут как царь Ирод, хотя, в действительности, он не был царем.
 
-  * There are several people named "Herod" in the Bible. King Herod the Great was the father of Herod Antipas. Make sure it is clear in the translation that these two Herods were two different people.
-  * Herod Antipas ruled one-fourth of the Roman Empire, and so he was also called "Herod the Tetrarch."
-  * Antipas was the Herod who gave the order for John the Baptist to be killed by beheading.
-  * He was also the Herod who questioned Jesus before his crucifixion.
+  * В Библии есть несколько человек с таким именем. Ирод Великий был отцом Ирода Антипы. Удостоверьтесь, что в вашем переводе это два разных человека.
+  * Ирод Антипа управлял одной из четырех областей Римской империи, поэтому его иногда еще называют \"Иродом тетрархом (четверовластником)\".
+  * Именно он отдал приказ обезглавить Иоанна Крестителя.
+  * Он также допрашивал Христа перед Его распятием.
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[rome]], [[king]], [[herodthegreat]])
+(См. также: [[:ru:obe:other:rome|Рим, римский]], [[:ru:obe:other:king|король, царь]], [[:ru:obe:other:herodthegreat|Ирод Великий]])
 
 ===== Bible References: =====
 
