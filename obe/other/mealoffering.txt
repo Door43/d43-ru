@@ -1,13 +1,13 @@
 ====== хлебное приношение ======
 
-===== Definition: =====
+===== Определение: =====
 
-A "meal offering" was a sacrifice to God in the form of grain or bread made out of grain flour.
+«Хлебное приношение» - это жертвоприношение Богу в форме зерен или хлеба, испеченного из зерновой муки.
 
-  * Another name for this was the "grain offering."
-  * Meal offerings were usually sacrificed alongside of burnt offerings. 
+  * Другое название для этого приношение - это «приношение зерен».
+  * Хлебное приношение обычно приносилось вместе с жертвой всесожжения.
 
-(See also: [[:ru:obe:other:grain]], [[:ru:obe:other:burntoffering]], [[:ru:obe:other:sacrifice]])
+(См. также: [[:ru:obe:other:grain|grain]], [[:ru:obe:other:burntoffering|всесожжение, огненная жертва]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]])
 
 ===== Bible References: =====
 
