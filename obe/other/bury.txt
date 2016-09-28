@@ -1,15 +1,15 @@
 ====== погребать, погребение ======
 
-===== Definition: =====
+===== Определение: =====
 
-To bury is to place something in a hole in the ground and cover it with dirt.
+Погребать означает помещать что-либо в яму и засыпать землей.
 
-  * Usually the term "bury" refers to putting a dead body in a hole or chamber and then covering it up.
-  * In many parts of the world, a dead person is buried by placing the body in a hole in the ground and covering it over with dirt. Before being buried, the dead body is usually placed in a box-like structure, such as a coffin.
-  * In Bible times, dead people were often buried in a cave or similar place. After Jesus died, his body was wrapped in cloths and placed in a stone tomb that was sealed with a large boulder.
-  * The apostle Paul wrote that when believers in Jesus are baptized, they are showing that they have been buried with Christ and then raised from the dead with him.
+  * Обычно термин «погребать» означает класть мертвое тело в яму или гробницу и закрывать ее.
+  * Во многих местах мира мертвых погребают в земле - вырывают яму, кладут туда тело и засыпают сверху землей. Перед погребением мертвое тело обычно кладут в особый ящик - гроб.
+  * В библейские времена мертвых обычно погребали в пещерах и подобных местах. Когда Иисус умер, Его тело завернули в полотно и положили в каменную гробницу, а потом к ее входу привалили огромный камень.
+  * Апостол Павел писал, что когда верующие в Иисуса совершают крещение, они тем самым показывают, что они были погребены со Христом и воскресли из мертвых вместе с Ним.
 
-(See also: [[:ru:obe:other:tomb]])
+(См. также: [[:ru:obe:other:tomb|гробница, могила, место погребения]])
 
 ===== Bible References: =====
 
