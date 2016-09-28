@@ -1,16 +1,16 @@
 ====== закваска, дрожжи ======
 
-===== Definition: =====
+===== Определение: =====
 
-Yeast is a substance that makes bread dough rise. It is sometimes called leaven.
+Дрожжи - это вещество, которое помогает тесту для хлеба подняться. Иногда их называют закваской.
 
-  * In Old Testament times, the leavening or rising agent was produced by allowing the dough to sit for awhile. Small amounts of dough from a previous batch of dough were saved as leavening for the next batch.
-  * When the Israelites escaped from Egypt, they didn't have time to wait for bread dough to rise so they made bread without leaven to take with them on their journey. As a reminder of this, every year the Jewish people celebrate Passover by only eating bread that is made without any leavening.
-  * In English translations, the term leaven is often translated as "yeast" which is a modern leavening agent that fills the bread dough with gas bubbles, making the dough expand before baking it. Yeast is kneaded into the dough until it has been spread throughout the entire lump of dough.
-  * The term "leaven" or "yeast" is used figuratively in the Bible as a picture of how sin spreads through a person's life or how sin can influence other people. It can also refer to false teaching.
-  * The term "leaven" is used in a positive way to explain how the influence of God's kingdom spreads from person to person.
-  * If your culture uses baking soda, baking power, or some other product to cause bread to rise, you may want to use that term in your translation.
-  
+  * Во времена Ветхого Завета для заквашивания или для действия поднятия теста, его ненадолго отставляли для брожения. Небольшое количество от заквашенного теста оставлялось как закваска для другого теста.
+  * Когда израильтяне покидали Египет, то у них совсем не было времени для заквашивания теста, поэтому они испекли хлеб без закваски для своего путешествия. И как в напоминание об этом каждый год иудеи празднуют Пасху, вкушая только пресный хлеб без закваски.
+  * В английском переводе термин закваска часто переводится как \"дрожжи\", что является современным разрыхлением теста, который насыщает его кислородом, увеличивая до выпекания. Дрожжи вводятся в тесто, пока они полностью не будут размешаны со всем тестом.
+  * Термин \"закваска\" или \"дрожжи\" образно используется в Библии в качестве иллюстрации того, как грех овладевает жизнью человека или как грех может повлиять на других людей. Также этот термин может относиться к ложному учению.
+  * Термин \"закваска\" используется в положительном смысле, чтобы объяснить, как влияние Божьего Царства распространяется от человека к человеку.
+  * Если в вашей культуре для выпекания пышного хлеба используется пищевая сода, разрыхлитель теста или другой продукт, вы можете использовать этот термин при переводе.
+
 ===== Translation Suggestions =====
 
   * This could be translated as "yeast" or "substance that causes dough to rise." The word "rise" could be expressed as "expand" or "get bigger" or "puff up."
