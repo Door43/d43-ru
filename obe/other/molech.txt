@@ -1,15 +1,15 @@
 ====== Молох (Молок) ======
 
-===== Facts: =====
+===== Факты: =====
 
-Molech was the name of one of the false gods that the Canaanites worshiped. Other spellings are "Moloch" and "Molek."
+Молох был божеством, которому поклонялись жители Ханаана. По-другому это имя может произноситься как \"Молех\", \"Молок\".
 
-  * People who worshiped Molech sacrificed their children to him by means of fire.
-  * Some of the Israelites also worshiped Molech instead of the one true God, Yahweh.
+  * Поклонники Молоха приносили ему в жертву своих детей, сжигая их в огне.
+  * Некоторые израильтяне поклонялись Молоху вместо единого истинного Бога, Яхве.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[idol|idol]], [[en:obe:kt:falsegod|false god, god]], [[en:obe:kt:god|God]] )
+(См. также: [[:ru:obe:other:idol|idol]], [[:en:obe:kt:falsegod|false god, god]], [[:en:obe:kt:god|God]] )
 
 ===== Bible References: =====
 
