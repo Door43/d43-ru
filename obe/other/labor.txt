@@ -1,15 +1,13 @@
 ====== работа, труд, работник ======
 
-===== Definition: =====
+===== Определение: =====
 
+Работа - это выполнение тяжелого труда любого вида.
 
-Labor is the performance of hard work of any kind.
-
-
-    * Labor is any task which uses energy and often implies that the task is difficult.
-    * A laborer is a person who participates in any type of labor.
-    * Part of the process of giving birth is also referred to as "labor."
-    * Another way to translate "labor" is "work" or "hard work."
+  * Работа - это любое задание, которое требует энергии и часто подразумевает, что задание достаточно трудное.
+  * Работник - это человек, который участвует в работе любого вида.
+  * Часть процесса рождения также описывается как тяжелый труд.
+  * Другие варианты перевода слова «работа» это «труд» или «тяжелый труд».
 
 ===== Bible References: =====
 
