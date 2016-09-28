@@ -1,14 +1,13 @@
 ====== лук и стрелы ======
 
-===== Definition: =====
+===== Определение: =====
 
-The bow and arrow is a weapon used in battles against enemies or for killing animals for food.
+Лук и стрелы - это оружие, используемое в битвах против врагов или для убийства животных, мясо которых употреблялось в пищу.
 
-  * A bow is a curved weapon made out of wood, bone, metal, or other hard material, such as a deer's antler. It is strung with a string, cord, or vine, in order to shoot arrows.
-  * An arrow is a thin shaft with a sharp, pointed head on one end. In ancient times, the arrows could be made of a variety of materials, such as wood, bone, stone, or metal.
-  * Bows and arrows were commonly used by nomadic peoples, hunters, and warriors.
-  * The term "arrow" is also sometimes used in the Bible as a symbol of enemy attacks or of divine judgment.
-
+  * Лук - это изогнутое оружие, сделанное из дерева, кости, металла или другого твердого материала, такого как олений рог. К его концам привязывается туго натянутая веревка, шнур или плеть, с которой выпускаются стрелы.
+  * Стрела - это тонкое копье с острым наконечником на одном конце. В древности стрелы делали из разных материалов, таких как дерево, кость, камень или металл.
+  * Лук и стрелы обычно использовались кочевыми народами, охотниками и воинами.
+  * Иногда термин «стрела» используется в Библии как символ нападений врага или Божьего суда.
 
 ===== Bible References: =====
 
