@@ -1,13 +1,13 @@
 ====== Крит, критяне ======
 
-===== Facts: =====
+===== Факты: =====
 
-Crete is an island that is located off the southern coast of Greece. A Cretan is someone who lives on this island.
+Крит - это остров, расположенный у южного побережья Греции. Критянин - это тот, кто живет на острове Крит.
 
-  * The apostle Paul traveled to the island of Crete during his missionary journeys.
-  * Paul left his co-worker Titus on Crete to teach the Christians and to help appoint leaders for the church there.
+  * Апостол Павел несколько раз был на Крите в ходе своих миссионерских путешествий.
+  * Павел оставил на острове своего соработника Тита, чтобы тот учил христиан и помог им избрать руководителей для церкви.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
