@@ -1,14 +1,14 @@
 ====== закон, принцип ======
 
-===== Definition: =====
+===== Определение: =====
 
-A law is a legal rule that is typically written down and enforced by someone in authority. A principle is a guideline or standard for decision-making.
+Закон - это легальное правило, которое обычно записано и подтверждено кем-то, находящимся у власти. Принцип - это руководство или стандарт для принятия решения.
 
-  * Both "law" and "principle" can refer to a general rule or belief that guides a person's behavior.
-  * This meaning of "law" is different from the law of Moses.
-  * When a general law is being referred to, "law" could be translated as "principle" or "general rule."
+  * И «закон», и «принцип» могут относиться к общим правилам или верованиям, которые направляют поведение человека.
+  * В данном случае значение слова «закон» отличается от закона Моисеева.
+  * Когда слово «закон» описывается в таком общем смысле, его можно перевести как «принцип» или «общее правило».
 
-(See also: [[:ru:obe:other:Law]], [[:ru:obe:kt:LawofMoses]])
+(См. также: [[:ru:obe:other:law|закон, принцип]], [[:ru:obe:kt:lawofmoses|Закон, Закон Моисеев, Закон Божий]])
 
 ===== Bible References: =====
 
