@@ -1,22 +1,45 @@
 ====== библейские обозначения времени ======
 
-===== Definition: =====
+===== Определение: =====
 
-In the Bible, terms used to explain time include "watch" and "hour."
+Методы обозначения времени и календари библейских времен нередко отличаются от современных.
 
-In biblical times, a **watch** was a period of time at night during which a watchman or guard for a city would be on duty looking out for any threat from an enemy.
+**Час**
 
-   * In the Old Testament, the Israelites had three watches which were called "beginning" (sunset to 10 p.m.) "middle" (10 p.m. to 2 a.m.) and "morning" (2 a.m. to sunrise) watches.
-  * In the New Testament, the Jews followed the Roman system and had four watches, named simply "first" (sunset to 9 p.m.) "second" (9 p.m. to 12 midnight) "third" (12 midnight to 3 a.m.) and "fourth" (3 a.m. to sunrise) watches.
-  * These could also be translated with more general expressions such as "late evening" or "middle of the night" or "very early in the morning" depending on which watch is being referred to.
+   * Час - это единица времени, с помощью которой указывается время какого-либо события или его длительность.
+  * В иудейской системе исчисления времени отсчет часов начинался не с полуночи, как принято сегодня. Иудеи начинали отсчет часов со времени захода солнца, когда начинался иудейский день.
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimehour|библейский time: hour]].
 
-The term **hour**  is often used in the Bible to tell more specifically what time a certain event took place.
+**Стража**
 
-  * The Jews counted daylight hours starting at sunrise (around 6 a.m.). So for example, “the ninth hour” meant “around three in the afternoon.”
-  * Nighttime hours were counted starting at sunset (around 6 p.m.). So for example, “the third hour of the night” meant “around nine in the evening” in our present-day system..
-  * Since the time of sunrise and sunset varies, the time references will not correspond exactly to present-day times. So time expressions using hours could be translated with phrases such as “around nine” or “about six o'clock.” Some translations will prefer to add phrases like "in the evening" or "in the morning" or "in the afternoon" to make it clear what time of day is being talked about.
+  * «Стражей» назывался период времени ночью, когда сторож или караулы города стояли на страже, защищая город от угрозы врага.
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimewatch|библейский time: watch]].
 
-(See also: [[en:obe:kt:hour]])
+**День **
+
+  * Для иудеев день начинался и заканчивался с заходом солнца и длился 24 часа.
+  * Термин «день» также используется образно для обозначения более общего периода времени, например: «День Яхве».
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimeday|библейский time: day]].
+
+**Неделя**
+
+  * Иудеи считали, что неделя начинается с заходом солнца в субботу вечером заканчивается к заходу солнца в следующую субботу.
+  * Иногда они также использовали слово «неделя» как метафору для обозначения семи периодов времени.
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimeweek|библейский time: week]].
+
+**Месяц**
+
+  * В библейские времена люди жили по лунному календарю, в котором каждый месяц состоял из 29,5 дней, за которые луна делает полный оборот вокруг Земли.
+  * По лунному календарю, некоторые годы состоят из 12, а некоторые - из 13 месяцев. Поэтому в этом календаре «первый месяц» не бывает всегда в одно и то же время года.
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimemonth|библейский time: month]].
+
+**Год **
+
+  * Год состоит из примерно 354 дней по лунному календарю или из примерно 365 дней по солнечному календарю.
+  * Иногда термин «год» (а также «лето») используется в переносном смысле для обозначения общего периода времени, например: «лето (год) Господне».
+  * Для более подробной информации см.: [[:en:obe:other:biblicaltimeyear|biblical time: year]].
+
+(См. также: [[:en:obe:kt:hour|hour]])
 
 ===== Bible References: =====
 
