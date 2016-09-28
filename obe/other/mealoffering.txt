@@ -9,11 +9,9 @@
 
 (См. также: [[:ru:obe:other:grain|grain]], [[:ru:obe:other:burntoffering|всесожжение, огненная жертва]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?mealoffering&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?mealoffering&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
