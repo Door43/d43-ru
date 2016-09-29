@@ -1,16 +1,15 @@
 ====== гадес, шеол (царство мертвых, преисподняя) ======
 
-===== Definition: =====
+===== Определение: =====
 
+Термины «гадес» и «шеол» используются в Библии для описания смерти и места, куда души людей идут после их смерти. Их значение похоже.
 
-Hades is the place where the souls of people go when they die. They remain in hades until they are raised to stand before God in the final judgment.
+  * Еврейское слово «шеол» часто используется в Ветхом Завете для общего описания места смерти.
+  * В Новом Завете греческий термин «гадес» описывает место для душ людей, которые восстали против Бога. Эти души описываются как идущие «вниз» в гадес. Иногда это противопоставляется идущим «наверх» в рай, где находятся души людей, которые верят в Иисуса.
+  * Термин «гадес» идет в паре с термином «смерть» в книге Откровение. В конце времен и смерть, и гадес будут брошены в огненное озеро, которое является адом.
 
-  * The Hebrew name that is used in the Old Testament is sheol. The Greek name that is used in the New Testament is hades. They refer to the same place.
-  * Hades appears to be divided into two parts. There is a place of suffering for unbelievers, and a place of comfort for believers. 
-  * Hades is temporary. Believers in hades will eventually go to heaven. Unbelievers in hades will eventually be thrown into hell. 
+(См. также: [[:en:obe:kt:hell|hell, lake of fire]])
 
-
-(See also: [[en:obe:kt:hell]])
 ===== Bible References: =====
 
 
