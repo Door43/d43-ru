@@ -10,15 +10,8 @@
 
 (См. также: [[:en:obe:kt:hell|hell, lake of fire]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?hades&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?hades&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
