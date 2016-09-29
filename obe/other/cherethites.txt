@@ -1,16 +1,16 @@
 ====== Хелефеи ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Cherethites were select soldiers from David's army that demonstrated  absolute loyalty to him.
+Хелефеи были народностью, возможно, относящейся к филистимлянам.
 
-  * Benaiah, son of Jehoiada, a member of David's administrative corps, was their leader.
-  * The Cherethites remained with David when he had to flee Jerusalem because of Absalom's revolt.
-  * bullet
+  * Этот термин также употреблялся вместе с фелефеями, когда речь шла об особой группе воинов из войска царя Давида, особо посвященных ему, как его охрана.
+  * Ванея, сын Иодая, член административного корпуса Давида, был лидером хелефеев и фелефеев.
+  * Хелефеи оставались с Давидом, когда он должен был бежать из Иерусалима по причине восстания Авесалома.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: other)
+(См. также: other)
 
   * [[:ru:obe:other:chariot|Prev chunk]]: [[:ru:obe:other:chariot?do=diff&rev2[0]=1412187659&rev2[1]=&difftype=sidebyside|publish-current]]
   * [[:ru:obe:other:cherubim|Next chunk]]: [[:ru:obe:other:cherubim?do=diff&rev2[0]=1438112712&rev2[1]=1423247345&difftype=sidebyside|review-publish]] | [[:ru:obe:other:cherubim?do=diff&rev2[0]=1423247345&rev2[1]=&difftype=sidebyside|publish-current]]
