@@ -1,15 +1,14 @@
 ====== убивать, убитый ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "slay" means to kill a person or animal. Often it means to kill in a forceful or violent way.
+Убивать - значит лишать жизни человека или животное. Часто это слово употребляется в значении «жестокое и насильственное лишение жизни».
 
-  * The phrase "the slain" refers to "slain people," that is, people who have been killed.
-  * When referring to an animal or to a large number of people, the term "slaughter" is another term that is often used.
-  * The word "kill" can also be used.
+  * Понятие «убитый» относится к «людям, которых лишили жизни», т.е. которые были умерщвлены.
+  * Когда речь идет о животном или большом количестве людей, то можно использовать слово «резня».
+  * Также можно использовать слово «умерщвление».
 
-(See also: [[:ru:obe:other:slaughter]])
-
+(См. также: [[:ru:obe:other:slaughter|slaughter]])
 
 ===== Bible References: =====
 
