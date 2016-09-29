@@ -8,12 +8,11 @@
   * \"Божий гнев\" также может относиться к суду и наказанию за грех.
   * Божий гнев - это справедливое наказание для тех, кто не покаялся в своих грехах.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * Depending on the context, other ways this term could be translated include, "intense anger" or "righteous judgment" or "anger."
-  * When talking about God's wrath, make sure the word or phrase used to translate this term does not refer to a sinful fit of rage. God's wrath is just and holy.
+  * В зависимости от контекста этот термин может быть переведен как \"сильное негодование\" или \"справедливый суд\" или \"негодование\".</li><li>Говоря о Божьем гневе, убедитесь, что слово или фраза, использованная при переводе этого термина, не относится к греховному приступу гнева. Божий гнев справедлив и свят.
 
-(See: [[:ru:obe:kt:judge]], [[:ru:obe:kt:sin]])
+(См.: [[:ru:obe:kt:judge|судить, суд]], [[:ru:obe:kt:sin|грех, грешный, грешник, грешить]])
 
 ===== Bible References: =====
 
