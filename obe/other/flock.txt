@@ -1,13 +1,13 @@
 ====== стадо ======
 
-===== Definition: =====
+===== Определение: =====
 
-In the Bible, "flock" refers to a group of sheep or goats and "herd" refers to a group of cattle, oxen, or pigs.
+В Библии «стадо» овец или коз обозначается одним словом, а стадо коров, волов или свиней - другим.
 
-    * In English the term "herd" can also be used for sheep or goats, but in the Bible text it is usually not used this way.
-    * The term "flock" can not be used for pigs, oxen or cattle. Other languages may have similar rules for how terms for animal groups are used.
+  * В русском языке группы всех этих животных обозначаются одним словом «стадо».
+  * В других языках могут быть разные слова для обозначения разных групп животных.
 
-(See also: [[:ru:obe:other:sheep]], [[:ru:obe:other:goat]], [[:ru:obe:other:ox]], [[:ru:obe:other:pig]])
+(См. также: [[:ru:obe:other:sheep|овца, баран]], [[:ru:obe:other:goat|goat]], [[:ru:obe:other:ox|ox, oxen]], [[:ru:obe:other:pig|pig, hog]])
 
 ===== Bible References: =====
 
