@@ -1,16 +1,16 @@
 ====== Мидия ======
 
-===== Facts: =====
+===== Факты: =====
 
-Media was an ancient empire located east of Assyria and Babylonia, and north of Elam and Persia. Its territory covered parts of what are present-day Turkey, Iran, Syria, Iraq and Afghanistan.
+Мидия была древней империей, расположенной к востоку от Ассирии и Вавилонии и к северу от Елама и Персии. Она находилась на территории современной Турции, Ирана, Сирии, Ирака и Афганистана.
 
-  * The people who lived in the empire of Media were called "Medes."
-  * The Medes were closely associated with the Persians and the two empires joined forces to conquer the Babylonian empire.
-  * The invasion of Babylonia by Darius the Mede happened during the time that the prophet Daniel was living there.
+  * Жителей Мидии называли Мидянами.
+  * Мидия тесно связана с Персией - две империи объединили свои усилия для захвата Вавилонской империи.
+  * Вторжение Дария мидянина в Вавилон произошло в то время, когда там жил пророк Даниил.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:Babylon]], [[:ru:obe:other:Persia]], [[:ru:obe:other:Cyrus]], [[:ru:obe:other:Darius]])
+(См. также: [[:ru:obe:other:babylon|Вавилон, вавилонский]], [[:ru:obe:other:persia|Персия, персы]], [[:ru:obe:other:cyrus|Cyrus]], [[:ru:obe:other:darius|Darius]])
 
 ===== Bible References: =====
 
