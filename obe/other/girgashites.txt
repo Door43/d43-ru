@@ -1,15 +1,15 @@
 ====== Гергесеи ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Girgashites were a tribe in the land of Canaan consisting of descendants of Canaan, who was a son of Noah's son Ham.
+Гергесеи - это народ ханаанский, чьим прародителем был сын Ноя, Хам.
 
-  * The Girgashites are mentioned by name several times in the Old Testament in the listings of the descendants of Noah and his three sons.
-  * The Girgashites were one of several people groups who were called "Canaanites."
+  * В Ветхом Завете этот народ упоминается несколько раз, когда дается перечисление потомков Ноя и его трех сыновей.
+  * Гергесеи были одним их народов, которых еще называли \"хананеями\".
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[ham|Ham]], [[noah|Noah]], [[canaan|Canaan]] )
+(См. также: [[:ru:obe:other:ham|Ham]], [[:ru:obe:other:noah|Noah]], [[:ru:obe:other:canaan|Canaan]] )
 
 ===== Bible References: =====
 
