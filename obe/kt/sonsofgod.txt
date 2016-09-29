@@ -10,14 +10,12 @@
   * В Новом Завете «сынами Божьими» названы все верующие в Иисуса, поэтому часто это выражение переводится как «Божьи дети».
   * Звание «Сын Божий» - это совсем другое понятие, которое относится к Иисусу - единственному Сыну Бога.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
+  * Когда «сынами Божьими» названы верующие в Иисуса, это словосочетание можно перевести как «Божьи дети».
+  * В зависимости от контекста, можно дать перевод «ангелы», «небожители» или «демоны».См. также ссылку к термину «сын».
 
-  * When "sons of God" refers to believers in Jesus, it could be translated as, "children of God."
-  * Other ways to translate "sons of God" could include, "angels" or "heavenly beings" or "demons," depending on the context.
- 
-
-(See also: [[en:obe:kt:sonofgod]], [[en:obe:kt:angel]], [[en:obe:kt:demon]], [[en:obe:other:ruler]])
+(См. также: [[:en:obe:kt:sonofgod|Son of God, the Son, Son]], [[:en:obe:kt:angel|angel, archangel]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]], [[:en:obe:other:ruler|ruler, rulers, rule]])
 
 ===== Bible References: =====
 
