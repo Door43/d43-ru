@@ -1,16 +1,16 @@
 ====== Филистимляне ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Philistines were a people group who occupied a region known as Philistia​ along the coast of the Mediterranean Sea. Their name means "people of the sea."
+Филистимляне - это народ, живший в Филистии - регионе, постиравшемся вдоль побережья Средиземного моря. Слово \"филистимляне\" означает \"люди моря\".
 
-  * The city of Ashdod was in the northern part of Philistia, and the city of Gaza was in the southern part.
-  * The Philistines are probably best known for the many years they were at war against the Israelites.
-  * King David often led battles against the Philistines, including the time as a youth when he defeated the Philistine warrior, Goliath.
+  * Город Азот находился на севере Филистии, а Газа - в ее южной части.
+  * Наверное, лучше всего филистимляне известны из-за своей многолетней войны с израильтянами.
+  * Царь Давид часто вступал с ними в битву (когда он был еще юношей, то сразил филистимского воина Голиафа).
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:ashdod|Ashdod]], [[:ru:obe:other:gaza|Gaza]], [[:ru:obe:other:goliath|Goliath]] )
+(См. также: [[:ru:obe:other:ashdod|Ashdod]], [[:ru:obe:other:gaza|Gaza]], [[:ru:obe:other:goliath|Goliath]] )
 
 ===== Bible References: =====
 
