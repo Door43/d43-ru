@@ -15,11 +15,9 @@
   * [[:ru:obe:other:chariot|Prev chunk]]: [[:ru:obe:other:chariot?do=diff&rev2[0]=1412187659&rev2[1]=&difftype=sidebyside|publish-current]]
   * [[:ru:obe:other:cherubim|Next chunk]]: [[:ru:obe:other:cherubim?do=diff&rev2[0]=1438112712&rev2[1]=1423247345&difftype=sidebyside|review-publish]] | [[:ru:obe:other:cherubim?do=diff&rev2[0]=1423247345&rev2[1]=&difftype=sidebyside|publish-current]]
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>cherethites&nocomments}}
-
-~~DISCUSSION~~
+{{topic>cherethites&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
