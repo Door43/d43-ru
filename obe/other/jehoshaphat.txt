@@ -1,16 +1,16 @@
 ====== Иосафат ======
 
-===== Facts: =====
+===== Факты: =====
 
-Jehoshaphat is the name of at least two men in the Old Testament.
+Имя Иосафат принадлежало по крайней мере двум библейским персонажам.
 
-  * The most well-known man by this name was King Jehoshaphat who was the 4th king to rule over the kingdom of Judah.
-  * He restored peace between Judah and Israel, and destroyed the altars of false gods.
-  * Another Jehoshaphat was an administrative assistant for King David and King Solomon.
+  * Наиболее известным был тот Иосафат, который стал четвертым правителем Иудеи.
+  * Он восстановил мир между Иудеей и Израилем, а также разрушил посвященные идолам алтари.
+  * Еще одним Иосафатом был дееписатель, служивший у Давида и Соломона.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:priest]] [[:ru:obe:other:altar]], [[:ru:obe:other:David]], [[:ru:obe:other:Solomon]], [[:ru:obe:other:Judah]], [[:ru:obe:other:Israel]], [[:ru:obe:kt:falsegod]])
+(См. также: [[:ru:obe:kt:priest|священник, священство]] [[:ru:obe:other:altar|алтарь]], [[:ru:obe:other:david|Давид]], [[:ru:obe:other:solomon|Соломон]], [[:ru:obe:other:judah|Judah]], [[:ru:obe:other:israel|Израиль, Израильтяне, народ Израильский]], [[:ru:obe:kt:falsegod|ложный бог, иной бог, бог, богиня]])
 
 ===== Bible References: =====
 
