@@ -15,10 +15,6 @@
 
 (См.: [[:ru:obe:kt:judge|судить, суд]], [[:ru:obe:kt:sin|грех, грешный, грешник, грешить]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?wrath&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>publish}}
+{{topic>:en:bible?wrath&nocomments}}~~DISCUSSION~~{{tag>publish}}
