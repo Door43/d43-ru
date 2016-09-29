@@ -11,11 +11,9 @@
 
 (См. также: [[:ru:obe:other:ham|Ham]], [[:ru:obe:other:noah|Noah]], [[:ru:obe:other:canaan|Canaan]] )
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?girgashites&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?girgashites&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
