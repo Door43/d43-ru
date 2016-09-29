@@ -1,16 +1,15 @@
 ====== Вефсамис ======
 
-===== Facts: =====
+===== Факты: =====
 
-Beth Shemesh was the name of a city in the tribe of Judah's territory, approximately 30 kilometers west of Jerusalem.
+Вефсамис был городом, находившимся на территории колена Иудина, в 30 км западнее от Иерусалима.
 
-  * Beth Shemesh was taken from the Canaanites during Joshua's conquests.
-  * Beth Shemesh was a city that was set aside as a place for the Levite priests to live.
-  * When the Philistines were taking the captured ark of the covenant back to Jerusalem, Beth Shemesh was the first city where they stopped with it.
+  * Вефсамис был отвоеван у хананеев Иисусом Навиным.</li><li>Это был особый город, в котором жили левиты.
+  * Когда филистимляне вернули израильтянам ковчег завета, Вефсамис был первым городом, где остановился ковчег.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:philistines]], [[:ru:obe:other:arkofthecovenant]], [[:ru:obe:other:canaan]], [[:ru:obe:other:levite]], [[:ru:obe:other:jerusalem]], [[:ru:obe:other:joshua]])
+(См. также: [[:ru:obe:other:philistines|Philistines]], [[:ru:obe:other:arkofthecovenant|ковчег завета, ковчега постановлений завета, ковчег свидетельства, ковчег Яхве]], [[:ru:obe:other:canaan|Ханаан, хананей]], [[:ru:obe:other:levite|Левит, Левий]], [[:ru:obe:other:jerusalem|Иерусалим]], [[:ru:obe:other:joshua|Иисус Навин]])
 
 ===== Bible References: =====
 
