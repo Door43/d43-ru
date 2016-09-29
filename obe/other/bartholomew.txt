@@ -1,16 +1,16 @@
 ====== Варфоломей ======
 
-===== Facts: =====
+===== Факты: =====
 
-Bartholomew was one of Jesus' twelve apostles.
+Варфоломей - это один из двенадцати апостолов Иисуса Христа.
 
-  * Along with the other apostles, Bartholomew was sent out to preach the gospel and do miracles in Jesus' name.
-  * He was also one of those who saw Jesus return to heaven.
-  * A few weeks after that, he was with the other apostles in Jerusalem at Pentecost when the Holy Spirit came upon them.
+  * Вместе с другими апостолами он был послан проповедовать Евангелие и совершать чудеса именем Иисуса.
+  * Варфоломей вместе с остальными учениками видел вознесение Господа на небеса.
+  * Спустя несколько недель после этого события, он находился в Иерусалиме в день Пятидесятницы, когда Дух Святой сошел на учеников.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:kt:apostle]], [[:ru:obe:other:pentecost]])
+(См. также: [[:ru:obe:kt:apostle|апостол, апостольство]], [[:ru:obe:other:pentecost|Пятидесятница, праздник Седмиц]])
 
 ===== Bible References: =====
 
