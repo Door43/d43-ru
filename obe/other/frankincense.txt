@@ -1,13 +1,13 @@
 ====== ладан ======
 
-===== Definition: =====
+===== Определение: =====
 
-Frankincense is a fragrant spice made from tree resin. It is used to make perfumes and incense.
+Ладан - это благовоние, производимое из древесной смолы. Используется в парфюмерии и для приготовления фимиама.
 
-  * This was an important spice used to prepare dead bodies for burial. It also has natural healing and calming properties.
-  * When learned men came from an eastern country to visit baby Jesus in Bethlehem, frankincense was one of the three gifts they brought him.
+  * Ладан был важным благовонием, используемым для подготовки мертвых тел к погребению. Он также обладает естественными целебными и успокоительными свойствами.
+  * Когда мудрецы с восточной страны пришли в Вифлеем, чтобы поклониться Иисусу, одним из принесенных им даров был ладан.
 
-(See also: [[:ru:obe:other:bethlehem]], [[:ru:obe:other:learnedmen]])
+(См. также: [[:ru:obe:other:bethlehem|Вифлеем, Ефрата]], [[:ru:obe:other:learnedmen|ученые, астрономы]])
 
 ===== Bible References: =====
 
