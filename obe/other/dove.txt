@@ -1,17 +1,19 @@
 ====== горлица, голубь ======
 
-===== Definition: =====
+===== Определение: =====
 
-Doves and pigeons are similar, small, gray-brown birds. Some languages distinguish them, and others use the same name for them.
+Горлицы и голуби - это два вида маленьких, сизо-бурых птиц с похожими характеристиками. Часто думают, что горлица - более светлая, почти белая.
 
-  * If doves or pigeons are not known in the language area where the translation is being done, this could be translated as "a small grayish brown bird called a dove" or "a small gray or brown bird, similar to a (name of local bird)".
-  * Doves and pigeons were used in sacrifices to God, especially for people who could not afford to buy a larger animal.
-  * A dove brought the leaf of an olive tree to Noah when the flood waters were going down.
-  * Doves sometimes symbolize purity, innocence, or peace.
+  * В некоторых языках имеются разные названия для этих два видов птиц, а в других языках оба вида называются одинаково.
+  * Горлицы и голуби приносились в жертву Богу, особенно теми людьми, которые не имели возможности купить более крупное животное.
+  * Горлица принесла Ною ветвь оливкового дерева, когда воды потопа убывали.
+  * Горлицы иногда символизируют чистоту, невинность или мир.
+  * Если горлицы не известны народу, на язык которого переводится Библия, то это слово можно перевести, как «маленькая сизо-бурая птичка под названием горлица» или «маленькая сизая или бурая птичка, подобная (назвать птицу, известную в народе)».
+  * В стихах, где упоминаются оба вида, например, где говорится о принесении в жертву голубя или горлицы, по возможности должны использоваться два разных слова.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод слов с неизвестным значением]])
 
-(See also: [[:ru:obe:other:olive]])
+(См. также: [[:ru:obe:other:olive|olive]])
 
 ===== Bible References: =====
 
