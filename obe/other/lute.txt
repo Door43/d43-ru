@@ -1,16 +1,16 @@
 ====== лютня, лира ======
 
-===== Definition: =====
+===== Определение: =====
 
-The lute and the lyre are small, stringed, musical instruments that were used by the Israelites to worship God.
+Лютня и лира - это небольшие струнные музыкальные инструменты, которые использовались Израильтянами для поклонения Богу.
 
-  * A lyre looks very much like a small harp, having an open frame that the strings are strung across.
-  * A lute is very similar to a modern day acoustic guitar, having a wooden sound box and an extended neck on which the strings are strung.
-  * To play a lute or a lyre, certain strings are held done with the fingers of one hand while other strings are plucked or strummed with the other hand.
-  * The lute, lyre, and harp are all played by strumming or plucking the strings.
- 
+  * Лира очень похожа на небольшую арфу с открытой рамой и струнами, которые натянуты через нее.
+  * Лютня очень похожа на современную акустическую гитару с деревянным каркасом и удлиненной шеей, через которые натянуты струны.
+  * Чтобы играть на лютне или лире нужно зажимать некоторые струны пальцем одной руки, в то время как струны перебираются или ударяются пальцами другой руки.
+  * На лютне, лире и арфе играют, перебирая или ударяя по струнам.
+  * Количество струн на них варьируется, поэтому в Ветхом Завете конкретно упоминаются инструменты, у которых десять струн.
 
-(See also: [[:ru:obe:other:harp]])
+(См. также: [[:ru:obe:other:harp|harp]])
 
 ===== Bible References: =====
 
