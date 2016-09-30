@@ -1,18 +1,18 @@
 ====== Прискилла ======
 
-===== Facts: =====
+===== Факты: =====
 
-Priscilla was a first-century Jewish Christian who, along with her husband, Aquila, worked with Paul in his missionary work.
+Прискилла была христианкой, жившей в первом веке; вместе со своим мужем Акилой она сотрудничала с Павлом в его миссионерском труде.
 
-  * Paul met Aquila and Priscilla in Corinth.
-  * Aquila and Priscilla lived in Rome for a time.
-  * The couple worked as tentmakers with Paul, as well as helping him with his missionary work.
-  * Both Aquila and Priscilla are mentioned several times in the New Testament, as being helpers of Paul.
-  * Priscilla is often cited as an example of a woman teacher in the early church.
+  * Павел встретил Прискиллу и Акилу в Коринфе.
+  * Некоторое время супруги жили в Риме.
+  * Супруги вместе с Павлом занимались изготовлением палаток и одновременно несли миссионерский труд.
+  * В Новом Завете об Акиле и Прискилле несколько раз говорится как о помощниках Павла.
+  * Прискилла приводится в пример как женщина, учащая людей в ранней церкви.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[aquila|Aquila]], [[paul|Paul]] )
+(См. также: [[:ru:obe:other:aquila|Aquila]], [[:ru:obe:other:paul|Paul]] )
 
 ===== Bible References: =====
 
