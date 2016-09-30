@@ -7,15 +7,8 @@
   * Поколением обычно считается группа людей, начинающаяся от родителей и заканчивающаяся их детьми.
   * В Библии поколение обычно считается периодом в 40 лет.
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?generation&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?generation&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
