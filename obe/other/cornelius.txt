@@ -1,17 +1,17 @@
 ====== Корнилий ======
 
-===== Facts: =====
+===== Факты: =====
 
-Cornelius was a non-Jewish man who was a military officer in the Roman army.
+Корнилий был язычником, служившим офицером римской армии.
 
-  * He prayed regularly to God and was very generous in giving to the poor.
-  * When Cornelius and his family heard the apostle Peter explain the gospel, they became believers in Jesus.
-  * The people of Cornelius' household were the first non-Jewish people to become believers.
-  * Cornelius' conversion showed that Jesus had come to save non-Jewish people, too.
+  * Он непрестанно молился Богу и щедро помогал нуждающимся.
+  * Когда Корнилий и его семья услышали от Петра объяснение Евангелия, они сразу же поверили в Иисуса.
+  * Люди, принявшие Иисуса в доме Корнилия, были первыми обращенными язычниками.
+  * Обращение Корнилия свидетельствовало о том, что Иисус пришел спасти не только иудеев, но и язычников.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[gentile|Gentile]], [[greek|Greek]], [[centurion|centurion]] )
+(См. также: [[:ru:obe:other:gentile|Gentile]], [[:ru:obe:other:greek|Greek]], [[:ru:obe:other:centurion|centurion]] )
 
 ===== Bible References: =====
 
