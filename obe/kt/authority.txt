@@ -1,12 +1,11 @@
 ====== власть ======
 
-===== Definition: =====
+===== Определение: =====
 
+Термин «власть» относится к силе или влиянию и контролю человека над кем-то другим.
 
-Authority is the power of influence and control over someone or something.
-
-    * Governments and some organizations have authority over the persons under them.
-    * The word "authorities" refers to people, governments, or organizations that have authority over others.
+  * Цари и другие правители имеют власть над людьми, над которыми они стоят.
+  * Слово «власти» относится к людям, правительствам или организациям, имеющим власть над другими.
 
 ===== Translation Suggestions: =====
 
