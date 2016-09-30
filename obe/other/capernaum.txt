@@ -11,15 +11,8 @@
 
 (См. также: [[:ru:obe:other:galilee|Галилея, галилеянин]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?capernaum&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?capernaum&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
