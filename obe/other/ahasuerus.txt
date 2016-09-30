@@ -2,17 +2,18 @@
 
 ===== Факты: =====
 
-Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty years.
+Ахашверош был царем, правившим над древней Персией в течение двадцати лет.
 
-  * This was during the time the exiled Jews were living in Babylonia, which had come under Persian rule.
-  * Other names for this king may have been Xerxes or Artaxerxes.
-  * After sending away his queen in a fit of anger, King Ahasuerus later chose a Jewish woman named Esther to be his new wife and queen.
+  * В это время пленные иудеи жили в Вавилонии, подпавшей под господство Персии.
+  * Другими именами этого царя были Ксеркс или Артаксеркс.
+  * После того, как Артаксеркс в гневе лишил царицу ее царского достоинства, он взял в жены иудеянку по имени Есфирь и сделал ее царицей.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:esther]], [[:ru:obe:other:babylon]], [[:ru:obe:other:ethiopia]], [[:ru:obe:other:exile]], [[:ru:obe:other:persia]])
+(См. также: [[:ru:obe:other:esther|Esther]], [[:ru:obe:other:babylon|Вавилон, вавилонский]], [[:ru:obe:other:ethiopia|Эфиопия, эфиоплянин]], [[:ru:obe:other:exile|ссылка, вавилонское пленение]], [[:ru:obe:other:persia|Персия, персы]])
 
- * [[:ru:obe:other:ahab|Prev chunk]]: [[:ru:obe:other:ahab?do=diff&rev2[0]=1412187189&rev2[1]=&difftype=sidebyside|publish-current]]
+* [[:ru:obe:other:ahab|Prev chunk]]: [[:ru:obe:other:ahab?do=diff&rev2[0]=1412187189&rev2[1]=&difftype=sidebyside|publish-current]]
+
   * [[:ru:obe:other:ahaz|Next chunk]]: [[:ru:obe:other:ahaz?do=diff&rev2[0]=1433340838&rev2[1]=1433964900&difftype=sidebyside|review-publish]] | [[:ru:obe:other:ahaz?do=diff&rev2[0]=1433964900&rev2[1]=&difftype=sidebyside|publish-current]]
 
 ===== Ссылки Библии: =====
