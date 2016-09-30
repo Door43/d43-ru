@@ -10,14 +10,19 @@
   * Понятие «первородный» может также пониматься образно. Например, народ Израиля назван первородным сыном Бога за то, что Бог дал ему особые привилегии над другими народами.
   * Иисус, Сын Божий также назван первородным ввиду Его важности и власти над всеми остальными.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * When "firstborn" occurs in the text alone, it could also be translated as "firstborn male" or "firstborn son," since that is what is implied. (See: [[en:ta:vol1:translate:figs_explicit]])
-  * Other ways to translate this term could include,  "the son who was born first" or "the eldest son" or "the number one son."
+  * Когда «первородный» выступает в тексте отдельным термином (именем существительным), его можно также перевести, как «первородный самец», «первородный сын», так как именно это имеется в виду.
+  * Кроме того, этот термин можно переводить, как «сын, который родился первым», «старший сын» или «первый сын».
+  * Когда это слово употребляется в переносном смысле по отношению к Иисусу, его можно перевести словом или фразой, означающими: «сын, имеющий власть над всем» или «Сын, который имеет первенство в чести».
+  * Внимание: вы должны быть уверены в том, чтобы перевод этого термина по отношению к Иисусу не подразумевал, что Он был сотворен.
+  *
+  * When "firstborn" occurs in the text alone, it could also be translated as "firstborn male" or "firstborn son," since that is what is implied. (See: [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
+  * Other ways to translate this term could include, "the son who was born first" or "the eldest son" or "the number one son."
   * When used figuratively to refer to Jesus, this could be translated with a word or phrase that means, "the son who has authority over everything" or "the Son who is first in honor."
   * Caution: Make sure the translation of this term in reference to Jesus does not imply that he was created.
 
-(See:  [[:En:obe:kt:son]], [[:ru:obe:other:sacrifice]])
+(See: [[:en:obe:kt:son|son, son of]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]])
 
 ===== Bible References: =====
 
