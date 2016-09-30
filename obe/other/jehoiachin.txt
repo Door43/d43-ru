@@ -1,15 +1,15 @@
 ====== Иехония ======
 
-===== Facts: =====
+===== Факты: =====
 
-Jehoiachin was one of the kings who ruled over the kingdom of Judah.
+Иехония был одним из царей, правившим Иудеей.
 
-  * Jehoiachin became king when he was 18 years old. He only reigned three months and after that he was captured by the Babylonian army and taken to Babylon.
-  * During his short reign, Jehoichin did evil things like his grandfather King Manasseh and his father King Jehoiakim had done.
+  * Он занял престол, когда ему было 18 лет. Но правил Иехония всего три месяца, а затем был схвачен вавилонянами и отведен в плен в Вавилон.
+  * Во время своего короткого царствования Иехония творил неугодные Богу дела, точно так же, как его дед Манассия и отец Иоаким.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:Manasseh]])
+(См. также: [[:ru:obe:other:manasseh|Manasseh]])
 
 ===== Bible References: =====
 
