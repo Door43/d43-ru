@@ -1,15 +1,15 @@
 ====== налог, налоги ======
 
-===== Definition: =====
+===== Определение: =====
 
-The terms "tax" and "taxes" refer to money or goods that people pay to a government that is in authority over them.
+«Налогом» или «налогами» называются деньги или товары, которые люди отдают в уплату правительству или стоящей над ними власти.
 
-  * The amount of money that is paid for tax is usually based on the value of an item or on how much a person's property is worth.
-  * If taxes are not paid, the government can take legal action against a person or business to get the money that is owed.
-  * The term "taxes" is used in phrases such as, "collect taxes" and "pay taxes." It can be translated by "pay money to the government" or "collect money for the government" or "make the required payment."
-  * A "tax collector" is someone who works for the government to receive the money that people are required to pay them.
+  * Размер налога определяется ценностью изделия или стоимостью личного имущества человека.
+  * Если человек не платит налоги, правительство может принять правовые меры в отношении этого человека или бизнеса, чтобы получить долг.
+  * Слово «налоги» используются в выражениях «собирать налоги» или «платить налоги». Его можно перевести как «уплачивать деньги правительству», «собирать деньги для правительства» или «вносить требуемую плату».
+  * «Сборщиком налогов» называют человека, работающего на правительство, чья функция состоит в том, чтобы получать деньги с людей, обязанных платить налоги.
 
-(See also: [[:ru:obe:other:taxcollector]])
+(См. также: [[:ru:obe:other:taxcollector|сборщик налогов]])
 
 ===== Bible References: =====
 
