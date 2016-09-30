@@ -1,14 +1,14 @@
 ====== виночерпий ======
 
-===== Definition: =====
+===== Определение: =====
 
-In ancient times, a "cupbearer" was a highly honored and trusted servant of a king or pharaoh, given the task of bringing the ruler his cup of wine, often tasting it first to make sure it had not been poisoned.
+В древности у царя или фараона бывал «виночерпий» - особый слуга, пользовавшийся огромной честью и доверием; он подносил правителю чашу с вином, часто сначала пил из нее сам, чтобы правитель мог быть уверен, что вино не отравлено.
 
-  * The literal meaning of this term is "someone who brings the cup."
-  * Because of his trusted position, a cupbearer would often have influence in the decisions the ruler made.
-  * Nehemiah was the cupbearer for King Artaxerxes of Persia during the time when some of the Israelites were in captivity in Babylon.
+  * Буквальное значение этого термина - «человек, подносящий чашу».
+  * Благодаря положению высокого доверия, виночерпий часто мог оказывать влияние на решения правителя.
+  * Неемия был виночерпием царя Артаксеркса во время, когда некоторые израильтяне находились в пленении в Вавилоне.
 
-(See also: [[:ru:obe:other:pharaoh]], [[:ru:obe:other:artaxerxes]], [[:ru:obe:other:Persia]], [[:ru:obe:other:Babylon]], [[:ru:obe:other:captive]] )
+(См. также: [[:ru:obe:other:pharaoh|Фараон, правитель Египта]], [[:ru:obe:other:artaxerxes|Артаксеркс]], [[:ru:obe:other:persia|Персия, персы]], [[:ru:obe:other:babylon|Вавилон, вавилонский]], [[:ru:obe:other:captive|пленник, пленение]] )
 
 ===== Bible References: =====
 
