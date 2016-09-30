@@ -18,6 +18,6 @@
 
 (См. также: [[:en:obe:other:altarofincense|altar of incense]] , [[:en:obe:kt:temple|temple]], [[:ru:obe:other:altar|алтарь]], [[:ru:obe:other:arkofthecovenant|ковчег завета, ковчега постановлений завета, ковчег свидетельства, ковчег Яхве]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
 {{topic>:en:bible?tabernacle&nocomments}}~~DISCUSSION~~{{tag>publish}}
