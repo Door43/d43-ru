@@ -1,16 +1,16 @@
 ====== хроники, Паралипоменон ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "chronicle" refers to a written record of events over a period of time.
+Термин «хроника» относится к письменной записи событий определенного периода времени, иными словами - летописи.
 
-  * Two Old Testament books are called "First Book of the Chronicles" and "Second Book of the Chronicles."
-  * The books called "Chronicles" record part of the history of the Israelite people, beginning with a list of people in every generation since Adam.
-  * The "First Book of the Chronicles" records the end of King Saul's life and the events of King David's reign.
-  * The "Second Book of the Chronicles" records the reigns of King Solomon and several other kings, including the building of the temple and the separation of the northern kingdom of Israel from the southern kingdom of Judah.
-  * The end of 2 Chronicles describes the beginning of the Babylonian exile.
+  * В Библии две книги называются «Книга Хроник» - по-русски «Первая Книга Паралипоменон» и «Вторая Книга Паралипоменон».
+  * В этих книгах «хроник» рассказывается история определенного периода истории народа Израильского. Каждая из этих книг начинается с перечня людей в каждом поколении, начиная от Адама.
+  * В «Первой Книге Паралипоменон» рассказывается о конце жизни царя Саула и о событиях времени царствования царя Давида.
+  * Во «Второй Книге Паралипоменон» рассказывается о царствовании царя Соломона и некоторых других царей, о строительстве храма и о разделении царства на северное царство Израиля и южное царство Иуды.
+  * В конце 2 Паралипоменон рассказывается о начале Вавилонского пленения.
 
-(See also: [[:ru:obe:other:exile]], [[:ru:obe:other:babylon]], [[:ru:obe:other:kingdomofisrael]], [[:ru:obe:other:kingdomofjudah]], [[:ru:obe:other:david]], [[:ru:obe:other:solomon]])
+(См. также: [[:ru:obe:other:exile|ссылка, вавилонское пленение]], [[:ru:obe:other:babylon|Вавилон, вавилонский]], [[:ru:obe:other:kingdomofisrael|царство Израильское]], [[:ru:obe:other:kingdomofjudah|Иудея, иудейское царство]], [[:ru:obe:other:david|Давид]], [[:ru:obe:other:solomon|Соломон]])
 
 ===== Bible References: =====
 
