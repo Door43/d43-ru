@@ -1,15 +1,15 @@
 ====== Гефсимания ======
 
-===== Facts: =====
+===== Факты: =====
 
-Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valley and near the Mount of Olives.
+Гефсиманией назывался сад, в котором росли масличные деревья, он находился восточнее Иерусалима за Кедронской долиной, недалеко от Масличной горы.
 
-  * The garden of Gethsemane was a place where Jesus and his followers would go to be alone and rest, away from the crowds.
-  * This is where Jesus agonized in prayer before being betrayed by Judas and arrested there.
+  * Гефсиманский сад был тем местом, где Иисус и Его ученики уединялись для отдыха от толп народа.
+  * Именно там Господь мучительно страдал перед предательством Иуды и Своим арестом.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[mountofolives|Mount of Olives]], [[judasiscariot|Judas]] )
+(См. также: [[:ru:obe:other:mountofolives|Mount of Olives]], [[:ru:obe:other:judasiscariot|Judas]] )
 
 ===== Bible References: =====
 
