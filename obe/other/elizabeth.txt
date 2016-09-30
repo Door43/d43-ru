@@ -12,15 +12,8 @@
 
 (См. также: [[:ru:obe:other:zechariahnt|Захария (из Нового Завета)]], [[:ru:obe:other:johnthebaptist|Иоанн (Креститель)]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?elizabeth&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?elizabeth&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
