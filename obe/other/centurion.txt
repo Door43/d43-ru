@@ -6,15 +6,8 @@
 
 (См. также: [[:ru:obe:other:rome|Рим, римский]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?centurion&nocomments}}
-
-
-~~DISCUSSION:on~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?centurion&nocomments}}~~DISCUSSION:on~~{{tag>publish}}
 
 ~~NOCACHE~~
