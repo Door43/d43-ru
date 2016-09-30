@@ -8,14 +8,14 @@
   * Бог смотрит на святилище как на место, где Он обитает среди людей - народа израильского.
   * Он называет Самого Себя «Святилищем» или безопасным местом для Своего народа, где люди могут найти защиту.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * This term has a basic meaning of "a place that is set apart."
-  * Depending on the context, the term "sanctuary" could be translated as "holy place" or "sacred building" or "God's holy dwelling place" or "holy place of protection" or "sacred place of safety."
-  * The phrase "shekel of the sanctuary" could be translated as, "kind of shekel given for the tabernacle" or "shekel used as a tax to take care of the temple."
-  * In modern times the English word "sanctuary" often refers to the main worship room of a church. Check to make sure that the translation of this term is not understood to have that meaning in the Bible text.
+  * Основное значение этого слова - «отделенное место».
+  * В зависимости от контекста, слово «святилище» можно перевести как «святое место», «священное здание», «святое место Божьего обитания», «святое место для защиты» или «святое безопасное место».
+  * Выражение «священный сикль» может быть переведено как «сикль, отданный в скинию» или «сикль, который давался как налог на содержание храма».
+  * В настоящее время русское слово «святилище» обозначает основное помещение, в котором церковь собирается для поклонения. Удостоверьтесь, что перевод этого слова не понимается так, будто бы такое значение дано в Библии.
 
-(See also: [[:ru:obe:other:sacred]], [[:ru:obe:kt:holy]], [[:ru:obe:kt:tabernacle]], [[:ru:obe:kt:temple]], [[:ru:obe:other:tax]], [[:ru:obe:other:biblicalmoney]], [[:ru:obe:kt:holyspirit]], [[:ru:obe:kt:setapart]])
+(См. также: [[:ru:obe:other:sacred|sacred]], [[:ru:obe:kt:holy|святой, святость]], [[:ru:obe:kt:tabernacle|скиния]], [[:ru:obe:kt:temple|Храм]], [[:ru:obe:other:tax|налог, налоги]], [[:ru:obe:other:biblicalmoney|библейские деньги]], [[:ru:obe:kt:holyspirit|Дух Святой, Дух Божий, Дух Господень]], [[:ru:obe:kt:setapart|отделять]])
 
 ===== Bible References: =====
 
