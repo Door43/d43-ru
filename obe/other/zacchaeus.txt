@@ -1,16 +1,16 @@
 ====== Закхей ======
 
-===== Facts: =====
+===== Факты: =====
 
-Zacchaeus was a tax collector from Jericho who climbed a tree in order to see Jesus
+Закхей был сборщиком налогов из Иерихона; он залез на дерево, чтобы увидеть Иисуса.
 
-  * Zacchaeus was completely changed when he believed in Jesus.
-  * He promised to give half his possessions to the poor.
-  * He also promised that he would pay people back four times the amount that he had overcharged them for their taxes.
+  * Когда Закхей поверил в Иисуса, его жизнь полностью изменилась.
+  * Он обещал раздать половину своего имения нищим.
+  * Он также обещал, что вернет плату в четыре раза больше той, что неправедно взимал с людей.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[taxcollector]])
+(См. также: [[:ru:obe:other:taxcollector|сборщик налогов]])
 
 ===== Bible References: =====
 
