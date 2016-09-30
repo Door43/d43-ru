@@ -19,10 +19,8 @@
 
 (См.: [[:en:obe:kt:son|son, son of]], [[:ru:obe:other:sacrifice|жертвоприношение, дар]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?firstborn&nocomments}}
-~~DISCUSSION~~
-{{tag>publish}}
+{{topic>:en:bible?firstborn&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
