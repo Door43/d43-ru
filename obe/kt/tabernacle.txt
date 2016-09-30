@@ -11,12 +11,12 @@
   * Во дворе скинии находился алтарь для сожжения жертвоприношений и особый умывальник для ритуального очищения.
   * Израильтяне перестали пользоваться скинией, когда царь Соломон построил храм в Иерусалиме.
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * The word “tabernacle” means "dwelling place." Other ways to translate it could include, "tent for meeting" or "sacred tent" or "tent where God was" or "God's tent."
-  * Make sure that the translation of this term is different from the translation of "temple."
+  * Слово «скиния» означает «место обитания». По-другому это слово можно перевести как «палатка для собраний», «священная палатка», «палатка, в которой находился Бог» или «Божья палатка».
+  * Удостоверьтесь, что перевод этого понятия отличается от перевода слова «храм».
 
-(See also: [[en:obe:other:altarofincense]] , [[en:obe:kt:temple]], [[:ru:obe:other:altar]], [[:ru:obe:other:arkofthecovenant]])
+(См. также: [[:en:obe:other:altarofincense|altar of incense]] , [[:en:obe:kt:temple|temple]], [[:ru:obe:other:altar|алтарь]], [[:ru:obe:other:arkofthecovenant|ковчег завета, ковчега постановлений завета, ковчег свидетельства, ковчег Яхве]])
 
 ===== Bible References: =====
 
