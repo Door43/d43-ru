@@ -10,15 +10,8 @@
 
 (См. также: [[:ru:obe:other:pray|молиться, молитва]], [[:en:obe:kt:temple|temple]], [[:ru:obe:other:jew|Иудей, иудейский]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-
-{{topic>:en:bible?synagogue&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?synagogue&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
