@@ -1,16 +1,16 @@
 ====== посланник ======
 
-===== Facts: =====
+===== Факты: =====
 
-The term, "messenger" refers to someone who is given a message to tell others.
+Термин «посланник» относится к кому-то, кому дано послание, которое он должен передать другим.
 
-  * In ancient times, a messenger would be sent from the battlefield to tell people back in the city what was happening.
-  * An angel is a special kind of messenger whom God sends to give people messages. Some translations translate "angel" as "messenger."
-  * A prophet is a person who gives other people God's teachings, warnings and other kinds of messages.
-  * John the Baptist was called a messenger who came before Jesus to announce the Messiah's coming and to prepare people to receive him.
-  * Jesus' apostles were his messengers to go share with other people the good news about the kingdom of God.
+  * В древние времена посланника отправляли с поля сражения, чтобы он рассказал людям в городе о том, что происходит на поле сражения.
+  * Ангел - это особый вид посланников, которых посылает Бог с целью передать людям послание. Некоторые переводят слово «ангел» как «посланник».
+  * Пророк - это человек, который передает людям Божье учение, предостережение и другие виды посланий.
+  * Иоанна Крестителя называют посланником, который пришел перед Иисусом, чтобы провозгласить пришествие Мессии и приготовить людей к Его приходу.
+  * Апостолы Иисуса были Его посланниками, которые должны были делиться с другими людьми благой вестью о царстве Божьем.
 
-(See also: [[:En:obe:kt:prophet]], [[:ru:obe:kt:apostle]], [[:ru:obe:kt:angel]])
+(См. также: [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:ru:obe:kt:apostle|апостол, апостольство]], [[:ru:obe:kt:angel|ангел]])
 
 ===== Bible References: =====
 
