@@ -12,11 +12,9 @@
 
 (См. также: [[:ru:obe:other:berea|Berea]], [[:ru:obe:other:philippi|Филиппы]], [[:ru:obe:other:thessalonica|Фессалоника, фессалоникицы]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?macedonia&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?macedonia&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
