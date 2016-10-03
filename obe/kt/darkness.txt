@@ -1,15 +1,16 @@
 ====== тьма ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "darkness" literally means an absence of light. There are also several figurative meanings of this term:
+Термин «тьма» буквально означает отсутствие света. Есть также несколько переносных значений этого термина:
 
-  * As a metaphor, "darkness" means "impurity" or "evil" or "spiritual blindness." It is the opposite of light.
-  * Satan's dominion is called the kingdom of darkness.
-  * Darkness refers to anything related to sin and moral corruption.
-  * People who do not know God are said to be living in darkness, which means they do not understand or practice righteousness.
-  * God is light (righteousness) and the darkness (evil) cannot overcome that light.
-  * The place of punishment for those who reject God is sometimes referred to as "outer darkness."
+  * Метафорически «тьма» означает «нечистоту», «зло» или «духовную слепоту».
+  * Это слово также связано с любым грехом и моральным разложением.
+  * Выражение «царство тьмы» относится ко всякому злу, над которым господствует сатана.
+  * Термин «тьма» может также выступать метафорой смерти. (См.: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * О людях, на знающих Бога, сказано, что они «живут во тьме», то есть они не понимают праведности и не поступают по ней.
+  * Бог есть свет (праведность), и тьма (зло) не может преодолеть этот свет.
+  * Место наказания отвергающих Бога иногда называется «внешней тьмой».
 
 ===== Translation Suggestions: =====
 
