@@ -1,16 +1,16 @@
 ====== Македония ======
 
-===== Facts: =====
+===== Факты: =====
 
-In New Testament times, Macedonia was a Roman province located just north of ancient Greece.
+В новозаветные времена Македония была римской провинцией, расположенной на севере Древней Греции.
 
-  * Some important Macedonian cities mentioned in the Bible were Berea, Philippi and Thessalonica.
-  * The apostles went to these cities to preach the gospel and to help the new believers form Christian communities to worship and share God's teaching.
-  * In the Bible there are letters that Paul wrote to the believers in Philippi and Thessalonica.
+  * В Библии упоминаются некоторые важные города Македонии: Верия, Филиппы и Фессалоника.
+  * Апостолы приходили в эти города, проповедовали там Евангелие и помогали новообращенным создавать христианские общины для совместного поклонения и передачи Божьего Слова.
+  * В Библии есть послания, которые Павел адресовал верующим в Филиппах и Фессалониках.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[berea]], [[philippi]], [[thessalonica]])
+(См. также: [[:ru:obe:other:berea|Berea]], [[:ru:obe:other:philippi|Филиппы]], [[:ru:obe:other:thessalonica|Фессалоника, фессалоникицы]])
 
 ===== Bible References: =====
 
