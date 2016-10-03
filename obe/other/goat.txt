@@ -1,20 +1,20 @@
 ====== козел, коза, козленок ======
 
-===== Definition: =====
+===== Определение: =====
 
-A goat is a medium-sized, four-legged animal, that is similar to a sheep and is raised primarily for its milk and meat. 
+Козел, коза - четвероногое животное среднего размера, похожее на овцу и выращиваемое главным образом для получения молока и мяса. Детеныш козла называется «козленком».
 
-  * Like sheep, goats were important animals of sacrifice, especially at Passover.
-  * Although goats have some similarities to sheep, there are also some clear differences:
-      * Goats have dark, coarse hair, but sheep have wool.
-      * The tail of a goat stands up, but the tail of a sheep hangs down.
-      * Goats are curious and don't stay in a group to follow a goatherd, but sheep like to stay in the safety of the whole herd and tend to follow their shepherd.
-  * In Bible times, goats were the main source of milk in Israel.
-  * Goat skins were used for tent coverings and wine bottles.
-  * In both the Old and New Testaments, goats were used as symbols for unrighteous people, perhaps because of their tendency to wander away from the one taking care of them.
-  * The Israelites also used goats as symbolic sin bearers. When one goat was sacrificed, the priest would lay his hands on a second live goat and send it into the desert as a symbol of the animal bearing the people's sins.
+  * Козлы, как и овцы, были важными животными для жертвоприношений, особенно на Пасху.
+  * Хотя козлы в чем-то похожи на овец, между ними есть ряд ясных различий:
+      * У козлов шерсть темная и грубая, а у овец - мягкая.
+      * У козлов хвост стоит торчком, а у овец - висит.
+      * Козлы любопытны, не держатся вместе одной группой и не идут за пастухом, а овцы держатся стадом и следуют за своим пастухом.
+  * В библейские времена козы были главным источником молока в Израиле.
+  * Козьи шкуры использовались для производства покрытий для шатров и сосудов для вина.
+  * И в Ветхом Завете, и в Новом Завете козлы служили символом неправедных людей, возможно потому, что они убегали от пастуха, который заботился о них.
+  * Израильтяне также использовали козлов в качестве символической жертвы, которая уносила на себе их грехи. Когда одного козла приносили в жертву, священники возлагали руки на другого, живого козла и отсылали его в пустыню как символ животного, уносящего на себе грехи людей.
 
-(See also: [[:ru:obe:other:sheep]])
+(См. также: [[:ru:obe:other:sheep|овца, баран]])
 
 ===== Bible References: =====
 
