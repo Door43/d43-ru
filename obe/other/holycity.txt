@@ -1,13 +1,13 @@
 ====== святой город ======
 
-===== Definition: =====
+===== Определение: =====
 
-In the Bible, the "holy city" refers to the city of Jerusalem.
+В Библии фраза \"святой город\" относится к городу Иерусалиму.
 
-  * In the end times, the holy city will be the new, heavenly Jerusalem where God will live among his people.
-  * This term can be translated using the terms for "holy" and "city" that have been used in the rest of the translation.
+  * В конце времен святой город будет новым, это будет небесный Иерусалим, где Бог будет жить посреди своего народа.
+  * Данный термин может быть переведен с использованием тех слов «святой» и «город», которые уже были использованы в вашем переводе.
 
-(See also: [[jerusalem]], [[en:obe:kt:heaven]])
+(См. также: [[:ru:obe:other:jerusalem|Иерусалим]], [[:en:obe:kt:heaven|heaven, sky, heavens, heavenly]])
 
 ===== Bible References: =====
 
