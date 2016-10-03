@@ -12,15 +12,13 @@
   * Бог есть свет (праведность), и тьма (зло) не может преодолеть этот свет.
   * Место наказания отвергающих Бога иногда называется «внешней тьмой».
 
-===== Translation Suggestions: =====
+===== Варианты перевода: =====
 
-  * It is best to translate this term literally, with a word in the target language that refers to the darkness of a room with no light or to the time of day when there is no light.
-  * For the figurative uses, it is also important to keep the image of darkness in contrast to light as a way to describe evil and deception in contrast to goodness and truth.
-  * Some translations may prefer to use a phrase to explain this idea. One way to translate this could be, "...evil, like a dark place."
+  * Этот термин лучше всего перевести дословно с помощью слово, которым в данном языке обозначается отсутствие света. Или с помощью слова, обозначающего темноту в комнате, где нет света, или время дня, когда нет света.
+  * В образном употреблении важно сохранять образ темноты в противопоставлении свету для того, чтобы описать зло и заблуждение в противоположность доброте и истине.
+  * В зависимости от контекста, это слово можно также перевести, как «тьма ночи» (в противоположность «свету дня»), «когда ничего не видно, как ночью» или «зло, подобное темному месту».
 
-
-(See also: [[:ru:obe:kt:light]], [[en:obe:kt:righteous]], [[:ru:obe:kt:redeem]]. [[:ru:obe:kt:dominion]], [[en:obe:other:kingdom]], [[:ru:obe:kt:corrupt]])
-
+(См. также: [[:ru:obe:kt:light|light]], [[:en:obe:kt:righteous|righteous, righteousness]], [[:ru:obe:kt:redeem|искупать, искупление, искупитель]]. [[:ru:obe:kt:dominion|dominion]], [[:en:obe:other:kingdom|kingdom]], [[:ru:obe:kt:corrupt|развращать, развращение]])
 
 ===== Bible References: =====
 
