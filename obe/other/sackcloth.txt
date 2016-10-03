@@ -18,11 +18,9 @@
 
 (См. также: [[:ru:obe:other:goat|goat]], [[:en:obe:other:camel|camel]], [[:en:obe:other:mourn|mourn, mourning]], [[:ru:obe:kt:repent|каяться, покаяние]], [[:ru:obe:kt:sign|знак, доказательство, напоминание]], [[:ru:obe:other:humble|смиренный, смирение]])
 
-===== Bible References: =====
+===== Ссылки в Библии: =====
 
-{{topic>:en:bible?sackcloth&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?sackcloth&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
