@@ -8,18 +8,15 @@
   * Посыпание себя пеплом или сидение в пепле также считалось признаком горести и смирения.
   * Выражение «вретище и пепел» было обычным и относилось к традиционному выражению горя и раскаяния.
 
-===== Translation Suggestions =====
+===== Варианты перевода: =====
 
-  * This term could be translated as, "coarse cloth from animal hair" or "clothes made of goat hair" or "rough, scratchy clothing."
-  * Other ways to translate this term could include, "rough, scratchy mourning clothes."
-  * The phrase "sit in sackcloth and ashes" could be translated as, "show mourning and humility by wearing scratchy cloth and sitting in ashes."
+  * Это слово можно перевести как «грубая ткань, сделанная из шерсти животных» или «грубая, колючая ткань».
+  * По-другому это понятие можно перевести как «грубая, колючая траурная одежда».
+  * Выражение «сидеть во вретище и пепле» можно перевести как «выказывать скорбь и смирение, одевшись в грубую одежду и сев в пепел».
 
+(См.: [[:ru:ta:vol1:translate:translate_unknown|Перевод имен собственных]])
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
-
-(See: [[:ru:obe:other:goat]], [[:En:obe:other:camel]], [[:En:obe:other:mourn]], [[:ru:obe:kt:repent]], [[:ru:obe:kt:sign]], [[:ru:obe:other:humble]])
-
-
+(См. также: [[:ru:obe:other:goat|goat]], [[:en:obe:other:camel|camel]], [[:en:obe:other:mourn|mourn, mourning]], [[:ru:obe:kt:repent|каяться, покаяние]], [[:ru:obe:kt:sign|знак, доказательство, напоминание]], [[:ru:obe:other:humble|смиренный, смирение]])
 
 ===== Bible References: =====
 
