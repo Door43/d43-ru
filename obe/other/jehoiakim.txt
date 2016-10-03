@@ -1,15 +1,17 @@
 ====== Иоаким ======
 
-===== Facts: =====
+===== Факты: =====
 
-Originally named Eliakim, Jehoiakim was King of Judah starting approximately 608 B.C.
+Иоаким был нечестивым царем, правившим царством Иуды приблизительно с 608 г. до н.э. Он был сыном Иосии. Изначально Иоакима звали Елиакимом.
 
-  * Jehoiakim served as a vassal to Necho Pharoah of Egypt, paying heavy tribute tax to Egypt.
-  * Jehoiakim was a godless King who led Judah away from Yahweh. Jeremiah the prophet spoke against him during his prophecies.
+  * Нехао - фараон египетский - переименовал Елиакима в Иоакима и воцарил его в Иудее.
+  * Нехао принудил Иоакима отдавать Египту непосильную дань.
+  * Когда Иудея была завоевана Навуходоносором, Иоаким был уведен в плен в Вавилон вместе с остальными людьми.
+  * Иоаким был нечестивым царем, уведшим людей от Яхве. Против него пророчествовал пророк Иеремия.
 
-(Translation suggestions: [[:ru:ta:vol1:translate:translate_names|Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: other)
+(См. также: other)
 
 ===== Bible References: =====
 
