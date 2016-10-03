@@ -1,18 +1,18 @@
 ====== Авимелех ======
 
-===== Facts: =====
+===== Факты: =====
 
-Abimelech was a Philistine king in the region of Gerar during the time when Abraham and Isaac were in the land of Canaan..
+Авимелех был филистимским царем, правившим в Гераре в то время, когда Авраам и его сын Исаак странствовали по земле ханаанской.
 
-  * Abraham deceived King Abimelech by telling him that Sarah was his sister rather than his wife.
-  * Abimelech took Sarah into his household, but returned her immediately when God appeared to him in a dream and rebuked him.
-  * Abraham and Abimelech made an agreement regarding disputed ownership of wells at Beersheba.
-  * Many years later, Abraham's son Isaac and his family settled in the region ruled by Abimelech.
-  * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham. Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
+  * Авраам ввел Авимелеха в заблуждение, сказав, что Сарра была его сестрой, скрыв факт своего супружества.
+  * Авимелех взял Сарру себе в жены, но когда Бог явился ему во сне и обличил царя, он тот час вернул ее обратно мужу.
+  * Авраам и Авимелех заключили союз в Вирсавии о владении колодцами.
+  * Спустя много лет, сын Авраама, Исаак, вместе со своей семьей поселился в земле, где правил Авимелех.
+  * Еще один человек по имени Авимелех был сыном Гедеона и братом Иофама В некоторых переводах может использоваться иное по произношению имя для того, чтобы можно было отличить этого человека от царя Авимелеха.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[:ru:obe:other:philistines]], [[:ru:obe:other:gerar]], [[:ru:obe:other:beersheba]], [[:ru:obe:other:jotham]], [[:ru:obe:other:gideon]])
+(См. также: [[:ru:obe:other:philistines|Филистимляне]], [[:ru:obe:other:gerar|Gerar]], [[:ru:obe:other:beersheba|Beersheba]], [[:ru:obe:other:jotham|Jotham]], [[:ru:obe:other:gideon|Гедеон]])
 
 ===== Bible References: =====
 
