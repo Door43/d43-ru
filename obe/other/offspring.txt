@@ -1,13 +1,13 @@
 ====== потомок ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term offspring is a general term for the biological descendants of people or animals.
+\"Потомок\" - это биологические отпрыски людей или животных.
 
-  * Often in the Bible, "offspring" has the same meaning as "children" or "descendants."
-  * The term "seed" is sometimes used figuratively to refer to offspring.
+  * Часто в Библии это понятие имеет то же значение, что и слово \"дети\".
+  * Иногда для его обозначения используется слово \"семя\", которое употребляются в переносном смысле.
 
-(See also: [[:ru:obe:other:descendant]], [[:ru:obe:kt:seed]])
+(См. также: [[:ru:obe:other:descendant|потомок]], [[:ru:obe:kt:seed|seed]])
 
 ===== Bible References: =====
 
