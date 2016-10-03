@@ -1,15 +1,15 @@
 ====== Беэр-Шева (Вирсавия) ======
 
-===== Facts: =====
+===== Факты: =====
 
-In Old Testament times, Beersheba was a city located about 45 miles southwest of Jerusalem in a desert area that is now called the Negev.
+В ветхозаветные времена Вирсавией назывался город, расположенный в 72 км южнее Иерусалима в пустыне Негев.
 
-  * The desert surrounding Beersheba was the wilderness area where Hagar and Ishmael wandered after Abraham sent them away from his tents.
-  * The name of this city means "well of the oath." It was given this name when Abraham swore an oath to not punish King Abimelech's men for seizing control of one of Abraham's wells.
+  * Эта пустыня, окружающая Вирсавию, была тем самым местом, куда переселились Агарь с Измаилом после того, как Авраам отослал их от себя.
+  * Название города означает \"колодец клятвы\". Оно было дано городу в тот момент, когда Авраам поклялся не наказывать рабов Авимелеха за захват ими одного из колодцев Авраама.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-(See also: [[ishmael]], [[hagar]], [[en:obe:other:abraham]], [[jerusalem]], [[abimelech]])
+(См. также: [[:ru:obe:other:ishmael|Измаил]], [[:ru:obe:other:hagar|Агарь]], [[:en:obe:other:abraham|Abraham, Abram]], [[:ru:obe:other:jerusalem|Иерусалим]], [[:ru:obe:other:abimelech|Авимелех]])
 
 ===== Bible References:=====
 
