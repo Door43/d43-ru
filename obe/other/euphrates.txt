@@ -1,17 +1,15 @@
 ====== Евфрат ======
 
-===== Facts: =====
+===== Факты: =====
 
-The Euphrates is the name of one of the four rivers that flowed through the Garden of Eden. It is the river that is most often mentioned in the Bible.
+Евфрат - это одна из четырех рек, протекавших в Едемском саду. Эта река упоминается в Библии чаще всех остальных. Иногда о ней говорится просто как о «реке».
 
-  * The modern day river named Euphrates is located in the Middle East and is the longest and most important river in Asia.
-  * Together with the Tigris River, the Euphrates borders a region of land known as Mesopotamia.
-  * The ancient city of Ur where Abraham came from was at the mouth of the Euphrates River.
-  * This river was one of the boundaries of the land that God promised to give to Abraham (Genesis 15:18).
+  * Современный Евфрат расположен на Ближнем Востоке; это самая протяженная и наиболее значимая река Азии.
+  * Вместе с рекой Тигр Евфрат формировал границы Месопотамии.
+  * Древний город Ур, откуда вышел Авраам, был расположен у устья Евфрата.
+  * Эта река формировала одну из границ той земли, которую Бог обещал дать Аврааму (Бытие 15:18).
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
