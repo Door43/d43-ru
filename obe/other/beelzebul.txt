@@ -1,19 +1,15 @@
 ====== Веельзевул ======
 
-===== Facts: =====
+===== Факты: =====
 
+Веельзевул - это господин демонов и одно из имен сатаны.
 
-Beelzebul is the ruler of the demons and another name for Satan.
+  * В некоторых библейских версиях Веельзевул пишется как Вельзевул.
+  * Это слово можно также перевести словами \"сатана\", \"дьявол\" или \"лукавый\".
 
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
-    * Beelzebul is also spelled Beelzebub in some versions of the Bible.
-    * Beelzebul can also be translated as "Satan" or, "the devil" or, "the evil one."
-
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-
-(See also: [[en:obe:kt:demon]], [[en:obe:kt:satan]])
+(См. также: [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]], [[:en:obe:kt:satan|Satan, devil, evil one]])
 
 ===== Bible References: =====
 
