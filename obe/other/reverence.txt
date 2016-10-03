@@ -1,16 +1,14 @@
 ====== благоговение ======
 
-===== Definition: =====
+===== Определение: =====
 
-The term "reverence" refers to feelings of profound, deep respect for someone or something.
+Благоговение - это глубокое и сильное чувство уважения к кому-либо или чему-либо.
 
-  * Feelings of reverence can be seen in actions that honor the person who is revered.
-  * The fear of the Lord is an inner reverence that manifests itself in obedience to God's commandments.
-  * This term could also be translated as "fear and honor" or "sincere respect."
+  * Благоговение проявляется через почтительное отношение к человеку, перед которым испытывают трепет.
+  * Страх Господень - это внутреннее благоговение, которое проявляется через послушание Божьим заповедям.
+  * Это понятие также может быть переведено как «страх и почтение» или как «искреннее уважение».
 
-
-
-(See also: [[:ru:obe:kt:fear]], [[:ru:obe:other:obey]])
+(См. также: [[:ru:obe:kt:fear|страх, бояться, страх Яхве]], [[:ru:obe:other:obey|слушаться, послушный, послушание]])
 
 ===== Bible References: =====
 
