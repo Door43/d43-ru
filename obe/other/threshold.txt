@@ -1,13 +1,13 @@
 ====== порог ======
 
-===== Definition: =====
+===== Определение: =====
 
-The "threshold" is the bottom portion of a door. When entering a building, it is necessary to walk over the threshold.
+Порогом называется нижняя часть двери. При входе в здание нужно переступать через порог.
 
-  * Sometimes the threshold also includes the part of the building that is just inside the door.
-  * A gate also has a threshold.
+  * Иногда порогом называется часть здания, находящаяся сразу за дверью.
+  * У ворот тоже есть порог.
 
-(See also: other)
+(См. также: other)
 
 ===== Bible References: =====
 
