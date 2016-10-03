@@ -1,15 +1,15 @@
 ====== домашний скот ======
 
-===== Facts: =====
+===== Факты: =====
 
-The term "livestock" refers to animals which are raised to provide food and other useful products. Some types of livestock are trained as work animals.
+Термин «домашний скот» относится к животным, которых выращивают с целью обеспечить себя едой или другими полезными продуктами. Некоторые виды домашнего скота обучены тому, чтобы работать.
 
-  * Kinds of livestock include sheep, cattle, goats, horses, and donkeys.
-  * In Biblical times, a person's wealth was measured by how much livestock they had.
-  * Livestock are used for production of products such as wool, milk, cheese, glue, and clothing.
-  * Another way to translate this could be "farm animals."
+  * Виды домашнего скота включают в себя овец, крупный рогатый скот, коз, лошадей и ослов.
+  * В Библейские времена богатство человека измерялось тем, насколько много у него было домашнего скота.
+  * Домашний скот использовался для производства разной продукции, такой как шерсть, молоко, сыр, клей и одежда.
+  * Другие варианты перевода данной фразы - «животные, живущие на ферме».
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Варианты перевода: [[:ru:ta:vol1:translate:translate_names|Перевод имен собственных]])
 
 ===== Bible References: =====
 
