@@ -1,14 +1,14 @@
 ====== указ, постановление ======
 
-===== Definition: =====
+===== Определение: =====
 
-An ordinance is a public regulation or law that gives rules or instructions for people in a certain society to follow.
+Указ - это публичное постановление или закон, в котором даны правила или предписания для социума.
 
-  * Sometimes an ordinance is a custom that has become well-established through years of practice.
-  * In the Bible, an ordinance was something that God commanded the Israelites to do. Sometimes he commanded them to do it forever.
-  * The term "ordinance" could be translated as, "public decree" or "regulation" or "law," depending on the context.
+  * Иногда это понятие обозначает традицию, которая прочно утвердилась как та, которая осуществлялась в течение долгого времени.
+  * В Библии «постановлением» называлось что-то, что Бог повелел совершить израильтянам. Иногда Его заповеди были вечными.
+  * Слово «указ», в зависимости от контекста, может переводиться как «публичное предписание», «постановление» или «закон».
 
-(See also: [[:ru:obe:other:command]], [[:ru:obe:other:decree]], [[:ru:obe:kt:lawofmoses]], [[:ru:obe:other:ordinance]], [[:ru:obe:other:statute]])
+(См. также: [[:ru:obe:other:command|повеление, повелевать, заповедь]], [[:ru:obe:other:decree|decree]], [[:ru:obe:kt:lawofmoses|Закон, Закон Моисеев, Закон Божий]], [[:ru:obe:other:ordinance|указ, постановление]], [[:ru:obe:other:statute|устав, уставы]])
 
 ===== Bible References: =====
 
