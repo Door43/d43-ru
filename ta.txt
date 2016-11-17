@@ -1,7 +1,6 @@
 ====== Добро пожаловать в Академию перевода ======
 
-The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
-
+“Академия перевода” предназначена для того, чтобы любой человек не зависимо от мета, в котором находится мог узнать основы того, как перевести Библию на его родном языке, или помочь кому-то, кто хочет сделать это. “Академия” предназначена быть 'под рукой', быть доступной в Интернете и в автономном режиме, мобильном видео формате.
 ===== Обзор translationAcademy =====
 
 translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
