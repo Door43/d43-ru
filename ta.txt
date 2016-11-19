@@ -1,11 +1,11 @@
 ====== Добро пожаловать в “Академию перевода” ======
 
 “Академия перевода” предназначена для того, чтобы любой человек не зависимо от мета, в котором находится мог узнать основы того, как перевести Библию на его родном языке, или помочь кому-то, кто хочет сделать это. “Академия” предназначена быть 'под рукой', быть доступной в Интернете и в автономном режиме, мобильном видео формате.
-===== Обзор “Академии перевода” =====
+===== Обзор “Академии перевода - tA” =====
 
-“Академия перевода” has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
+“Академия перевода - tA” has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
 
-  * [[:ru:ta:vol1:intro:toc_intro|Содержание]] - Introduces unfoldingWord and “Академия перевода”.
+  * [[:ru:ta:vol1:intro:toc_intro|Введение]] - Введение unfoldingWord and “Академия перевода - tA”.
   * [[:ru:ta:vol1:translate:toc_transvol1|Руководство по переводу]] - Teaches translation theory and answers many practical translation questions.
   * [[:ru:ta:vol1:checking:toc_checkvol1_2|Руководство по редактированию, проверке]] - Teaches checking theory and answers many practical checking questions.
   * [[:ru:ta:vol1:tech:toc_techvol1_2|Руководство по технологии]] - Contains tutorials on how to use the various technology tools that we have created.
