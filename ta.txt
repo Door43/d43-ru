@@ -11,7 +11,7 @@
   * [[:ru:ta:vol1:tech:toc_techvol1_2|Руководство по технологии]] - Contains tutorials on how to use the various technology tools that we have created.
   * [[:ru:ta:vol1:process:toc_processvol1_2|Руководство по работе с материалами]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
   * [[:ru:ta:vol2:audio:toc_audiovol2|Руководство по работе с аудио]] - How to make high-quality audio recordings without premium gear and a recording studio
-  * [[:ru:ta:vol2:gateway:toc_gatewayvol2|Руководство по ключевым языкам]] - Deals with issues that come up for Gateway Languages that don't occur for other languages
+  * [[:ru:ta:vol2:gateway:toc_gatewayvol2|Руководство по основным языкам]] - Deals with issues that come up for Gateway Languages that don't occur for other languages
 
 ==== Инструмент для визуального проектирования translationAcademy ====
 
